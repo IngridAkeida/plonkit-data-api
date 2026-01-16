@@ -1,0 +1,187 @@
+{
+  "country": "Lithuania",
+  "url": "https://www.plonkit.net/lithuania",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:18:56.666376+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Identifying Lithuania",
+      "items": [
+        {
+          "id": "1-1",
+          "image": "/images/resize/900/80/lithuania/transparent-lt_summary_2026.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": "/images/resize/600/80/lithuania/Lithuania_License_Plate.png",
+          "text": "Lithuanian licence plates are long and white, with the standard blue European strip on the left.",
+          "note": null
+        },
+        {
+          "id": "1-3",
+          "image": "/images/resize/600/80/lithuania/Bollard.png",
+          "text": "Lithuanian bollards are wedge-shaped. They have an orange reflector on the front, and a white reflector on the back. Both reflectors are rectangular. You may find this thin version as well. NOTE: Estonian and Latvian bollards look different. This infographic shows the main similarities and differences between the bollards of the Baltic and Nordic countries.",
+          "note": null
+        },
+        {
+          "id": "1-4",
+          "image": "/images/resize/600/80/lithuania/Leaner_poles.png",
+          "text": "Lithuanian poles are usually square and concrete, and often feature a diagonal support beam. NOTE: While most common in Lithuania, these are also found from time to time in Estonia, and on rare occasions in Latvia.",
+          "note": null
+        },
+        {
+          "id": "1-5",
+          "image": "/images/resize/600/80/lithuania/Poletops_Lithuania.png",
+          "text": "Pictured here are some typical Lithuanian poletops. They often have short horizontal rods, on which the insulators are placed. In some poletops, the insulators are arranged in a trident-like shape, with one on top, and two on each side. Note that these poletops are not unique to Lithuania: they can also be found in the other post-Soviet countries.",
+          "note": null
+        },
+        {
+          "id": "1-6",
+          "image": "/images/resize/600/80/lithuania/Chevron_Lithuania.png",
+          "text": "Lithuania uses white chevrons with red arrows. The small single chevrons (pictured here) usually have a red outline on the edge of the sign. NOTE: Many other European countries, including Latvia and Poland, use the same chevrons (though without the red outline). However, Estonia, Russia and Ukraine use chevrons with the opposite colour scheme: red with white arrows.",
+          "note": null
+        },
+        {
+          "id": "1-7",
+          "image": "/images/resize/600/80/lithuania/KM_sign_Lithuania.png",
+          "text": "All Baltic countries use the same blue kilometre marker. However, they can be distinguished from each other by their angle relative to the road. In Lithuania, the marker will be at a 45° angle towards the road. The sign itself has an L-shape. For a quick overview of all three Baltic countries, see this infographic.",
+          "note": null
+        },
+        {
+          "id": "1-8",
+          "image": "/images/resize/600/80/lithuania/Lithuanian_Signs.png",
+          "text": "Each Baltic country has a slightly different border for its warning and speed signs. Lithuanian signs have a relatively thin red border, with a thin white outline around it.",
+          "note": null
+        },
+        {
+          "id": "1-9",
+          "image": "/images/resize/600/80/lithuania/Lithuania_guardrail3.png",
+          "text": "Lithuania has normal A-type guardrails with orange reflectors. NOTE: Estonia has no reflectors. Latvia has red or white reflectors. For a good overview of European guardrails, see this infographic.",
+          "note": null
+        },
+        {
+          "id": "1-10",
+          "image": "/images/resize/600/80/lithuania/Pedestrian_sign_Lithuania.png",
+          "text": "Lithuanian pedestrian signs have 3 stripes. The shape of the pedestrian has a relatively low level of detail. NOTE: Both Russia and Ukraine share the same design. Estonian signs also have 3 stripes, but the pedestrian looks more detailed. Latvian pedestrian signs have 5 stripes.",
+          "note": null
+        },
+        {
+          "id": "1-11",
+          "image": "/images/resize/600/80/lithuania/Bus_stop_sign_Lithuania.png",
+          "text": "Lithuanian bus stop signs have this design. The bus has four windows. This is mostly useful to distinguish it from the Latvian bus stop sign, which has five windows. Note however, that Estonia has the same bus stop signs as Lithuania.",
+          "note": null
+        },
+        {
+          "id": "1-12",
+          "image": "/images/resize/600/80/lithuania/Lithuanian_language.png",
+          "text": "Lithuanian belongs to the Baltic languages. The other major member of this branch is Latvian, to which it is closely related. Within the Baltic languages, the following letters are unique to Lithuanian: Vowels with small hooks: Ą Ę Į Ų. Ė with a single dot. Y (also in Estonian, but only in loan words). NOTE: Estonian is not a member of the Baltic languages (despite its name), and therefore looks significantly different.",
+          "note": null
+        },
+        {
+          "id": "1-13",
+          "image": "/images/resize/600/80/lithuania/Gatve.png",
+          "text": "The Lithuanian word for street is gatve, often abbreviated as g. on signs and Google Maps. This word is almost entirely unique to Lithuanian. However, very rarely, you might see ‘gatve’ (abbreviated as gat.) in the Latvian capital of Riga.",
+          "note": null
+        },
+        {
+          "id": "1-14",
+          "image": "/images/resize/600/80/lithuania/ai_place_names.png",
+          "text": "Many Lithuanian place names end in -ai.",
+          "note": null
+        },
+        {
+          "id": "1-15",
+          "image": "/images/resize/600/80/lithuania/lt_architecture.png",
+          "text": "Lithuanian architecture primarily consists of light coloured brick buildings, usually with somewhat steep corrugated metal roofs. Wooden buildings are also fairly common, however less so than in Estonia. Pastel painted stone buildings are somewhat common, especially in newer suburbs.",
+          "note": null
+        },
+        {
+          "id": "1-16",
+          "image": "/images/resize/600/80/lithuania/lt_directionalsign.png",
+          "text": "Lithuanian directional signs are blue with white text. NOTE: The arrow on Latvian signs is more stylized than in Estonia and Lithuania, where the back part of the arrowhead is vertical.",
+          "note": null
+        },
+        {
+          "id": "1-17",
+          "image": "/images/resize/600/80/lithuania/lithuania_state_flag.png",
+          "text": "Lithuania's historical state flag, known as the Vytis, depicts a mounted knight on a dark red background. It can sometimes be seen on both private and public buildings.",
+          "note": null
+        },
+        {
+          "id": "1-18",
+          "image": "/images/resize/600/80/lithuania/Less_forest_cover2.png",
+          "text": "Lithuania has less forest cover than the other two Baltic countries. As a result, the landscape appears more open and agricultural. Your mileage may vary depending on the round however, so use this meta with some caution.",
+          "note": null
+        },
+        {
+          "id": "1-19",
+          "image": "/images/resize/600/80/lithuania/Random_blurs_Lithuania.png",
+          "text": "In Generation 3 coverage, you will often see random small blurs. These blurs look similar to the ones that are used to blur out licence plates or faces, but instead they cover seemingly random parts of the image – often on direction signs. NOTE: This is also common in the Russian oblast of Kaliningrad, just to the southwest of Lithuania. These random blurs are not typically found in Estonia or Latvia.",
+          "note": null
+        },
+        {
+          "id": "1-20",
+          "image": "/images/resize/600/80/lithuania/Screenshot (612).png",
+          "text": "A black generation 4 Google car can be found in Lithuania. NOTE: It can also be found in a few other European countries, including Latvia, but not Estonia.",
+          "note": null
+        },
+        {
+          "id": "1-21",
+          "image": "/images/resize/600/80/lithuania/Screenshot (614).png",
+          "text": "A red generation 4 Google car can also be found in Lithuania. NOTE: It can also be found in a few other European countries, including Latvia, but not Estonia.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Step 2 - Regional and county-specific clues",
+      "items": [
+        {
+          "id": "2-1",
+          "image": "/images/resize/600/80/lithuania/Elevation-map.png",
+          "text": "Lithuania is overall a fairly flat country, with no hills over 300 metres. However, you can sometimes distinguish the hilly areas from the more flat areas. The biggest hills are in the southeast, with some hills in the central part of the west.",
+          "note": null
+        },
+        {
+          "id": "2-2",
+          "image": "/images/resize/600/80/lithuania/eastern_metal_tag.png",
+          "text": "Metal pole tags are predominantly found in the eastern part of the country. For more information on Lithuanian pole stickers and car metas, please see this document.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Step 3 - Spotlight",
+      "items": [
+        {
+          "id": "3-1",
+          "image": "/images/resize/600/80/lithuania/Road_167.png",
+          "text": "The Curonian Spit is a long thin sand-dune spit south of Klaipeda, that separates the Curonian Lagoon from the Baltic Sea. The main road on this spit, road 167, has a recognizable combination of landscape and road direction: The road runs in an approximate north-south direction and has Generation 4 coverage. The road is surrounded on all sides by forest with many Baltic pines. In many places, you will see slightly windswept trees (visible in the example image).",
+          "note": null
+        },
+        {
+          "id": "3-2",
+          "image": "/images/resize/600/80/lithuania/lt_curonianspitarctitecture.png",
+          "text": "On the Curonian Spit you can also find wooden, and often red, Scandinavian looking houses.",
+          "note": null
+        },
+        {
+          "id": "3-3",
+          "image": "/images/resize/600/80/lithuania/Polish_in_Lithuania.png",
+          "text": "Rarely, you can see bilingual signs with Polish language in a small area southeast of Lithuania. Note that this is by no means very common, but it can help with getting very close guesses if you do see bilingual Polish-Lithuanian signs in an otherwise obvious Lithuanian setting.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Other resources",
+      "items": []
+    }
+  ]
+}

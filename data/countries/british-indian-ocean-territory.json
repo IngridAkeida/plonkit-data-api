@@ -1,0 +1,86 @@
+{
+  "country": "British Indian Ocean Territory",
+  "url": "https://www.plonkit.net/british-indian-ocean-territory",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:17:37.143345+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Identifying the British Indian Ocean Territory",
+      "items": [
+        {
+          "id": "1-1",
+          "image": "/images/resize/900/80/british-indian-ocean-territory/0_summary_io.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": "/images/resize/600/80/british-indian-ocean-territory/British_Indian_Ocean_Territory_in_United_Kingdom.svg.png",
+          "text": "The British Indian Ocean Territory is an United Kingdom overseas territory in the Indian Ocean. As such, it is counted as the UK for country streaks purposes. Beware that none of the coverage is considered pinpointable, and as a result you are unlikely to get it in most community-made maps. As such, this guide is mainly intended to give a general idea of what type of coverage you can find on the islands.",
+          "note": null
+        },
+        {
+          "id": "1-3",
+          "image": "/images/resize/600/80/british-indian-ocean-territory/io_trekker.png",
+          "text": "Coverage was taken with a Generation 3 trekker.",
+          "note": null
+        },
+        {
+          "id": "1-4",
+          "image": "/images/resize/600/80/british-indian-ocean-territory/io_coveragemap.png",
+          "text": "Coverage is mostly found on small atolls in the northern half of the territory.",
+          "note": null
+        },
+        {
+          "id": "1-5",
+          "image": "/images/resize/600/80/british-indian-ocean-territory/io_beaches.png",
+          "text": "A large portion of the coverage is taken on sand beaches. You will typically see many palm trees along the beaches.",
+          "note": null
+        },
+        {
+          "id": "1-6",
+          "image": "/images/resize/600/80/british-indian-ocean-territory/io_palmforest.png",
+          "text": "Coastal palm forests also comprise a significant portion of the coverage. They almost exclusively consist of coconut palms.",
+          "note": null
+        },
+        {
+          "id": "1-7",
+          "image": "/images/resize/600/80/british-indian-ocean-territory/io_mangroves.png",
+          "text": "Mangroves can be found on several of the atolls.",
+          "note": null
+        },
+        {
+          "id": "1-8",
+          "image": "/images/resize/600/80/british-indian-ocean-territory/io_fields.png",
+          "text": "Some of the larger islands with coverage have grassy fields surrounded by bushes and palms.",
+          "note": null
+        },
+        {
+          "id": "1-9",
+          "image": "/images/resize/600/80/british-indian-ocean-territory/io_water.png",
+          "text": "The trekker can occasionally be found walking offshore in the water.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Step 2 - Spotlight",
+      "items": [
+        {
+          "id": "2-1",
+          "image": "/images/resize/600/80/british-indian-ocean-territory/io_coindumire.png",
+          "text": "Coin du Mire is a small island with a dark rocky shore and a grassy field with no bushes or palm trees.",
+          "note": null
+        },
+        {
+          "id": "2-2",
+          "image": "/images/resize/600/80/british-indian-ocean-territory/io_shipwreck.png",
+          "text": "A white medium-sized shipwreck can be found on the beach at the eastern tip of Nelsons Island.",
+          "note": null
+        }
+      ]
+    }
+  ]
+}

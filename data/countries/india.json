@@ -1,0 +1,691 @@
+{
+  "country": "India",
+  "url": "https://www.plonkit.net/india",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:17:42.209831+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Identifying India",
+      "items": [
+        {
+          "id": "1-1",
+          "image": "/images/resize/900/80/india/transparent-in_summary_2026.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": "/images/resize/600/80/india/in_shitcam.png",
+          "text": "The vast majority of the coverage in India was taken with what’s commonly referred to as “shitcam”, which is a low-quality camera that can typically be recognised by the brownish colours and often, but not always, by a large circular blur covering the Street View car. NOTE: Within Asia, Nepal is also entirely “shitcam”, while it’s also common in Cambodia and can rarely be seen in Sri Lanka and Bangladesh.",
+          "note": null
+        },
+        {
+          "id": "1-3",
+          "image": "/images/resize/600/80/india/Smallcam_India.png",
+          "text": "All the Generation 4 coverage in India was taken using the smallcam, which is mounted lower than regular Generation 4 and has a relatively big circular blur with a small protrusion at the front. The blur can also be fully transparent, making it harder to spot.",
+          "note": null
+        },
+        {
+          "id": "1-4",
+          "image": "/images/resize/600/80/india/in_gen3.png",
+          "text": "While most of India is covered in shitcam, there is also a significant amount of Generation 3 trekkers throughout the country.",
+          "note": null
+        },
+        {
+          "id": "1-5",
+          "image": "/images/resize/600/80/india/in_leftdrive.png",
+          "text": "India drives on the left side of the road.",
+          "note": null
+        },
+        {
+          "id": "1-6",
+          "image": "/images/resize/600/80/india/in_scripts.png",
+          "text": "A wide variety of scripts can be found in India. Most of them can be used to narrow down the region.",
+          "note": null
+        },
+        {
+          "id": "1-7",
+          "image": "/images/resize/600/80/india/in_english.png",
+          "text": "English is also an official language in India and can be seen on a lot of signage.",
+          "note": null
+        },
+        {
+          "id": "1-8",
+          "image": "/images/resize/600/80/india/in_licenceplates.png",
+          "text": "Indian licence plates are typically fairly long, with the most common design being white. Commercial vehicles typically use yellow plates, while electric vehicles use green.",
+          "note": null
+        },
+        {
+          "id": "1-9",
+          "image": "/images/resize/600/80/india/ingen4_blackandwhitesignposts.png",
+          "text": "India typically has black and white striped signposts. NOTE: Bangladesh and Sri Lanka also have black and white signposts.",
+          "note": null
+        },
+        {
+          "id": "1-10",
+          "image": "/images/resize/600/80/india/in_pole.png",
+          "text": "The most common Indian utility pole is a concrete square pole with a trident pole top. Beware that many regions have their own distinct poles and poletops. NOTE: Indian poles will almost always be made of concrete or metal. Wooden poles are extremely uncommon.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Step 2 - Regional and state-specific clues",
+      "items": [
+        {
+          "id": "2-1",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "2-2",
+          "image": "/images/resize/600/80/india/in_languagehindi.png",
+          "text": "Hindi is the most common language in India and can be found in many central and northern regions. It uses the Devanagari script, which can be recognised by the line going through the top of each word and the straight vertical lines found in the majority of all letters.",
+          "note": null
+        },
+        {
+          "id": "2-3",
+          "image": "/images/resize/600/80/india/in_languagemarathi.png",
+          "text": "Marathi, found in Maharashtra, also uses the Devanagari script, however it sometimes uses the letter ळ which is not found in Hindi.",
+          "note": null
+        },
+        {
+          "id": "2-4",
+          "image": "/images/resize/600/80/india/in_languagepunjabi.png",
+          "text": "Punjabi can be found in Punjab in northwestern India. While the script looks somewhat similar to Hindi, it can generally be differentiated by the softer shape of the letters and the horizontal bar being broken over certain letters. It also has some distinctly different features, such as the letters ਨ, ਲ and ਅ as well as a diacritic in the shape of a soft curve beneath a letter.",
+          "note": null
+        },
+        {
+          "id": "2-5",
+          "image": "/images/resize/600/80/india/in_languagegujarati.png",
+          "text": "Gujarati, found in Gujarat, has a script with several similarities to the Hindi script, however it notably lacks the horizontal line at the top of every word.",
+          "note": null
+        },
+        {
+          "id": "2-6",
+          "image": "/images/resize/600/80/india/in_languagebengali.png",
+          "text": "Bengali is found in northeastern India and has a similar look to Devanagari (Hindi), however it can usually be recognised by the many letters featuring left-facing triangular shapes. NOTE: This is also the language found in Bangladesh.",
+          "note": null
+        },
+        {
+          "id": "2-7",
+          "image": "/images/resize/600/80/india/in_languageassamese.png",
+          "text": "Assamese, mainly found in Assam, also uses the Bengali script, with the addition of some characters, most notably ৰ and ৱ.",
+          "note": null
+        },
+        {
+          "id": "2-8",
+          "image": "/images/resize/600/80/india/in_languagekannada.png",
+          "text": "Kannada is found in Karnataka and has a script with a lot of smooth curves and small circles. It is very similar to the Telugu script, with Telugu having one additional feature described in the next tip. Many characters also feature a distinct squiggly tail in the top right corner, which is less common in Telugu.",
+          "note": null
+        },
+        {
+          "id": "2-9",
+          "image": "/images/resize/600/80/india/in_languagetelugu.png",
+          "text": "Telugu, found in Telangana and Andhra Pradesh, has a script very similar to Kannada, but you’ll often see diacritics resembling checkmarks at the top of letters.",
+          "note": null
+        },
+        {
+          "id": "2-10",
+          "image": "/images/resize/600/80/india/in_languagetamil.png",
+          "text": "The Tamil script is found in Tamil Nadu and has a distinct combination of curves, straight lines and 90° angles. Some letters also have diacritics shaped like dots. NOTE: Tamil is also commonly found in Sri Lanka.",
+          "note": null
+        },
+        {
+          "id": "2-11",
+          "image": "/images/resize/600/80/india/in_languageoriya.png",
+          "text": "The Oriya script is found in Odisha and has a curvy look, with many letters having wide semi-circles covering the top. Many letters have a distinct diacritic in the shape of a wide curve above the top of the letter. A useful mnemonic is that the shape of the characters resembles a skull emoji.",
+          "note": null
+        },
+        {
+          "id": "2-12",
+          "image": "/images/resize/600/80/india/in_languagemalayalam.png",
+          "text": "The Malayalam script can be found in Kerala and mostly consists of somewhat simple-looking curvy letters, often containing upside-down U-shapes.",
+          "note": null
+        },
+        {
+          "id": "2-13",
+          "image": "/images/resize/600/80/india/in_languagemanipuri.png",
+          "text": "Manipuri, also called Meitei, is the official language of Manipur. It is written using the Meitei script, which can be recognised by its many vertical lines and right angles.",
+          "note": null
+        },
+        {
+          "id": "2-14",
+          "image": "/images/resize/600/80/india/in_languagemizo.png",
+          "text": "Mizo, found in Mizoram, is the language most commonly found on the Indian coverage other than English, which uses the Latin script.",
+          "note": null
+        },
+        {
+          "id": "2-15",
+          "image": "/images/resize/600/80/india/in_languageenglish.png",
+          "text": "While English can be found anywhere in India, Meghalaya is the only region which almost exclusively uses English.",
+          "note": null
+        },
+        {
+          "id": "2-16",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "2-17",
+          "image": "/images/resize/600/80/india/ingen4_southerntuktuk.png",
+          "text": "Yellow tuk tuks with black roofs are common in the southern Indian states of Telangana, Andhra Pradesh, and Tamil Nadu. NOTE: They can also rarely be found elsewhere.",
+          "note": null
+        },
+        {
+          "id": "2-18",
+          "image": "/images/resize/600/80/india/in_gujaratholeypole.png",
+          "text": "Concrete holey poles are unique to Gujarat and the Union territory of Daman and Diu, and Dadra and Nagar Haveli. Gujarat uses a variety of poletops, some of which can be used to identify other states. Beware that holey poles generally take precedence over poletop metas. NOTE: They are rarely found in other states especially Maharashtra, Madhya Pradesh, and Chhattisgarh.",
+          "note": null
+        },
+        {
+          "id": "2-19",
+          "image": "/images/resize/600/80/india/ingen4_andhratelanganapole.png",
+          "text": "Poles divided in two sections, in a similar fashion to Brazilian poles, are common in Andhra Pradesh and Telangana.",
+          "note": null
+        },
+        {
+          "id": "2-20",
+          "image": "/images/resize/600/80/india/in_sikkimmeshpole.png",
+          "text": "Metal poles with a mesh pattern are commonly found in Sikkim.",
+          "note": null
+        },
+        {
+          "id": "2-21",
+          "image": "/images/resize/600/80/india/in_keralaholeypole.png",
+          "text": "Metal holey poles are common in Kerala.",
+          "note": null
+        },
+        {
+          "id": "2-22",
+          "image": "/images/resize/600/80/india/in_northeastmetalpole.png",
+          "text": "Thin grey metal poles are seen all over northeastern India and in the Himalayan region of Uttarakhand and Himachal Pradesh. You will commonly see two of these poles in close proximity.",
+          "note": null
+        },
+        {
+          "id": "2-23",
+          "image": "/images/resize/600/80/india/in_punjabelectricitycounter.png",
+          "text": "Electricity counters in Punjab are usually mint green with small window-like squares. They can rarely be seen in Haryana.",
+          "note": null
+        },
+        {
+          "id": "2-24",
+          "image": "/images/resize/600/80/india/in_punjabpoletop.png",
+          "text": "Small metal poletops in the shape of a window are found in Punjab and Haryana.",
+          "note": null
+        },
+        {
+          "id": "2-25",
+          "image": "/images/resize/600/80/india/ingen4_karnatakapoletop.png",
+          "text": "In Karnataka, and sometimes in Haryana, you can find trident poletops on concrete poles where the central insulator is attached directly to the top of the pole, while the other two are attached to a horizontal crossbar positioned slightly further down. There is also a variant having several bars instead of one.",
+          "note": null
+        },
+        {
+          "id": "2-26",
+          "image": "/images/resize/600/80/india/in_manipurpoletop.png",
+          "text": "In Manipur you can often find trident poletops on poles made entirely out of metal. They sometimes have small bars on the top of the trident.",
+          "note": null
+        },
+        {
+          "id": "2-27",
+          "image": "/images/resize/600/80/india/ingen4_maharashtrachhattisgarhpoletop.png",
+          "text": "Upside down triangle poletops placed below the top of the pole are commonly found in Maharashtra, Chhattisgarh, and less commonly in Madhya Pradesh.",
+          "note": null
+        },
+        {
+          "id": "2-28",
+          "image": "/images/resize/600/80/india/in_mppoletop.png",
+          "text": "Poles in Madhya Pradesh often have a metal bar shaped like an upside down A slightly below the top of the pole.",
+          "note": null
+        },
+        {
+          "id": "2-29",
+          "image": "/images/resize/600/80/india/ingen4_chhattisgarhpoletop.png",
+          "text": "A connector on the pole which looks like an upside down trapezoid is most common in Chhattisgarh and somewhat common in Meghalaya, Tripura and Maharashtra, but can rarely be found in many other states. NOTE: They can also be paired with Holey Poles in Gujarat and Ladder Poles in Andhra Pradesh, thus only use the trapezoid when no other pole meta is present.",
+          "note": null
+        },
+        {
+          "id": "2-30",
+          "image": "/images/resize/600/80/india/in_westbengalpoletoprectangle.png",
+          "text": "A variety of poletops attached to the pole with two vertical bars forming a tall and narrow rectangle can be found in West Bengal.",
+          "note": null
+        },
+        {
+          "id": "2-31",
+          "image": "/images/resize/600/80/india/in_westbengalpoletop2.png",
+          "text": "In West Bengal you may also find poletops containing two crossbars which are connected to each other with thin vertical supports on either side. The lower bar is connected on either side to the pole with diagonal supports.",
+          "note": null
+        },
+        {
+          "id": "2-32",
+          "image": "/images/resize/600/80/india/in_northeastpoletop.png",
+          "text": "In the northeast you may find poles with a combination of an even and uneven poletop.",
+          "note": null
+        },
+        {
+          "id": "2-33",
+          "image": "/images/resize/600/80/india/in_meghalayapoletop1.png",
+          "text": "Poles with two diagonal bars forming a ‘<’ shape are common in Meghalaya and Arunachal Pradesh and occasionally found in Assam.",
+          "note": null
+        },
+        {
+          "id": "2-34",
+          "image": "/images/resize/600/80/india/in_assammeghalayapoletop2.png",
+          "text": "In Assam, Meghalaya and Mizoram you commonly see poles with two crossbars, each with two insulators. If there are more than two bars, you should be in Meghalaya or Mizoram. NOTE: They can rarely be seen in other states.",
+          "note": null
+        },
+        {
+          "id": "2-35",
+          "image": "/images/resize/600/80/india/in_assampoletop.png",
+          "text": "Trident poletops with the tip of the middle bar bent at a 90° angle can be found in Assam.",
+          "note": null
+        },
+        {
+          "id": "2-36",
+          "image": "/images/resize/600/80/india/in_goapoletop.png",
+          "text": "Poletops with a short crossbar above a longer crossbar can be found in Goa.",
+          "note": null
+        },
+        {
+          "id": "2-37",
+          "image": "/images/resize/600/80/india/ingen4_tamilnadupolemarkings.png",
+          "text": "Markings on poles and trees, consisting of one black stripe in-between two white ones, are common in Tamil Nadu.",
+          "note": null
+        },
+        {
+          "id": "2-38",
+          "image": "/images/resize/600/80/india/in_delhipolemarkings.png",
+          "text": "Pole paint consisting of five or more thin black and yellow stripes can be found in Delhi.",
+          "note": null
+        },
+        {
+          "id": "2-39",
+          "image": "/images/resize/600/80/india/in_biharpolemarkings.png",
+          "text": "Pole paint consisting of exactly four thicker black and yellow stripes can be found in Bihar.",
+          "note": null
+        },
+        {
+          "id": "2-40",
+          "image": "/images/resize/600/80/india/in_bihartreepaint.png",
+          "text": "In Bihar, and less commonly Jharkhand, you may find trees with four red and white stripes painted near the bottom.",
+          "note": null
+        },
+        {
+          "id": "2-41",
+          "image": "/images/resize/600/80/india/in_keralapolesticker.png",
+          "text": "Small yellow pole markings are commonly found in Kerala. NOTE: Similar stickers can rarely be found in other states.",
+          "note": null
+        },
+        {
+          "id": "2-42",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "2-43",
+          "image": "/images/resize/600/80/india/in_centralroofs.png",
+          "text": "Rounded roof tiles are common in central India. They often appear disorganised and are kept in rows/columns that are not completely straight.",
+          "note": null
+        },
+        {
+          "id": "2-44",
+          "image": "/images/resize/600/80/india/in_southroofs.png",
+          "text": "Roofs in southern India are characterised by more organised tiles that are bright orange and flat with a ridge in the middle. It is particularly common in Tamil Nadu. NOTE: Similarly shaped tiles with a darker brown colour are common further north.",
+          "note": null
+        },
+        {
+          "id": "2-45",
+          "image": "/images/resize/600/80/india/in_westbengalroof.png",
+          "text": "Flat roof tiles, similar to the ones found in the south, with a small diamond shaped protrusion in the middle, are commonly found in and around West Bengal.",
+          "note": null
+        },
+        {
+          "id": "2-46",
+          "image": "/images/resize/600/80/india/in_westbengalmetalroof.png",
+          "text": "Large hip roofs made of corrugated sheet metal are found in West Bengal and adjacent areas in Bihar and Odisha.",
+          "note": null
+        },
+        {
+          "id": "2-47",
+          "image": "/images/resize/600/80/india/in_northeasternroofs.png",
+          "text": "Metal roofs, with a small triangle near the top, are common in Northeast India.",
+          "note": null
+        },
+        {
+          "id": "2-48",
+          "image": "/images/resize/600/80/india/in_northeastpanels.png",
+          "text": "Houses made of square panels separated by thin beams are found in Northeast India.",
+          "note": null
+        },
+        {
+          "id": "2-49",
+          "image": "/images/resize/600/80/india/in_thatchedhut.png",
+          "text": "Houses or huts with thatched roofs are mainly found along the east coast and northern plains. Large hay mounds are also generally more common in this region. Note that thatched roofs from Uttar Pradesh to Odisha tend to be made of fine pieces of hay whereas thatched roofs from Odisha to Tamil Nadu tend to be made of dried palm fans.",
+          "note": null
+        },
+        {
+          "id": "2-50",
+          "image": "/images/resize/600/80/india/in_sikhism.png",
+          "text": "Gurdwaras, which can typically be recognised by their white domes and ornate walls, are most common in Punjab. You can also sometimes recognise them by the Sikh Khanda symbol, which represents the religion.",
+          "note": null
+        },
+        {
+          "id": "2-51",
+          "image": "/images/resize/600/80/india/in_keralagoawealthyhouses.png",
+          "text": "Goa and Kerala are two of the most developed states in India and often have very wealthy and modern homes.",
+          "note": null
+        },
+        {
+          "id": "2-52",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "2-53",
+          "image": "/images/resize/600/80/india/in_chirpine2.png",
+          "text": "Chir pines are more or less exclusive to Uttarakhand, Himachal Pradesh, Jammu and Kashmir as well as in westernmost Arunachal Pradesh. These pines can be identified from their generally smooth-looking conical or spherical crowns with very long needles.",
+          "note": null
+        },
+        {
+          "id": "2-54",
+          "image": "/images/resize/600/80/india/in_khasipine.png",
+          "text": "Khasi pines are mainly found in Meghalaya and Manipur. While the needles appear similar to those of chir pines, the overall crown formed by its branches will appear more jagged and disorganised.",
+          "note": null
+        },
+        {
+          "id": "2-55",
+          "image": "/images/resize/600/80/india/in_spurgetree.png",
+          "text": "This type of cacti (Euphorbia neriifolia) can commonly be seen as part of fences throughout Gujarat, western Maharashtra and the southern half of Rajasthan.",
+          "note": null
+        },
+        {
+          "id": "2-56",
+          "image": "/images/resize/600/80/india/in_palmyrapalm.png",
+          "text": "Palmyra Palms have a round crown with fan shaped leaves and a trunk with consistent thickness, giving them a lollipop shape. If you see them in large numbers you should be in the south or east of the country.",
+          "note": null
+        },
+        {
+          "id": "2-57",
+          "image": "/images/resize/600/80/india/in_arecapalm.png",
+          "text": "Areca Palms can be recognised by their very thin trunk and a small crown. They are mainly found near the southwestern coast, in the northeast and on the Andaman and Nicobar Islands.",
+          "note": null
+        },
+        {
+          "id": "2-58",
+          "image": "/images/resize/600/80/india/in_datepalms1.png",
+          "text": "Date palms are commonly found in drier areas of the central regions of India where there are fewer tropical and coastal palms.",
+          "note": null
+        },
+        {
+          "id": "2-59",
+          "image": "/images/resize/600/80/india/in_oilpalms.png",
+          "text": "Oil palm plantations are most commonly found in the panhandle of Andhra Pradesh, especially near the eastern border with Telangana.",
+          "note": null
+        },
+        {
+          "id": "2-60",
+          "image": "/images/resize/600/80/india/in_teaplantations.png",
+          "text": "Tea plantations can be found in the northeast and the far south. NOTE: If you find tea plantations in a flat area, you are likely in Assam or northeastern West Bengal, near the Assam border.",
+          "note": null
+        },
+        {
+          "id": "2-61",
+          "image": "/images/resize/600/80/india/in_sugarcane.png",
+          "text": "Sugarcane is most commonly found in the north in and around Uttar Pradesh, and in the southwest.",
+          "note": null
+        },
+        {
+          "id": "2-62",
+          "image": "/images/resize/600/80/india/in_cotton.png",
+          "text": "Cotton is commonly found in the western parts of India, particularly in Gujarat and Maharashtra.",
+          "note": null
+        },
+        {
+          "id": "2-63",
+          "image": "/images/resize/600/80/india/in_canola.png",
+          "text": "Canola is mostly found in and around Rajasthan.",
+          "note": null
+        },
+        {
+          "id": "2-64",
+          "image": "/images/resize/600/80/india/in_himalaya.png",
+          "text": "The by far tallest mountains in India are found in the Himalayas.",
+          "note": null
+        },
+        {
+          "id": "2-65",
+          "image": "/images/resize/600/80/india/in_tibetanplateau.png",
+          "text": "In Ladakh and northern Himachal Pradesh you can find an extremely dry landscape with little to no vegetation within the Himalayan mountains.",
+          "note": null
+        },
+        {
+          "id": "2-66",
+          "image": "/images/resize/600/80/india/in_northernplains.png",
+          "text": "The northern plains, also known as the Ganges River Valley, of India are very fertile with extremely flat and open agricultural fields.",
+          "note": null
+        },
+        {
+          "id": "2-67",
+          "image": "/images/resize/600/80/india/in_darksoil.png",
+          "text": "Distinctly dark soil is mainly found in Maharashtra and adjacent regions.",
+          "note": null
+        },
+        {
+          "id": "2-68",
+          "image": "/images/resize/600/80/india/in_redsoil.png",
+          "text": "Red soil can be found in several regions, but mainly near the southern west coast and in and around Chhattisgarh and western Odisha.",
+          "note": null
+        },
+        {
+          "id": "2-69",
+          "image": "/images/resize/600/80/india/in_westrajasthan.png",
+          "text": "The western parts of Rajasthan can commonly be recognised by the dry landscape with sandy soil.",
+          "note": null
+        },
+        {
+          "id": "2-70",
+          "image": "/images/resize/600/80/india/in_tabletopmountains.png",
+          "text": "The Western Ghats Mountains in the western part of Maharashtra can be recognised by their distinct ridgelines, often having plateaus rather than peaks. The northern part is drier while the southern part has more vegetation. NOTE: During the rainy season the mountains will turn green and appear quite different.",
+          "note": null
+        },
+        {
+          "id": "2-71",
+          "image": "/images/resize/600/80/india/in_mizorammountains.png",
+          "text": "The landscape in Mizoram mainly consists of lush, green valleys with fairly low vegetation with eroded hillsides having many small peaks scattered around. NOTE: A somewhat similar landscape can be found in Meghalaya, however rather than distinct peaks, the hillsides will have a mostly smooth and flat top.",
+          "note": null
+        },
+        {
+          "id": "2-72",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "2-73",
+          "image": "/images/resize/600/80/india/in_boxycar.png",
+          "text": "Large visible, square shaped cars can be found in the areas shown on the map. NOTE: A somewhat similar car with a visible hood on the car can be found in Odisha.",
+          "note": null
+        },
+        {
+          "id": "2-74",
+          "image": "/images/resize/600/80/india/in_northeastfence.png",
+          "text": "In the northeast you will commonly see fences made of thin wooden sticks in a square pattern.",
+          "note": null
+        },
+        {
+          "id": "2-75",
+          "image": "/images/resize/600/80/india/in_buddhistflags.png",
+          "text": "Buddhist prayer flags are found in Sikkim and Arunachal Pradesh.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Step 3 - Spotlight",
+      "items": [
+        {
+          "id": "3-1",
+          "image": "/images/resize/600/80/india/in_andamanpolesticker.png",
+          "text": "On the Andaman and Nicobar Islands you can find these black pole stickers, containing several digits as well as an arrow in the middle.",
+          "note": null
+        },
+        {
+          "id": "3-2",
+          "image": "/images/resize/600/80/india/in_chandigarhcityplanning.png",
+          "text": "The City of Chandigarh is a planned industrial city. As a result, the city features a lot of unique infrastructure, such as blue signs mentioning sectors and industrial areas, round yellow markings on street lights, and street signs which will typically feature several numbers rather than street names. NOTE: The nearby cities of Sahibzada Ajit Singh Nagar and Panchkula are also planned industrial cities, which feature somewhat similar signs.",
+          "note": null
+        },
+        {
+          "id": "3-3",
+          "image": "/images/resize/600/80/india/in_delhibuses.png",
+          "text": "Orange and bright green buses are typically found in Delhi.",
+          "note": null
+        },
+        {
+          "id": "3-4",
+          "image": "/images/resize/600/80/india/in_ahmedabadsuratbuslanes.png",
+          "text": "On large roads in Ahmedabad and Surat you can find separated middle lanes for buses. Beware that people will still often drive in these lanes.",
+          "note": null
+        },
+        {
+          "id": "3-5",
+          "image": "/images/resize/600/80/india/in_meghalayataxi.png",
+          "text": "Black Taxis with yellow roofs are found in Meghalaya and Mumbai.",
+          "note": null
+        },
+        {
+          "id": "3-6",
+          "image": "/images/resize/600/80/india/in_sikkimtaxi.png",
+          "text": "Taxis in Sikkim often have a painted yellow hood or a small yellow circle on it.",
+          "note": null
+        },
+        {
+          "id": "3-7",
+          "image": "/images/resize/600/80/india/in_elevatedrailways.png",
+          "text": "Elevated railways can be found in the following cities: Bengaluru Chennai Delhi Hyderabad Jaipur Kochi Kolkata Mumbai",
+          "note": null
+        },
+        {
+          "id": "3-8",
+          "image": "/images/resize/600/80/india/in_grayflatbricks.png",
+          "text": "The area on the border of Telangana and Karnataka often have houses with roofs made out of distinctly thin grey bricks. These grey bricks and similar coloured rocks are sometimes also seen in walls and scattered on the ground in stockyards.",
+          "note": null
+        },
+        {
+          "id": "3-9",
+          "image": "/images/resize/600/80/india/in_northwestbiharhut.png",
+          "text": "White painted clay huts are found in northwestern Bihar and northeastern Uttar Pradesh.",
+          "note": null
+        },
+        {
+          "id": "3-10",
+          "image": "/images/resize/600/80/india/in_centralbiharhut.png",
+          "text": "Wooden huts with a cross pattern can be found in central Bihar.",
+          "note": null
+        },
+        {
+          "id": "3-11",
+          "image": "/images/resize/600/80/india/in_japaneseredcedar.png",
+          "text": "Japanese cedar trees can typically be recognised by their significant height combined with their narrow, fluffy-looking crowns. They are most commonly found near the border of Sikkim and West Bengal, as well as in Meghalaya.",
+          "note": null
+        },
+        {
+          "id": "3-12",
+          "image": "/images/resize/600/80/india/in_himalayacedar.png",
+          "text": "The Himalayan cedar is most commonly seen on the NH34 from Harsil to Gangotri, as well as around the city of Shimla.",
+          "note": null
+        },
+        {
+          "id": "3-13",
+          "image": "/images/resize/600/80/india/in_bhutanwhitepine.png",
+          "text": "The Bhutan white pine can be recognised by its hanging needles all pointing downwards. They are mainly found in the Mechuka Valley as well as near the Bhutan border in Arunachal Pradesh.",
+          "note": null
+        },
+        {
+          "id": "3-14",
+          "image": "/images/resize/600/80/india/in_diupalms.png",
+          "text": "Doum palms, which appear similar to Palmyra palms but with multiple branches, are almost exclusive to the union territory of Diu.",
+          "note": null
+        },
+        {
+          "id": "3-15",
+          "image": "/images/resize/600/80/india/in_pitcherplant.png",
+          "text": "The endangered Indian pitcher plant is exclusive to the Khasi Hills, which are mainly in Meghalaya. They can occasionally be spotted on road sides, especially on the NH206 north of Umlārem.",
+          "note": null
+        },
+        {
+          "id": "3-16",
+          "image": "/images/resize/600/80/india/in_westuttarakhandbarren.png",
+          "text": "The western half of Uttarakhand is typically far more barren than the other Himalayan regions, due to logging and erosion. The coverage northwest of Dehradun on the Himachal Pradesh Border has some especially barren hills full of brown grass and small roads next to cliffs.",
+          "note": null
+        },
+        {
+          "id": "3-17",
+          "image": "/images/resize/600/80/india/in_mechukavalley.png",
+          "text": "The Mechuka valley is the only place in Northeast India where snowy mountains are visible. The valley contains brownish grass and a plethora of Bhutan white pine. North of Mechuka the coverage gradually becomes overcast and somewhat dark.",
+          "note": null
+        },
+        {
+          "id": "3-18",
+          "image": "/images/resize/600/80/india/in_chaukhamba.png",
+          "text": "Chaukhamba, located near the town of Ukhimath, is a mountain massif covered in snow which can be recognised by its three distinct peaks, with the centre peak being the tallest.",
+          "note": null
+        },
+        {
+          "id": "3-19",
+          "image": "/images/resize/600/80/india/in_southofshillong.png",
+          "text": "The landscape south of Shillong in Meghalaya, is characterised by V-shaped, green eroded valleys with somewhat flat and smooth ridgetops. NOTE: Mizoram hills are less smooth with more rises and falls instead of long smooth ridges.",
+          "note": null
+        },
+        {
+          "id": "3-20",
+          "image": "/images/resize/600/80/india/in_gujaratsaltflats.png",
+          "text": "Salt flats and coastal marshes with nearly no vegetation, other than short yellow or brown grass, can be found in parts of Gujarat. Shallow bodies of water can often be seen around these areas. NOTE: The soil in western Rajasthan will be a lot more sandy and you’ll typically be able to see short desert shrubs.",
+          "note": null
+        },
+        {
+          "id": "3-21",
+          "image": "/images/resize/600/80/india/in_monolithstamilnadu.png",
+          "text": "Near the southern tip of Tamil Nadu, you can find these large monolithic mountains, with huge exposed rocks. Several of these mountains can be seen from afar, especially the Magenthiragiri hills.",
+          "note": null
+        },
+        {
+          "id": "3-22",
+          "image": "/images/resize/600/80/india/in_redsoiltamilnadu.png",
+          "text": "A flat, bushy landscape with very red soil can be found in southern Tamil Nadu.",
+          "note": null
+        },
+        {
+          "id": "3-23",
+          "image": "/images/resize/600/80/india/lakshadweep.png",
+          "text": "Lakshadweep, located off the coast of Kerala, can be easily recognised by the abundance of coconut trees. They are often painted red-and-white, resembling the Polish flag.",
+          "note": null
+        },
+        {
+          "id": "3-24",
+          "image": "/images/resize/600/80/india/in_odishaantennaroad.png",
+          "text": "The coverage on road NH326 (labelled 326) west of Brahmapur in Odisha has a thin grey antenna. The images are generally very high-quality for shitcam, with an especially high quality near the Harabhangi Reservoir.",
+          "note": null
+        },
+        {
+          "id": "3-25",
+          "image": "/images/resize/600/80/india/in_meghalayayellowroadlines.png",
+          "text": "Parts of roads NH6 and NH206 southeast of Shillong can be recognised by the presence of khasi pines with distinct yellow outer road lines and fresh dark pavement. NOTE: This is the only road in Meghalaya that uses yellow outer road lines, but these lines exist in other states as well.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Step 4 - Maps and resources",
+      "items": []
+    }
+  ]
+}

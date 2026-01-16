@@ -1,0 +1,86 @@
+{
+  "country": "Gibraltar",
+  "url": "https://www.plonkit.net/gibraltar",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:18:44.379591+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Identifying Gibraltar",
+      "items": [
+        {
+          "id": "1-1",
+          "image": "/images/resize/900/80/gibraltar/0_summary_gibraltar.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": "/images/resize/600/80/gibraltar/e.png",
+          "text": "Gibraltar is a British Overseas Territory located at the southern tip of the Iberian Peninsula, bordering Spain. For country streak purposes, the territory is counted as the United Kingdom.",
+          "note": null
+        },
+        {
+          "id": "1-3",
+          "image": "/images/resize/600/80/gibraltar/Gibraltar_antenna.png",
+          "text": "All coverage in Gibraltar is Generation 3. The car will always have a unique long antenna with a silver tip, often referred to simply as the “Gibraltar antenna” by the community. NOTE: This antenna can also be found in parts of Spain, but nowhere else in Europe. In addition, the parts of Spain where this antenna can be found do not border Gibraltar.",
+          "note": null
+        },
+        {
+          "id": "1-4",
+          "image": "/images/resize/600/80/gibraltar/Rock_of_Gibraltar.png",
+          "text": "The territory’s most recognizable feature is the Rock of Gibraltar, a massive limestone mountain that dominates every part of the territory. It can be recognized by its exposed white limestone rocks and distinct shape.",
+          "note": null
+        },
+        {
+          "id": "1-5",
+          "image": "/images/resize/600/80/gibraltar/Back_plates.png",
+          "text": "Like the UK, Gibraltar uses yellow back plates on vehicles. However, note that unlike the UK, Gibraltar drives on the right.",
+          "note": null
+        },
+        {
+          "id": "1-6",
+          "image": "/images/resize/600/80/gibraltar/Driving_side.png",
+          "text": "Unlike the UK, Gibraltar drives on the right.",
+          "note": null
+        },
+        {
+          "id": "1-7",
+          "image": "/images/resize/600/80/gibraltar/English_language.png",
+          "text": "The main language used in Gibraltar is English. This can be especially helpful if you see English on official signs in a Mediterranean setting. NOTE: Note that English is also one of the main languages of Malta, which also has a Mediterranean landscape and vibe.",
+          "note": null
+        },
+        {
+          "id": "1-8",
+          "image": "/images/resize/600/80/gibraltar/Gibraltar_architecture.png",
+          "text": "The urban parts of Gibraltar are mostly fairly dense. Buildings look similar to those found in other Mediterranean countries. They have pastel colours and louvered window shutters (horizontal slats of wood set into a frame). These window shutters are usually painted green, blue or brown.",
+          "note": null
+        },
+        {
+          "id": "1-9",
+          "image": "/images/resize/600/80/gibraltar/Christmas_decorations2.png",
+          "text": "All coverage is from December, so in many parts of town you will see Christmas decorations.",
+          "note": null
+        },
+        {
+          "id": "1-10",
+          "image": "/images/resize/600/80/gibraltar/gi_monke.png",
+          "text": "Gibraltar is famous for its monkeys, of the species Barbary macaque. It is the only place in Europe where you can find wild monkeys.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Step 2 - Spotlight",
+      "items": [
+        {
+          "id": "2-1",
+          "image": "/images/resize/600/80/gibraltar/Mosque.png",
+          "text": "Near the southern tip of the territory, you will be able to see the minarets of the Ibrahim-al-Ibrahim Mosque, the southernmost mosque in continental Europe.",
+          "note": null
+        }
+      ]
+    }
+  ]
+}

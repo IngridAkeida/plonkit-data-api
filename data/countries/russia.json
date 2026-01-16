@@ -1,0 +1,805 @@
+{
+  "country": "Russia",
+  "url": "https://www.plonkit.net/russia",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:19:13.477779+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Identifying Russia",
+      "items": [
+        {
+          "id": "1-1",
+          "image": "/images/resize/900/80/russia/0_summary.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": "/images/resize/600/80/russia/licenceplate.png",
+          "text": "Russian licence plates are fully white with black text. NOTE: Most European counterparts will feature a blue strip on the left hand side.",
+          "note": null
+        },
+        {
+          "id": "1-3",
+          "image": "/images/resize/600/80/russia/cyrillic.png",
+          "text": "The Russian language uses the Cyrillic script, and contains the special letters Ы, Э, Ё and Ъ. Ё is also used in Mongolian and Ъ is used in Bulgarian. NOTE: You may rarely come across Russian in both Ukraine and eastern Estonia.",
+          "note": null
+        },
+        {
+          "id": "1-4",
+          "image": "/images/resize/600/80/russia/ulitsa.png",
+          "text": "The Russian word for street is улица (ulitsa), sometimes abbreviated ул. (ul.). NOTE: Bulgarian and most other Slavic languages also use улица / ulica. The Ukrainian word however is вулиця (vulytsya), abbreviated вул. (vul.).",
+          "note": null
+        },
+        {
+          "id": "1-5",
+          "image": "/images/resize/600/80/russia/gorod.png",
+          "text": "The Russian word for city is город (gorod), abbreviated г. (g.). NOTE: The Ukrainian word is місто (misto), abbreviated м. (m.).",
+          "note": null
+        },
+        {
+          "id": "1-6",
+          "image": "/images/resize/600/80/russia/bollards.png",
+          "text": "Russia has three main types of bollards: a very thin type being attached to a stick, one with a black top section and a red vertical reflector below and a German-style bollard.",
+          "note": null
+        },
+        {
+          "id": "1-7",
+          "image": "/images/resize/600/80/russia/bollardspam.png",
+          "text": "Near intersections in Russia you will commonly see a very large number of bollards.",
+          "note": null
+        },
+        {
+          "id": "1-8",
+          "image": "/images/resize/600/80/russia/bigintersections.png",
+          "text": "Along with containing a large number of bollards, many intersections are unusually wide compared to other countries.",
+          "note": null
+        },
+        {
+          "id": "1-9",
+          "image": "/images/resize/600/80/russia/blacksocks.png",
+          "text": "Signposts in Russia often have black painted bottoms. NOTE: This is also common in Kazakhstan.",
+          "note": null
+        },
+        {
+          "id": "1-10",
+          "image": "/images/resize/600/80/russia/polebottomblocks.png",
+          "text": "You can often see concrete support blocks at the bottom of utility poles, with wooden poles often being raised above ground by the support. NOTE: Similar blocks are found in several Central and Eastern European countries.",
+          "note": null
+        },
+        {
+          "id": "1-11",
+          "image": "/images/resize/600/80/russia/pedestriansign.png",
+          "text": "Russian pedestrian signs have a simply drawn person and three stripes. Signs will commonly have a bright yellow border. NOTE: Ukraine, Lithuania, Mongolia, Kazakhstan and Kyrgyzstan use the same design.",
+          "note": null
+        },
+        {
+          "id": "1-12",
+          "image": "/images/resize/600/80/russia/zebrapath.png",
+          "text": "Russian pedestrian crossings contain alternating white and yellow stripes. NOTE: This is also common in Kazakhstan.",
+          "note": null
+        },
+        {
+          "id": "1-13",
+          "image": "/images/resize/600/80/russia/blackandwhiteguardrail.png",
+          "text": "Black and white striped guardrails, kerbs and bridge barriers are common in russia.",
+          "note": null
+        },
+        {
+          "id": "1-14",
+          "image": "/images/resize/600/80/russia/gen3car.png",
+          "text": "Three Generation 3 Street View cars are commonly found in Russia. The two most useful ones for recognising Russia are a black and a white car, both with a long antenna. You may also see a short antenna without a visible car.",
+          "note": null
+        },
+        {
+          "id": "1-15",
+          "image": "/images/resize/600/80/russia/urbanapartmentblock.png",
+          "text": "The vast majority of urban housing in Russia are large rectangular apartment buildings made of simple concrete. Newer buildings in wealthier areas appear more modern.",
+          "note": null
+        },
+        {
+          "id": "1-16",
+          "image": "/images/resize/600/80/russia/suburbanhousing.png",
+          "text": "Rural housing in Russia consists mostly of a basic wooden structure with metal roofs.",
+          "note": null
+        },
+        {
+          "id": "1-17",
+          "image": "/images/resize/600/80/russia/windows.png",
+          "text": "This style of richly decorated window frames is commonly found on traditional Russian homes, especially on log cabins. They are often painted blue.",
+          "note": null
+        },
+        {
+          "id": "1-18",
+          "image": "/images/resize/600/80/russia/blackandwhitepolemarking.png",
+          "text": "Black & white-striped pole shields are common along highways, especially in European Russia.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Step 2 - Regional clues",
+      "items": [
+        {
+          "id": "2-1",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "2-2",
+          "image": "/images/resize/600/80/russia/birchtree.png",
+          "text": "Birch trees, identified by their white peeling bark, have a wide range in Russia. Notably they are almost never found far south or far north in the western part of the country.",
+          "note": null
+        },
+        {
+          "id": "2-3",
+          "image": "/images/resize/600/80/russia/clusteredbirches.png",
+          "text": "Birches very close together, as well as forests consisting of only birches, are indicative of areas east of the Urals, most commonly between Chelyabinsk Oblast and Novosibirsk Oblast.",
+          "note": null
+        },
+        {
+          "id": "2-4",
+          "image": "/images/resize/600/80/russia/siberianlarches.png",
+          "text": "Siberian larches are one of the dominant tree species in much of eastern Russia, recognized by their unique needle-like leaves. Generally speaking, they become more prevalent the further east you go in the country, as well as at high elevations.",
+          "note": null
+        },
+        {
+          "id": "2-5",
+          "image": "/images/resize/600/80/russia/sakhalincabbage.png",
+          "text": "Giant butterbur (commonly referred to as Sakhalin cabbage) is very common in Sakhalin Oblast, particularly in the southern half. Related plants can very rarely be found in Adygea.",
+          "note": null
+        },
+        {
+          "id": "2-6",
+          "image": "/images/resize/600/80/russia/sosnowskyshogweed.png",
+          "text": "This type of white flower (heracleum sosnowskyi) is most commonly found around Moscow, Komi Republic, and Perm Krai.",
+          "note": null
+        },
+        {
+          "id": "2-7",
+          "image": "/images/resize/600/80/russia/fireweed.png",
+          "text": "Large amounts of the pink or red flower fireweed (Chamaenerion angustifolium) typically indicates a northern region of Russia. Similarly, most places north of Moscow commonly have fireweed.",
+          "note": null
+        },
+        {
+          "id": "2-8",
+          "image": "/images/resize/600/80/russia/ru_sunflower.png",
+          "text": "Sunflowers are common along the border with Ukraine as well as more eastern oblasts like Ulyanovsk, Samara, and northern Orenburg.",
+          "note": null
+        },
+        {
+          "id": "2-9",
+          "image": "/images/resize/600/80/russia/vladimirflowers.png",
+          "text": "Blue-pod lupines appear very commonly in northern Vladimir Oblast, eastern Ivanovo Oblast, and southwestern Kostroma Oblast. It can also be found less commonly elsewhere in Kirov Oblast and towards the Baltics.",
+          "note": null
+        },
+        {
+          "id": "2-10",
+          "image": "/images/resize/600/80/russia/blackpoplar.png",
+          "text": "The black poplar is commonly found south, near the border with Ukraine, as well as toward the western border with Kazakhstan.",
+          "note": null
+        },
+        {
+          "id": "2-11",
+          "image": "/images/resize/600/80/russia/russianolive.png",
+          "text": "The Russian olive is typically found along the Kazakhstan border.",
+          "note": null
+        },
+        {
+          "id": "2-12",
+          "image": "/images/resize/600/80/russia/kaliningradtrees.png",
+          "text": "Lined oak trees, often with a single white stripe around the trunk, are extremely common in Kaliningrad.",
+          "note": null
+        },
+        {
+          "id": "2-13",
+          "image": "/images/resize/600/80/russia/tatartrees.png",
+          "text": "Sparsely planted larches along the road with open rolling fields is common in Tatarstan and adjacent federal subjects.",
+          "note": null
+        },
+        {
+          "id": "2-14",
+          "image": "/images/resize/600/80/russia/sandyroads.png",
+          "text": "Sandy roadsides are common in Khanty-Mansi and Yamalo-Nenets and adjacent subjects, as well as areas around Nizhny Novgorod on the Volga river. Other notable areas are Karelia, Murmansk, and western Sakha. Beware, however, that sandy roadsides can less commonly be found near rivers in other regions.",
+          "note": null
+        },
+        {
+          "id": "2-15",
+          "image": "/images/resize/600/80/russia/redsoil.png",
+          "text": "Red soil is common in the highlighted areas, notably around Izhevsk and Perm, much of Arkhangelsk Oblast, Leningrad Oblast, and Pskov Oblast, and near Volgograd and Astrakhan. Note that this map is by no means exhaustive; red soil can be found almost anywhere in the country near water or iron mines.",
+          "note": null
+        },
+        {
+          "id": "2-16",
+          "image": "/images/resize/600/80/russia/kamchatkalandscape.png",
+          "text": "The Kamchatka peninsula has unique grey gravelly soil, as well as the largest number of volcanoes of any region in Russia. They are frequently seen across the peninsula, and in some places can appear quite close such as in Klyuchi.",
+          "note": null
+        },
+        {
+          "id": "2-17",
+          "image": "/images/resize/600/80/russia/eastofyakutsksoil.png",
+          "text": "Extremely gravelly and sometimes dark soil appears as you approach the mountains east of Yakutsk, starting around Keskil.",
+          "note": null
+        },
+        {
+          "id": "2-18",
+          "image": "/images/resize/600/80/russia/vladivostokarea.png",
+          "text": "Lush and diverse forests in a hilly landscape characterises the noticeably warmer region around Vladivostok. Most of the coverage is overcast and has a white car with a long antenna. Further south, near the tri-border, you will find a more open rolling hill landscape.",
+          "note": null
+        },
+        {
+          "id": "2-19",
+          "image": "/images/resize/600/80/russia/magadanlandscape.png",
+          "text": "The eastern half of the Kolyma Highway going to Magadan features a lot of tall hills and mountains, usually shrouded in a haze. Most of the roads are unpaved and feature dark gravelly soil. The haze is not present in the western half.",
+          "note": null
+        },
+        {
+          "id": "2-20",
+          "image": "/images/resize/600/80/russia/roadtoyakutsk.png",
+          "text": "A presence of Siberian larches and large mountains on a mostly paved, but sometimes wide-gravel road indicates the main road south of Yakutsk, with Generation 4 white car appearing north of Berkakit.",
+          "note": null
+        },
+        {
+          "id": "2-21",
+          "image": "/images/resize/600/80/russia/sakhahaze.png",
+          "text": "Very hazy coverage is found east and south of Mirny, especially along the Vilyuy river. The colour of the haze varies, but it is often orange or white.",
+          "note": null
+        },
+        {
+          "id": "2-22",
+          "image": "/images/resize/600/80/russia/buryatialandscape.png",
+          "text": "The landscape in Buryatia is very unique, containing open grassy landscape with shrubs and mountains. It is lusher near Baikal, but the mountains persist.",
+          "note": null
+        },
+        {
+          "id": "2-23",
+          "image": "/images/resize/600/80/russia/buryatiahaze.png",
+          "text": "This forest fire haze is found near Lake Gusinoye, southwest of Ulan-Ude in Buryatia. While similar to the haze found near Mirny, the Buryatia haze coverage can typically be recognised by the open rolling landscape, which is not found near Mirny.",
+          "note": null
+        },
+        {
+          "id": "2-24",
+          "image": "/images/resize/600/80/russia/altairepublic.png",
+          "text": "The main road of Altai Republic has a black car long antenna driving north through the Altai Mountains, often with foggy or rainy coverage.",
+          "note": null
+        },
+        {
+          "id": "2-25",
+          "image": "/images/resize/600/80/russia/tuva.png",
+          "text": "Dry steppe mountains with a long antenna will usually indicate the Tuva Republic. The south part of the main road in the Altai Republic and Tuva can appear similarly dry, so things such as driving direction and cloudiness can be used to distinguish them.",
+          "note": null
+        },
+        {
+          "id": "2-26",
+          "image": "/images/resize/600/80/russia/tundra.png",
+          "text": "The landscape in the far north can be recognised by the relatively flat landscape, with very low vegetation.",
+          "note": null
+        },
+        {
+          "id": "2-27",
+          "image": "/images/resize/600/80/russia/omsklandscape.png",
+          "text": "The coverage in Omsk Oblast is some of the most recognizable in Russia. It is typically summer Generation 4 and has a distinct landscape consisting of green agricultural fields, which are interrupted by isolated patches of (primarily) birch forest. Note that in Generation 3, this landscape can be seen in a much larger area of Russia. NOTE: This combination of coverage and landscape spills over slightly into the neighbouring Tyumen and Novosibirsk Oblasts (in the south, and near Tatarsk, respectively).",
+          "note": null
+        },
+        {
+          "id": "2-28",
+          "image": "/images/resize/600/80/russia/desertsteppes.png",
+          "text": "The area west of the Caspian Sea can often be recognised by its extremely dry and flat landscape, especially in Kalmykia, Astrakhan Oblast, and Dagestan.",
+          "note": null
+        },
+        {
+          "id": "2-29",
+          "image": "/images/resize/600/80/russia/dagestanlandscape.png",
+          "text": "Grassy fields, with bushy vegetation, in early spring Generation 4 coverage is typical for Dagestan. The landscape can either be completely flat or mountainous. These flowers are also quite common in the Generation 4 Dagestan coverage.",
+          "note": null
+        },
+        {
+          "id": "2-30",
+          "image": "/images/resize/600/80/russia/caucasusmountains.png",
+          "text": "The Caucasus mountain range is one of the largest mountain ranges in Russia. The tallest mountain in Russia, Mount Elbrus, can be found on the border of the Kabardino-Balkarian Republic and Karachay-Cherkessia.",
+          "note": null
+        },
+        {
+          "id": "2-31",
+          "image": "/images/resize/600/80/russia/kareliamurmanskrocks.png",
+          "text": "Rocks along the road are extremely common throughout most of Karelia and Murmansk Oblast. They can also be found in Perm Krai and Buryatia but are less common and smaller in size.",
+          "note": null
+        },
+        {
+          "id": "2-32",
+          "image": "/images/resize/600/80/russia/murmansklandscape.png",
+          "text": "An open, hilly landscape with low shrubbery and fireweed usually indicates Murmansk. The lower the shrubbery, the more north it generally is.",
+          "note": null
+        },
+        {
+          "id": "2-33",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "2-34",
+          "image": "/images/resize/600/80/russia/areacodes.png",
+          "text": "This is a map of Russian area codes. Notably, area codes starting with 8 are in the west, codes starting with 3 are fairly central and codes starting with 4 are either east or around Moscow.",
+          "note": null
+        },
+        {
+          "id": "2-35",
+          "image": "/images/resize/600/80/russia/ru_licenceplatecodes.png",
+          "text": "In Generation 3 coverage you will somewhat commonly find unblurred licence plates, featuring a regional code on the right side. The codes are generally ordered alphabetically within each type of federal subject, starting at republics and ending with autonomous okrugs. Therefore, the Republic of Adygea will be represented by 01, and the Amur Oblast by 28, both being the first alphabetical subjects of republics and oblasts respectively. If you encounter a three digit code, the second and third digit will form the regional code, in this case 123 becomes 23, for Krasnodar Krai. You may also find the codes written out on the back of trucks and vans.",
+          "note": null
+        },
+        {
+          "id": "2-36",
+          "image": "/images/resize/600/80/russia/busstops.png",
+          "text": "These are the bus stops unique to specific federal subjects in Russia. Notably common and memorable ones include Krasnoyarsk Krai, Chuvashia, Tatarstan, and Mari El Republic.",
+          "note": null
+        },
+        {
+          "id": "2-37",
+          "image": "/images/resize/600/80/russia/japanesecars.png",
+          "text": "Japanese-made cars with the steering wheel on the right become more common the further east you go, generally starting around Novosibirsk.",
+          "note": null
+        },
+        {
+          "id": "2-38",
+          "image": "/images/resize/600/80/russia/Eastern_bollard.png",
+          "text": "Russian bollards that appear very thin and attached to a stick are usually found in the eastern part of the country, starting around Omsk. Note that ordinary Russian bollards are still plentiful in this part of the country.",
+          "note": null
+        },
+        {
+          "id": "2-39",
+          "image": "/images/resize/600/80/russia/southtrafficsignbottom.png",
+          "text": "This black traffic sign bottom is primarily found in Stavropol and Chechnya, as well as western Dagestan. Rarely, exceptions can be found in other southern federal subjects such as Kabardino Balkaria, but these will typically be uncolored.",
+          "note": null
+        },
+        {
+          "id": "2-40",
+          "image": "/images/resize/600/80/russia/leningradstpetersburgpedestriansign.png",
+          "text": "Clips on edges of signposts are found in Leningrad and St. Petersburg, and very rarely in Pskov, Novgorod or elsewhere.",
+          "note": null
+        },
+        {
+          "id": "2-41",
+          "image": "/images/resize/600/80/russia/kurskroadlines.png",
+          "text": "Outer dashed road lines are usually found throughout Kursk Oblast. An exception can be found in Tuva Republic. Rarer exceptions include the Republic of Karelia, Primorsky Krai and Khabarovsk Krai.",
+          "note": null
+        },
+        {
+          "id": "2-42",
+          "image": "/images/resize/600/80/russia/concreteroads.png",
+          "text": "As you go further north in Russia, some roads are made out of several concrete blocks. It is notably common in the Komi Republic, Nenets, and Yamalo-Nenets.",
+          "note": null
+        },
+        {
+          "id": "2-43",
+          "image": "/images/resize/600/80/russia/ulyanovskpole.png",
+          "text": "These alternating red and white poles are mainly found in Ulyanovsk city, but also less commonly in the greater Nizhny Novgorod area as well as somewhat randomly elsewhere in the country.",
+          "note": null
+        },
+        {
+          "id": "2-44",
+          "image": "/images/resize/600/80/russia/saranskpole.png",
+          "text": "These striped red and white poles are found mostly in Saransk, but also in a few other cities in Mordovia.",
+          "note": null
+        },
+        {
+          "id": "2-45",
+          "image": "/images/resize/600/80/russia/bilingual.png",
+          "text": "Some republics of Russia with minority languages use bilingual town entry and directional signs, such as in Bashkortostan and Tatarstan displaying Bashkir and Tatar respectively.",
+          "note": null
+        },
+        {
+          "id": "2-46",
+          "image": "/images/resize/600/80/russia/latintownnames.png",
+          "text": "Town names written in both the Cyrillic and Latin alphabets are common near the Baltic border and around Moscow, and to a lesser extent in federal subjects on the Finnish border.",
+          "note": null
+        },
+        {
+          "id": "2-47",
+          "image": "/images/resize/600/80/russia/browntouristsigns.png",
+          "text": "These brown signs, pointing to typical tourist attractions, are common in Moscow Oblast and the oblasts bordering it. However, they can also less commonly be seen in city centres or near tourist attractions of other regions.",
+          "note": null
+        },
+        {
+          "id": "2-48",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "2-49",
+          "image": "/images/resize/600/80/russia/limestonebrick.png",
+          "text": "Buildings made of white limestone brick are indicative of Dagestan, as well as adjacent regions.",
+          "note": null
+        },
+        {
+          "id": "2-50",
+          "image": "/images/resize/600/80/russia/redbrick.png",
+          "text": "Buildings built almost entirely of red brick are mostly found south, but other notable exceptions include Magnitogorsk, Orsk, and Omsk.",
+          "note": null
+        },
+        {
+          "id": "2-51",
+          "image": "/images/resize/600/80/russia/mosque.png",
+          "text": "While mosques can be found everywhere in Russia, they are by far most common in areas with a Muslim majority, mainly in much of south Russia as well as Tatarstan and Bashkortostan.",
+          "note": null
+        },
+        {
+          "id": "2-52",
+          "image": "/images/resize/600/80/russia/30.png",
+          "text": "Historical buildings in Mari El often have a unique architecture style. You will frequently see design patterns that include green roofs, red brick sprinkled with white stone details. Local churches commonly feature a similar style.",
+          "note": null
+        },
+        {
+          "id": "2-53",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "2-54",
+          "image": null,
+          "text": "The following section contains images showcasing the distribution of car and coverage metas, such as antennas, seasons, and camera generations. If you want a more in-depth explanation, you may use this document by Finbarr.",
+          "note": null
+        },
+        {
+          "id": "2-55",
+          "image": "/images/resize/600/80/russia/ru_coverage1.png",
+          "text": "This is the full coverage map of Russia. It can be helpful to know areas where there isn’t any coverage. The coverage is notably very sparse in the east and north. You can check out the extent of the official coverage on this website.",
+          "note": null
+        },
+        {
+          "id": "2-56",
+          "image": "/images/resize/600/80/russia/ru_whitecar.png",
+          "text": "White car long antenna is found in many places, most commonly in southern Chelyabinsk, on snow coverage around Novosibirsk, and in the Far East beginning in Amur Oblast. NOTE: While Kamchatka technically has a silver car (with a B type antenna), it often appears white and is part of the small group of exceptions to black and white.",
+          "note": null
+        },
+        {
+          "id": "2-57",
+          "image": "/images/resize/600/80/russia/2.png",
+          "text": "The A-type short antenna has its highest ridge on the right. Notable areas for this antenna are around Kaluga, Orenburg, and Krasnodar.",
+          "note": null
+        },
+        {
+          "id": "2-58",
+          "image": "/images/resize/600/80/russia/3.png",
+          "text": "The B-type short antenna has its highest ridge on the left. This antenna is wide-ranging, but it is most notably found near Nizhny Novgorod, Elista, and Yekaterinburg and Tyumen.",
+          "note": null
+        },
+        {
+          "id": "2-59",
+          "image": "/images/resize/600/80/russia/4.png",
+          "text": "The B-type pronounced antenna is the same as the B-type antenna but the ridge is more “rectangular”. This antenna is fairly limited, only being found commonly in Moscow Oblast, Kurgan Oblast, near Krasnoyarsk, and southwest Krasnodar.",
+          "note": null
+        },
+        {
+          "id": "2-60",
+          "image": "/images/resize/600/80/russia/5.png",
+          "text": "The C-type short antenna can be thought of as a low A-type or a “twisting antenna” with the ridges being further from the top. It is found north and east of Moscow, with the furthest south being Rostov Oblast.",
+          "note": null
+        },
+        {
+          "id": "2-61",
+          "image": "/images/resize/600/80/russia/6.png",
+          "text": "The blurred short antenna is visibly blurrier than any of the other short antennas. It is mainly found in two major clusters around Ufa and from Stavropol to Makhachkala.",
+          "note": null
+        },
+        {
+          "id": "2-62",
+          "image": "/images/resize/600/80/russia/7.png",
+          "text": "The A-type long antenna has its highest ridge on the right side. Notable areas include Leningrad Oblast, Republic of Karelia, and Vologda Oblast. Almost all the white car long antenna coverage is A-type, so checking for A-type can also help confirm car colour.",
+          "note": null
+        },
+        {
+          "id": "2-63",
+          "image": "/images/resize/600/80/russia/8.png",
+          "text": "The B-type long antenna has its highest ridge on the left side. Notable areas include Yaroslav to Vladimir, Tula Oblast, and much of the coverage near Tuva and Irkutsk. NOTE: There are two other long antenna types, referred to as CA and CB, but due to their relative lack of usefulness they will not be covered here.",
+          "note": null
+        },
+        {
+          "id": "2-64",
+          "image": "/images/resize/600/80/russia/9.png",
+          "text": "Blurred long antenna is visibly blurrier than other long antenna cars, and is a strong clue for Sakhalin and various roads in the east, as well as much of Khanty-Mansi. On the other end there exists a blurred antenna in far western Bryansk Oblast and some of Tula Oblast.",
+          "note": null
+        },
+        {
+          "id": "2-65",
+          "image": "/images/resize/600/80/russia/10.png",
+          "text": "The tilted short antenna is visibly tilted to the left and can be found primarily on a diagonal from St. Petersburg down to Volgograd, with exceptions in Stavropol and Ufa. Since the ridge is on the same side, it can sometimes appear as the A-type short antenna.",
+          "note": null
+        },
+        {
+          "id": "2-66",
+          "image": "/images/resize/600/80/russia/11.png",
+          "text": "A large, red brake light is common in Kaliningrad, however it can also be found in some older coverage in western Russia.",
+          "note": null
+        },
+        {
+          "id": "2-67",
+          "image": "/images/resize/600/80/russia/12.png",
+          "text": "Autumn Generation 3 coverage is common in Kaliningrad, Bryansk, Tula, and Belgorod in western Russia, but Kaliningrad only has autumn coverage.",
+          "note": null
+        },
+        {
+          "id": "2-68",
+          "image": "/images/resize/600/80/russia/Gen_4_proportion_lines_3.png",
+          "text": "Generation 4 coverage is quite extensive and is found in most federal subjects in the country. Notably, areas like the Altai mountains and most of the Far East lack Generation 4 completely. Knowing where Generation 4 can be found isn’t the most helpful at the beginner level; other clues like season and car are more important. The dark red signifies areas where all of the coverage is Generation 4.",
+          "note": null
+        },
+        {
+          "id": "2-69",
+          "image": "/images/resize/600/80/russia/14.png",
+          "text": "Winter Generation 4 is most common in the south of Russia, ranging from Ryazan all the way down to Kabardino-Balkaria and Dagestan. Winter can appear differently depending on the month (and even time of month the coverage was taken) which can be used to further regionguess.",
+          "note": null
+        },
+        {
+          "id": "2-70",
+          "image": "/images/resize/600/80/russia/15.png",
+          "text": "Spring Generation 4 is common in several distinct places, such as around Kemerovo and Krasnoyarsk, Orenburg and Kamyshin, around Lipetsk, and in Moscow city. Differentiating these places typically comes down to landscape, as they tend to be fairly distinct.",
+          "note": null
+        },
+        {
+          "id": "2-71",
+          "image": "/images/resize/600/80/russia/16.png",
+          "text": "Summer Generation 4 is the most common coverage in generation 4. It is pretty much everywhere except in the south and some of the east, but can be further subdivided by car colour.",
+          "note": null
+        },
+        {
+          "id": "2-72",
+          "image": "/images/resize/600/80/russia/17.png",
+          "text": "Autumn Generation 4 is quite rare and only found around Kazan and a few roads in Murmansk, as well as some of Ulan-Ude.",
+          "note": null
+        },
+        {
+          "id": "2-73",
+          "image": "/images/resize/600/80/russia/18.png",
+          "text": "Generation 4 red car is the most common generation 4 car meta, found primarily east around Khanty-Mansi, as well as along the main highways down to Irkutsk and Ulan-Ude. There is also a sizable patch near Penza and Tatarstan, as well as Rostov-on-Don.",
+          "note": null
+        },
+        {
+          "id": "2-74",
+          "image": "/images/resize/600/80/russia/19.png",
+          "text": "Generation 4 white car is found in the May coverage near Lipetsk, in Moscow city, and most notably across all the coverage north of Berkatit in the Sakha Republic and Magadan.",
+          "note": null
+        },
+        {
+          "id": "2-75",
+          "image": "/images/resize/600/80/russia/20.png",
+          "text": "Generation 4 black car is found mostly near Moscow, Tver, and Voronezh, with some also existing in Tatarstan and less commonly in the south.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Step 3 - Spotlight",
+      "items": [
+        {
+          "id": "3-1",
+          "image": "/images/resize/600/80/russia/21.png",
+          "text": "Vorkuta in far northern Komi Republic has dead-looking winter coverage, sometimes with reddish soil. The apartment blocks will typically have large northern apartment block foundations.",
+          "note": null
+        },
+        {
+          "id": "3-2",
+          "image": "/images/resize/600/80/russia/24.png",
+          "text": "Sovetskaya Gavan and Vanino in eastern Khabarovsk have winter coverage, somewhat similar to Vorkuta. NOTE: While Vorkuta and Vanino have similar coverage types, Vorkuta is noticeably flatter, having lower vegetation and a more barren landscape.",
+          "note": null
+        },
+        {
+          "id": "3-3",
+          "image": "/images/resize/600/80/russia/28.png",
+          "text": "The road to Okha in northern Sakhalin is unpaved, revealing its very sandy soil. The road is surrounded by short, stunted bushes and trees.",
+          "note": null
+        },
+        {
+          "id": "3-4",
+          "image": "/images/resize/600/80/russia/25.png",
+          "text": "The Khabarovsk-Vanino road has a mountainous landscape with very sunny coverage. It also drives west with a black car with a blurred, long antenna, which helps to confirm.",
+          "note": null
+        },
+        {
+          "id": "3-5",
+          "image": "/images/resize/600/80/russia/22.png",
+          "text": "The Jewish Autonomous Oblast effectively has one road of coverage, outside of Birobidzhan. The west side has highly rainy and foggy coverage.",
+          "note": null
+        },
+        {
+          "id": "3-6",
+          "image": "/images/resize/600/80/russia/23.png",
+          "text": "On the east side of the Jewish Autonomous Oblast, the coverage turns from rainy to wet after the rain.",
+          "note": null
+        },
+        {
+          "id": "3-7",
+          "image": "/images/resize/600/80/russia/38.png",
+          "text": "Sunset coverage, with the sun very close to the horizon, with an eastern-looking landscape will be the P-297 in Amur Oblast, roughly between the towns of Never and Sivaki.",
+          "note": null
+        },
+        {
+          "id": "3-8",
+          "image": "/images/resize/600/80/russia/27.png",
+          "text": "Olkhon Island on Lake Baikal has a single road, driving on rolling sandy hills during sunset. You can often see Lake Baikal directly with a mountain ridge across the bay.",
+          "note": null
+        },
+        {
+          "id": "3-9",
+          "image": "/images/resize/600/80/russia/26.png",
+          "text": "Tunkinsky National Park in western Buryatia is a very green river basin with tall, jagged mountains to the north. In comparison to most of Buryatia, it is much greener.",
+          "note": null
+        },
+        {
+          "id": "3-10",
+          "image": "/images/resize/600/80/russia/ruralgen4desert.png",
+          "text": "In the desert-like region west of the Caspian Sea, this completely flat and rural Generation 4 coverage on small poorly-tracked dirt roads can only be found in northern Dagestan and southwestern Astrakhan Oblast.",
+          "note": null
+        },
+        {
+          "id": "3-11",
+          "image": "/images/resize/600/80/russia/ru_tropicalplants.png",
+          "text": "Tropical plants in Russia such as palm trees are only found on the Black Sea, most commonly around Sochi.",
+          "note": null
+        },
+        {
+          "id": "3-12",
+          "image": "/images/resize/600/80/russia/29.png",
+          "text": "Kamchatka trekkers encompass a majority of the trekkers present in Russia. They can be recognized using the same clues to recognize Kamchatka normally.",
+          "note": null
+        },
+        {
+          "id": "3-13",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "3-14",
+          "image": "/images/resize/600/80/russia/31.png",
+          "text": "These blue signs are only found in Moscow and usually feature English translations of important tourist points.",
+          "note": null
+        },
+        {
+          "id": "3-15",
+          "image": "/images/resize/600/80/russia/32.png",
+          "text": "St. Petersburg street signs include a transliteration of the street name on a black background. They are primarily found downtown.",
+          "note": null
+        },
+        {
+          "id": "3-16",
+          "image": "/images/resize/600/80/russia/saransksign.png",
+          "text": "Saransk has an exclusive circular street sign design with the street name being written in up to 4 different languages.",
+          "note": null
+        },
+        {
+          "id": "3-17",
+          "image": "/images/resize/600/80/russia/34.png",
+          "text": "Tatar bilingual signs use “урамы” (ур., abbreviated) for street instead of “улица” and are unsurprisingly found in Tatarstan.",
+          "note": null
+        },
+        {
+          "id": "3-18",
+          "image": "/images/resize/600/80/russia/33.png",
+          "text": "Bashkir bilingual signs are found in Bashkortostan and use “урамы” for street, the same as Tatar, but are often not abbreviated.",
+          "note": null
+        },
+        {
+          "id": "3-19",
+          "image": "/images/resize/600/80/russia/35.png",
+          "text": "Chuvash bilingual signs, found in Chuvashia, use “урамӗ” for street.",
+          "note": null
+        },
+        {
+          "id": "3-20",
+          "image": "/images/resize/600/80/russia/36.png",
+          "text": "Mari bilingual signs, found in Mari El, use “урем” for street.",
+          "note": null
+        },
+        {
+          "id": "3-21",
+          "image": "/images/resize/600/80/russia/37.png",
+          "text": "Komi bilingual signs, found in the Komi Republic, use “улича” for street.",
+          "note": null
+        },
+        {
+          "id": "3-22",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "3-23",
+          "image": "/images/resize/600/80/russia/39.png",
+          "text": "Yellow pole plates attached by a metal band are commonly found in Tatarstan. They are found on the majority of poles, but not all.",
+          "note": null
+        },
+        {
+          "id": "3-24",
+          "image": "/images/resize/600/80/russia/murmanskpoleband.png",
+          "text": "On the main road of Murmansk in generation 4, as well as some roads in Karelia covered in 2018, the vast majority of signposts will have two yellow bands wrapped around them.",
+          "note": null
+        },
+        {
+          "id": "3-25",
+          "image": "/images/resize/600/80/russia/ru_cobblestones.png",
+          "text": "Cobblestone pavement is notably common in Kaliningrad, Nizhny Tagil in Sverdlovsk, and Kizel in Perm Krai.",
+          "note": null
+        },
+        {
+          "id": "3-26",
+          "image": "/images/resize/600/80/russia/40.png",
+          "text": "Extended insulator bars on poles are notably found in southern Chelyabinsk Oblast and eastern Orenburg Oblast, as well as southern Kemerovo Oblast.",
+          "note": null
+        },
+        {
+          "id": "3-27",
+          "image": "/images/resize/600/80/russia/42.png",
+          "text": "Utility poles with a mesh framework are usually found in Petrozavodsk, but can much less commonly be found in cities like Tolyatti.",
+          "note": null
+        },
+        {
+          "id": "3-28",
+          "image": "/images/resize/600/80/russia/43.png",
+          "text": "These red painted poles are only found in Murom.",
+          "note": null
+        },
+        {
+          "id": "3-29",
+          "image": "/images/resize/600/80/russia/44.png",
+          "text": "An angled extended insulator bar on the pole as shown is found in Chita.",
+          "note": null
+        },
+        {
+          "id": "3-30",
+          "image": "/images/resize/600/80/russia/45.png",
+          "text": "This unique bollard, with a grey rectangle and double red reflectors, is specific to the P100 in Kostroma Oblast.",
+          "note": null
+        },
+        {
+          "id": "3-31",
+          "image": "/images/resize/600/80/russia/46.png",
+          "text": "Pedestrian signs with a U-shaped hook attached to a pole are unique to Chelyabinsk.",
+          "note": null
+        },
+        {
+          "id": "3-32",
+          "image": "/images/resize/600/80/russia/47.png",
+          "text": "This distinct decorative design of pedestrian sign holders is specific to Pskov Oblast.",
+          "note": null
+        },
+        {
+          "id": "3-33",
+          "image": "/images/resize/600/80/russia/48.png",
+          "text": "The city of Nizhnevartovsk has these unique hanging pedestrian signs.",
+          "note": null
+        },
+        {
+          "id": "3-34",
+          "image": "/images/resize/600/80/russia/41.png",
+          "text": "Rounded rectangular fences with a line through the middle are unique to Chelyabinsk Oblast and eastern Orenburg Oblast.",
+          "note": null
+        },
+        {
+          "id": "3-35",
+          "image": "/images/resize/600/80/russia/49.png",
+          "text": "This fence with a thin rounded rectangular design at the top is found in the cities of Syzran, Tolyatti, and Samara. In Tolyatti it will commonly be painted yellow.",
+          "note": null
+        },
+        {
+          "id": "3-36",
+          "image": "/images/resize/600/80/russia/50.png",
+          "text": "Decoratively designed fences usually with a bright orange colour are unique to Irkutsk.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Step 4 - Maps and resources",
+      "items": []
+    }
+  ]
+}

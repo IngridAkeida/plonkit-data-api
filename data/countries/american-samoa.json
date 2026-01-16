@@ -1,0 +1,74 @@
+{
+  "country": "American Samoa",
+  "url": "https://www.plonkit.net/american-samoa",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:20:07.754518+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Identifying American Samoa",
+      "items": [
+        {
+          "id": "1-1",
+          "image": "/images/resize/900/80/american-samoa/0_Summary_Graphic.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": "/images/resize/600/80/american-samoa/as_locator.png",
+          "text": "American Samoa is a group of islands east of Fiji, located in the Pacific Ocean. Since it is a US overseas territory, for country streak purposes, it is counted as the US.",
+          "note": null
+        },
+        {
+          "id": "1-3",
+          "image": "/images/resize/600/80/american-samoa/image.png",
+          "text": "The general landscape consists of green, tropical mountains with many palm trees. Small roads are often made of concrete. Most houses are one storey, and have a simple box design. Plain metal sheet roofs are also very common.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Step 2 - Island specific clues",
+      "items": [
+        {
+          "id": "2-1",
+          "image": "/images/resize/600/80/american-samoa/main_island_car.png",
+          "text": "A slightly rusted black truck bed can be seen on the main island of Tutuila. This is the most common car that will be seen as it has the most coverage.",
+          "note": null
+        },
+        {
+          "id": "2-2",
+          "image": "/images/resize/600/80/american-samoa/other_island_car.png",
+          "text": "The front of a silver-grey truck with side mirrors can be seen on Manu’a and Olosega, which are connected by a bridge. See below for more information.",
+          "note": null
+        },
+        {
+          "id": "2-3",
+          "image": "/images/resize/600/80/american-samoa/other_other_island_car.png",
+          "text": "The front of a similar truck can be seen on the easternmost covered island of Tau. However, the truck will be glossy black, with side mirrors visible.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Step 3 - Spotlight",
+      "items": [
+        {
+          "id": "3-1",
+          "image": "/images/resize/600/80/american-samoa/bride.png",
+          "text": "The single-lane bridge, connecting the islands of Manu’a and Olosega, can be easily recognized by the thin wire guardrail, with the two islands on either side of the bridge.",
+          "note": null
+        },
+        {
+          "id": "3-2",
+          "image": "/images/resize/600/80/american-samoa/boeing_real_estate.png",
+          "text": "Ofu Airport is small with a concrete runway. The Google Car covering it has two orange straps on the roof. Many palm trees can also be seen on the other side of the runway.",
+          "note": null
+        }
+      ]
+    }
+  ]
+}

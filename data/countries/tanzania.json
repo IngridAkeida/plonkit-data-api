@@ -1,0 +1,86 @@
+{
+  "country": "Tanzania",
+  "url": "https://www.plonkit.net/tanzania",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:17:31.012297+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Introduction",
+      "items": [
+        {
+          "id": "1-1",
+          "image": "/images/resize/900/80/tanzania/0_summary_tanzania.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": "/images/resize/600/80/tanzania/Coverage-map.png",
+          "text": "Tanzania has extremely limited coverage: Several Generation 3 trekkers in Gombe National Park. There is also one small indoor tripod in this park. A couple of tripods on Mount Kilimanjaro. Some spill coverage, made with a regular Google car, on the border with Kenya. This guide only discusses the trekkers and tripods. For the spills, see our spillover guide. It should be noted that none of the trekkers and tripods are pinpointable, or even on a road, and therefore they typically do not appear in serious competitive maps. This guide describes them primarily for the sake of completeness. The spills however do appear in maps from time to time. Due to the sparse nature of the coverage, that is also entirely not on any streets, it is not useful to learn any territory identification metas. Instead, it is better to just memorise what the trekkers and tripods look like.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Step 2 - Trekker and tripod tips",
+      "items": [
+        {
+          "id": "2-1",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "2-2",
+          "image": "/images/resize/600/80/tanzania/Mt_kilimanjaro_explainer.png",
+          "text": "On Mount Kilimanjaro, there are a couple of tripods. This is a type of coverage made with a regular camera mounted on a tripod. As a result, this coverage has a distinct ethereal look, compared to normal street view: objects in the image will usually have motion blur, and slightly saturated colours. NOTE: Tripods can also be found in several other countries.",
+          "note": null
+        },
+        {
+          "id": "2-3",
+          "image": "/images/resize/600/80/tanzania/Mt_kilimanjaro_comp.png",
+          "text": "The Mount Kilimanjaro tripods show a high altitude landscape, with dark grey rock and in some places eternal snow in the distance. In some panos, you will see mountaineers and tents.",
+          "note": null
+        },
+        {
+          "id": "2-4",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "2-5",
+          "image": "/images/resize/600/80/tanzania/Gombe_trekker_chimps.png",
+          "text": "A walking trekker goes through a large part of Gombe National Park. The landscape varies somewhat from place to place. In the lowland parts, you will see dense jungle and usually very little sunlight, leading to dark coverage. Sometimes, you can see chimpanzees.",
+          "note": null
+        },
+        {
+          "id": "2-6",
+          "image": "/images/resize/600/80/tanzania/Gombe_trekker_savannah_trees.png",
+          "text": "Higher up on the hills, the forest becomes more open and you will see savannah-like trees around you.",
+          "note": null
+        },
+        {
+          "id": "2-7",
+          "image": "/images/resize/600/80/tanzania/Gombe_trekker_hill_tops.png",
+          "text": "On top of the hills, the trees make way for a bare grassland landscape. Here, you have breathtaking views of the surrounding landscape and Lake Tanganyika.",
+          "note": null
+        },
+        {
+          "id": "2-8",
+          "image": "/images/resize/600/80/tanzania/Gombe_boat.png",
+          "text": "There is a boat trekker in Lake Tanganyika, that hugs the coast very closely, next to Gombe National Park. The coast is always to your east. You will see hills that are mostly covered in tropical forest, with some bare and grassy hilltops. You can see the boat through the blur: it is painted olive green and white, and has some people in it. The boat and people are always pixelated due to the blur. NOTE: Do not confuse this boat trekker with the boats in Madagascar.",
+          "note": null
+        },
+        {
+          "id": "2-9",
+          "image": "/images/resize/600/80/tanzania/Jane_Goodalls_house.png",
+          "text": "There is one more tripod in Tanzania, inside Jane Goodall’s house. It is also located in Gombe National Park, adjacent to the normal Generation 3 trekker coverage.",
+          "note": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "country": "Bhutan",
+  "url": "https://www.plonkit.net/bhutan",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:17:36.460901+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Identifying Bhutan",
+      "items": [
+        {
+          "id": "1-1",
+          "image": "/images/resize/900/80/bhutan/0_Copy_of_Copy_of_Copy_of_Copy_of_Copy_of_Infographic__283_29.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": "/images/resize/600/80/bhutan/Bhutan_License_Plate.png",
+          "text": "Licence plates in Bhutan are almost always red and can easily be seen on vehicles. NOTE: Within Asia, Bhutan is the only country that uses full red licence plates.",
+          "note": null
+        },
+        {
+          "id": "1-3",
+          "image": "/images/resize/600/80/bhutan/googlecar.png",
+          "text": "Coverage in Bhutan was taken by a grey Google car without an antenna. NOTE: Bhutan is the only left hand driving country which has a grey Google car. Make sure to not mix it up with a white Google car, since they can look similar.",
+          "note": null
+        },
+        {
+          "id": "1-4",
+          "image": "/images/resize/600/80/bhutan/stonebarriers.png",
+          "text": "Bhutan commonly uses these stone blocks as safety barriers on winding rural roads. These blocks are very common and often one of the best ways to recognize rural Bhutan rounds. Guardrails, on the other hand, are rare.",
+          "note": null
+        },
+        {
+          "id": "1-5",
+          "image": "/images/resize/600/80/bhutan/architecture.png",
+          "text": "The traditional Bhutanese architecture is very distinct. Most of the houses have tin roofs and wooden painted frames, which give them a unique look.",
+          "note": null
+        },
+        {
+          "id": "1-6",
+          "image": "/images/resize/600/80/bhutan/Dzongkha.png",
+          "text": "Dzongkha is an official language in Bhutan and has unique-looking letters. NOTE: On street view, these letters can only be found in Bhutan.",
+          "note": null
+        },
+        {
+          "id": "1-7",
+          "image": "/images/resize/600/80/bhutan/landscape.png",
+          "text": "Bhutan is a mountainous country and most of the coverage is located on its main mountain roads. NOTE: In the south are flat areas where you cannot see any mountains.",
+          "note": null
+        },
+        {
+          "id": "1-8",
+          "image": "/images/resize/600/80/bhutan/flags.png",
+          "text": "Prayer flags near the road are typically seen in Bhutan.",
+          "note": null
+        },
+        {
+          "id": "1-9",
+          "image": "/images/resize/600/80/bhutan/poles.png",
+          "text": "Thin metal poles are occasionally found in Bhutan. They are often painted black at the bottom.",
+          "note": null
+        },
+        {
+          "id": "1-10",
+          "image": "/images/resize/600/80/bhutan/waystone.png",
+          "text": "These are the Bhutanese road markers, notice the yellow top and the white bottom. NOTE: If you are on rural roads and would like to find out where you are, these markers are the best clue to narrow down the exact location. On national highways, the road number is found on the top of the marker, but is not labelled on the map. However, it can still be used to identify the road using this table.",
+          "note": null
+        },
+        {
+          "id": "1-11",
+          "image": "/images/resize/600/80/bhutan/bluesigns.png",
+          "text": "These signs are frequently found in the cities of Bhutan and are often coloured red or blue. NOTE: As seen here, they will typically have the town name you are in written on them.",
+          "note": null
+        },
+        {
+          "id": "1-12",
+          "image": "/images/resize/600/80/bhutan/taxi.png",
+          "text": "Taxis in Bhutan have yellow licence plates and yellow roofs.",
+          "note": null
+        },
+        {
+          "id": "1-13",
+          "image": "/images/resize/600/80/bhutan/signpost.png",
+          "text": "Signposts in Bhutan frequently have black-and-white stripes. NOTE: Within Asia, these posts are also found in Sri Lanka, India, Malaysia and Bangladesh. Make sure to check other clues before guessing.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Step 2 - Regional and province-specific clues",
+      "items": [
+        {
+          "id": "2-1",
+          "image": "/images/resize/600/80/bhutan/bt_coverage.png",
+          "text": "Most of the Bhutanese street view coverage was taken on the main roads and cities.",
+          "note": null
+        },
+        {
+          "id": "2-2",
+          "image": "/images/resize/600/80/bhutan/White_Road_Lines.png",
+          "text": "Two solid white outside lines are only seen in western Bhutan south and close to the capital Thimphu.",
+          "note": null
+        },
+        {
+          "id": "2-3",
+          "image": "/images/resize/600/80/bhutan/Landscape_-_South_Flat.png",
+          "text": "Flat landscapes like this in Bhutan can only be found in the south. NOTE: The coverage in the south is limited to the four regions shown on the map.",
+          "note": null
+        },
+        {
+          "id": "2-4",
+          "image": "/images/resize/600/80/bhutan/bt_probjihkavalley.png",
+          "text": "The Phobjikha Valley, south of Nubding, is a wide and relatively flat agricultural valley. It is by far the largest open valley with no major river visible on Street View.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Step 3 - Spotlight",
+      "items": [
+        {
+          "id": "3-1",
+          "image": "/images/resize/600/80/bhutan/bt_haacar.png",
+          "text": "A hook can be seen on the back of the car in Haa District, mainly in the town of Ha. NOTE: The hook is sometimes just barely visible due to the car blur.",
+          "note": null
+        },
+        {
+          "id": "3-2",
+          "image": "/images/resize/600/80/bhutan/bt_mongarsunset.png",
+          "text": "Late sunset coverage can be found in two places in the country; on a small rural sideroad in the east of Mongar District and in a significantly more urban area around the town of Paro in the west.",
+          "note": null
+        },
+        {
+          "id": "3-3",
+          "image": "/images/resize/600/80/bhutan/Gelephu_Airport.png",
+          "text": "Gelephu Airport is the only airport located in the flat south part of Bhutan, making it recognisable.",
+          "note": null
+        },
+        {
+          "id": "3-4",
+          "image": "/images/resize/600/80/bhutan/Paro_International_Airport.png",
+          "text": "The Paro International Airport is located in a dry northwest valley and is one of the two northern airports.",
+          "note": null
+        },
+        {
+          "id": "3-5",
+          "image": "/images/resize/600/80/bhutan/Bumthang_Domestic_Airport.png",
+          "text": "While the Paro International Airport is located in a dry northwest valley, the Bumthang Domestic Airport is located in a wet northern valley.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Other resources",
+      "items": []
+    }
+  ]
+}

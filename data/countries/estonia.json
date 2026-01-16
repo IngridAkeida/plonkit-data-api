@@ -1,0 +1,187 @@
+{
+  "country": "Estonia",
+  "url": "https://www.plonkit.net/estonia",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:18:34.084848+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Identifying Estonia",
+      "items": [
+        {
+          "id": "1-1",
+          "image": "/images/resize/900/80/estonia/transparent-ee_summary_2026.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": "/images/resize/600/80/estonia/Estonia_License_Plate.png",
+          "text": "Estonian licence plates are long and white, with the standard blue European strip on the left.",
+          "note": null
+        },
+        {
+          "id": "1-3",
+          "image": "/images/resize/600/80/estonia/Estonian_bollards.png",
+          "text": "Estonian bollards have a round, baton-like shape. They have a rectangular reflector on the front and two circular reflectors on the back. The reflectors can be white or orange. NOTE: Latvian and Lithuanian bollards look different. This infographic shows the main similarities and differences between the bollards of the Baltic and Nordic countries.",
+          "note": null
+        },
+        {
+          "id": "1-4",
+          "image": "/images/resize/600/80/estonia/Wooden_pole.png",
+          "text": "Estonia uses a variety of different poles and poletops. Of the three Baltic countries, it has the least consistent utility poles. Round wooden poles are the most common, sometimes with diagonal supports.",
+          "note": null
+        },
+        {
+          "id": "1-5",
+          "image": "/images/resize/600/80/estonia/Concrete_pole.png",
+          "text": "You can additionally find a fair amount of square concrete poles, often also with diagonal supports. These are similar to those found in Lithuania.",
+          "note": null
+        },
+        {
+          "id": "1-6",
+          "image": "/images/resize/600/80/estonia/Trident.png",
+          "text": "Trident pole tops are somewhat common: This pole top features one insulator on top, and two to the side.",
+          "note": null
+        },
+        {
+          "id": "1-7",
+          "image": "/images/resize/600/80/estonia/Pole_cap.png",
+          "text": "Most wooden poles have a small metal cap on top, similar to those found in the Nordic countries. NOTE: Alongside the Nordic countries of Sweden, Finland and Norway, these caps can also sometimes be found in Latvia.",
+          "note": null
+        },
+        {
+          "id": "1-8",
+          "image": "/images/resize/600/80/estonia/Road_lines.png",
+          "text": "Outer road lines sometimes consist of short dashes. NOTE: Lithuania also sometimes has short dashes. In addition, Sweden primarily uses short dashes as outer road lines.",
+          "note": null
+        },
+        {
+          "id": "1-9",
+          "image": "/images/resize/600/80/estonia/Chevron.png",
+          "text": "Estonia uses red chevrons with white arrows. NOTE: Russia and Ukraine use the same chevrons. However, Latvian and Lithuanian chevrons have the opposite colour scheme: they are white with red arrows.",
+          "note": null
+        },
+        {
+          "id": "1-10",
+          "image": "/images/resize/600/80/estonia/KM_sign_Estonia.png",
+          "text": "All Baltic countries use the same blue kilometre marker. However, they can be distinguished from each other by their angle relative to the road. In Estonia, the marker will be perpendicular to the road. It has numbers on both sides of the marker. For a quick overview of all three Baltic countries, see this infographic.",
+          "note": null
+        },
+        {
+          "id": "1-11",
+          "image": "/images/resize/600/80/estonia/Estonian_Signs.png",
+          "text": "Each Baltic country has a slightly different border for its warning and speed signs. Estonian signs have a thin red border, with no white outline around it (the red border extends all the way to the edge of the sign).",
+          "note": null
+        },
+        {
+          "id": "1-12",
+          "image": "/images/resize/600/80/estonia/Guardrail.png",
+          "text": "Estonia has normal A-type guardrails with no reflectors. NOTE: The other two Baltic countries can have reflectors on their guardrails. For a good overview of European guardrails, see this infographic.",
+          "note": null
+        },
+        {
+          "id": "1-13",
+          "image": "/images/resize/600/80/estonia/Pedestrian_sign_Estonia.png",
+          "text": "Estonian pedestrian signs have 3 stripes. The shape of the pedestrian has a relatively high level of detail, detailing shoes and an attached head. NOTE: Lithuanian signs also have 3 stripes, but the pedestrian looks less detailed. Latvian pedestrian signs have 5 stripes.",
+          "note": null
+        },
+        {
+          "id": "1-14",
+          "image": "/images/resize/600/80/estonia/Bus_stop_sign.png",
+          "text": "Estonian bus stop signs have this design. The bus has four windows. This is mostly useful to distinguish it from the Latvian bus stop sign, which has five windows. Note, however, that Lithuania has the same bus stop signs as Estonia.",
+          "note": null
+        },
+        {
+          "id": "1-15",
+          "image": "/images/resize/600/80/estonia/Blue_and_white.png",
+          "text": "These blue and white signpost wrappings are very common in Estonia. NOTE: They are also common in Finland and Sweden.",
+          "note": null
+        },
+        {
+          "id": "1-16",
+          "image": "/images/resize/600/80/estonia/Estonian_language.png",
+          "text": "Estonian belongs to the Finnic languages, a branch of the Uralic language family. It is closely related to Finnish. Within the Baltic languages, the following letters are unique to Estonian: Vowels with umlauts (two dots): Ä Ö Ü. Õ with a tilde. NOTE: Latvian and Lithuanian are both Indo-European languages that are not related to Estonian, and therefore look very different.",
+          "note": null
+        },
+        {
+          "id": "1-17",
+          "image": "/images/resize/600/80/estonia/Tee_street_sign.png",
+          "text": "The Estonian words for street and road are tänav and tee, respectively. These words are unique to Estonian. Tänav is often abbreviated as ‘tn’. Many streets, especially in urban areas, have a simple name that completely lacks the tänav and or tee suffix. NOTE: The Finnish suffix -tie, meaning street, can look similar.",
+          "note": null
+        },
+        {
+          "id": "1-18",
+          "image": "/images/resize/600/80/estonia/ee_housenumber.png",
+          "text": "It is fairly common to find oval-shaped blue house numbers in Estonia. NOTE: This is not common in the other Baltic countries, but can also be found in Russia.",
+          "note": null
+        },
+        {
+          "id": "1-19",
+          "image": "/images/resize/600/80/estonia/ee_architecture.png",
+          "text": "Estonian architecture generally consists of a combination of wood and white brick, typically with somewhat steep corrugated metal roofs. Painted stone walls are also somewhat common. While wooden buildings can be found in all three Baltic countries, they are more common in Estonia.",
+          "note": null
+        },
+        {
+          "id": "1-20",
+          "image": "/images/resize/600/80/estonia/ee_directionalsign.png",
+          "text": "Directional signs in Estonia are blue with white text and a white outline. NOTE: In Finland, the arrow is built into the white border instead of being an icon inside the border. The arrow on Latvian signs is more stylized than in Estonia and Lithuania, where the back part of the arrowhead is vertical.",
+          "note": null
+        },
+        {
+          "id": "1-21",
+          "image": "/images/resize/600/80/estonia/Green_blur.png",
+          "text": "Generation 3 coverage in Estonia often has a slight green tint to part of the panorama, which is referred to as “green blur” by the community. For many players, this green blur can be hard to identify at first. The location shown in this tip’s image is a fairly extreme example. To familiarise you with how it might look in-game, here are some more examples where it is fairly visible: 1, 2, 3, 4. NOTE: This discoloration usually does not occur in Latvia and Lithuania. It can however also be found in Sweden, often on the island of Gotland.",
+          "note": null
+        },
+        {
+          "id": "1-22",
+          "image": "/images/resize/600/80/estonia/Small_road_coverage.png",
+          "text": "The Generation 3 coverage in Estonia is more extensive than the other two Baltic countries, meaning that a lot of very rural roads are covered. As a result, if you are considering guessing in one of the Baltic countries, and your location is Generation 3 on a very thin and rural road, you are slightly more likely to be in Estonia. Of course, use caution. This meta has many variables, and is not always reliable. Only use it as a last resort in no-info Baltic roulette rounds, when you have no better clues available.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Step 2 - Regional/county-specific clues",
+      "items": [
+        {
+          "id": "2-1",
+          "image": "/images/resize/600/80/estonia/img-2.png",
+          "text": "Estonia is a fairly flat country throughout, with only 10% of the country being higher than 100 metres, and the highest point being 318 metres tall. Still, the hilly parts can sometimes be recognizable. The hilliest areas are in the southeast, and the southern half of Lääne-Viru County. Note that the colours of this map are highly exaggerated to show the location of the hills more clearly.",
+          "note": null
+        },
+        {
+          "id": "2-2",
+          "image": "/images/resize/600/80/estonia/Russian_in_Estonia.png",
+          "text": "Estonia has a large Russian minority. In most of Ida-Viru County, they form a majority. As a result, you will sometimes see bilingual signs with Russian Cyrillic and Estonian in the region in and around Narva. Note that the majority of signs will still be in Estonian. You may occasionally see Cyrillic in other places.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Step 3 - Spotlight",
+      "items": [
+        {
+          "id": "3-1",
+          "image": "/images/resize/600/80/estonia/Old_Town_Tallinn.png",
+          "text": "The old town of Tallinn looks very different from any other urban area in Estonia. It is an almost perfectly preserved historic area, with lots of medieval and renaissance-era buildings. In places, it can look a lot like cities in central Europe.",
+          "note": null
+        },
+        {
+          "id": "3-2",
+          "image": "/images/resize/600/80/estonia/Kihnu.png",
+          "text": "Kihnu is a small island off the coast that has recognizable coverage: All coverage is Generation 4, taken during late autumn (recognizable by the fallen brown leaves on the ground). Noticeably, it has a very moody, dark cloud cover, taken close to sunset. If you see a combination of these two things, Kihnu is a good place to guess. NOTE: Note that near Tartu you can also get a fair amount of autumn coverage, sometimes with a fair amount of cloud cover.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Other resources",
+      "items": []
+    }
+  ]
+}

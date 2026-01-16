@@ -1,0 +1,92 @@
+{
+  "country": "Vanuatu",
+  "url": "https://www.plonkit.net/vanuatu",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:20:17.087890+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Identifying Vanuatu",
+      "items": [
+        {
+          "id": "1-1",
+          "image": "/images/resize/900/80/vanuatu/0_summary_vanuatu.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": "/images/resize/600/80/vanuatu/vanuatu_locator.png",
+          "text": "Vanuatu is an island nation located in the Pacific Ocean, northeast of Brisbane between the Solomon Islands, New Caledonia and Fiji.",
+          "note": null
+        },
+        {
+          "id": "1-3",
+          "image": "/images/resize/600/80/vanuatu/vu_trekker.png",
+          "text": "All coverage in Vanuatu was taken with a Generation 3 trekker.",
+          "note": null
+        },
+        {
+          "id": "1-4",
+          "image": "/images/resize/600/80/vanuatu/vu_soil.png",
+          "text": "The coverage was taken on a volcanic island, and as such you will often see dark volcanic soil.",
+          "note": null
+        },
+        {
+          "id": "1-5",
+          "image": "/images/resize/600/80/vanuatu/vu_tropical.png",
+          "text": "Vanuatu is a tropical island chain, with a significant part of the coverage being taken in a dense tropical forest.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Step 2 - Regional clues",
+      "items": [
+        {
+          "id": "2-1",
+          "image": "/images/resize/600/80/vanuatu/vu_coverage.png",
+          "text": "Although Vanuatu consists of 13 primary islands, only Ambrym Island has coverage. Look for the ‘Port Vato’ label on the map, north of Port Vila, to find the island.",
+          "note": null
+        },
+        {
+          "id": "2-2",
+          "image": "/images/resize/600/80/vanuatu/Volcano.png",
+          "text": "This unique volcano trekker can be found in the middle of the island.",
+          "note": null
+        },
+        {
+          "id": "2-3",
+          "image": "/images/resize/600/80/vanuatu/Plateau.png",
+          "text": "A distinct plateau with dark brown soil and patchy grass is seen east of the volcano.",
+          "note": null
+        },
+        {
+          "id": "2-4",
+          "image": "/images/resize/600/80/vanuatu/Jungle.png",
+          "text": "Tropical plants and many ferns can be seen in this jungle further to the east. A man with a red cap is also seen with the trekker.",
+          "note": null
+        },
+        {
+          "id": "2-5",
+          "image": "/images/resize/600/80/vanuatu/Beach.png",
+          "text": "A beach with black sand can be seen on the east side of the island.",
+          "note": null
+        },
+        {
+          "id": "2-6",
+          "image": "/images/resize/600/80/vanuatu/Dirt_Road.png",
+          "text": "This dirt road with tire tracks and slightly purple soil can be seen east of the beach.",
+          "note": null
+        },
+        {
+          "id": "2-7",
+          "image": "/images/resize/600/80/vanuatu/Village.png",
+          "text": "Endu Pahakol, the only village with coverage on Ambrym Island, can be recognized by the small thatched huts and dark soil.",
+          "note": null
+        }
+      ]
+    }
+  ]
+}

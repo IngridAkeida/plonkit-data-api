@@ -1,0 +1,391 @@
+{
+  "country": "Argentina",
+  "url": "https://www.plonkit.net/argentina",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:20:17.575023+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Identifying Argentina",
+      "items": [
+        {
+          "id": "1-1",
+          "image": "/images/resize/900/80/argentina/transparent-ar_summary_2026.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": "/images/resize/600/80/argentina/Argentina_License_Plate.png",
+          "text": "Argentina uses two types of licence plates: a black one, which will be visible on street view with a black dot in the middle, and a white one with a blue bar at the top. NOTE: The black dot can only be found on Argentinian licence plates, while the blue bar can be found in Brazil as well.",
+          "note": null
+        },
+        {
+          "id": "1-3",
+          "image": "/images/resize/600/80/argentina/gen3car.png",
+          "text": "Argentina has a black Google car in Generation 3 coverage. NOTE: Within South America, only Argentina, Peru and Uruguay have a black Google car.",
+          "note": null
+        },
+        {
+          "id": "1-4",
+          "image": "/images/resize/600/80/argentina/Argentina_concrete_poles.png",
+          "text": "Round concrete poles sustaining three electricity lines in an alternating pattern are very common in Argentina. Doubled up poles like in the second image is also a good clue for Argentina. NOTE: Similar doubled concrete poles can occasionally be found throughout Bolivia.",
+          "note": null
+        },
+        {
+          "id": "1-5",
+          "image": "/images/resize/600/80/argentina/Argentina_wooden_poles.png",
+          "text": "Wooden poles are somewhat common in Argentina, they can be found either with a crossbar or without. NOTE: Wooden A-frame poles in South America are only found in Argentina.",
+          "note": null
+        },
+        {
+          "id": "1-6",
+          "image": "/images/resize/600/80/argentina/ar_chevron.png",
+          "text": "Argentina typically uses white-and-red chevrons. NOTE: Argentina is the only American country with these chevrons.",
+          "note": null
+        },
+        {
+          "id": "1-7",
+          "image": "/images/resize/600/80/argentina/Argentina_roadlines.png",
+          "text": "Road lines in Argentina are mainly dashed white, double yellow or a mix in between.",
+          "note": null
+        },
+        {
+          "id": "1-8",
+          "image": "/images/resize/600/80/argentina/kmmarker.png",
+          "text": "Argentinian kilometre markers are typically white with a black strip displaying the road number at the top. NOTE: The markers on national highways are indicated with RN, while RP indicates a provincial highway. National highways will be labelled white on the map, while provincial highways will be labelled green.",
+          "note": null
+        },
+        {
+          "id": "1-9",
+          "image": "/images/resize/600/80/argentina/Copy_of_Copy_of_Untitled_286_29.png",
+          "text": "Yellow and red rectangular reflectors can often be seen on Argentinian guardrails. NOTE: Within South America, they can also be found in Uruguay. However, Uruguayan guardrails can be differentiated from Argentinian guardrails by the shape of their support.",
+          "note": null
+        },
+        {
+          "id": "1-10",
+          "image": "/images/resize/600/80/argentina/Argentina_Barren_landscape.png",
+          "text": "While Argentina features a plethora of different landscapes, most of the country is relatively flat, mostly treeless, and sparsely populated. In the absence of better clues, you should consider Argentina when you see landscapes like this with a very “wide open”, desolate feel.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Step 2 - Regional and province-specific clues",
+      "items": [
+        {
+          "id": "2-1",
+          "image": "/images/resize/600/80/argentina/Argentina_Taxi_Map_v5.png",
+          "text": "These Argentinian cities have unique and recognisable taxis. You can click on the image to enlarge it.",
+          "note": null
+        },
+        {
+          "id": "2-2",
+          "image": "/images/resize/600/80/argentina/Landscape_-_Western_Argentina.png",
+          "text": "Far western Argentina typically features a mountainous landscape. NOTE: It is rare to find mountains in eastern Argentina.",
+          "note": null
+        },
+        {
+          "id": "2-3",
+          "image": "/images/resize/600/80/argentina/ar_red_dirt.png",
+          "text": "Red soil is typically found in the Misiones province. NOTE: Brazil and Argentina can look similar in this region. Make sure to look for other clues first.",
+          "note": null
+        },
+        {
+          "id": "2-4",
+          "image": "/images/resize/600/80/argentina/ar_chaco_formosa.png",
+          "text": "In the Chaco and Formosa provinces, you will often see sandy soil with an abundance of vegetation; mainly low trees and bushes.",
+          "note": null
+        },
+        {
+          "id": "2-5",
+          "image": "/images/resize/600/80/argentina/ar_grasslands.png",
+          "text": "Grassland with a few separated tree plantations is generally found in this area.",
+          "note": null
+        },
+        {
+          "id": "2-6",
+          "image": "/images/resize/600/80/argentina/ar_ba_lakes.png",
+          "text": "Small lakes near the road are occasionally seen in the province of Buenos Aires.",
+          "note": null
+        },
+        {
+          "id": "2-7",
+          "image": "/images/resize/600/80/argentina/sanluispavement.png",
+          "text": "Roads with reddish pavement lined with long Argentine needle-grass are common in San Luis.",
+          "note": null
+        },
+        {
+          "id": "2-8",
+          "image": "/images/resize/600/80/argentina/ar_midsouth.png",
+          "text": "Flat and barren landscapes like this are typically found in central southern Argentina.",
+          "note": null
+        },
+        {
+          "id": "2-9",
+          "image": "/images/resize/600/80/argentina/ar_maxsouth.png",
+          "text": "If you see this kind of vegetation with flat grass and a low number of bushes, you are almost certainly in the state of Tierra del Fuego or southeastern Santa Cruz.",
+          "note": null
+        },
+        {
+          "id": "2-10",
+          "image": "/images/resize/600/80/argentina/ar_tree_plantations.png",
+          "text": "The majority of tree plantations in Argentina are located in the Entre Rios province. NOTE: Uruguay and southern Brazil have them as well. Make sure to look at other clues before guessing.",
+          "note": null
+        },
+        {
+          "id": "2-11",
+          "image": "/images/resize/600/80/argentina/ar_tierradelfuego_beechforests.png",
+          "text": "Beech forests are commonly found in the state of Tierra del Fuego.",
+          "note": null
+        },
+        {
+          "id": "2-12",
+          "image": "/images/resize/600/80/argentina/carandaypalm.png",
+          "text": "Coperinicia alba, also known as the Caranday Wax Palm, have short, fan-like leaves that tend to grow in low-density, single-species forests. Most common in Formosa, they can also be found in Chaco, Corrientes and northern Santa Fe.",
+          "note": null
+        },
+        {
+          "id": "2-13",
+          "image": "/images/resize/600/80/argentina/carandaynotwaxpalm.png",
+          "text": "Trithrinax Campestris, or the caranday palm, not to be confused with the Caranday Wax Palm, is a rustic palm native to the Sierras de Córdoba with a broader distribution in San Luis and northern mountainous Argentina. It can be identified by its compact fan-like leaves with a trunk hidden by a coat of dead-leaves.",
+          "note": null
+        },
+        {
+          "id": "2-14",
+          "image": "/images/resize/600/80/argentina/butiayataypalm.png",
+          "text": "The Butia yatay palm has arching, pinnate leaves and often grows at an incline with varying heights. It is most common in Corrientes and Parque Nacional El Palmar, Entre Rios.",
+          "note": null
+        },
+        {
+          "id": "2-15",
+          "image": "/images/resize/600/80/argentina/macawpalm.png",
+          "text": "The Macaw Palm has small thin leaves with a visible spear shaped top. It can be found as a decorational plant all across Argentina, however in the wild it is most common in Formosa, Chaco and Misiones.",
+          "note": null
+        },
+        {
+          "id": "2-16",
+          "image": "/images/resize/600/80/argentina/cardoncactus.png",
+          "text": "Trichocereus atacamensis, or the cardón, is a cactus native to the high elevation mountain ranges of Catamarca, Tucumán, Salta and Jujuy. It can be identified by its candelabra-like appearance and fuzzy golden brown spines.",
+          "note": null
+        },
+        {
+          "id": "2-17",
+          "image": "/images/resize/600/80/argentina/toothpickcactus.png",
+          "text": "Stetsonia coryne, or the toothpick cactus, is a large tree-like cactus with many branches and spines resembling toothpicks. Its habitat includes a hotspot between Catamarca and Cordoba as well as the border area between Chaco, Salta and Formosa.",
+          "note": null
+        },
+        {
+          "id": "2-18",
+          "image": "/images/resize/600/80/argentina/wildsunflower.png",
+          "text": "Wild sunflowers (Tithonia tubaeformis) are often found in Salta, Jujuy and Tucumán.",
+          "note": null
+        },
+        {
+          "id": "2-19",
+          "image": "/images/resize/600/80/argentina/calden.png",
+          "text": "Prosopis caldenia, known as the caldén, is a decently large deciduous tree with small leaves and sinuous branches. It is mainly found in La Pampa. NOTE: This tree can sometimes be confused with other trees such as the White Carob.",
+          "note": null
+        },
+        {
+          "id": "2-20",
+          "image": "/images/resize/600/80/argentina/pampasgrass.png",
+          "text": "Pampas grass (Cortaderia selloana) is one of the most defining flora of the Pampas region. It is recognizable by its long bunched reeds and white fluffy flowerheads.",
+          "note": null
+        },
+        {
+          "id": "2-21",
+          "image": "/images/resize/600/80/argentina/sugarcane.png",
+          "text": "Sugarcane plantations are most common in Tucumán, with hotspots appearing in Salta and Jujuy.",
+          "note": null
+        },
+        {
+          "id": "2-22",
+          "image": "/images/resize/600/80/argentina/sorghum.png",
+          "text": "Fields of sorghum can most commonly be seen in Santa Fe, Córdoba and Buenos Aires. It can be identified by its dark red flowerheads.",
+          "note": null
+        },
+        {
+          "id": "2-23",
+          "image": "/images/resize/600/80/argentina/corn.png",
+          "text": "Corn fields can be found in most of northern Argentina, however they are most common in Córdoba, Buenos Aires and Santiago del Estero.",
+          "note": null
+        },
+        {
+          "id": "2-24",
+          "image": "/images/resize/600/80/argentina/sunflower.png",
+          "text": "Fields of sunflowers are mainly found in southern Chaco, and less commonly in Buenos Aires and southern Córdoba.",
+          "note": null
+        },
+        {
+          "id": "2-25",
+          "image": "/images/resize/600/80/argentina/la_Rioja_and_Mendoza_Pole.png",
+          "text": "Within Argentina, these Latvian style wooden hook poles are unique to La Rioja and Mendoza.",
+          "note": null
+        },
+        {
+          "id": "2-26",
+          "image": "/images/resize/600/80/argentina/mendozapole.png",
+          "text": "In Mendoza, poles with a single insulator attached to the side of the pole can be found.",
+          "note": null
+        },
+        {
+          "id": "2-27",
+          "image": "/images/resize/600/80/argentina/tucumanpolesticker.png",
+          "text": "White vertical pole stickers with several digits can be found in Tucumán.",
+          "note": null
+        },
+        {
+          "id": "2-28",
+          "image": "/images/resize/600/80/argentina/Cordoba_Markers.png",
+          "text": "You can find these unique markers on provincial roads in Cordoba.",
+          "note": null
+        },
+        {
+          "id": "2-29",
+          "image": "/images/resize/600/80/argentina/LaPampa_Chevrons_Hint.png",
+          "text": "T-Junctions in La Pampa sometimes have these yellow rectangular signs, with a chevron pattern on the bottom, and the Road Number(s) above, with an arrow on both sides.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Step 3 - Spotlight",
+      "items": [
+        {
+          "id": "3-1",
+          "image": "/images/resize/600/80/argentina/ar_bolivianbrick.png",
+          "text": "Red bricks, similar to what is common in Bolivia, can be found in the northwest of the country, especially in western Jujuy.",
+          "note": null
+        },
+        {
+          "id": "3-2",
+          "image": "/images/resize/600/80/argentina/mardelplataarchitecture.png",
+          "text": "In Mar Del Plata and surrounding cities (such as Miramar and Necochea), a unique style of architecture can be found. Its main features include quartzite stoned facades, orange tiled roofs, attached garages, and vault shaped porches.",
+          "note": null
+        },
+        {
+          "id": "3-3",
+          "image": "/images/resize/600/80/argentina/pinktrumpettree.png",
+          "text": "The Pink Trumpet Tree (Handroanthus impetiginosus) can be found in cities in northern Salta such as Orán, Tartagal and General Mosconi.",
+          "note": null
+        },
+        {
+          "id": "3-4",
+          "image": "/images/resize/600/80/argentina/ar_salt_flats.png",
+          "text": "Salt pans in Argentina are typically found in Jujuy. NOTE: They can also be found in southwestern Bolivia and northeastern Chile, but without Generation 4 coverage.",
+          "note": null
+        },
+        {
+          "id": "3-5",
+          "image": "/images/resize/600/80/argentina/ar_red_mountains.png",
+          "text": "These red mountains are unique to the RN68 valley in southern Salta.",
+          "note": null
+        },
+        {
+          "id": "3-6",
+          "image": "/images/resize/600/80/argentina/ar_volcanic_rocks.png",
+          "text": "These volcanic rocks in Generation 4 coverage can only be found on the RP43 south of Antofagasta de la Sierra in northwestern Catamarca.",
+          "note": null
+        },
+        {
+          "id": "3-7",
+          "image": "/images/resize/600/80/argentina/arg_rn65.png",
+          "text": "The western part of the RN65 in western Tucumán can easily be recognized by this bendy unpaved road up in the mountains with its western part up in the clouds.",
+          "note": null
+        },
+        {
+          "id": "3-8",
+          "image": "/images/resize/600/80/argentina/ar_tampalaya.png",
+          "text": "Red soil with a barren landscape and mountain ranges, can often be seen on the RN76 in Parque Nacional Talampaya in western La Rioja.",
+          "note": null
+        },
+        {
+          "id": "3-9",
+          "image": "/images/resize/600/80/argentina/ar_mendoza_mountains.png",
+          "text": "These mountains are typically found west of Córdoba. NOTE: They are not as high as the mountains in the west.",
+          "note": null
+        },
+        {
+          "id": "3-10",
+          "image": "/images/resize/600/80/argentina/ar_horse_trekker.png",
+          "text": "This horse trekker can be found in southwestern San Juan. NOTE: A similar trekker can be found on the other side in Chile.",
+          "note": null
+        },
+        {
+          "id": "3-11",
+          "image": "/images/resize/600/80/argentina/arg_mendoza_vineyards.png",
+          "text": "If you see vineyards with mountains in the west and flatness in the east, you are most likely in the outskirts of Mendoza. NOTE: There are multiple wine regions in Argentina, but the Mendoza wine region is the most recognisable one of them all.",
+          "note": null
+        },
+        {
+          "id": "3-12",
+          "image": "/images/resize/600/80/argentina/arg_hills.png",
+          "text": "Semi-coastal grass hills are seen in southern Buenos Aires, especially northeast of Bahía Blanca.",
+          "note": null
+        },
+        {
+          "id": "3-13",
+          "image": "/images/resize/600/80/argentina/nequen_monkey_tree.png",
+          "text": "The monkey puzzle tree can be found in western Neuquen. The most specimens are seen on state road 23. NOTE: They are seen on the other side in Chile as well.",
+          "note": null
+        },
+        {
+          "id": "3-14",
+          "image": "/images/resize/600/80/argentina/neuquensunset.png",
+          "text": "Sunrise coverage with degraded image quality is found on the RN40 just south of the Mendoza border with Neuquén. NOTE: The quality of the coverage improves closer to the border.",
+          "note": null
+        },
+        {
+          "id": "3-15",
+          "image": "/images/resize/600/80/argentina/Sunset_251-22_1.png",
+          "text": "Sunrise coverage with bad image quality and multiple blurs is found on a short part of the RN251 and RN22, west of Río Colorado.",
+          "note": null
+        },
+        {
+          "id": "3-16",
+          "image": "/images/resize/600/80/argentina/sawdust_arg.png",
+          "text": "The “sawdust” car is found in centre-south Argentina and has a unique sandy dust on its visible black back.",
+          "note": null
+        },
+        {
+          "id": "3-17",
+          "image": "/images/resize/600/80/argentina/Villa_Dique_Florentino_Ameghino.png",
+          "text": "Villa Dique Florentino Ameghino in northeastern Chubut is surrounded by these rock formations. NOTE: Sometimes you will be able to see this dam in the west.",
+          "note": null
+        },
+        {
+          "id": "3-18",
+          "image": "/images/resize/600/80/argentina/comodora_rivadavia.png",
+          "text": "Comodoro Rivadavia is built on the slopes of Chenque hill, making the city recognisable.",
+          "note": null
+        },
+        {
+          "id": "3-19",
+          "image": "/images/resize/600/80/argentina/rp25.png",
+          "text": "This snow coverage is found on the eastern RP25 in eastern Santa Cruz.",
+          "note": null
+        },
+        {
+          "id": "3-20",
+          "image": "/images/resize/600/80/argentina/rn293.png",
+          "text": "Melting snow coverage is seen on the eastern RN293 close to the Chilean border in southwestern Santa Cruz.",
+          "note": null
+        },
+        {
+          "id": "3-21",
+          "image": "/images/resize/600/80/argentina/ushuaia.png",
+          "text": "These snowy mountains to the north can only be found in Ushuaia. NOTE: Ushuaia is the southernmost city of Argentina and the province capital of Tierra del Fuego.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Step 4 - Maps and resources",
+      "items": []
+    }
+  ]
+}

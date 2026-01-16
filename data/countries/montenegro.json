@@ -1,0 +1,169 @@
+{
+  "country": "Montenegro",
+  "url": "https://www.plonkit.net/montenegro",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:19:01.487188+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Identifying Montenegro",
+      "items": [
+        {
+          "id": "1-1",
+          "image": "/images/resize/900/80/montenegro/0_summary_montenegro.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": "/images/resize/600/80/montenegro/Montenegro_Licence_Plate.png",
+          "text": "Montenegro uses the standard European plate with a blue strip, and the Montenegro coat of arms on a red circle. The red circle is visible through the blur. NOTE: The white section of Albanian licence plates do not have a red circle.",
+          "note": null
+        },
+        {
+          "id": "1-3",
+          "image": "/images/resize/600/80/montenegro/General_Landscape.png",
+          "text": "Montenegro is a small, mountainous country. Inland mountains are lush and green, while most coastal mountains have distinct exposed, light coloured rock. Most roads are also only 1 or 2 lanes wide.",
+          "note": null
+        },
+        {
+          "id": "1-4",
+          "image": "/images/resize/600/80/montenegro/Bollard.png",
+          "text": "The most common bollard is white with a red reflector on the front and a white one on the back. The bollard also has a black top. NOTE: These bollards are also found in Slovenia.",
+          "note": null
+        },
+        {
+          "id": "1-5",
+          "image": "/images/resize/600/80/montenegro/Chevrons.png",
+          "text": "Montenegro uses black on white or red on yellow chevrons. NOTE: Albania uses white on black chevrons.",
+          "note": null
+        },
+        {
+          "id": "1-6",
+          "image": "/images/resize/600/80/montenegro/Guardrail.png",
+          "text": "Guardrails in Montenegro are often rusted.",
+          "note": null
+        },
+        {
+          "id": "1-7",
+          "image": "/images/resize/600/80/montenegro/me_abguardrail.png",
+          "text": "Montenegro is the only Balkan country where you’ll commonly see both A-type and B-type guardrails. NOTE: For a good overview of European guardrails, see this infographic.",
+          "note": null
+        },
+        {
+          "id": "1-8",
+          "image": "/images/resize/600/80/montenegro/Poles.png",
+          "text": "Montenegro uses simple round concrete or wooden poles.",
+          "note": null
+        },
+        {
+          "id": "1-9",
+          "image": "/images/resize/600/80/montenegro/Rifts.png",
+          "text": "‘Rifts’ can commonly be seen in Montenegrin coverage, due to poor stitching. NOTE: Rifts are also common in Albania, and can rarely be seen in various other countries.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Step 2 - Regional and municipality-specific clues",
+      "items": [
+        {
+          "id": "2-1",
+          "image": "/images/resize/600/80/montenegro/me_coverage.png",
+          "text": "Coverage in Montenegro is limited to main roads, with very few minor roads covered. The only main road not covered is the A1, south of Kolasin.",
+          "note": null
+        },
+        {
+          "id": "2-2",
+          "image": "/images/resize/600/80/montenegro/me_riftmap_v2.png",
+          "text": "This map shows the distribution of where rifts are found. Although rifts are common in Montenegro, coastal rounds will almost never have them. By the coast, there will be a short antenna with no rifts. There will be a long antenna with rifts inland. NOTE: An exception to this is the area around the coastal villages of Utjeha and Dobra Voda. You can click on the image to enlarge it.",
+          "note": null
+        },
+        {
+          "id": "2-3",
+          "image": "/images/resize/600/80/montenegro/Northern_Look.png",
+          "text": "Green, agricultural valleys with deforested hills to make way for farmland are most commonly seen in the north.",
+          "note": null
+        },
+        {
+          "id": "2-4",
+          "image": "/images/resize/600/80/montenegro/Bay_of_Kotor.png",
+          "text": "The Bay of Kotor has a touristy and populated feel to it, with many people dressed in swimwear. A distinct steep, rocky ridge can also be seen.",
+          "note": null
+        },
+        {
+          "id": "2-5",
+          "image": "/images/resize/600/80/montenegro/PodgoTuzi.png",
+          "text": "Dry mountains with a lack of trees are seen around Podgorica, and to the south of it. Vineyards are also commonly seen in this region.",
+          "note": null
+        },
+        {
+          "id": "2-6",
+          "image": "/images/resize/600/80/montenegro/Pine_Forests.png",
+          "text": "Pine forests can be found in the north and a small area north of Nikšić, but most commonly in the east.",
+          "note": null
+        },
+        {
+          "id": "2-7",
+          "image": "/images/resize/600/80/montenegro/Durmitor_National_Park.png",
+          "text": "Durmitor National Park can be recognized by a distinct landscape consisting of grassy, treeless mountains with a high-altitude feel. The town of Žabljak is situated in this national park, and can be recognized by the landscape but also by the unique architecture.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Step 3 - Spotlight",
+      "items": [
+        {
+          "id": "3-1",
+          "image": "/images/resize/600/80/montenegro/Podgorica.png",
+          "text": "Podgorica is the capital and largest city in Montenegro, and can be recognized by the modern buildings, wide roads and modern infrastructure.",
+          "note": null
+        },
+        {
+          "id": "3-2",
+          "image": "/images/resize/600/80/montenegro/Cemi_River_Valley.png",
+          "text": "These distinct staircase-like mountainsides can be seen in the Cemi River Valley.",
+          "note": null
+        },
+        {
+          "id": "3-3",
+          "image": "/images/resize/600/80/montenegro/Slansko_Lake.png",
+          "text": "Many small islands can be seen within Slansko Lake.",
+          "note": null
+        },
+        {
+          "id": "3-4",
+          "image": "/images/resize/600/80/montenegro/Coal_Mine.png",
+          "text": "The Pljevlja Coal Mine can be recognized by the wide, artificial wall of gravel. The mine can often be seen from afar.",
+          "note": null
+        },
+        {
+          "id": "3-5",
+          "image": "/images/resize/600/80/montenegro/P15_Police.png",
+          "text": "The Google Car can be seen chasing this police car on the P15, between Lovcen National Park and Čevo.",
+          "note": null
+        },
+        {
+          "id": "3-6",
+          "image": "/images/resize/600/80/montenegro/E80_Yellow_Outers.png",
+          "text": "The southern part of the E80, between Orahovo and Đurmani, can be recognized by the yellow outer lines.",
+          "note": null
+        },
+        {
+          "id": "3-7",
+          "image": "/images/resize/600/80/montenegro/Skadar_Lake_Bridge.png",
+          "text": "The Skadar Lake Bridge can be recognized by the railway and stone bollards next to the road.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Step 4 - Maps and resources",
+      "items": []
+    }
+  ]
+}

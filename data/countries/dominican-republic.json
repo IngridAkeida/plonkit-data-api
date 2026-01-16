@@ -1,0 +1,110 @@
+{
+  "country": "Dominican Republic",
+  "url": "https://www.plonkit.net/dominican-republic",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:19:47.009672+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Identifying the Dominican Republic",
+      "items": [
+        {
+          "id": "1-1",
+          "image": "/images/resize/900/80/dominican-republic/0_Copy_of_Copy_of_Infographic__281_29.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": "/images/resize/600/80/dominican-republic/googlecar.png",
+          "text": "This unique car was used for all street view coverage in the Dominican Republic. It can be recognized by the two metal bars, the thick black stripes on them, as well as the white hood visible at the front. NOTE: These stripes can also be found on one of the Mongolian cars, but the landscape should allow you to tell them apart. Within the Americas, you will also see metal bars in Guatemala and Curaçao. However, they will not have thick black stripes.",
+          "note": null
+        },
+        {
+          "id": "1-3",
+          "image": "/images/resize/600/80/dominican-republic/Copy_of_Copy_of_Copy_of_Copy_of_Copy_of_Copy_of_Copy_of_Small_Pin__282_29.png",
+          "text": "Most electricity poles are square and concrete, with a reverse “L” shape at the top. Less commonly, round or octagonal poles are used. NOTE: Within the Americas, only the Dominican Republic, Puerto Rico and Uruguay use square poles.",
+          "note": null
+        },
+        {
+          "id": "1-4",
+          "image": "/images/resize/600/80/dominican-republic/Dominican_Republic_License_Plate.png",
+          "text": "DR licence plates are somewhat reminiscent of New Jersey plates, being pale yellow at the top and white at the bottom. NOTE: The Dominican Republic is the only part of Latin America, apart from Puerto Rico and Panama, where front plates are not required.",
+          "note": null
+        },
+        {
+          "id": "1-5",
+          "image": "/images/resize/600/80/dominican-republic/smoothasphalt.png",
+          "text": "Roads in the Dominican Republic are often made of this smooth asphalt, which has a noticeably darker colour than in other countries.",
+          "note": null
+        },
+        {
+          "id": "1-6",
+          "image": "/images/resize/600/80/dominican-republic/pare.png",
+          "text": "Despite being located in Central America, stop signs in DR contain the South American “PARE”. Moreover, many signs are attached to yellow signposts. NOTE: ‘PARE’ is also used in all of South America as well as Puerto Rico.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Step 2 - Regional and province-specific clues",
+      "items": [
+        {
+          "id": "2-1",
+          "image": "/images/resize/600/80/dominican-republic/do_coveragemap.png",
+          "text": "Street View coverage in the Dominican Republic is very limited. Only the capital Santo Domingo and the Northern city of Santiago de los Caballeros are covered.",
+          "note": null
+        },
+        {
+          "id": "2-2",
+          "image": "/images/resize/600/80/dominican-republic/Landscape_-_Santiago_de_los_Caballeros_Mountains.png",
+          "text": "If you have mountains to the North, you will always be in Santiago de los Caballeros. NOTE: Although some parts of Santo Domingo are hilly, you will never see proper mountains like this one.",
+          "note": null
+        },
+        {
+          "id": "2-3",
+          "image": "/images/resize/600/80/dominican-republic/Santiago_de_los_Caballeros_Traffic_Light_Poles.png",
+          "text": "Yellow traffic light poles are typically found in the city of Santiago de los Caballeros. NOTE: This only applies to traffic light poles - yellow signposts are common in both cities.",
+          "note": null
+        },
+        {
+          "id": "2-4",
+          "image": "/images/resize/600/80/dominican-republic/Santo_Domingo_Developed.png",
+          "text": "As the capital and largest city, Santo Domingo has a more developed downtown area, with tall buildings and wide avenues.",
+          "note": null
+        },
+        {
+          "id": "2-5",
+          "image": "/images/resize/600/80/dominican-republic/Santo_Domingo_ADN_Signs.png",
+          "text": "Street name signs in Santo Domingo often contain the letters “ADN”, a reference to the Distrito Nacional, which the city is located in.",
+          "note": null
+        },
+        {
+          "id": "2-6",
+          "image": "/images/resize/600/80/dominican-republic/Santo_Domingo_Striped_Poles.png",
+          "text": "These black-and-purple pole markings are only found on poles in the Santo Domingo area.",
+          "note": null
+        },
+        {
+          "id": "2-7",
+          "image": "/images/resize/600/80/dominican-republic/Landscape_-_Santo_Domingo_Outskirts.png",
+          "text": "This type of landscape is found on the outskirts of Santo Domingo. It is characterised by narrow dirt tracks, whitish dirt, dried green shrubbery and debris next to the road.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Step 3 - Spotlight",
+      "items": [
+        {
+          "id": "3-1",
+          "image": "/images/resize/600/80/dominican-republic/Santo_Domingo_Evening_Coverage.png",
+          "text": "A small portion of the coverage in Santo Domingo was taken late in the evening. Similar imagery does not exist in Santiago de los Caballeros.",
+          "note": null
+        }
+      ]
+    }
+  ]
+}

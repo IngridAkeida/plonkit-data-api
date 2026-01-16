@@ -1,0 +1,62 @@
+{
+  "country": "South Georgia & Sandwich Islands",
+  "url": "https://www.plonkit.net/south-georgia-sandwich-islands",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:20:35.680092+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Location",
+      "items": [
+        {
+          "id": "1-1",
+          "image": "/images/resize/900/80/south-georgia-sandwich-islands/0_summary_south_georgia.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": "/images/resize/600/80/south-georgia-sandwich-islands/1024px-South_Georgia_and_the_South_Sandwich_Islands_in_United_Kingdom.svg.png",
+          "text": "South Georgia and the South Sandwich Islands are a British Overseas Territory east of the Falkland Islands. As such, for country streaks purposes, they are counted as the UK. Coverage is very limited: there are only a couple of Generation 3 trekkers: One trekker in the abandoned town of Grytviken Three trekkers in the isolated fjords of the rest of the island. Due to the sparse nature of the coverage, that is also entirely not on any streets, it is not useful to learn any territory identification metas. Instead, it is better to just memorise what the trekkers look like.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Step 2 - Trekker tips",
+      "items": [
+        {
+          "id": "2-1",
+          "image": "/images/resize/600/80/south-georgia-sandwich-islands/South_Georgia_Abandoned.png",
+          "text": "Abandoned, rusted machinery can be seen in Grytviken. Grytviken is the only pinpointable trekker in South Georgia. Therefore, this trekker appears in pinpointable maps like A Community World.",
+          "note": null
+        },
+        {
+          "id": "2-2",
+          "image": "/images/resize/600/80/south-georgia-sandwich-islands/South_Georgia_Grytviken.png",
+          "text": "A church and another building made of white painted wood can also be seen in Grytviken.",
+          "note": null
+        },
+        {
+          "id": "2-3",
+          "image": "/images/resize/600/80/south-georgia-sandwich-islands/South_Georgia_Valley.png",
+          "text": "This wide open valley with lightly snow capped mountains can be seen on the west side of South Georgia Island.",
+          "note": null
+        },
+        {
+          "id": "2-4",
+          "image": "/images/resize/600/80/south-georgia-sandwich-islands/South_Georgia_Prion_Island.png",
+          "text": "Prion Island can be recognized by the wooden walkway, lush green plants and numerous seals which inhabit the island.",
+          "note": null
+        },
+        {
+          "id": "2-5",
+          "image": "/images/resize/600/80/south-georgia-sandwich-islands/South_Georgia_Boat.png",
+          "text": "This boat trekker in Hercules Bay can be recognized by a man in a red jacket and the MS National Geographic Explorer in the background.",
+          "note": null
+        }
+      ]
+    }
+  ]
+}

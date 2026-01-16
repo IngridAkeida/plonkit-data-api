@@ -1,0 +1,50 @@
+{
+  "country": "Iraq",
+  "url": "https://www.plonkit.net/iraq",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:17:46.574716+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Identifying Iraq",
+      "items": [
+        {
+          "id": "1-1",
+          "image": "/images/resize/900/80/iraq/0_iraq_summary.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": "/images/resize/600/80/iraq/Coverage_location.png",
+          "text": "The coverage in Iraq is limited to a single trekker in the Iraqi National Museum in Baghdad.",
+          "note": null
+        },
+        {
+          "id": "1-3",
+          "image": "/images/resize/600/80/iraq/Trekker_mounted_on_cart.png",
+          "text": "All of the coverage in Iraq is taken by a trekker with a camera similar to Gen 2 but with distinctly worse image quality and colour. This coverage tends to be overexposed, even becoming blindingly so at some points. NOTE: This camera quality is sometimes referred to as Gen 1.5.",
+          "note": null
+        },
+        {
+          "id": "1-4",
+          "image": "/images/resize/600/80/iraq/Bild_2022-07-01_181801364.png",
+          "text": "The trekker blur has a well-defined, pointed shape.",
+          "note": null
+        },
+        {
+          "id": "1-5",
+          "image": "/images/resize/600/80/iraq/Bild_2022-07-01_181856327.png",
+          "text": "The only piece of coverage outdoors is a small patio with a diagonal walkway. In this patio you can see many date palms. This is the only piece of the coverage that can rarely appear on serious maps.",
+          "note": null
+        },
+        {
+          "id": "1-6",
+          "image": "/images/resize/600/80/iraq/Steeles.png",
+          "text": "The inside of the museum features statues, steles, a variety of artefacts, and a few back rooms.",
+          "note": null
+        }
+      ]
+    }
+  ]
+}

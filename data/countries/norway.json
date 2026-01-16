@@ -1,0 +1,367 @@
+{
+  "country": "Norway",
+  "url": "https://www.plonkit.net/norway",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:19:05.952090+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Identifying Norway",
+      "items": [
+        {
+          "id": "1-1",
+          "image": "/images/resize/900/80/norway/0_no_summary.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": "/images/resize/600/80/norway/no_landscape.png",
+          "text": "Norway is a very mountainous country, with many fjords along most of the coast. NOTE: Finland and Denmark are both mostly flat, while Sweden has a mixture of flat, hilly and mountainous areas.",
+          "note": null
+        },
+        {
+          "id": "1-3",
+          "image": "/images/resize/600/80/norway/no_architecture.png",
+          "text": "The vast majority of Norwegian houses are made of wood. Many houses are painted red, which is also typical for Sweden and Finland. Black painted houses are also quite common, more so than in Sweden or Finland. NOTE: While the architecture is very similar to that of Sweden and Finland, there are some small, general differences. Sweden and Finland generally have more red and yellow houses, while Norway generally has more white houses. There is also a larger percentage of wooden houses in suburbs and near town centres in Norway than in Sweden and Finland, which use more brick than Norway.",
+          "note": null
+        },
+        {
+          "id": "1-4",
+          "image": "/images/resize/600/80/norway/no_licenceplate.png",
+          "text": "Norway has long white licence plates with the standard European strip on the left. Commercial plates are green. These are often seen on vans. NOTE: Within Europe, green licence plates are most commonly seen in Norway, but can also be found on electric vehicles in several other countries.",
+          "note": null
+        },
+        {
+          "id": "1-5",
+          "image": "/images/resize/600/80/norway/no_roadlines.png",
+          "text": "Smaller Norwegian roads typically have long dashed white outer lines, while larger roads have solid outer lines and yellow middle lines. The yellow lines have a distinct tinge of orange. NOTE: Sweden only has white road lines, and the dashes on outer lines are shorter than in Norway. Finnish outer road lines are always solid, and middle lines can be yellow or white.",
+          "note": null
+        },
+        {
+          "id": "1-6",
+          "image": "/images/resize/600/80/norway/no_roadlinepattern.png",
+          "text": "Road lines will often be made up of small dots of paint.",
+          "note": null
+        },
+        {
+          "id": "1-7",
+          "image": "/images/resize/600/80/norway/no_language.png",
+          "text": "The Norwegian language contains the special letters Æ, Ø and Å. NOTE: The special letters found in Norwegian can also be found in some of the other Northern Germanic languages: Danish uses Æ, Ø and Å. Swedish uses Å, but not Æ or Ø. Norwegian also uses more E’s than Swedish, while Swedish uses more A’s instead. Norwegian uses “kk” where Swedish uses “ck”. Icelandic uses Æ, but not Ø or Å. Finnish uses Å, although it is viewed as a Swedish letter.",
+          "note": null
+        },
+        {
+          "id": "1-8",
+          "image": "/images/resize/600/80/norway/no_bollard.png",
+          "text": "Norway uses thin, curved rectangular bollards with the reflector inside of a black parallelogram.",
+          "note": null
+        },
+        {
+          "id": "1-9",
+          "image": "/images/resize/600/80/norway/no_snowpole.png",
+          "text": "Norwegian snow poles are typically orange, with a fairly thin white reflector. The reflector is normally toward the middle of the pole. NOTE: Swedish snow poles typically have a wider reflector slightly higher up, and Finnish snow poles have their reflector at the very top.",
+          "note": null
+        },
+        {
+          "id": "1-10",
+          "image": "/images/resize/600/80/norway/no_snowpolewood.png",
+          "text": "It is also fairly common to find thin wooden snow poles with painted reflectors. NOTE: While wooden snow poles can be found in other Nordic countries, they will typically not have reflectors.",
+          "note": null
+        },
+        {
+          "id": "1-11",
+          "image": "/images/resize/600/80/norway/no_woodenguardrailsupport.png",
+          "text": "Guardrails often have wooden posts. NOTE: This is not common in Sweden or Finland.",
+          "note": null
+        },
+        {
+          "id": "1-12",
+          "image": "/images/resize/600/80/norway/no_pedestriansign.png",
+          "text": "Norwegian pedestrian signs typically have four stripes and a very simply drawn person. Note however, that there is a version with five stripes and a version where the person is more detailed and wearing a hat. NOTE: While Finnish pedestrian signs have five stripes, Swedish pedestrian signs have four stripes. However, the person on Swedish signs is detailed, but without a hat.",
+          "note": null
+        },
+        {
+          "id": "1-13",
+          "image": "/images/resize/600/80/norway/no_directionalsigns.png",
+          "text": "Norwegian directional signs are yellow with a black border. You will commonly see the road number displayed, either in a green box for European highways and major roads, or in a white box, for smaller roads.",
+          "note": null
+        },
+        {
+          "id": "1-14",
+          "image": "/images/resize/600/80/norway/no_msign.png",
+          "text": "On smaller roads, it is common to see these blue signs with a large white M. NOTE: Similar signs can be found in Sweden, however the font is distinctly different. The middle point of the M does not extend to the bottom of the letter. There are no similar signs in Finland.",
+          "note": null
+        },
+        {
+          "id": "1-15",
+          "image": "/images/resize/600/80/norway/no_busstop.png",
+          "text": "Norwegian bus stops usually have this small, blue sign with a white bus. NOTE: Sweden has a lot of different bus stops, none of which look like this.",
+          "note": null
+        },
+        {
+          "id": "1-16",
+          "image": "/images/resize/600/80/norway/no_sone.png",
+          "text": "White signs with the text “Sone”, generally featuring a speed limit, are common in urban areas.",
+          "note": null
+        },
+        {
+          "id": "1-17",
+          "image": "/images/resize/600/80/norway/no_streetnames.png",
+          "text": "The most common street name suffixes in Norway are vei and gate. While attached to the name, they take the forms -veien and -gata or -gate. NOTE: Swedish street names use the suffixes väg or vägen and gata or gatan, where gata is always detached from the name. Danish uses vej and gade.",
+          "note": null
+        },
+        {
+          "id": "1-18",
+          "image": "/images/resize/600/80/norway/no_streetsignattachment.png",
+          "text": "Street signs will generally be centred on top of sign posts. NOTE: Street signs in Sweden will normally be attached either to the side of sign posts or lamp posts.",
+          "note": null
+        },
+        {
+          "id": "1-19",
+          "image": "/images/resize/600/80/norway/no_roadsigns.png",
+          "text": "Norwegian traffic signs have a red outline and a white background. NOTE: Both Swedish and Finnish road signs have a yellow background.",
+          "note": null
+        },
+        {
+          "id": "1-20",
+          "image": "/images/resize/600/80/norway/no_constructionsign.png",
+          "text": "You can also find these road construction signs, with a bright yellow background.",
+          "note": null
+        },
+        {
+          "id": "1-21",
+          "image": "/images/resize/600/80/norway/no_signbolt.png",
+          "text": "Most smaller road signs will be attached with four visible sign bolts in the shape of a tall rectangle. Beware that you may occasionally find framed signs instead, particularly in urban settings.",
+          "note": null
+        },
+        {
+          "id": "1-22",
+          "image": "/images/resize/600/80/norway/no_chevron.png",
+          "text": "Norway uses yellow on black chevrons.",
+          "note": null
+        },
+        {
+          "id": "1-23",
+          "image": "/images/resize/600/80/norway/no_kmmarker.png",
+          "text": "Small white square signs, displaying the road number on top, and the distance to the closest town, are common to see along medium sized roads. The road number will be preceded either by an R or an F. F roads show up as Fv on the map and are generally difficult to locate, while R roads lack any letters on the map and are generally more findable.",
+          "note": null
+        },
+        {
+          "id": "1-24",
+          "image": "/images/resize/600/80/norway/no_poles.png",
+          "text": "Norwegian poles are normally wooden and often have a small black metal cap on the top. NOTE: This metal cap is also common in both Sweden and Finland.",
+          "note": null
+        },
+        {
+          "id": "1-25",
+          "image": "/images/resize/600/80/norway/no_lamp.png",
+          "text": "Lamps attached to wooden poles in Norway are normally mounted to the pole with a thick single bolting. NOTE: Sweden and Finland use double bolting.",
+          "note": null
+        },
+        {
+          "id": "1-26",
+          "image": "/images/resize/600/80/norway/no_grassroof.png",
+          "text": "Traditional houses in Norway commonly have grass covered roofs. NOTE: This is far less common in Sweden and Finland.",
+          "note": null
+        },
+        {
+          "id": "1-27",
+          "image": "/images/resize/600/80/norway/europe_smallcam.png",
+          "text": "Norway has Generation 4 “smallcam” coverage, which is mounted lower than regular Generation 4 and has a relatively big circular blur with a small protrusion at the front. The blur can also be fully transparent, making it harder to spot. NOTE: Most of Northern Europe also has smallcam.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Step 2 - Region-specific clues",
+      "items": [
+        {
+          "id": "2-1",
+          "image": "/images/resize/600/80/norway/no_roadnumbers_darkmode.webp",
+          "text": "The first digit of Norwegian road numbers are region dependent. Note that there are some exceptions among single and two-digit roads. There are also a small number of roads beginning with a 9: Road 9, going north of Kristiansand, and a couple of two-digit roads in the far north. NOTE: Regional roads starting with “Fv” do not follow this pattern.",
+          "note": null
+        },
+        {
+          "id": "2-2",
+          "image": "/images/resize/600/80/norway/no_sami.png",
+          "text": "Bilingual signs with Sámi can be found in several northern areas in Norway. While the Sámi languages are very different from Norwegian, the best way to recognize them are the letters Á, Đ and the use of several vowels in a row, something which is uncommon in Norwegian. Note that not all signs in these areas will be bilingual.",
+          "note": null
+        },
+        {
+          "id": "2-3",
+          "image": "/images/resize/600/80/norway/no_ferns.png",
+          "text": "This species of fern (Pteridium aquilinum, also known as bracken) which typically has a fairly tall stem and many wide leafs branching out, is mostly found in the south of Norway. Beware that other species of ferns can be found further north.",
+          "note": null
+        },
+        {
+          "id": "2-4",
+          "image": "/images/resize/600/80/norway/no_spruce.png",
+          "text": "Spruces are mainly found in the southern half of the country, particularly in the southeast and around Trondheim.",
+          "note": null
+        },
+        {
+          "id": "2-5",
+          "image": "/images/resize/600/80/norway/no_pine.png",
+          "text": "Pines are most common in coastal and far inland areas in the southern half of the country.",
+          "note": null
+        },
+        {
+          "id": "2-6",
+          "image": "/images/resize/600/80/norway/no_oak.png",
+          "text": "Oaks are mainly found in the far south of Norway.",
+          "note": null
+        },
+        {
+          "id": "2-7",
+          "image": "/images/resize/600/80/norway/no_maple.png",
+          "text": "Maples are mainly found in the south, particularly by the farmlands around Oslo.",
+          "note": null
+        },
+        {
+          "id": "2-8",
+          "image": "/images/resize/600/80/norway/no_moss.png",
+          "text": "Brightly coloured moss is common to find in the area between Lillehammer and Oppdal.",
+          "note": null
+        },
+        {
+          "id": "2-9",
+          "image": "/images/resize/600/80/norway/no_farmlands.png",
+          "text": "Large farmlands are mainly found in three areas, the southeast, the area surrounding Trondheim, and south of Stavanger. The following clues will explain how to differentiate between the three.",
+          "note": null
+        },
+        {
+          "id": "2-10",
+          "image": "/images/resize/600/80/norway/no_farmlandsoslo.png",
+          "text": "The largest concentration of farmland is found in the southeast, in the general vicinity of Oslo. The area is much flatter than most of the country, and it is common to get a rolling landscape with smooth, round forested hills in the distance. The area southeast of Oslo is particularly flat.",
+          "note": null
+        },
+        {
+          "id": "2-11",
+          "image": "/images/resize/600/80/norway/no_farmlandstrondheim.png",
+          "text": "The farmlands surrounding Trondheim are generally very hilly, and the hills are typically both steeper and more uneven than in the southeast.",
+          "note": null
+        },
+        {
+          "id": "2-12",
+          "image": "/images/resize/600/80/norway/no_farmlandsjaeren.png",
+          "text": "Similarly to the southeast, the farmland south of Stavanger is flatter than most of the country. However, the fields look more vast and open, and it is very common to see rock walls made of large, round rocks. Furthermore, rather than crops, most fields will only contain grass.",
+          "note": null
+        },
+        {
+          "id": "2-13",
+          "image": "/images/resize/600/80/norway/no_fjordsregion.png",
+          "text": "While fjords can be found along most of the Norwegian coast, deep fjords surrounded by tall mountains are most common between Bergen and Trondheim.",
+          "note": null
+        },
+        {
+          "id": "2-14",
+          "image": "/images/resize/600/80/norway/no_lofoten.png",
+          "text": "Distinct, sharp, rocky mountains with few trees can be seen on the Lofoten Archipelago.",
+          "note": null
+        },
+        {
+          "id": "2-15",
+          "image": "/images/resize/600/80/norway/no_rthernvegetation.png",
+          "text": "The northeast of Norway can typically be recognized by a somewhat rolling landscape, rather than tall mountains, and vegetation mainly consisting of very small birches combined with patched grass.",
+          "note": null
+        },
+        {
+          "id": "2-16",
+          "image": "/images/resize/600/80/norway/no_highlands.png",
+          "text": "Barren highlands, with no trees or bushes, and often with rocky mountains along the road, are mostly found in the southwest.",
+          "note": null
+        },
+        {
+          "id": "2-17",
+          "image": "/images/resize/600/80/norway/no_rockycoast.png",
+          "text": "Exposed rock, often spotted with small coastal pines and bushes, are mainly found on the south coast.",
+          "note": null
+        },
+        {
+          "id": "2-18",
+          "image": "/images/resize/600/80/norway/no_hammerfestlandscape.png",
+          "text": "Coastal grasslands with little to no other vegetation and only somewhat low, distant mountains can be found by coastal roads in the far north.",
+          "note": null
+        },
+        {
+          "id": "2-19",
+          "image": "/images/resize/600/80/norway/no_whitehouses.png",
+          "text": "While completely white wooden houses can be found in the entire country, they’re especially common on the southern coast, where you’ll commonly see entire villages made up of them.",
+          "note": null
+        },
+        {
+          "id": "2-20",
+          "image": "/images/resize/600/80/norway/no_blacksnowpoles.png",
+          "text": "Black snow poles are most commonly found between Bergen and Trondheim.",
+          "note": null
+        },
+        {
+          "id": "2-21",
+          "image": "/images/resize/600/80/norway/no_osloblackplate.png",
+          "text": "Small, wide black pole plates, with a single line of letters and digits, can be found in southeastern Norway.",
+          "note": null
+        },
+        {
+          "id": "2-22",
+          "image": "/images/resize/600/80/norway/no_rustyguardrail.png",
+          "text": "Rusty guardrails are almost exclusively found in coastal regions, and particularly on the southern half of the west coast.",
+          "note": null
+        },
+        {
+          "id": "2-23",
+          "image": "/images/resize/600/80/norway/no_svalbard.png",
+          "text": "Svalbard is an unincorporated archipelago within the Norwegian Kingdom. A separate Plonk It guide to Svalbard can be found here.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Step 3 - Spotlight",
+      "items": [
+        {
+          "id": "3-1",
+          "image": "/images/resize/600/80/norway/no_osloblackredplate.png",
+          "text": "Fairly large black or red pole plates can be found in Oslo.",
+          "note": null
+        },
+        {
+          "id": "3-2",
+          "image": "/images/resize/600/80/norway/no_stavangerredstripes.png",
+          "text": "Two red stripes going around lamp posts are commonly found in Stavanger.",
+          "note": null
+        },
+        {
+          "id": "3-3",
+          "image": "/images/resize/600/80/norway/no_bergenfirehydrant.png",
+          "text": "You can find this specific design of green fire hydrants in Bergen.",
+          "note": null
+        },
+        {
+          "id": "3-4",
+          "image": "/images/resize/600/80/norway/no_russianborder.png",
+          "text": "Along the Russian border you can see this noticeably humid and green-looking road, with very overcast and occasionally foggy coverage. The trees are somewhat low and mainly consist of thin birches and pines.",
+          "note": null
+        },
+        {
+          "id": "3-5",
+          "image": "/images/resize/600/80/norway/no_russian.png",
+          "text": "Russian can sometimes be seen alongside Norwegian on signs near the Russian border. It is mostly found on roads E6 and E105 near Kirkenes.",
+          "note": null
+        },
+        {
+          "id": "3-6",
+          "image": "/images/resize/600/80/norway/no_roros.png",
+          "text": "The old mining town of Røros can be recognised by the densely built traditional wooden architecture.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Step 4 - Maps and resources",
+      "items": []
+    }
+  ]
+}

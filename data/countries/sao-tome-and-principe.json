@@ -1,0 +1,92 @@
+{
+  "country": "São Tomé and Príncipe",
+  "url": "https://www.plonkit.net/sao-tome-and-principe",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:17:30.626390+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Identifying São Tomé & Príncipe",
+      "items": [
+        {
+          "id": "1-1",
+          "image": "/images/resize/900/80/sao-tome-and-principe/0_st_summary.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": "/images/resize/600/80/sao-tome-and-principe/st_shit.png",
+          "text": "All the coverage was taken with a low quality camera that’s commonly referred to as “Shitcam”. The car will often be completely blurred, with a very large blur covering the back and a somewhat smaller blur covering the front. NOTE: The coverage is a newer variant of shitcam, where the image is dimmer and hazier than the original shitcam primarily found in India and Nigeria.",
+          "note": null
+        },
+        {
+          "id": "1-3",
+          "image": "/images/resize/600/80/sao-tome-and-principe/st_language.png",
+          "text": "Portuguese is the main language used on São Tomé and Príncipe.",
+          "note": null
+        },
+        {
+          "id": "1-4",
+          "image": "/images/resize/600/80/sao-tome-and-principe/st_polepedestriancrossing.png",
+          "text": "On top of the language, the Portuguese influence can also be seen in infrastructure, such as ladder poles and pedestrian signs with the same design as in Portugal.",
+          "note": null
+        },
+        {
+          "id": "1-5",
+          "image": "/images/resize/600/80/sao-tome-and-principe/st_tropical.png",
+          "text": "São Tomé and Príncipe are tropical islands, which are almost completely covered in rainforests. Banana plants are especially common throughout the islands.",
+          "note": null
+        },
+        {
+          "id": "1-6",
+          "image": "/images/resize/600/80/sao-tome-and-principe/st_bluepolepaint.png",
+          "text": "Some wooden poles are painted blue on the bottom. You can also read the letters CST on them.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Step 2 - Region-specific clues",
+      "items": [
+        {
+          "id": "2-1",
+          "image": "/images/resize/600/80/sao-tome-and-principe/st_principecam.png",
+          "text": "This desaturated and even dimmer variant of shitcam is most common on Príncipe.",
+          "note": null
+        },
+        {
+          "id": "2-2",
+          "image": "/images/resize/600/80/sao-tome-and-principe/principe_car.png",
+          "text": "The car used on Príncipe can be recognised by the blue roof and silver roof rails. NOTE: Remember that it can sometimes be blurred out.",
+          "note": null
+        },
+        {
+          "id": "2-3",
+          "image": "/images/resize/600/80/sao-tome-and-principe/sao_tome_car.png",
+          "text": "The car used on São Tomé is black with black roof rails. In most locations, it is blurred out.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Step 3 - Spotlight",
+      "items": [
+        {
+          "id": "3-1",
+          "image": "/images/resize/600/80/sao-tome-and-principe/st_oilpalmplantation.png",
+          "text": "You can find oil palm plantations in southern São Tomé.",
+          "note": null
+        },
+        {
+          "id": "3-2",
+          "image": "/images/resize/600/80/sao-tome-and-principe/st_trinidadpolepaint.png",
+          "text": "The town of Trinidade has poles with red and white pole paint.",
+          "note": null
+        }
+      ]
+    }
+  ]
+}

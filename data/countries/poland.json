@@ -1,0 +1,253 @@
+{
+  "country": "Poland",
+  "url": "https://www.plonkit.net/poland",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:19:08.018287+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Identifying Poland",
+      "items": [
+        {
+          "id": "1-1",
+          "image": "/images/resize/900/80/poland/transparent-poland_summary_new.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": "/images/resize/600/80/poland/Poland_License_Plate.png",
+          "text": "Poland has long white plates with the standard European blue strip on the left. NOTE: Newer electric vehicles have green plates.",
+          "note": null
+        },
+        {
+          "id": "1-3",
+          "image": "/images/resize/600/80/poland/Poland-bollard.png",
+          "text": "Polish bollards have a red strip that wraps all the way around the bollard. This strip has a red reflector on the front (sometimes hard to see), and a white reflector on the back. Bollards sometimes have numbers on them. NOTE: The same design can be found in Zakarpattia Oblast in Ukraine.",
+          "note": null
+        },
+        {
+          "id": "1-4",
+          "image": "/images/resize/600/80/poland/Poland-poles-comp2.png",
+          "text": "Poland usually has thin concrete utility poles with see-through holes. They are commonly known as “holey poles”. The holes often do not extend all the way to the bottom of the pole. Sometimes, two poles are joined together, or put in an A-frame shape. You can also find round concrete poles. NOTE: Hungary and Romania also have holey poles, but these are wider and more bulky. In addition, the holes extend all the way to the bottom.",
+          "note": null
+        },
+        {
+          "id": "1-5",
+          "image": "/images/resize/600/80/poland/Poland-road-lines.png",
+          "text": "Poland has all-white road lines. Double middle lines are very common and usually a good clue for Poland. NOTE: Some other European countries, most notably Denmark and Greece, can have double middle lines.",
+          "note": null
+        },
+        {
+          "id": "1-6",
+          "image": "/images/resize/600/80/poland/Poland-guardrail.png",
+          "text": "Poland has square (normal B-type) guardrails, with circular red reflectors. NOTE: Poland is one of only a very few European countries with this type of guardrail. For a good overview of European guardrails, see this infographic.",
+          "note": null
+        },
+        {
+          "id": "1-7",
+          "image": "/images/resize/600/80/poland/Poland-yellow-sign2.png",
+          "text": "Warning signs are triangular and have a yellow background and a distinct thin red border. NOTE: In Europe, this combination of a yellow background with a thin red border is unique to Poland.",
+          "note": null
+        },
+        {
+          "id": "1-8",
+          "image": "/images/resize/600/80/poland/Poland-white-signs.png",
+          "text": "However, prohibitory signs are round and have a white background with a thicker red border.",
+          "note": null
+        },
+        {
+          "id": "1-9",
+          "image": "/images/resize/600/80/poland/Poland-pedestrian-sign.png",
+          "text": "Poland has a unique pedestrian sign. Instead of the usual zebra stripes, it just has a single horizontal line. NOTE: Austria and Belgium also have horizontal lines, but they use two lines instead of Poland’s single line.",
+          "note": null
+        },
+        {
+          "id": "1-10",
+          "image": "/images/resize/600/80/poland/Poland-direction-signs.png",
+          "text": "Regular Polish direction signs have a green background. These signs use a distinct font, which is a good clue for Poland. NOTE: Signs on expressways have a blue background.",
+          "note": null
+        },
+        {
+          "id": "1-11",
+          "image": "/images/resize/600/80/poland/Poland-town-sign.png",
+          "text": "Poland has two town entry signs: a green one with the locality’s name, and a white-and-black one with a stylized urban area. NOTE: Like direction signs, town entry signs use a distinct font.",
+          "note": null
+        },
+        {
+          "id": "1-12",
+          "image": "/images/resize/600/80/poland/Poland-chevron.png",
+          "text": "Polish chevrons are white with red arrows.",
+          "note": null
+        },
+        {
+          "id": "1-13",
+          "image": "/images/resize/600/80/poland/pl_language.png",
+          "text": "Polish is a Slavic language. In contrast to other slavic languages, the Polish alphabet includes: Ł with a stroke through it (unique to Polish) Ą and Ę with a small hook (also found in Lithuanian) Ć, Ń, Ó, Ś, Ź with an acute accent. Of these, Ń is unique to Polish. In addition, the only other language with Ś and Ź is Montenegrin. Ż with a small dot (unique to Polish) Polish is very consonant-heavy, with lots of consonant clusters. Polish does not use V. Instead, it uses W a lot, the only Slavic language to do so. Other unusually common consonants are the Z, K, and C.",
+          "note": null
+        },
+        {
+          "id": "1-14",
+          "image": "/images/resize/600/80/poland/Poland-general-landscape.png",
+          "text": "Poland is generally a flat country, with occasional rolling hills. The country is very green, with a lot of agriculture, and some amount of forest cover. NOTE: Mountains can be found near the southern border.",
+          "note": null
+        },
+        {
+          "id": "1-15",
+          "image": "/images/resize/600/80/poland/Poland-tree-lined-roads.png",
+          "text": "Many roads in Poland are lined by rows of trees.",
+          "note": null
+        },
+        {
+          "id": "1-16",
+          "image": "/images/resize/600/80/poland/Poland-tiled-sidewalk.png",
+          "text": "Neatly tiled sidewalks are very common in Poland. Tiles are often grey or light red. Occasionally, even roads have tiled pavement. Many different types of tile patterns occur, including larger square tiles.",
+          "note": null
+        },
+        {
+          "id": "1-17",
+          "image": "/images/resize/600/80/poland/Poland-architecture-comp.png",
+          "text": "Polish architecture is fairly similar to other Central European countries. Buildings usually have plain stone walls covered in light or pastel stucco. Frequent roofing colours are orange or red, black, and brown. Roof tiles and panes often have a tidy, almost plastic-like look. Some rural houses have corrugated sheet roofs similar to those often found in the Baltics. Detached single family homes are common throughout Poland. They sometimes have a blocky look. In bigger towns, apartment buildings are common. Many date from communist times, and some of them still have a somewhat austere look. However, many have been renovated and look nice and well-kept. Downtown areas are usually dense and often have historic buildings.",
+          "note": null
+        },
+        {
+          "id": "1-18",
+          "image": "/images/resize/600/80/poland/Poland-Christian-shrines.png",
+          "text": "Poland is one of the most Catholic countries in Europe. You can often find Christian shrines on the side of roads. Blue-white and yellow-white Polish Catholic flags also sometimes appear.",
+          "note": null
+        },
+        {
+          "id": "1-19",
+          "image": "/images/resize/600/80/poland/Screenshot (617).png",
+          "text": "A black generation 4 Google car can rarely be found in Poland. NOTE: It can also be found in many other European countries.",
+          "note": null
+        },
+        {
+          "id": "1-20",
+          "image": "/images/resize/600/80/poland/Screenshot (619).png",
+          "text": "A white generation 4 Google car can also rarely be found in Poland. NOTE: It can also be found in other European countries.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Step 2 - Regional and voivodeship-specific clues",
+      "items": [
+        {
+          "id": "2-1",
+          "image": "/images/resize/600/80/poland/Poland-road-numbering2_nobg.png",
+          "text": "Regional roads have 3-digit road numbers. These numbers often appear in yellow boxes on direction signs. The first digit is usually region-specific, as there is a high level of geographic clustering of these road numbers. There is some overlap between numbers near the margins of the regions. Some exceptions also exist. NOTE: This tip only applies to 3-digit roads. Bigger roads with 2-digit road numbers mostly do not adhere to this geographic pattern.",
+          "note": null
+        },
+        {
+          "id": "2-2",
+          "image": "/images/resize/600/80/poland/Poland-area-codes.png",
+          "text": "Polish landline phone numbers have 9 digits. The first 2 digits are the area code. These area codes are distributed in a sensible manner across the country. Even just learning the first digit of the area codes can greatly narrow down the region. You can click on the infographic to enlarge it. NOTE: Mobile numbers also have 9 digits, but luckily there is no overlap between the first two digits of mobile numbers and landlines.",
+          "note": null
+        },
+        {
+          "id": "2-3",
+          "image": "/images/resize/600/80/poland/Poland_Suffix_Map.png",
+          "text": "When it comes to Polish place names, the -owo ending is mostly limited to the northern half of the country, and the -ów ending mostly to the southern half. You may also encounter -ino or -yno, mainly in the northwest, and -ew near the centre of the country. NOTE: A good way to remember this is that Kraków is in the south of Poland, and most other towns ending in -ów are too.",
+          "note": null
+        },
+        {
+          "id": "2-4",
+          "image": "/images/resize/600/80/poland/Poland_Bilingual_Signs_Infographic.png",
+          "text": "While rare, bilingual signs can be found in the highlighted regions. Kashubian, found in the north, is another West Slavic Language, featuring a lot of umlauts and accents. Wszëtczi lëdze rodzą sã wòlny ë równy w swòji czëstnoce ë swòjich prawach. Mają òni dostóne rozëm ë sëmienié ë nôlégô jima pòstãpòwac wobec drëdzich w dëchù bracënotë. German is mostly found in the Opole Voivodeship. Lithuanian can be found around Puńsk, near the Lithuanian border. Belarusian is found near the Belarusian border. Lemko, another Cyrillic language, can be found in the southeast.",
+          "note": null
+        },
+        {
+          "id": "2-5",
+          "image": "/images/resize/600/80/poland/Poland-southern-hills.png",
+          "text": "Even though most of Poland is flat, the southern border area is very hilly. Some parts even have mountains. NOTE: Some other areas in Poland are somewhat hilly, but the south has by far the most amount of significant elevation.",
+          "note": null
+        },
+        {
+          "id": "2-6",
+          "image": "/images/resize/600/80/poland/pl_woodenhouse.png",
+          "text": "Traditional wooden houses are commonly found in the east, mainly in Podlaskie Voivodeship.",
+          "note": null
+        },
+        {
+          "id": "2-7",
+          "image": "/images/resize/600/80/poland/poland_yellow_pole_paint_2.png",
+          "text": "Electricity poles with yellow markings are predominantly found in western and southern Poland. For more detailed information on Polish utility poles, including the markings and lamps discussed here, see this document.",
+          "note": null
+        },
+        {
+          "id": "2-8",
+          "image": "/images/resize/600/80/poland/poland_black_pole_paint.png",
+          "text": "Black pole markings are most commonly seen in the southeast of the country, as well as some areas in the north.",
+          "note": null
+        },
+        {
+          "id": "2-9",
+          "image": "/images/resize/600/80/poland/poland_white_pole_paint.png",
+          "text": "Markings with a white background are most commonly found in Podlaskie voivodeship, and can occasionally be seen in Łódź voivodeship and elsewhere.",
+          "note": null
+        },
+        {
+          "id": "2-10",
+          "image": "/images/resize/600/80/poland/top_lights.png",
+          "text": "Street lamps mounted on top of the pole become more common towards the northeast of the country, with some pockets in the far south.",
+          "note": null
+        },
+        {
+          "id": "2-11",
+          "image": "/images/resize/600/80/poland/bottom_lights.png",
+          "text": "In contrast, lamps attached to the side of the pole are rarely found in the northeast.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Step 3 - Spotlight",
+      "items": [
+        {
+          "id": "3-1",
+          "image": "/images/resize/600/80/poland/Tatra_Mountains.png",
+          "text": "The Tatra Mountains are the highest mountains in Poland. They can be found near Zakopane, on the border with Slovakia.",
+          "note": null
+        },
+        {
+          "id": "3-2",
+          "image": "/images/resize/600/80/poland/Poland-Gdansk-architecture.png",
+          "text": "Gdańsk is a large city in northwestern Poland. Its historic downtown features unique buildings that were inspired by Dutch Golden Age architecture. These buildings look somewhat similar to Amsterdam.",
+          "note": null
+        },
+        {
+          "id": "3-3",
+          "image": "/images/resize/600/80/poland/Hel_Peninsula_Road.png",
+          "text": "The main road on the Hel peninsula is very recognizable: it is a coastal forest road with a railway track running parallel to it.",
+          "note": null
+        },
+        {
+          "id": "3-4",
+          "image": "/images/resize/600/80/poland/Bialystok_Signs_Hint.png",
+          "text": "Białystok uses turquoise street signs, with the district marked on the bottom.",
+          "note": null
+        },
+        {
+          "id": "3-5",
+          "image": "/images/resize/600/80/poland/Szczecin_sign_hint.png",
+          "text": "Szczecin uses colourful green and blue signs. The city district is marked on the bottom.",
+          "note": null
+        },
+        {
+          "id": "3-6",
+          "image": "/images/resize/600/80/poland/Poznan_sign_hint.png",
+          "text": "Street signs in Poznań are mainly black, with the district being marked on the blue section at the bottom.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Step 4 - Maps and resources",
+      "items": []
+    }
+  ]
+}

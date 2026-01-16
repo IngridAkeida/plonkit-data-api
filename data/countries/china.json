@@ -1,0 +1,139 @@
+{
+  "country": "China",
+  "url": "https://www.plonkit.net/china",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:17:38.974357+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Identifying China",
+      "items": [
+        {
+          "id": "1-1",
+          "image": "/images/resize/900/80/china/0_cn_summary.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": "/images/resize/600/80/china/cn_tripod.png",
+          "text": "All official coverage in mainland China is taken with a tripod. Objects in the image will usually have motion blur, and slightly saturated colours. NOTE: Coverage in Hong Kong and Macau both have full Google Car coverage. A separate Plonk It guide to Hong Kong can be found here. The Macau guide can be found here.",
+          "note": null
+        },
+        {
+          "id": "1-3",
+          "image": "/images/resize/600/80/china/cn_language.png",
+          "text": "Chinese writing consists of often complicated symbols made up of several strokes. On mainland China, you’ll typically find simplified Chinese, where the number of strokes of many symbols have been greatly reduced compared to traditional Chinese. NOTE: Traditional Chinese is widely used in Taiwan, Hong Kong and Macau.",
+          "note": null
+        },
+        {
+          "id": "1-4",
+          "image": "/images/resize/600/80/china/cn_licenceplate.png",
+          "text": "Chinese licence plates are blue with white text.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Step 2 - Region-specific clues",
+      "items": [
+        {
+          "id": "2-1",
+          "image": "/images/resize/600/80/china/cn_coverage.png",
+          "text": "Coverage in mainland China is limited to several small spots, mainly in or near major urban areas on the east coast. A significant portion of the coverage is considered hidden, which is also shown on this map. Hidden means it won’t show up on Google Maps, however you can still access it in the Map Making App.",
+          "note": null
+        },
+        {
+          "id": "2-2",
+          "image": "/images/resize/600/80/china/cn_museums.png",
+          "text": "A significant portion of the coverage was taken inside museums and can be found in many cities, however a majority of the covered museums are located in and around Beijing and Shanghai.",
+          "note": null
+        },
+        {
+          "id": "2-3",
+          "image": "/images/resize/600/80/china/cn_ancienttowns.png",
+          "text": "Ancient cities with coverage can be found along the east coast in Zhoucun, northeast of Xuzhou, in Yangzhou, west of Jiaxing and west of Zhangzhou.",
+          "note": null
+        },
+        {
+          "id": "2-4",
+          "image": "/images/resize/600/80/china/cn_urban.png",
+          "text": "Coverage taken outside in modern urban areas can be found in Beijing, Yangzhou, Shanghai, Shenzhen and Chengdu.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Step 3 - Pinpointable coverage",
+      "items": [
+        {
+          "id": "3-1",
+          "image": null,
+          "text": "This section contains more in-depth descriptions of all coverage considered pinpointable in mainland China. For a complete guide to the Chinese coverage, read this document.",
+          "note": null
+        },
+        {
+          "id": "3-2",
+          "image": "/images/resize/600/80/china/cn_forbiddencity.png",
+          "text": "The Palace Museum (commonly referred to as the Forbidden City) is a massive palace in the centre of Beijing.",
+          "note": null
+        },
+        {
+          "id": "3-3",
+          "image": "/images/resize/600/80/china/cn_todayartmuseum.png",
+          "text": "By the Today Art Museum in Beijing you can find this modern urban street with several cafes and bars along the road. In front of the museum you can also find this uncanny statue.",
+          "note": null
+        },
+        {
+          "id": "3-4",
+          "image": "/images/resize/600/80/china/cn_sichuanmuseum.png",
+          "text": "The parking area outside Sichuan Museum in Chengdu has a lot of greenery.",
+          "note": null
+        },
+        {
+          "id": "3-5",
+          "image": "/images/resize/600/80/china/cn_hubeimuseum.png",
+          "text": "The Hubei Museum in Wuhan can be recognised by its palace-like architecture with grey roofs.",
+          "note": null
+        },
+        {
+          "id": "3-6",
+          "image": "/images/resize/600/80/china/cn_museumofsilk.png",
+          "text": "The Museum of silk production in Hangzhou can be recognised by the rounded glass facade and the fountain by the front.",
+          "note": null
+        },
+        {
+          "id": "3-7",
+          "image": "/images/resize/600/80/china/cn_longmuseum.png",
+          "text": "Shanghai Long Museum can be recognised by the boxy concrete main building.",
+          "note": null
+        },
+        {
+          "id": "3-8",
+          "image": "/images/resize/600/80/china/cn_suzhoumuseum.png",
+          "text": "Suzhou Museum can be recognised by the white and grey symmetric angular architecture.",
+          "note": null
+        },
+        {
+          "id": "3-9",
+          "image": "/images/resize/600/80/china/cn_yangzhoumuseum.png",
+          "text": "The Yangzhou Museum can be recognised by the beige rounded stone building.",
+          "note": null
+        },
+        {
+          "id": "3-10",
+          "image": "/images/resize/600/80/china/cn_zhoucunancientcity.png",
+          "text": "The ancient city of Zhoucun is the only pinpointable ancient city in China, and can be recognised by the street going straight north to south.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Step 4 - Maps and resources",
+      "items": []
+    }
+  ]
+}

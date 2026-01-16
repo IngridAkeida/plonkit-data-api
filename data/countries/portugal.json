@@ -1,0 +1,247 @@
+{
+  "country": "Portugal",
+  "url": "https://www.plonkit.net/portugal",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:19:09.567475+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Identifying Portugal",
+      "items": [
+        {
+          "id": "1-1",
+          "image": "/images/resize/900/80/portugal/transparent-pt_summary_2026.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": "/images/resize/600/80/portugal/licenceplate.png",
+          "text": "Portuguese plates are long and white, with a blue strip on the left. Most plates have a yellow strip on the right, which is unique to Portugal. The yellow strip was discontinued in 2020, so in Generation 4 coverage you may sometimes see plates with just the blue strip.",
+          "note": null
+        },
+        {
+          "id": "1-3",
+          "image": "/images/resize/600/80/portugal/language.png",
+          "text": "Portuguese is a Romance language that is closely related to Spanish. Unlike Spanish, Portuguese includes the letters Ç, Ã, Õ, Â, and Ê, while it does not include the letter Ñ, which is very common in Spanish. NOTE: You can also find Ç in Catalan.",
+          "note": null
+        },
+        {
+          "id": "1-4",
+          "image": "/images/resize/600/80/portugal/eucalyptus.png",
+          "text": "Eucalyptus trees are very common in Portugal. The only other part of Europe where you’ll commonly see eucalyptus is northern Spain.",
+          "note": null
+        },
+        {
+          "id": "1-5",
+          "image": "/images/resize/600/80/portugal/rua.png",
+          "text": "The Portuguese word for road is ‘Rua’. NOTE: In Galician, the word for road is ‘Rúa’, with an accent on the ‘u’.",
+          "note": null
+        },
+        {
+          "id": "1-6",
+          "image": "/images/resize/600/80/portugal/ladderpole.png",
+          "text": "Concrete ladder poles, with very tall ladder steps, are common in Portugal. Each step often has a small see-through hole. NOTE: In Spain and France you will commonly see ladder poles with short steps.",
+          "note": null
+        },
+        {
+          "id": "1-7",
+          "image": "/images/resize/600/80/portugal/huntingsign.png",
+          "text": "Hunting signs with a red and white colour scheme are a common sight in rural areas. They are either diamond shaped or rectangular. NOTE: In contrast, Spanish hunting signs are white and black.",
+          "note": null
+        },
+        {
+          "id": "1-8",
+          "image": "/images/resize/600/80/portugal/bollard.png",
+          "text": "Portuguese bollards are either wedge-shaped with a noticeably thin white top, or flat with a wide reflector. While most reflectors will be white, you may also find orange reflectors. These are noticeably darker than the yellow reflectors in Spain.",
+          "note": null
+        },
+        {
+          "id": "1-9",
+          "image": "/images/resize/600/80/portugal/directionalsign.png",
+          "text": "Directional signs are generally white, with black arrows that are not touching the borders of the sign. NOTE: Spanish directional signs will typically feature the road number in colourful boxes and do not have a black arrow, other than a thin black border.",
+          "note": null
+        },
+        {
+          "id": "1-10",
+          "image": "/images/resize/600/80/portugal/kmmarker.png",
+          "text": "Most kilometre markers are wide rectangles with a coloured section on the left side divided diagonally from the white part. Every kilometre you will find a larger square sign with a coloured top half featuring the road number.",
+          "note": null
+        },
+        {
+          "id": "1-11",
+          "image": "/images/resize/600/80/portugal/kmstone.png",
+          "text": "Black and white waystones can commonly be found in Portugal.",
+          "note": null
+        },
+        {
+          "id": "1-12",
+          "image": "/images/resize/600/80/portugal/stopsign.png",
+          "text": "Stop signs in Portugal feature a fairly large font. NOTE: This is mostly useful to distinguish it from Spain, where stop signs have a distinctly small and compact font.",
+          "note": null
+        },
+        {
+          "id": "1-13",
+          "image": "/images/resize/600/80/portugal/chevron.png",
+          "text": "Portuguese chevrons are black with yellow arrows. NOTE: Portugal is the only Mediterranean country with this chevron colour scheme.",
+          "note": null
+        },
+        {
+          "id": "1-14",
+          "image": "/images/resize/600/80/portugal/pedestriansign.png",
+          "text": "Pedestrian signs have five stripes, and the person is wearing a belt, which is noticeably high. NOTE: Spanish pedestrian signs have eight stripes, Italian signs don't have a belt and Greek signs have two dotted lines instead of stripes.",
+          "note": null
+        },
+        {
+          "id": "1-15",
+          "image": "/images/resize/600/80/portugal/guardrail.png",
+          "text": "Portugal uses A-type guardrails with red reflectors. NOTE: This is mostly useful to tell apart Portugal and Spain, which uses yellow reflectors.",
+          "note": null
+        },
+        {
+          "id": "1-16",
+          "image": "/images/resize/600/80/portugal/signborder.png",
+          "text": "Portuguese road signs are typically encased by a white border. NOTE: Most Spanish signs don’t have a white border.",
+          "note": null
+        },
+        {
+          "id": "1-17",
+          "image": "/images/resize/600/80/portugal/cobblestone.png",
+          "text": "Cobblestone roads are very common in Portugal. These will typically be made of square cobblestones arranged diagonally compared to the road direction.",
+          "note": null
+        },
+        {
+          "id": "1-18",
+          "image": "/images/resize/600/80/portugal/cobblestonesidewalk.png",
+          "text": "Similarly, cobblestone sidewalks made of distinctly bright stones are very common.",
+          "note": null
+        },
+        {
+          "id": "1-19",
+          "image": "/images/resize/600/80/portugal/whitehouse.png",
+          "text": "White painted stone houses with orange tiled roofs are extremely common in Portugal.",
+          "note": null
+        },
+        {
+          "id": "1-20",
+          "image": "/images/resize/600/80/portugal/blueyellowhouse.png",
+          "text": "You’ll commonly see blue or yellow lines painted around windows and doors, as well as around the edges of walls.",
+          "note": null
+        },
+        {
+          "id": "1-21",
+          "image": "/images/resize/600/80/portugal/decorativetiles.png",
+          "text": "Houses made of decorative mosaic tiles are somewhat common in Portugal.",
+          "note": null
+        },
+        {
+          "id": "1-22",
+          "image": "/images/resize/600/80/portugal/europe_smallcam.png",
+          "text": "Portugal has Generation 4 “smallcam” coverage, which is mounted lower than regular Generation 4 and has a relatively big circular blur with a small protrusion at the front. The blur can also be fully transparent, making it harder to spot.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Step 2 - Region-specific clues",
+      "items": [
+        {
+          "id": "2-1",
+          "image": "/images/resize/600/80/portugal/2areacodes_darkmode.webp",
+          "text": "The first three digits of Portuguese landlines make up the area codes, which are distributed as seen on the map. Phone codes not starting with a 2 are not regional, and codes starting with 29 will either be the Azores or Madeira. For a complete list of the third digits, see this page.",
+          "note": null
+        },
+        {
+          "id": "2-2",
+          "image": "/images/resize/600/80/portugal/2southernchimney.png",
+          "text": "In the Faro district in the south of Portugal you will very commonly come across decorative chimneys, which will either be round or square shaped with small spire-shaped tops. The round chimneys are a particularly strong clue.",
+          "note": null
+        },
+        {
+          "id": "2-3",
+          "image": "/images/resize/600/80/portugal/pt_concreteblocks.png",
+          "text": "Houses in northern Portugal are often made of square concrete blocks, which are commonly put together with white mortar. NOTE: Very similar architecture, but typically without the white mortar, is commonly found over the border in Galicia.",
+          "note": null
+        },
+        {
+          "id": "2-4",
+          "image": "/images/resize/600/80/portugal/2montado.png",
+          "text": "Open fields sparsely populated with holm oaks (Quercus ilex) and cork oaks (Quercus suber) are very common in the southeast. These species of oaks tend to be on the smaller side, and have a Mediterranean look. While these fields will look quite dry during summer and fall, they will look much lusher during spring.",
+          "note": null
+        },
+        {
+          "id": "2-5",
+          "image": "/images/resize/600/80/portugal/2olives.png",
+          "text": "Olive plantations are generally more common in the eastern half of the country, particularly in the far northeast and slight southeast. NOTE: The easiest way to tell apart the olive plantations from the oak fields from the last tip is to look at the pattern in which they’re planted. Olive plantations are typically planted in dense rows, while the oaks are planted more sparsely and not in an obvious pattern.",
+          "note": null
+        },
+        {
+          "id": "2-6",
+          "image": "/images/resize/600/80/portugal/2eucalyptusforest.png",
+          "text": "Dense eucalyptus forests are mostly found in the northwest.",
+          "note": null
+        },
+        {
+          "id": "2-7",
+          "image": "/images/resize/600/80/portugal/2maritimepine.png",
+          "text": "Forests, or plantations of Maritime pines (Pinus Pinaster) are very common in the northern half of Portugal. You can recognize the tree by its grey bark with red undertones, and fluffy branches that point upwards. Older trees often don’t have any branches in the bottom half of the tree. NOTE: Plantations of this pine are also common in northern Spain, particularly Galicia.",
+          "note": null
+        },
+        {
+          "id": "2-8",
+          "image": "/images/resize/600/80/portugal/2terracedvineyards.png",
+          "text": "In the Douro wine region, straight east of Porto, you will commonly find steep terraced vineyards.",
+          "note": null
+        },
+        {
+          "id": "2-9",
+          "image": "/images/resize/600/80/portugal/2citrus.png",
+          "text": "Citrus plantations are mostly found along the south coast.",
+          "note": null
+        },
+        {
+          "id": "2-10",
+          "image": "/images/resize/600/80/portugal/2azoresmadeira.png",
+          "text": "The islands of Madeira and the Azores are found southwest and west of mainland Portugal respectively. For country streak purposes they are both counted as Portugal. Plonk It has more in-depth guides to Madeira here and a guide to the Azores here.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Step 3 - Spotlight",
+      "items": [
+        {
+          "id": "3-1",
+          "image": "/images/resize/600/80/portugal/3serradaestrela.png",
+          "text": "The Serra da Estrela natural park can be recognised by the rocky mountainous highland landscape, often combined with yellow and black striped snow poles.",
+          "note": null
+        },
+        {
+          "id": "3-2",
+          "image": "/images/resize/600/80/portugal/3sandypinearea.png",
+          "text": "Pine forests with extremely sandy white soil can be found near the coast between the cities of Setúbal and Sines.",
+          "note": null
+        },
+        {
+          "id": "3-3",
+          "image": "/images/resize/600/80/portugal/3southwest.png",
+          "text": "In the far southwest of the country you can find a flat uncultivated landscape with very limited vegetation, which typically appears quite dry. There are almost no trees nearby, and only very low bushes and grass.",
+          "note": null
+        },
+        {
+          "id": "3-4",
+          "image": "/images/resize/600/80/portugal/3portostreetsign.png",
+          "text": "Lime green street signs can be found in Porto.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Step 4 - Maps and resources",
+      "items": []
+    }
+  ]
+}

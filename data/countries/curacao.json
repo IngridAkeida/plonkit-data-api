@@ -1,0 +1,104 @@
+{
+  "country": "Curaçao",
+  "url": "https://www.plonkit.net/curacao",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:20:29.765472+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Identifying Curaçao",
+      "items": [
+        {
+          "id": "1-1",
+          "image": "/images/resize/900/80/curacao/0_summary_curacao.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": "/images/resize/600/80/curacao/1920px-Curacao_in_its_region.svg.png",
+          "text": "Curaçao is a constituent country in the Kingdom of the Netherlands located north of western Venezuela in the Caribbean Sea. As such, for country streaks purposes, it is counted as the Netherlands.",
+          "note": null
+        },
+        {
+          "id": "1-3",
+          "image": "/images/resize/600/80/curacao/image.png",
+          "text": "Curaçao uses square licence plates that appear completely white through the blur. NOTE: While front plates are mandatory, a minority will still not have front plates.",
+          "note": null
+        },
+        {
+          "id": "1-4",
+          "image": "/images/resize/600/80/curacao/image__284_29.png",
+          "text": "This black car with a roof rack is unique to Curaçao.",
+          "note": null
+        },
+        {
+          "id": "1-5",
+          "image": "/images/resize/600/80/curacao/cw_cacti.webp",
+          "text": "Due to Curaçao’s semi-arid climate, cacti can commonly be seen.",
+          "note": null
+        },
+        {
+          "id": "1-6",
+          "image": "/images/resize/600/80/curacao/image__281_29.png",
+          "text": "Much of the architecture on Curaçao consists of simple, one storey bungalows that are pastel coloured. Metal roofs are common on smaller shacks, while tiled roofs can be seen on more expensive houses. Additionally, multi storey villas can sometimes be seen.",
+          "note": null
+        },
+        {
+          "id": "1-7",
+          "image": "/images/resize/600/80/curacao/cw_signbackborder.png",
+          "text": "The coloured border or road signs can typically be seen continuing onto the back of the signs. These will generally be red or blue.",
+          "note": null
+        },
+        {
+          "id": "1-8",
+          "image": "/images/resize/600/80/curacao/cw_yellowsignpost.png",
+          "text": "Blue street signs attached to the top of yellow signposts are common in Curaçao.",
+          "note": null
+        },
+        {
+          "id": "1-9",
+          "image": "/images/resize/600/80/curacao/image__282_29.png",
+          "text": "White and black striped traffic light posts can be seen in urban areas.",
+          "note": null
+        },
+        {
+          "id": "1-10",
+          "image": "/images/resize/600/80/curacao/image__283_29.png",
+          "text": "Wooden poles with three horizontal, alternating insulators are common. NOTE: These poletops can also be found in Brazil, South Africa, and Eswatini.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Step 2 - Regional  clues",
+      "items": [
+        {
+          "id": "2-1",
+          "image": "/images/resize/600/80/curacao/rural.png",
+          "text": "The western half of Curaçao is characterised by a semi-arid rural landscape with green, but dry hills. Houses are spread apart, with the roads in the west quite narrow in width.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Step 3 - Spotlight",
+      "items": [
+        {
+          "id": "3-1",
+          "image": "/images/resize/600/80/curacao/wind.png",
+          "text": "A line of wind turbines can be seen at this wind farm toward the southeast of Curaçao. The coverage is also notably rainy.",
+          "note": null
+        },
+        {
+          "id": "3-2",
+          "image": "/images/resize/600/80/curacao/bridge.png",
+          "text": "The Queen Juliana Bridge is a wide four lane bridge in Willemstad. It can be recognized by the yellow and blue guardrails, and the view over the city.",
+          "note": null
+        }
+      ]
+    }
+  ]
+}

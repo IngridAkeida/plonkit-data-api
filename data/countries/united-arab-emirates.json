@@ -1,0 +1,176 @@
+{
+  "country": "United Arab Emirates",
+  "url": "https://www.plonkit.net/united-arab-emirates",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:18:18.375073+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Identifying the UAE",
+      "items": [
+        {
+          "id": "1-1",
+          "image": "/images/resize/900/80/united-arab-emirates/0_Normal_Summary_Graphic_1.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": "/images/resize/600/80/united-arab-emirates/ae_desert.png",
+          "text": "The UAE typically features a flat desert landscape.",
+          "note": null
+        },
+        {
+          "id": "1-3",
+          "image": "/images/resize/600/80/united-arab-emirates/ae_roadlines.png",
+          "text": "Outer roadlines are yellow, middle lines either white or yellow. NOTE: Other Middle Eastern countries, like Jordan, Israel and Oman, also use these lines.",
+          "note": null
+        },
+        {
+          "id": "1-4",
+          "image": "/images/resize/600/80/united-arab-emirates/gen3car.png",
+          "text": "In almost all Generation 3 coverage, a white car with visible black roof racks was used. NOTE: The UAE is the only Middle Eastern country where a white Google car can be found.",
+          "note": null
+        },
+        {
+          "id": "1-5",
+          "image": "/images/resize/600/80/united-arab-emirates/2022-12-14_1__281_29.png",
+          "text": "In Generation 4 coverage, a white pickup truck with a trekker camera was used for much of the coverage. In a lot of the coverage, the truck is completely blurred out. NOTE: A similar truck can be found in Qatar and Oman. In the UAE the antenna at the front of the cabin is on the middle of the car, while in Qatar it is on the left.",
+          "note": null
+        },
+        {
+          "id": "1-6",
+          "image": "/images/resize/600/80/united-arab-emirates/UAE_Gen_4_black.png",
+          "text": "You can also find regular Generation 4 coverage taken with a black car. The brake light is commonly visible. NOTE: A similar Generation 4 black car can be found in Israel.",
+          "note": null
+        },
+        {
+          "id": "1-7",
+          "image": "/images/resize/600/80/united-arab-emirates/arabic_language.png",
+          "text": "The official language in the UAE is Arabic. Its script can be identified by its lines and dots. NOTE: Due to high tourism, signs in the UAE often have English writing alongside Arabic. While this is also common in Qatar and Oman, it is not common in Jordan.",
+          "note": null
+        },
+        {
+          "id": "1-8",
+          "image": "/images/resize/600/80/united-arab-emirates/architecture.png",
+          "text": "Houses in residential areas are typically made of light-coloured stone. Reddish stones are often used for sidewalks.",
+          "note": null
+        },
+        {
+          "id": "1-9",
+          "image": "/images/resize/600/80/united-arab-emirates/ae_signpost.png",
+          "text": "Many signposts in the UAE have black-and-white stripes. NOTE: Within the Middle East, striped signposts are also found in Oman.",
+          "note": null
+        },
+        {
+          "id": "1-10",
+          "image": "/images/resize/600/80/united-arab-emirates/ae_kerbs.png",
+          "text": "Similarly, almost all curbs are striped. They can be either black-and-white, or black-and-yellow.",
+          "note": null
+        },
+        {
+          "id": "1-11",
+          "image": "/images/resize/600/80/united-arab-emirates/roundabout.png",
+          "text": "Divided roads and roundabouts are both very commonly seen in the UAE.",
+          "note": null
+        },
+        {
+          "id": "1-12",
+          "image": "/images/resize/600/80/united-arab-emirates/ae_poles.png",
+          "text": "Electricity poles in the UAE are mostly made of dark brown wood. The pole tops consist of three insulators, symmetrically attached to a horizontal metal bar. NOTE: Similar poletops can be found in Oman. Jordanian poletops may look similar, but they are usually made of grey concrete, and the insulators are more spaced out.",
+          "note": null
+        },
+        {
+          "id": "1-13",
+          "image": "/images/resize/600/80/united-arab-emirates/ae_unpavedresidentialroad.png",
+          "text": "Although the UAE is a wealthy country, it is not uncommon for residential roads to be unpaved.",
+          "note": null
+        },
+        {
+          "id": "1-14",
+          "image": "/images/resize/600/80/united-arab-emirates/rifts.png",
+          "text": "Rifts can occasionally be found in the UAE. NOTE: They are most commonly found in Albania, Montenegro and Senegal.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Step 2 - Regional and emirate-specific clues",
+      "items": [
+        {
+          "id": "2-1",
+          "image": "/images/resize/600/80/united-arab-emirates/ae_coverage.png",
+          "text": "Coverage in the UAE is mostly limited to the Northeastern part of the country. NOTE: The only car coverage outside of this region exists on Sir Baniyas Island. All other remote coverage was taken by a trekker.",
+          "note": null
+        },
+        {
+          "id": "2-2",
+          "image": "/images/resize/600/80/united-arab-emirates/ae_dubaiskyline.png",
+          "text": "The skyline of Dubai is dominated by numerous skyscrapers, including the iconic Burj Khalifa.",
+          "note": null
+        },
+        {
+          "id": "2-3",
+          "image": "/images/resize/600/80/united-arab-emirates/ae_eastmountains.png",
+          "text": "Mountains are only found in the far east of the country.",
+          "note": null
+        },
+        {
+          "id": "2-4",
+          "image": "/images/resize/600/80/united-arab-emirates/Landscape_-_Ras_al_Khaimah_Mountains.png",
+          "text": "You can easily recognise the Northern part of the emirate of Ras al Khaimah thanks to the light-coloured mountains visible to the east.",
+          "note": null
+        },
+        {
+          "id": "2-5",
+          "image": "/images/resize/600/80/united-arab-emirates/ae_gulfofoman.png",
+          "text": "If you see mountains to the west, and flatness to the east, you are likely near the Gulf of Oman, in the extreme East of the country.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Step 3 - Spotlight",
+      "items": [
+        {
+          "id": "3-1",
+          "image": "/images/resize/600/80/united-arab-emirates/UAE-sir-baniyas.png",
+          "text": "This rare white Google car with visible side mirrors and sparse vegetation is found on Sir Baniyas Island.",
+          "note": null
+        },
+        {
+          "id": "3-2",
+          "image": "/images/resize/600/80/united-arab-emirates/UAE-dubai-gen-4-trekker.png",
+          "text": "In some parts of Dubai, including the old town, a Generation 4 sidewalk trekker was used. Sometimes, the employee’s black hair is visible.",
+          "note": null
+        },
+        {
+          "id": "3-3",
+          "image": "/images/resize/600/80/united-arab-emirates/ae_dubaisign.png",
+          "text": "These blue street name signs, with a narrow metal border, are specific to Dubai.",
+          "note": null
+        },
+        {
+          "id": "3-4",
+          "image": "/images/resize/600/80/united-arab-emirates/UAE-al-ain-trekkers.png",
+          "text": "The city of Al Ain has several trekkers, far away from the area with car coverage: two forts (Qasr Al Muwaiji and Al Jahili) and a zoo.",
+          "note": null
+        },
+        {
+          "id": "3-5",
+          "image": "/images/resize/600/80/united-arab-emirates/UAE-racetrack.png",
+          "text": "This racetrack coverage is found slightly east of Abu Dhabi.",
+          "note": null
+        },
+        {
+          "id": "3-6",
+          "image": "/images/resize/600/80/united-arab-emirates/UAE-southern-desert-trekkers.png",
+          "text": "Remote trekkers, with sand dunes all around, can be found in the far south of the country, between the towns of Taraq and Alyhyali.",
+          "note": null
+        }
+      ]
+    }
+  ]
+}

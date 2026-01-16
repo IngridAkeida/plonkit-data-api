@@ -1,0 +1,110 @@
+{
+  "country": "Christmas Island",
+  "url": "https://www.plonkit.net/christmas-island",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:20:11.378534+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Identifying Christmas Island",
+      "items": [
+        {
+          "id": "1-1",
+          "image": "/images/resize/900/80/christmas-island/0_Christmas_Island_Summary_Graphic.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": "/images/resize/600/80/christmas-island/Christmas_Island_in_its_region.png",
+          "text": "Christmas Island is a small island territory south-southwest of Java. It is an Australian external territory, so for country streaks purposes it is counted as part of Australia. NOTE: Do not get its location confused with the Cocos (Keeling) Islands, which are another Australian territory a little west of Christmas Island.",
+          "note": null
+        },
+        {
+          "id": "1-3",
+          "image": "/images/resize/600/80/christmas-island/Christmas-Island-car-meta.png",
+          "text": "Christmas Island has two types of coverage: car coverage and a couple of trekkers. The car coverage was done with a unique Google car: a silver pickup truck, with the bed of the truck visible. Usually, this is all you need to identify Christmas Island.",
+          "note": null
+        },
+        {
+          "id": "1-4",
+          "image": "/images/resize/600/80/christmas-island/Christmas-island-landscape.png",
+          "text": "Most of Christmas Island is covered by dense tropical forest. Some unpaved roads feature bright, white sandy soil. A small part of the coverage is in built-up areas. And in some places, palms can be seen.",
+          "note": null
+        },
+        {
+          "id": "1-5",
+          "image": "/images/resize/600/80/christmas-island/Christmas-Island-bollard.png",
+          "text": "Christmas Island uses the standard Australian bollard. It is a simple white bollard with a red reflector on the front, and a grey reflector on the back. NOTE: In general, road infrastructure metas are similar to those found on mainland Australia, such as speed limit signs, green sign backgrounds, etc.",
+          "note": null
+        },
+        {
+          "id": "1-6",
+          "image": "/images/resize/600/80/christmas-island/Christmas_Island_License_Plate.png",
+          "text": "Christmas Island has yellow licence plates.",
+          "note": null
+        },
+        {
+          "id": "1-7",
+          "image": "/images/resize/600/80/christmas-island/Christmas-Island-rural-coverage.png",
+          "text": "While much of the coverage is on regular roads, the Google car also drove on some very rural trails.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Step 2 - Regional clues",
+      "items": [
+        {
+          "id": "2-1",
+          "image": "/images/resize/600/80/christmas-island/Christmas-island-urban-areas.png",
+          "text": "The built-up areas are in the northeast. The rest of the island is mostly covered by dense forest.",
+          "note": null
+        },
+        {
+          "id": "2-2",
+          "image": "/images/resize/600/80/christmas-island/Boat_Trekker.png",
+          "text": "There is a boat trekker near the north coast of the island. Some of the boat’s white-coloured deck pokes through the blur. Much of the trekker closely hugs the coast; here you can see the steep, rocky coastline of Christmas Island.",
+          "note": null
+        },
+        {
+          "id": "2-3",
+          "image": "/images/resize/600/80/christmas-island/Trail_Trekkers.png",
+          "text": "There is an abundance of smaller trail trekkers all over the island. These are mostly surrounded by very dense foliage, but occasionally you can encounter interesting sights like beaches and lookouts. NOTE: Click here for a larger map of their locations.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Step 3 - Spotlight",
+      "items": [
+        {
+          "id": "3-1",
+          "image": "/images/resize/600/80/christmas-island/Christmas-Island-Jin-Pantai-road.png",
+          "text": "An exception to the road coverage mostly having car meta is the coastal Jln Pantai road, where a regular trekker was used. On this road, you will not see the back of the car, just a trekker blur.",
+          "note": null
+        },
+        {
+          "id": "3-2",
+          "image": "/images/resize/600/80/christmas-island/Christmas-Island-cranes.png",
+          "text": "The harbour area is recognizable by the large cranes that are visible from many vantage points.",
+          "note": null
+        },
+        {
+          "id": "3-3",
+          "image": "/images/resize/600/80/christmas-island/Christmas-Island-golf-course.png",
+          "text": "This golf course trekker is on the northeast coast. In some places, the Google car also drove on this golf course.",
+          "note": null
+        },
+        {
+          "id": "3-4",
+          "image": "/images/resize/600/80/christmas-island/Christmas-Island-red-crabs.png",
+          "text": "Christmas Island is famous for its red crabs. Near Ethel Beach, you can find a trekker walking among hundreds of these crabs. Another smaller trekker where you can see crabs is near The Dales, on the West Coast. Throughout the island, you can find references on signs to these crabs.",
+          "note": null
+        }
+      ]
+    }
+  ]
+}

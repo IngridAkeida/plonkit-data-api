@@ -1,0 +1,421 @@
+{
+  "country": "Czechia",
+  "url": "https://www.plonkit.net/czechia",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:18:30.184947+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Identifying Czechia",
+      "items": [
+        {
+          "id": "1-1",
+          "image": "/images/resize/900/80/czechia/transparent-cz_summary_2026.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-3",
+          "image": null,
+          "text": "Important note: The following information is commonly shared with Slovakia. While there are occasional differences, these tips are used to identify both countries.",
+          "note": null
+        },
+        {
+          "id": "1-4",
+          "image": "/images/resize/600/80/czechia/cz_bollard.png",
+          "text": "Bollards in Czechia have orange double reflectors on the front and a single white reflector on the back. There are also rarer blue and red variants. NOTE: The only other country with the same design is Slovakia.",
+          "note": null
+        },
+        {
+          "id": "1-5",
+          "image": "/images/resize/600/80/czechia/cz_guardrail.png",
+          "text": "Czechia and Slovakia both use a special kind of type B guardrail, which is wider than the normal type. No other European countries use the same kind. NOTE: While Slovakia occasionally uses other types of guardrails, Czechia is fairly consistent. For a good overview of European guardrails, see this infographic.",
+          "note": null
+        },
+        {
+          "id": "1-6",
+          "image": "/images/resize/600/80/czechia/cz_doublepole.png",
+          "text": "Czechia and Slovakia most commonly use wide, round concrete poles, which are quite often attached in pairs.",
+          "note": null
+        },
+        {
+          "id": "1-7",
+          "image": "/images/resize/600/80/czechia/cz_poletops.png",
+          "text": "Czech and Slovak pole tops typically feature short metal bars that hold the insulators.",
+          "note": null
+        },
+        {
+          "id": "1-8",
+          "image": "/images/resize/600/80/czechia/cz_poletoptriangle.png",
+          "text": "Two support bars holding up the metal bar on pole tops, resembling an upside down triangle, can sometimes be found in Czechia and Slovakia. NOTE: This is also found in Germany, Albania, Serbia and Romania.",
+          "note": null
+        },
+        {
+          "id": "1-9",
+          "image": "/images/resize/600/80/czechia/cz_poletop3.png",
+          "text": "You may also see concrete poles with trident poletops, with two arms angled upwards. The number of insulators and other details will vary, however the general shape will be the same. Out of the pole tops listed, these are the least common, but unique to the two countries.",
+          "note": null
+        },
+        {
+          "id": "1-10",
+          "image": "/images/resize/600/80/czechia/cz_lampbase.png",
+          "text": "Lamp posts with a thick base mounted by opposing pairs of bolts are common in both countries. The exact shape of the base may vary.",
+          "note": null
+        },
+        {
+          "id": "1-11",
+          "image": "/images/resize/600/80/czechia/cz_redwhitesignpost.png",
+          "text": "It is common in both Czechia and Slovakia to see temporary square sign posts coated in red and white stripes.",
+          "note": null
+        },
+        {
+          "id": "1-12",
+          "image": "/images/resize/600/80/czechia/cz_chevron.png",
+          "text": "Czech and Slovak chevrons are white with red arrows. Less commonly, you may find red on yellow chevrons.",
+          "note": null
+        },
+        {
+          "id": "1-13",
+          "image": "/images/resize/600/80/czechia/cz_gaspoles.png",
+          "text": "Stripy gas and water poles reminiscent of snow poles can often be found next to the road. NOTE: Dozens of poles of various utilities all over Europe use stripy patterns. Consider the location of the pole, as well as other clues before making a guess.",
+          "note": null
+        },
+        {
+          "id": "1-14",
+          "image": "/images/resize/600/80/czechia/cz_trailmarkers.png",
+          "text": "Hiking markers, made up of one colourful strip between two white ones, are commonly found in Czechia and Slovakia. They sometimes form an arrow. NOTE: While by far being the most common in Czechia and Slovakia, similar signs can be found in other European countries such as Poland, Hungary and Germany.",
+          "note": null
+        },
+        {
+          "id": "1-15",
+          "image": "/images/resize/600/80/czechia/cz_apartmentblocks.png",
+          "text": "Like all of the former Eastern bloc, prefabricated panel apartment buildings are a common sight in urban areas. What distinguishes Czechia and Slovakia is the relatively good maintenance often combined with vibrant colours and patterns. Some smaller buildings also adhere to this style. NOTE: To a lesser extent, you can find this kind of architecture in neighbouring countries, like Poland and Hungary.",
+          "note": null
+        },
+        {
+          "id": "1-16",
+          "image": "/images/resize/600/80/czechia/cz_diamondroof.png",
+          "text": "Roofs with diamond shaped tiles are common in both Czechia and Slovakia. NOTE: This is also somewhat common in Hungary.",
+          "note": null
+        },
+        {
+          "id": "1-17",
+          "image": "/images/resize/600/80/czechia/cz_antenna.png",
+          "text": "A car antenna with a grey piece of tape stuck to the top can be seen on much of the Generation 3 coverage in Czechia and Slovakia. NOTE: This can also be seen in Hungary, Romania and Bulgaria.",
+          "note": null
+        },
+        {
+          "id": "1-18",
+          "image": "/images/resize/600/80/czechia/RedCar.png",
+          "text": "A red generation 4 Google car can be found in both Czechia and Slovakia. NOTE: A red car can be found in other European countries too.",
+          "note": null
+        },
+        {
+          "id": "1-19",
+          "image": "/images/resize/600/80/czechia/BlackCar.png",
+          "text": "A black generation 4 Google car can also be found in both Czechia and Slovakia. NOTE: A black car can be found in many other European countries too.",
+          "note": null
+        },
+        {
+          "id": "1-20",
+          "image": "/images/resize/600/80/czechia/cz_bridgemarker.png",
+          "text": "These black signs can often be found by the end of bridges in Generation 4 coverage. The road number is displayed on the left.",
+          "note": null
+        },
+        {
+          "id": "1-21",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-22",
+          "image": null,
+          "text": "Important note: The following information is not commonly shared with Slovakia. While there are occasional similarities, these tips are used to identify Czechia rather than Slovakia.",
+          "note": null
+        },
+        {
+          "id": "1-23",
+          "image": "/images/resize/600/80/czechia/cz_language.png",
+          "text": "Czech and Slovak are mutually intelligible Slavic languages with several similarities such as acute accents above vowels (á, é, í, ó, ú, ý). However, they both have some distinct letters: Czech uses the letters Ř, Ě and Ů; Slovak uses the letters Ľ, Ô, Ä, Ŕ and Ĺ. NOTE: Acute accents on vowels are not found in South Slavic languages.",
+          "note": null
+        },
+        {
+          "id": "1-24",
+          "image": "/images/resize/600/80/czechia/cz_landscape.png",
+          "text": "The Czech landscape is fairly rolling, with a lot of hills and altitude changes, but not a lot of tall mountains. Generally speaking, Slovakia has more mountains, but also more completely flat areas.",
+          "note": null
+        },
+        {
+          "id": "1-25",
+          "image": "/images/resize/600/80/czechia/cz_solidouterlines.png",
+          "text": "Czechia often has solid outer roadlines, with no centre line. NOTE: While these roadlines can be found in all neighbouring countries, it is notably also common in Germany.",
+          "note": null
+        },
+        {
+          "id": "1-26",
+          "image": "/images/resize/600/80/czechia/cz_directionalsigns.png",
+          "text": "Czechia uses arrow-shaped directional signs with a filled in tip. Due to the shape, they are recognizable from behind. NOTE: Slovakia has small white arrows instead.",
+          "note": null
+        },
+        {
+          "id": "1-27",
+          "image": "/images/resize/600/80/czechia/cz_bordersigns.png",
+          "text": "The borders of Czech road signs are almost always separated from the edge by a strip in the same colour as the sign background. NOTE: In Slovakia, it is more common for signs to have the border on the edge of the sign.",
+          "note": null
+        },
+        {
+          "id": "1-28",
+          "image": "/images/resize/600/80/czechia/cz_highwaysigns.png",
+          "text": "Czech highway signs can be either blue or green, and have a thin white border, which is separated from the edge by a second coloured border. NOTE: Slovak highway signs have a white border right on the edge.",
+          "note": null
+        },
+        {
+          "id": "1-29",
+          "image": "/images/resize/600/80/czechia/cz_streetsigns.png",
+          "text": "The most common type of street sign in Czechia are bright red signs, which can either be wide and stuck on walls, or thin and attached to signs posts. Note that other street signs do occur in some areas, most notably in Brno. Similarly designed blue signs are also fairly common. Furthermore, the Czech word for street is “ulice”, unlike most Slavic languages which use “ulica”. This word is usually omitted, but finding “ulice” on street signs is still possible. NOTE: Slovakia typically uses white street signs with a red border and blue text.",
+          "note": null
+        },
+        {
+          "id": "1-30",
+          "image": "/images/resize/600/80/czechia/cz_housenumbers.png",
+          "text": "House numbers in Czechia are generally written on blue or red signs with thin white borders. NOTE: On the contrary, Slovak house numbers are typically written on white signs with a thin red or black border.",
+          "note": null
+        },
+        {
+          "id": "1-31",
+          "image": "/images/resize/600/80/czechia/cz_signpostcap.png",
+          "text": "Czech sign posts typically have thick, black caps. NOTE: While some European countries have similar caps, Slovakia usually does not have them.",
+          "note": null
+        },
+        {
+          "id": "1-32",
+          "image": "/images/resize/600/80/czechia/cz_pedestriansign.png",
+          "text": "Czech pedestrian signs have five stripes. NOTE: The stripes on Slovak pedestrian signs are a smaller scale. This is noticeable when comparing the outermost stripes to the edge of the triangle.",
+          "note": null
+        },
+        {
+          "id": "1-33",
+          "image": "/images/resize/600/80/czechia/cz_signfont.png",
+          "text": "Czech road signs have a fairly thin font. NOTE: Slovak signs normally have a much bolder font. The same font is however used in Luxembourg and Germany.",
+          "note": null
+        },
+        {
+          "id": "1-34",
+          "image": "/images/resize/600/80/czechia/cz_kmmarker.png",
+          "text": "Czech kilometre markers have a yellow outline outside the black frame and do not have a black horizontal middle line. NOTE: Slovak kilometre markers typically have a black horizontal middle line and do not have a yellow outline.",
+          "note": null
+        },
+        {
+          "id": "1-35",
+          "image": "/images/resize/600/80/czechia/cz_bicyclesign.png",
+          "text": "Bicycle signs in Czechia are yellow. You may also find markings similar to hiking markers, but with yellow stripes instead of white.",
+          "note": null
+        },
+        {
+          "id": "1-36",
+          "image": "/images/resize/600/80/czechia/cz_pairhouses.png",
+          "text": "Suburban houses in Czechia are commonly connected in pairs. NOTE: This is less common in most neighbouring countries, including Slovakia.",
+          "note": null
+        },
+        {
+          "id": "1-37",
+          "image": "/images/resize/600/80/czechia/cz_gen3winter.png",
+          "text": "Much of Czech Generation 3 coverage was taken during winter, resulting in very grey, and occasionally snowy, coverage. NOTE: This is not common in Slovakia.",
+          "note": null
+        },
+        {
+          "id": "1-38",
+          "image": "/images/resize/600/80/czechia/WhiteCar.png",
+          "text": "A white Google car is present in Czechia but not Slovakia. NOTE: Other European countries can have a white Google Car.",
+          "note": null
+        },
+        {
+          "id": "1-39",
+          "image": "/images/resize/600/80/czechia/cz_railwaycrossing.png",
+          "text": "Czech railway crossing signs do not have a background. NOTE: Slovak railway crossing signs have a white rectangular background.",
+          "note": null
+        },
+        {
+          "id": "1-40",
+          "image": "/images/resize/600/80/czechia/cz_gen2.png",
+          "text": "While rare, it is possible to find Generation 2 in Czechia. NOTE: Slovakia does not have any Generation 2.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Step 2 - Regional and province-specific clues",
+      "items": [
+        {
+          "id": "2-1",
+          "image": "/images/resize/600/80/czechia/cz_roadnumbers.png",
+          "text": "The first digit of road numbers can be anything between 1-6. Though, roads starting with 6 are scattered across most of the country. There are three exceptions, being roads 7, 8 and 9, which all start in Prague and go to the north and northwest. Roads starting with 1-5 are mostly distributed as the map shows, with some overlap and exceptions mainly due to longer, two-digit roads.",
+          "note": null
+        },
+        {
+          "id": "2-2",
+          "image": "/images/resize/600/80/czechia/cz_bicyclepathnumbers.png",
+          "text": "Four-digit bike paths follow a geographical pattern, increasing clockwise, starting in Southern Bohemia. They do not show up on Google Maps, and as such remembering the general pattern is necessary to make them useful. Single- and two-digit bike paths are shown on this map, however they are far less useful to know. NOTE: Paths starting with A are unique to Prague, regardless how big the number. Some paths spill into neighbouring regions.",
+          "note": null
+        },
+        {
+          "id": "2-3",
+          "image": "/images/resize/600/80/czechia/cz_areacodes.png",
+          "text": "Czech phone numbers are typically made up of 9 digits, of which the first 1-3 digits are the area code. Note that if the first digit is 6 or higher, it does not indicate a specific area. They’re not very common. NOTE: Slovak phone numbers typically begin with a 0.",
+          "note": null
+        },
+        {
+          "id": "2-4",
+          "image": "/images/resize/600/80/czechia/cz_moraviawineregion.png",
+          "text": "Around 95% of all wine produced in Czechia comes from the Moravian wine region.",
+          "note": null
+        },
+        {
+          "id": "2-5",
+          "image": "/images/resize/600/80/czechia/cz_northbohemiahills.png",
+          "text": "Much of the northern Bohemian landscape can be characterised by a rolling landscape combined with steep solitary hills. NOTE: The hills can sometimes have castles on the top, which look absolutely awesome.",
+          "note": null
+        },
+        {
+          "id": "2-6",
+          "image": "/images/resize/600/80/czechia/cz_timberframe.png",
+          "text": "Timber framed houses in Czechia are mostly found along the northern parts of the German border.",
+          "note": null
+        },
+        {
+          "id": "2-7",
+          "image": "/images/resize/600/80/czechia/cz_timbersupport.png",
+          "text": "Houses with thick, dark wooden poles supporting the upper floors are common in the northernmost parts of the country.",
+          "note": null
+        },
+        {
+          "id": "2-8",
+          "image": "/images/resize/600/80/czechia/cz_woodenwithwhitelines.png",
+          "text": "Dark wooden houses, with white stripes shining through the wood, are common in most of northern Czechia.",
+          "note": null
+        },
+        {
+          "id": "2-9",
+          "image": "/images/resize/600/80/czechia/cz_moraviatownhouse.png",
+          "text": "Town houses in Moravia typically have two distinctive features: Houses have the long side parallel to the road and are often connected in large groups. Front doors are abnormally large, similar in size and shape to barn doors. NOTE: This is also common in northeastern Austria.",
+          "note": null
+        },
+        {
+          "id": "2-10",
+          "image": "/images/resize/600/80/czechia/cz_folkbaroque.png",
+          "text": "A variant of baroque architecture called Selské Baroko (folk baroque) can be found in the region surrounding České Budějovice. The style is characterised by highly decorated walls, with the setting being small villages rather than towns and cities.",
+          "note": null
+        },
+        {
+          "id": "2-11",
+          "image": "/images/resize/600/80/czechia/cz_singlepanewindow.png",
+          "text": "It is more common to see houses with single pane windows in the northwestern parts of the country.",
+          "note": null
+        },
+        {
+          "id": "2-12",
+          "image": "/images/resize/600/80/czechia/cz_streetsign_blue.png",
+          "text": "While possible to find in most of the country, blue street signs are more common in the east of the country, with Ostrava being the only major city to mainly use them.",
+          "note": null
+        },
+        {
+          "id": "2-13",
+          "image": "/images/resize/600/80/czechia/cz_streetsign_bluetextredframe.png",
+          "text": "If you see a white street sign with blue text and a red border, the same as is typical for Slovakia, then you should be near the Slovak border.",
+          "note": null
+        },
+        {
+          "id": "2-14",
+          "image": "/images/resize/600/80/czechia/cz_streetsign_redtext.png",
+          "text": "White street signs with red text are most commonly found in the eastern parts of the country. They can also be found in the southernmost parts. NOTE: Brno notably uses this design.",
+          "note": null
+        },
+        {
+          "id": "2-15",
+          "image": "/images/resize/600/80/czechia/cz_streetsign_bluetext.png",
+          "text": "White street signs with blue text are most common in the eastern parts of the country, but can also be seen in the central northern parts.",
+          "note": null
+        },
+        {
+          "id": "2-16",
+          "image": "/images/resize/600/80/czechia/cz_streetsign_blacktext.png",
+          "text": "White street signs with black text are most commonly found in the southeastern parts of the country. Note that these can look very similar to the ones with blue text.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Step 3 - Spotlight",
+      "items": [
+        {
+          "id": "3-1",
+          "image": "/images/resize/600/80/czechia/cz_praguepavement.png",
+          "text": "Streets in downtown Prague are commonly paved with grey and white marble stones, which is also typical for Portugal. They’re often arranged in intricate square mosaics, but some sections are far more plain. NOTE: Similar pavement can be found in much lower volume in other towns too. Consider the apparent size of the city before guessing Prague.",
+          "note": null
+        },
+        {
+          "id": "3-2",
+          "image": "/images/resize/600/80/czechia/cz_zlincubes.png",
+          "text": "Cube shaped, functionalist red brick houses are found in Zlín, as a remainder of the shoemaking company Baťa’s houses for their workers. In the city centre, high rise buildings are constructed in similar style. NOTE: So-called Bata-villes were also constructed outside of Czechia, most notably in Slovakia and France.",
+          "note": null
+        },
+        {
+          "id": "3-3",
+          "image": "/images/resize/600/80/czechia/cz_brnohousenumber.png",
+          "text": "Pairs of black and white house numbers are found in Brno. NOTE: The city district can be found written on the black house number.",
+          "note": null
+        },
+        {
+          "id": "3-4",
+          "image": "/images/resize/600/80/czechia/cz_pilsenhousenumber.png",
+          "text": "Pilsen house numbers typically consist of two red and white octagonal plates with inverse colour schemes.",
+          "note": null
+        },
+        {
+          "id": "3-5",
+          "image": "/images/resize/600/80/czechia/cz_ceskebudejovicehousenumber.png",
+          "text": "House numbers in České Budějovice have one red and one white plate with underlined numbers.",
+          "note": null
+        },
+        {
+          "id": "3-6",
+          "image": "/images/resize/600/80/czechia/cz_liberechousenumber.png",
+          "text": "Red house numbers with a dividing line and a Roman numeral are unique to Liberec. The dividing line is an important identifying factor, as Roman numerals can be found on house numbers in other cities.",
+          "note": null
+        },
+        {
+          "id": "3-7",
+          "image": "/images/resize/600/80/czechia/cz_pisekhousenumber.png",
+          "text": "Písek uses yellow house numbers with a black outline.",
+          "note": null
+        },
+        {
+          "id": "3-8",
+          "image": "/images/resize/600/80/czechia/cz_polska.png",
+          "text": "Polish bilingual street signs are found in Český Těšín, and very rarely in other nearby towns.",
+          "note": null
+        },
+        {
+          "id": "3-9",
+          "image": "/images/resize/600/80/czechia/cz_streetsign_sumperk.png",
+          "text": "The street signs in Šumperk can be recognized by being blue, with text filling out almost the entire sign.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Step 4 - Maps and resources",
+      "items": []
+    }
+  ]
+}

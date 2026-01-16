@@ -1,0 +1,74 @@
+{
+  "country": "Monaco",
+  "url": "https://www.plonkit.net/monaco",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:19:01.005914+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Identifying Monaco",
+      "items": [
+        {
+          "id": "1-1",
+          "image": "/images/resize/900/80/monaco/transparent-mc_summary_2026.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": "/images/resize/600/80/monaco/Monaco_location.png",
+          "text": "Monaco is a European microstate on the French Riviera, a few kilometres west of the border with Italy.",
+          "note": null
+        },
+        {
+          "id": "1-3",
+          "image": "/images/resize/600/80/monaco/Monaco_Rich.png",
+          "text": "Monaco is a rich and densely populated city state, with a Mediterranean feel to it. The architecture is similar to cities in southern France and northern Italy, but more luxurious. You will see a lot of apartment buildings, neoclassical details, and pastel colours. There are essentially no rural areas.",
+          "note": null
+        },
+        {
+          "id": "1-4",
+          "image": "/images/resize/600/80/monaco/Monaco_Licence_Plate.png",
+          "text": "Monaco’s licence plates are short and lack the blue strip. You will still see a lot of normal French plates around, however. These French vehicles often still have the old yellow back plates, due to how old the Generation 2 coverage is.",
+          "note": null
+        },
+        {
+          "id": "1-5",
+          "image": "/images/resize/600/80/monaco/Monaco_Hilly.png",
+          "text": "Monaco is a hilly country. The very few areas that are not built up show mediterranean vegetation.",
+          "note": null
+        },
+        {
+          "id": "1-6",
+          "image": "/images/resize/600/80/monaco/Palm_trees.png",
+          "text": "Planted palm trees are common.",
+          "note": null
+        },
+        {
+          "id": "1-7",
+          "image": "/images/resize/600/80/monaco/Tunnels.png",
+          "text": "There is a lot of coverage inside tunnels.",
+          "note": null
+        },
+        {
+          "id": "1-8",
+          "image": "/images/resize/600/80/monaco/Monaco_Mopeds.png",
+          "text": "Rows of parked mopeds are a common sight around Monaco’s streets.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Step 2 - Spotlight",
+      "items": [
+        {
+          "id": "2-1",
+          "image": "/images/resize/600/80/monaco/Harbour_trekker.png",
+          "text": "In the harbour, there is an extensive Generation 3 trekker on a boat. The Google employee’s brown hair and sunglasses are visible. You can see Monaco’s skyline and the hills beyond it. There are a lot of expensive yachts around. This trekker shows up a lot in the official competitive game modes, so it is worth remembering.",
+          "note": null
+        }
+      ]
+    }
+  ]
+}

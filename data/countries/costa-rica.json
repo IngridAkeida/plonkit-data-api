@@ -1,0 +1,211 @@
+{
+  "country": "Costa Rica",
+  "url": "https://www.plonkit.net/costa-rica",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:19:45.943878+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Identifying Costa Rica",
+      "items": [
+        {
+          "id": "1-1",
+          "image": null,
+          "text": "NOTE: Costa Rica has recently received full Street View coverage! \nWe’re currently updating the guide to reflect these changes.",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": "/images/resize/900/80/costa-rica/0_cr_summary.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-3",
+          "image": "/images/resize/600/80/costa-rica/cr_trekker.png",
+          "text": "The vast majority of coverage in Costa Rica was taken with a Generation 3 trekker camera. It can typically be recognised by being closer to the ground than cameras mounted to cars. On urban rounds it can also often be recognised by the trekker being on sidewalks, rather than in the middle of the roads. There are also some official tripods inside buildings.",
+          "note": null
+        },
+        {
+          "id": "1-4",
+          "image": "/images/resize/600/80/costa-rica/es_language.png",
+          "text": "Like in most of Latin America, Spanish is the official language of Costa Rica. NOTE: No other trekker-only country has Spanish as its main language.",
+          "note": null
+        },
+        {
+          "id": "1-5",
+          "image": "/images/resize/600/80/costa-rica/cr_licenceplate.png",
+          "text": "Costa Rican licence plates are typically short and white, with blue text, giving it a light blue tint through the blur.",
+          "note": null
+        },
+        {
+          "id": "1-6",
+          "image": "/images/resize/600/80/costa-rica/cr_pole.png",
+          "text": "Utility poles are typically round and made of concrete.",
+          "note": null
+        },
+        {
+          "id": "1-7",
+          "image": "/images/resize/600/80/costa-rica/cr_alto.png",
+          "text": "Like Mexico and Guatemala, Costa Rican stop signs feature the word “ALTO”.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Step 2 - Region-specific clues",
+      "items": [
+        {
+          "id": "2-1",
+          "image": "/images/resize/600/80/costa-rica/cr_coveragemap.png",
+          "text": "The coverage in Costa Rica is very limited, mainly being found in and around San José and by the northern west coast. There is also coverage on Cocos Island, located 500 kilometres southwest of the coast, as well as a boat trekker around Caño Island by the southern west coast.",
+          "note": null
+        },
+        {
+          "id": "2-2",
+          "image": "/images/resize/600/80/costa-rica/cr_beach.png",
+          "text": "Beach trekkers are mostly found on the northern east coast, but can also be found west of San José and on Cocos Island.",
+          "note": null
+        },
+        {
+          "id": "2-3",
+          "image": "/images/resize/600/80/costa-rica/cr_forest.png",
+          "text": "Most rural forest trekkers are found in central Costa Rica. Cocos Island also mainly consists of dense tropical forests.",
+          "note": null
+        },
+        {
+          "id": "2-4",
+          "image": "/images/resize/600/80/costa-rica/cr_urban.png",
+          "text": "Urban coverage is mainly found in and around San José and Cartago, but also exists in Liberia and Filadelfia de Guanacaste.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Step 3 - Pinpointable coverage",
+      "items": [
+        {
+          "id": "3-1",
+          "image": null,
+          "text": "This section covers all Costa Rican trekkers which are generally considered pinpointable, meaning they may show up in pinpointable world maps such as A Community World or An Official World.",
+          "note": null
+        },
+        {
+          "id": "3-2",
+          "image": "/images/resize/600/80/costa-rica/cr_childrensmuseum.png",
+          "text": "The Children’s Museum in northern San José can be recognised by its grand castle-like exterior.",
+          "note": null
+        },
+        {
+          "id": "3-3",
+          "image": "/images/resize/600/80/costa-rica/cr_nationalmuseum.png",
+          "text": "Around the National Museum, you can find several wealthy-looking homes, as well as a small tower built in a style resembling towers on medieval European fortresses.",
+          "note": null
+        },
+        {
+          "id": "3-4",
+          "image": "/images/resize/600/80/costa-rica/cr_orangebridge.png",
+          "text": "An orange pedestrian bridge can be found going over a major highway at Parque de la Paz in southeastern San José. While there is coverage throughout most of the park, you’re not likely to encounter anything but the bridge in a pinpointable map.",
+          "note": null
+        },
+        {
+          "id": "3-5",
+          "image": "/images/resize/600/80/costa-rica/cr_lasabana.png",
+          "text": "La Sabana Park has several sports facilities, including the National Stadium of Costa Rica, located in the western part of the park.",
+          "note": null
+        },
+        {
+          "id": "3-6",
+          "image": "/images/resize/600/80/costa-rica/cr_university.png",
+          "text": "The University of Costa Rica, in eastern San José, is fairly busy, with a lot of greenery and various medium-sized buildings strewn across the campus.",
+          "note": null
+        },
+        {
+          "id": "3-7",
+          "image": "/images/resize/600/80/costa-rica/cr_palaciodelosdeportes.png",
+          "text": "Palacio de los Deportes is a stadium in Heredia, northwest of San José, which can be recognised by its boxy look combined with the red, blue and white colour scheme.",
+          "note": null
+        },
+        {
+          "id": "3-8",
+          "image": "/images/resize/600/80/costa-rica/cr_airport.png",
+          "text": "At the Juan Santamaría International Airport you can find the trekker walking in the middle of a major four-lane road. There is also coverage just outside the airport terminal.",
+          "note": null
+        },
+        {
+          "id": "3-9",
+          "image": "/images/resize/600/80/costa-rica/cr_dogs.png",
+          "text": "In Centro Recreativo Bosque de la Hoja, just east of San José de la Montaña, you can see the trekker being followed by three dogs through a pine forest.",
+          "note": null
+        },
+        {
+          "id": "3-10",
+          "image": "/images/resize/600/80/costa-rica/cr_losmanantiales.png",
+          "text": "In Recreational Park Los Manantiales, just southwest of Poás, you can find a road lined with sugarcane plantations and cornstalk dracaena plants.",
+          "note": null
+        },
+        {
+          "id": "3-11",
+          "image": "/images/resize/600/80/costa-rica/cr_lagunadefraijanes.png",
+          "text": "At the entrance to Laguna de Fraijanes Recreational Park you can find a large orange wooden gate separating the road from a parking lot. As the name suggests, the park itself is situated around a small lagoon.",
+          "note": null
+        },
+        {
+          "id": "3-12",
+          "image": "/images/resize/600/80/costa-rica/cr_cartagomunicipalmuseum.png",
+          "text": "The Cartago Municipal Museum can be recognised by its palace-like facade with a neatly planted garden in front, as well as the railway in the middle of the street in front of the museum.",
+          "note": null
+        },
+        {
+          "id": "3-13",
+          "image": "/images/resize/600/80/costa-rica/cr_ruinsofcartago.png",
+          "text": "The Ruins of Cartago is the remains of a large catholic church near the centre of the city. The POI is one of the first things to show up when you zoom into the city.",
+          "note": null
+        },
+        {
+          "id": "3-14",
+          "image": "/images/resize/600/80/costa-rica/cr_cartagostadium.png",
+          "text": "José Rafael “Fello” Meza Ivankovich Stadium in southern Cartago can be recognised by the dark blue walls surrounding it.",
+          "note": null
+        },
+        {
+          "id": "3-15",
+          "image": "/images/resize/600/80/costa-rica/cr_instituteoftechnology.png",
+          "text": "Costa Rica Institute of Technology can usually be recognised by the mountain range which can be seen to the south and east.",
+          "note": null
+        },
+        {
+          "id": "3-16",
+          "image": "/images/resize/600/80/costa-rica/cr_jardinbotanicolankester.png",
+          "text": "By the entrance of Jardín Botanico Lankester, located southeast of Cartago, you can find a poorly maintained dirt road, surrounded by mountains in the distance, as well as a sign with the name of the garden. Within the garden itself you will find a plethora of different plants, with the walkways having many soft curves, and almost never being straight.",
+          "note": null
+        },
+        {
+          "id": "3-17",
+          "image": "/images/resize/600/80/costa-rica/cr_puntaleona.png",
+          "text": "The Punta Leona Resort, which can be found by the “Playa Mantas” POI, can be recognised by the red brick pavement, with the bricks having the same shape as you’ll commonly find in Turkey.",
+          "note": null
+        },
+        {
+          "id": "3-18",
+          "image": "/images/resize/600/80/costa-rica/cr_liberia.png",
+          "text": "The coverage in Liberia can be recognised by a white building with rounded windows having brown wooden window frames. This building can be seen on all coverage in the town.",
+          "note": null
+        },
+        {
+          "id": "3-19",
+          "image": "/images/resize/600/80/costa-rica/cr_filadelfiadeguanacaste.png",
+          "text": "Most of the coverage in Filadelfia de Guanacaste was taken on the edge of a park, with a distinct red brick pavement where the bricks are placed in the shape of an “L”.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Other resources",
+      "items": []
+    }
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "country": "Malaysia",
+  "url": "https://www.plonkit.net/malaysia",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:17:59.190779+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Identifying Malaysia",
+      "items": [
+        {
+          "id": "1-1",
+          "image": "/images/resize/900/80/malaysia/transparent-my_summary_2026.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": "/images/resize/600/80/malaysia/Malaysia_License_Plate.png",
+          "text": "Malaysian licence plates are black and generally have two white sections. These are visible even when blurred. NOTE: Indonesian licence plates are also black, but they will have three white sections.",
+          "note": null
+        },
+        {
+          "id": "1-3",
+          "image": "/images/resize/600/80/malaysia/Road_lines.png",
+          "text": "Malaysia frequently uses double white centre lines on its two-lane roads. It is the only Southeast Asian country to do so.",
+          "note": null
+        },
+        {
+          "id": "1-4",
+          "image": "/images/resize/600/80/malaysia/yellow_road_markings.png",
+          "text": "These thick yellow bars are also almost exclusive to Malaysia. NOTE: You can very rarely see similar patterns in Hong Kong and the United Kingdom.",
+          "note": null
+        },
+        {
+          "id": "1-5",
+          "image": "/images/resize/600/80/malaysia/Untitled_design__2825_29.png",
+          "text": "Electricity poles in Malaysia often have black or white stickers on them. Sometimes you will also find red-and-white or red-and-blue stripes below the black sticker.",
+          "note": null
+        },
+        {
+          "id": "1-6",
+          "image": "/images/resize/600/80/malaysia/Untitled_design__2824_29.png",
+          "text": "BERHENTI stop signs and BERI LALUAN yield signs are both unique to Malaysia.",
+          "note": null
+        },
+        {
+          "id": "1-7",
+          "image": "/images/resize/600/80/malaysia/Untitled_design__2823_29.png",
+          "text": "Malaysian bollards will often have the colours black, white, grey and red. Here are three examples of typical Malaysian bollards. NOTE: There can be multiple varieties of these bollards, but the layout is mostly the same.",
+          "note": null
+        },
+        {
+          "id": "1-8",
+          "image": "/images/resize/600/80/malaysia/directionalsign.png",
+          "text": "This is a typical Malaysian directional sign. Hexagonal yellow highway shields are unique to Malaysia.",
+          "note": null
+        },
+        {
+          "id": "1-9",
+          "image": "/images/resize/600/80/malaysia/Untitled_design__2830_29.png",
+          "text": "Malaysian kilometre markers have a unique white-and-blue colour scheme. Note that the hexagon shields are often visible.",
+          "note": null
+        },
+        {
+          "id": "1-10",
+          "image": "/images/resize/600/80/malaysia/my_language.png",
+          "text": "The Malay language uses the Latin script. It is very closely related to Indonesian. These two languages are practically indistinguishable for people who do not speak either.",
+          "note": null
+        },
+        {
+          "id": "1-11",
+          "image": "/images/resize/600/80/malaysia/chinese.png",
+          "text": "In contrast to neighbouring Indonesia, Chinese characters are often seen in Malaysia. In fact, 24.6% of the Malaysian population is of Chinese descent.",
+          "note": null
+        },
+        {
+          "id": "1-12",
+          "image": "/images/resize/600/80/malaysia/signpost.png",
+          "text": "Signposts in Malaysia almost always have black-and-white stripes. NOTE: Within Asia, these posts are also found in Sri Lanka, Bhutan and Bangladesh. Make sure to check other clues before guessing.",
+          "note": null
+        },
+        {
+          "id": "1-13",
+          "image": "/images/resize/600/80/malaysia/kerb.png",
+          "text": "Black-and-white curbs are commonly found in Malaysia. NOTE: Many other countries in Asia can also have black-and-white curbs.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Step 2 - Regional and state-specific clues",
+      "items": [
+        {
+          "id": "2-1",
+          "image": "/images/resize/600/80/malaysia/my_roads.png",
+          "text": "Each Malaysian state, excluding the three federal territories, has its own road numbering system with a unique letter at the start of the road number. NOTE: Sabah also has A roads, but only the A2 and A7.",
+          "note": null
+        },
+        {
+          "id": "2-2",
+          "image": "/images/resize/600/80/malaysia/malaysia_state_flags.png",
+          "text": "State flags can be seen with some regularity, so it is worth learning them.",
+          "note": null
+        },
+        {
+          "id": "2-3",
+          "image": "/images/resize/600/80/malaysia/MalayBlackStickers.png",
+          "text": "Black pole stickers are most commonly found on the mainland. NOTE: The black stickers on Borneo only exist in Generation 4 coverage.",
+          "note": null
+        },
+        {
+          "id": "2-4",
+          "image": "/images/resize/600/80/malaysia/TEL_TNB_Johor_Black_Sticker.png",
+          "text": "Black stickers with the text ‘TEL TNB’ at the bottom, are only found in Johor.",
+          "note": null
+        },
+        {
+          "id": "2-5",
+          "image": "/images/resize/600/80/malaysia/White_Sticker.png",
+          "text": "White pole stickers are only found on electricity poles on the island of Borneo, in Sarawak.",
+          "note": null
+        },
+        {
+          "id": "2-6",
+          "image": "/images/resize/600/80/malaysia/my_twocircleslamppost.png",
+          "text": "Lamp posts with two small circles on the support are mainly found on mainland Malaysia.",
+          "note": null
+        },
+        {
+          "id": "2-7",
+          "image": "/images/resize/600/80/malaysia/Triangular_Metal_Mainland_Lamp_Post.png",
+          "text": "Lamp posts with a triangular metal support are mainly found on mainland Malaysia.",
+          "note": null
+        },
+        {
+          "id": "2-8",
+          "image": "/images/resize/600/80/malaysia/Diagonal_Support_Poles.png",
+          "text": "Electricity poles on the Borneo side typically have a 2-1 insulator configuration, and a long diagonal wooden support. They are exclusive to the Sarawak region of the island. NOTE: Indonesian poles can look similar, but they are usually not made of wood, and use smaller or no diagonal supports.",
+          "note": null
+        },
+        {
+          "id": "2-9",
+          "image": "/images/resize/600/80/malaysia/Two_Horizontal_Support_Poles.png",
+          "text": "Thin metal poles with two parallel pole tops are exclusive to the Sabah region of Borneo.",
+          "note": null
+        },
+        {
+          "id": "2-10",
+          "image": "/images/resize/600/80/malaysia/Sarawak_Lamp_Posts.png",
+          "text": "This lamp post with a supporting piece of sheet metal resembling a boomerang is found in Sarawak. NOTE: It is more common in cities other than Kuching.",
+          "note": null
+        },
+        {
+          "id": "2-11",
+          "image": "/images/resize/600/80/malaysia/my_malaccabins.png",
+          "text": "Trash bins with a logo resembling an ‘S’ are found in the states of Negeri Sembilan, Malacca and Johor.",
+          "note": null
+        },
+        {
+          "id": "2-12",
+          "image": "/images/resize/600/80/malaysia/my_kedahbins.png",
+          "text": "Trash bins with a logo resembling leaves are found in Perlis and Kedah.",
+          "note": null
+        },
+        {
+          "id": "2-13",
+          "image": "/images/resize/600/80/malaysia/my_kualalumpurbins.png",
+          "text": "Trash bins with this logo featuring a sunny landscape, saying ‘Alam Flora’ are found in Pahang, Kuala Lumpur and Putrajaya. The logo will occasionally be absent, and it will just say ‘Alam Flora’.",
+          "note": null
+        },
+        {
+          "id": "2-14",
+          "image": "/images/resize/600/80/malaysia/Johor_Street_Sign.png",
+          "text": "Yellow street name signs with a black outline are specific to the state of Johor. NOTE: This arrow-shaped street sign, regardless of its colour, is exclusive to Malaysia. NOTE: Yellow signs are also found in southern Negeri Sembilan, however only the tip of the arrow will be black.",
+          "note": null
+        },
+        {
+          "id": "2-15",
+          "image": "/images/resize/600/80/malaysia/Sabah_Street_Signs.png",
+          "text": "Green street signs that form an arrow shape and have a yellow hexagonal symbol with the letters JKR on the left side are found in Sabah.",
+          "note": null
+        },
+        {
+          "id": "2-16",
+          "image": "/images/resize/600/80/malaysia/Sabah_Mountains.png",
+          "text": "Assuming you are on Borneo: the state of Sabah is very mountainous, and much of the coverage is on mountain roads like this one. NOTE: Sarawak generally has flatter roads. Even if you see mountains, they will usually be at a distance.",
+          "note": null
+        },
+        {
+          "id": "2-17",
+          "image": "/images/resize/600/80/malaysia/Perlis_State_Isolated_Rock_Formations.png",
+          "text": "These isolated rock formations, rising abruptly from an otherwise flat landscape, can be found near the Thai border in Perlis state.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Step 3 - Spotlight",
+      "items": [
+        {
+          "id": "3-1",
+          "image": "/images/resize/600/80/malaysia/Labuan_blue_bins.png",
+          "text": "Urban areas in Labuan are dotted with blue cylindrical containers.",
+          "note": null
+        },
+        {
+          "id": "3-2",
+          "image": "/images/resize/600/80/malaysia/Sarawak_Gunung_Mulu_National_Park_Google_Car.png",
+          "text": "This unique grey car with a long front antenna can be found in Gunung Mulu National Park, Sarawak.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Other resources",
+      "items": []
+    }
+  ]
+}

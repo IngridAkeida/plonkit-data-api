@@ -1,0 +1,236 @@
+{
+  "country": "Ecuador",
+  "url": "https://www.plonkit.net/ecuador",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:20:30.543675+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Identifying Ecuador",
+      "items": [
+        {
+          "id": "1-1",
+          "image": "/images/resize/900/80/ecuador/transparent-ecuador_summary_new.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": "/images/resize/600/80/ecuador/Ecuador_License_Plate.png",
+          "text": "The standard licence plates are white and can be short or long. In street view, you will often see a mix of both sizes. Commercial vehicles, such as taxis or buses, can have older solid orange plates, or newer ones with an orange bar at the top. NOTE: Ecuador is the only country in Latin America to use a mix of short and long licence plates.",
+          "note": null
+        },
+        {
+          "id": "1-3",
+          "image": "/images/resize/600/80/ecuador/ec_antenna.png",
+          "text": "All Generation 3 coverage is made with a white car, with a short and thick antenna (“stubby antenna”). The antenna and or car are not always visible. NOTE: Mexico, Brazil and Colombia can also have this same short antenna. This antenna on a black car can only be found in Colombia, which can help with tough 50-50s with Ecuador. Note that Colombia can also simply have a white car.",
+          "note": null
+        },
+        {
+          "id": "1-4",
+          "image": "/images/resize/600/80/ecuador/Screenshot__281151_29.png",
+          "text": "All Generation 4 coverage was captured using a white pickup truck with a black trunk and no antenna. NOTE: The pickup truck in Panama has an antenna on the front.",
+          "note": null
+        },
+        {
+          "id": "1-5",
+          "image": "/images/resize/600/80/ecuador/ecua_shitcam_with_logo.png",
+          "text": "Google used a weird, low-quality camera in Ecuador. This camera is known as the official Ari (or “Shitcam”). It has a wide circular car blur and often somewhat brownish colours. You will sometimes see a unique red logo at the front of the car. NOTE: Within Latin America, Ecuador is the only country that has shitcam coverage.",
+          "note": null
+        },
+        {
+          "id": "1-6",
+          "image": "/images/resize/600/80/ecuador/Bollards-EC.png",
+          "text": "Ecuador is one of the few Latin American countries where bollards are very common. You will find two main types of bollards: A round bollard with two red stripes, A flat bollard with two red reflectors on black. Many other bollards can be found, however, they will almost always have the same colour scheme and style. NOTE: A similar rectangular bollard can sometimes be found in Malaysia.",
+          "note": null
+        },
+        {
+          "id": "1-7",
+          "image": "/images/resize/600/80/ecuador/Ecua_poles.png",
+          "text": "Most poles in Ecuador are round and made of concrete. These poles are fairly generic and not all that useful to identify the country. However, sometimes you will see another, more useful type of concrete pole: the ladder pole. It has a lot of small indents – resembling the steps of a ladder. Within Latin America, these poles are more or less unique to Ecuador. NOTE: Brazilian waffle poles also have indents, but only a couple – as opposed to the large amount of indents that Ecuadorian ladder poles have.",
+          "note": null
+        },
+        {
+          "id": "1-8",
+          "image": "/images/resize/600/80/ecuador/Concrete_roads.png",
+          "text": "Concrete roads are relatively common in Ecuador.",
+          "note": null
+        },
+        {
+          "id": "1-9",
+          "image": "/images/resize/600/80/ecuador/Double_guardrails.png",
+          "text": "Double guardrails are very commonly used. This is much less common in other South American countries.",
+          "note": null
+        },
+        {
+          "id": "1-10",
+          "image": "/images/resize/600/80/ecuador/Chevron_spam2.png",
+          "text": "Ecuador often uses a lot of chevrons in road curves (“chevron spam”), usually considerably more than most other Latin American countries. NOTE: Colombia also occasionally uses a lot of chevrons in curves.",
+          "note": null
+        },
+        {
+          "id": "1-11",
+          "image": "/images/resize/600/80/ecuador/Square_signs.png",
+          "text": "Ecuador uses a lot of square road signs with a white background, of the design shown in the image.",
+          "note": null
+        },
+        {
+          "id": "1-12",
+          "image": "/images/resize/600/80/ecuador/KM_marker.png",
+          "text": "Kilometre markers are green and have the distinctive Ecuadorian highway shields on them.",
+          "note": null
+        },
+        {
+          "id": "1-13",
+          "image": "/images/resize/600/80/ecuador/Teal_sign_back.png",
+          "text": "Sometimes, the back of the signs are painted a teal blue colour. The signposts are thin and made of metal. NOTE: Ecuador is the only country in Latin America to use teal blue sign backs.",
+          "note": null
+        },
+        {
+          "id": "1-14",
+          "image": "/images/resize/600/80/ecuador/ecuador_one_way.jpeg",
+          "text": "Ecuador uses these signs to indicate one or two-way streets. NOTE: The Dominican Republic and Puerto Rico are the only two other Latin American countries to use similar signs with text inside the arrow.",
+          "note": null
+        },
+        {
+          "id": "1-15",
+          "image": "/images/resize/600/80/ecuador/round__281_29.png",
+          "text": "Most houses are made of grey bricks and have metal roofs. NOTE: This is not unique to Ecuador, but is very common. Countries such as Peru, and especially Bolivia, commonly use red bricks.",
+          "note": null
+        },
+        {
+          "id": "1-16",
+          "image": "/images/resize/600/80/ecuador/Hexagonal_tiles.png",
+          "text": "In urban areas, you can sometimes find this pavement consisting of hexagonal tiles.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Step 2 - Regional and province-specific clues",
+      "items": [
+        {
+          "id": "2-1",
+          "image": "/images/resize/600/80/ecuador/ec_coverage.png",
+          "text": "Most of the coverage in Ecuador is centred around the western part of the country. A large part of the Amazon rainforest has no coverage. There is also some trekker coverage on the Galapagos Islands. You can check out the extent of the official coverage on this website.",
+          "note": null
+        },
+        {
+          "id": "2-2",
+          "image": "/images/resize/600/80/ecuador/EcuaGen43.png",
+          "text": "Generation 4 coverage is found in most of Ecuador, with notable gaps in the northwest and southeast.",
+          "note": null
+        },
+        {
+          "id": "2-3",
+          "image": "/images/resize/600/80/ecuador/Antenna-EC.png",
+          "text": "The Google car antenna has two distinct variations: The “high” antenna (purple), where the wire around the antenna is entirely above the halfway line of the antenna. And the “low” antenna (blue) where the majority of the wire is below the halfway point of the line, and there can be a small bit poking up at the very top. This is most useful when you have the high antenna, since it will always be in the northern half of the country.",
+          "note": null
+        },
+        {
+          "id": "2-4",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "2-5",
+          "image": "/images/resize/600/80/ecuador/Ecuador_relief_location_map.svg.png",
+          "text": "This is an elevation map of Ecuador. The imposing Andes mountains run through the middle of the country. The east and west of the country are more flat.",
+          "note": null
+        },
+        {
+          "id": "2-6",
+          "image": "/images/resize/600/80/ecuador/banana-plants-EC.png",
+          "text": "Banana plants, and especially plantations, are most commonly found in the southwestern part of the country.",
+          "note": null
+        },
+        {
+          "id": "2-7",
+          "image": "/images/resize/600/80/ecuador/ec_dry.png",
+          "text": "This extremely dry landscape is only found in the coastal region between Guayaquil and Manta.",
+          "note": null
+        },
+        {
+          "id": "2-8",
+          "image": "/images/resize/600/80/ecuador/Flat-EC.png",
+          "text": "The flattest region is located around the city of Guayaquil. This is most easily seen on the E-25 and E-48. The Amazon area is also very flat, and will be described below.",
+          "note": null
+        },
+        {
+          "id": "2-9",
+          "image": "/images/resize/600/80/ecuador/ec_amazon.png",
+          "text": "The Amazon area is very distinct. It is fairly flat, and contains many of these trees with white bark (Cordia trichotoma), and oil palms. The vast majority of the coverage notably uses the rarer “high antenna”.",
+          "note": null
+        },
+        {
+          "id": "2-10",
+          "image": "/images/resize/600/80/ecuador/Esmeraldes-EC.png",
+          "text": "The province of Esmeraldas can look similar to the Amazon region, but it is significantly hillier.",
+          "note": null
+        },
+        {
+          "id": "2-11",
+          "image": "/images/resize/600/80/ecuador/ec_southernregion.png",
+          "text": "The southern regions have many winding mountain roads and exposed brownish red dirt. The central provinces can have similar roads, but the exposed dirt will usually not be found in these areas.",
+          "note": null
+        },
+        {
+          "id": "2-12",
+          "image": "/images/resize/600/80/ecuador/ec_chimborazo.png",
+          "text": "The province of Chimborazo is semi-arid, and has an abundance of pine trees.",
+          "note": null
+        },
+        {
+          "id": "2-13",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "2-14",
+          "image": "/images/resize/600/80/ecuador/ec_taxi.png",
+          "text": "Taxis in Ecuador are very common, and the first letter on each taxi can be used to determine the province you are in. The first letter of the taxi and the first letter of the province name are often the same. NOTE: This letter will also appear as the first letter on ordinary licence plates respectively in each region. Beware that the letter P, as the letter for Pichincha (the region containing Quito), shows up occasionally in several regions.",
+          "note": null
+        },
+        {
+          "id": "2-15",
+          "image": "/images/resize/600/80/ecuador/image(1).png",
+          "text": "Electricity poles with oval, see-through holes are most common in Loja province. They are occasionally found in neighbouring provinces.",
+          "note": null
+        },
+        {
+          "id": "2-16",
+          "image": "/images/resize/600/80/ecuador/guayas_guardrail.png",
+          "text": "Guardrails in Guayas province are often painted black-and-yellow, as opposed to the generic silver or solid yellow versions.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Step 3 - Spotlight",
+      "items": [
+        {
+          "id": "3-1",
+          "image": "/images/resize/600/80/ecuador/ec_e40.png",
+          "text": "The E-40 between Salinas and Guayaquil is one of the only divided highways in Ecuador, and the only one in the dry area near the southwestern coast.",
+          "note": null
+        },
+        {
+          "id": "3-2",
+          "image": "/images/resize/600/80/ecuador/ThickGreyPipe.png",
+          "text": "A brown pipe can be seen on the side of a few north-eastern Ecuadorian roads.",
+          "note": null
+        },
+        {
+          "id": "3-3",
+          "image": "/images/resize/600/80/ecuador/Galapagos-EC.png",
+          "text": "The Galapagos Islands are an archipelago located west of mainland Ecuador. There are only trekkers and boat coverage on and around the islands. There is a wide variety of landscapes, including volcanic soil, low shrubbery, and craters (with Galapagos turtles onlooking).",
+          "note": null
+        }
+      ]
+    }
+  ]
+}

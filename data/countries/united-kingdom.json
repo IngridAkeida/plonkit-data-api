@@ -1,0 +1,337 @@
+{
+  "country": "United Kingdom",
+  "url": "https://www.plonkit.net/united-kingdom",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:19:38.986307+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Identifying the United Kingdom",
+      "items": [
+        {
+          "id": "1-1",
+          "image": "/images/resize/900/80/united-kingdom/0_Actually_not_Ghana_Basic_Summary_Graphic3.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": "/images/resize/600/80/united-kingdom/United_Kingdom_License_Plate.png",
+          "text": "UK front plates are white, while back plates are yellow. Some plates have a blue strip on the left, but most do not. Additionally, you might see a plate with a green ‘Zero Emissions’ strip. NOTE: Ireland uses white front and back plates, always with a blue strip on the left.",
+          "note": null
+        },
+        {
+          "id": "1-3",
+          "image": "/images/resize/600/80/united-kingdom/UntitledaaA.jpg",
+          "text": "The UK drives on the left side of the road. NOTE: The UK, Ireland, Malta and Cyprus are the only European countries that drive on the left.",
+          "note": null
+        },
+        {
+          "id": "1-4",
+          "image": "/images/resize/600/80/united-kingdom/Kopie_van_Magnifying_Effect_10.png",
+          "text": "Double yellow road lines are often found on the sides of marked roads, especially in urban areas. These lines indicate a no stopping zone. NOTE: These lines can also be found in Ireland.",
+          "note": null
+        },
+        {
+          "id": "1-5",
+          "image": "/images/resize/600/80/united-kingdom/Cats_eyes_dashes2.png",
+          "text": "These middle lines, that consist of long dashes with cat’s eyes (reflectors) in the gaps between the dashes, are a good clue for the UK.",
+          "note": null
+        },
+        {
+          "id": "1-6",
+          "image": "/images/resize/600/80/united-kingdom/Bollard.png",
+          "text": "The most common bollard in the UK looks like this. It has a rounded shape, with a red reflector on the front and a white one on the back. The base and top are black, with a white stripe in the middle.",
+          "note": null
+        },
+        {
+          "id": "1-7",
+          "image": "/images/resize/600/80/united-kingdom/Pole_steps.png",
+          "text": "The UK uses wooden poles. Pole steps bolted on the side of the pole are very common. These pole steps are shaped like a series of thin horizontal metal rods. NOTE: Ireland also commonly uses wooden poles with pole steps.",
+          "note": null
+        },
+        {
+          "id": "1-8",
+          "image": "/images/resize/600/80/united-kingdom/Chevron.png",
+          "text": "Chevrons are black with white arrows. NOTE: Irish chevrons are black with yellow arrows. French chevrons are blue with white arrows.",
+          "note": null
+        },
+        {
+          "id": "1-9",
+          "image": "/images/resize/600/80/united-kingdom/Warning_sign_shape.png",
+          "text": "Like most European countries, the UK uses triangular warning signs with a red border and a white background. NOTE: This is mostly useful to distinguish between the UK and Ireland, as Ireland uses diamond-shaped yellow warning signs (being the only European country to do so).",
+          "note": null
+        },
+        {
+          "id": "1-10",
+          "image": "/images/resize/600/80/united-kingdom/Ontwerp_zonder_titel_3.png",
+          "text": "Direction signs in the United Kingdom can be blue, green, or white. Look for the letters A or M, as these are the major roads in the country. Smaller roads start with B. NOTE: Irish direction signs are typically bilingual, with Irish names in italics, making them easy to distinguish from the UK ones.",
+          "note": null
+        },
+        {
+          "id": "1-11",
+          "image": "/images/resize/600/80/united-kingdom/Street_sign.png",
+          "text": "The UK commonly uses these white street signs with black text, that are positioned low to the ground. They are usually supported by two small posts. Many street signs in suburban areas will have a small cul-de-sac icon. They can sometimes have different colours or feature small designs, like coats of arms.",
+          "note": null
+        },
+        {
+          "id": "1-12",
+          "image": "/images/resize/600/80/united-kingdom/Yield_signs2.png",
+          "text": "UK yield signs feature the phrase “GIVE WAY”. NOTE: Irish yields signs just have the word “YIELD”.",
+          "note": null
+        },
+        {
+          "id": "1-13",
+          "image": "/images/resize/600/80/united-kingdom/Danger_of_death.jpg",
+          "text": "The yellow warning stickers on utility poles can be a good way to distinguish between the UK and Ireland. The most important difference is that UK stickers feature a guy getting zapped by a lightning bolt. The Irish stickers usually have a lightning bolt, but lack the guy getting zapped. They also often have an extra second rectangular sticker with a black outline, below the lightning bolt.",
+          "note": null
+        },
+        {
+          "id": "1-14",
+          "image": "/images/resize/600/80/united-kingdom/UK_bollard.png",
+          "text": "This yellow traffic bollard is commonly found in the UK.",
+          "note": null
+        },
+        {
+          "id": "1-15",
+          "image": "/images/resize/600/80/united-kingdom/Pedestrian_signpost.png",
+          "text": "Pedestrian crossing signs are almost non-existent in the UK. Instead, pedestrian crossings will often have these distinctive black and white striped poles, with a yellow light bulb on top. NOTE: These signposts are also common in Ireland.",
+          "note": null
+        },
+        {
+          "id": "1-16",
+          "image": "/images/resize/600/80/united-kingdom/uk_gate.png",
+          "text": "Rural metal gates with square corners are very common in the UK. NOTE: This is mainly useful to distinguish it from Ireland, where similar gates typically have rounded corners. Gates in Northern Ireland also typically have rounded corners.",
+          "note": null
+        },
+        {
+          "id": "1-17",
+          "image": "/images/resize/600/80/united-kingdom/Rural_landscape.png",
+          "text": "The British countryside tends to be very green, with lots of hedgerows lining the road. Low, rolling hills are common throughout most of the country. NOTE: The Irish countryside looks very similar, so make sure to look at other clues before guessing.",
+          "note": null
+        },
+        {
+          "id": "1-18",
+          "image": "/images/resize/600/80/united-kingdom/round.png",
+          "text": "Terraced houses (row houses) are very common in the UK. This housing type shares walls on both sides with neighbouring homes. You will also see a lot of semi-detached houses, which share just one side wall with another house. NOTE: 61% of the population lives in terraced or semi-detached houses, significantly more than most other European countries. The only European countries where terraced houses are this common are Ireland and the Netherlands.",
+          "note": null
+        },
+        {
+          "id": "1-19",
+          "image": "/images/resize/600/80/united-kingdom/Red_brick_architecture.png",
+          "text": "Red brick buildings are common in many parts of the UK. NOTE: Red brick architecture is also common in the Netherlands, Belgium, and Denmark, as well as parts of northern France.",
+          "note": null
+        },
+        {
+          "id": "1-20",
+          "image": "/images/resize/600/80/united-kingdom/Suburbs.png",
+          "text": "Suburbs in UK towns tend to have a recognizable look. They typically feature near-identical houses, often semi-detached, usually with well-manicured lawns. The road layout can be maze-like, with lots of cul-de-sacs and curvy roads.",
+          "note": null
+        },
+        {
+          "id": "1-21",
+          "image": "/images/resize/600/80/united-kingdom/Chimneys.png",
+          "text": "Many British buildings have distinct-looking chimneys with multiple so-called chimney pots. These pots are usually round and brick-coloured.",
+          "note": null
+        },
+        {
+          "id": "1-22",
+          "image": "/images/resize/600/80/united-kingdom/Timber_framing.png",
+          "text": "Some buildings, both old and new, feature black-and-white timber framing. NOTE: This is less common in Ireland.",
+          "note": null
+        },
+        {
+          "id": "1-23",
+          "image": "/images/resize/600/80/united-kingdom/europe_smallcam.png",
+          "text": "The UK has Generation 4 “smallcam” coverage, which is mounted lower than regular Generation 4 and has a relatively big circular blur with a small protrusion at the front. The blur can also be fully transparent, making it harder to spot.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Step 2 - Regional clues",
+      "items": [
+        {
+          "id": "2-1",
+          "image": "/images/resize/600/80/united-kingdom/England.png",
+          "text": "Occasionally, you can find one of the 4 country flags, which will tell you where in the UK you are.",
+          "note": null
+        },
+        {
+          "id": "2-2",
+          "image": "/images/resize/600/80/united-kingdom/Untitled-1.png",
+          "text": "A- and B-roads are grouped by their first digit, for example A380 and B3217 are located in the southwest of the country. Motorways also generally follow this pattern. Beware that roads starting with any digit from 1 to 8 can also be found in Northern Ireland.",
+          "note": null
+        },
+        {
+          "id": "2-3",
+          "image": "/images/resize/600/80/united-kingdom/gb_phone_numbers.webp",
+          "text": "Landline phone numbers in the UK always have nine or ten digits after the 0 trunk code. The first two to four digits after the 0 are the area code. Unfortunately for Geoguessr players, there is not much rhyme or reason to their geographic ordering. However, the area codes of some large cities are still worth memorising. The most important ones are summarised in this infographic. Notably, all of Northern Ireland uses the phone code 028, and all of London uses 020. A complete overview of all other area codes is available in this infographic.",
+          "note": null
+        },
+        {
+          "id": "2-4",
+          "image": "/images/resize/600/80/united-kingdom/United_Kingdom_Bins.png",
+          "text": "Bins in urban areas often have the city name on them.",
+          "note": null
+        },
+        {
+          "id": "2-5",
+          "image": "/images/resize/600/80/united-kingdom/UK-Scottish-Highlands.png",
+          "text": "The Scottish Highlands can be distinguished by the semi-barren, very mountainous landscape. NOTE: A lot of Generation 4 coverage in the Highlands is from (early) spring, meaning that the vegetation often looks brown and yellow. In addition, some of the most mountainous parts of Wales and Northern England can look similar.",
+          "note": null
+        },
+        {
+          "id": "2-6",
+          "image": "/images/resize/600/80/united-kingdom/Indicator-template-UK1.png",
+          "text": "In Scotland, you can often find these red and white bollards. They are round, bulky, and have a red-and-grey reflector that wraps all the way around. They are sometimes found in other parts of the UK. NOTE: The bollard looks similar to the French one. However, there are some small differences. For example, the Scottish bollard is round on the top, while the French one is more spiked.",
+          "note": null
+        },
+        {
+          "id": "2-7",
+          "image": "/images/resize/600/80/united-kingdom/Indicator-template-UK-Scotland.png",
+          "text": "These diamond-shaped ‘Passing Place’ signs are most commonly found in Scotland.",
+          "note": null
+        },
+        {
+          "id": "2-8",
+          "image": "/images/resize/600/80/united-kingdom/Welsh.png",
+          "text": "Welsh is a Celtic language that is spoken throughout Wales. Road signs in Wales are usually bilingual English and Welsh. Towns often have Welsh names too. Welsh uses the letters D, W, and Y much more commonly than English. The double LL is also very distinct. NOTE: Scottish Gaelic and Irish are both also Celtic languages. They can look somewhat similar to Welsh.",
+          "note": null
+        },
+        {
+          "id": "2-9",
+          "image": "/images/resize/600/80/united-kingdom/Araf2.png",
+          "text": "In Wales, markings on the road are in both English and Welsh. One of the best examples of this is ‘Araf’, which means ‘Slow’. This marking is only found in Wales. NOTE: Araf is not the only Welsh language marking you can find, it is just the most common. Whenever you see an obviously non-English marking next to an English one, consider guessing in Wales.",
+          "note": null
+        },
+        {
+          "id": "2-10",
+          "image": "/images/resize/600/80/united-kingdom/UK-Scottish-Gaelic.png",
+          "text": "Scottish Gaelic is a Celtic language that is closely related to Irish. They have a very similar look and use accent marks commonly. Common and recognizable letter clusters include bh, dh, fh, mh, ai, ea, eo, and ui. Scottish Gaelic on road signs is found most commonly in the Scottish Highlands, and is almost always found north of Glasgow. NOTE: Scottish Gaelic on road signs will often be in green or yellow text. This will not happen with Welsh or Irish on road signs.",
+          "note": null
+        },
+        {
+          "id": "2-11",
+          "image": "/images/resize/600/80/united-kingdom/Scottish_Buildings.png",
+          "text": "It is common to see houses made of large blocks of sandstone or granite in Scotland. Granite buildings are common in Aberdeen, red sandstone is common in Glasgow and Dumfries, and yellow sandstone is common in Edinburgh.",
+          "note": null
+        },
+        {
+          "id": "2-12",
+          "image": "/images/resize/600/80/united-kingdom/Palms-UK.png",
+          "text": "Cornish palms (Cordyline australis) in the UK are most commonly found in the far southwest along the coast and in Jersey. Although, they can rarely be found all along the west coast up to Scotland.",
+          "note": null
+        },
+        {
+          "id": "2-13",
+          "image": "/images/resize/600/80/united-kingdom/Northern_Ireland_sticker.png",
+          "text": "These black stickers with yellow text sometimes appear on lampposts in Northern Ireland.",
+          "note": null
+        },
+        {
+          "id": "2-14",
+          "image": "/images/resize/600/80/united-kingdom/uk_isleofmanlocation.png",
+          "text": "The Isle of Man is an island in the Irish Sea between the United Kingdom and Ireland. There is only Generation 2 coverage on the island. For country streak purposes, it is counted as part of the United Kingdom. Plonk It has a more in-depth guide to the Isle of Man here.",
+          "note": null
+        },
+        {
+          "id": "2-15",
+          "image": "/images/resize/600/80/united-kingdom/UK-Jersey.png",
+          "text": "Jersey is an island in the English Channel between France and England. There is only Generation 2 coverage on the island. For country streak purposes, it is counted as part of the United Kingdom. Plonk It has a more in-depth guide to Jersey here.",
+          "note": null
+        },
+        {
+          "id": "2-16",
+          "image": "/images/resize/600/80/united-kingdom/Gibraltar_Location.png",
+          "text": "Gibraltar is a British Overseas Territory located at the southern tip of the Iberian Peninsula, bordering Spain. For country streak purposes, the territory is counted as part of the United Kingdom. Plonk It has a more in-depth guide to Gibraltar here.",
+          "note": null
+        },
+        {
+          "id": "2-17",
+          "image": "/images/resize/600/80/united-kingdom/bermuda.png",
+          "text": "Bermuda is a British Overseas Territory located in the North Atlantic Ocean. Plonk It has a more in-depth guide to Bermuda here.",
+          "note": null
+        },
+        {
+          "id": "2-18",
+          "image": "/images/resize/600/80/united-kingdom/falklands.png",
+          "text": "The Falkland Islands is a British Overseas Territory located in the South Atlantic Ocean. Plonk It has a more in-depth guide to the Falkland Islands here.",
+          "note": null
+        },
+        {
+          "id": "2-19",
+          "image": "/images/resize/600/80/united-kingdom/southgeorgia.png",
+          "text": "South Georgia and the South Sandwich Islands is a British Overseas Territory located in the South Atlantic Ocean. Plonk It has a more in-depth guide to the territory here.",
+          "note": null
+        },
+        {
+          "id": "2-20",
+          "image": "/images/resize/600/80/united-kingdom/pitcairn.png",
+          "text": "The Pitcairn Islands is a British Overseas Territory located in the South Pacific Ocean. Plonk It has a more in-depth guide to the Pitcairn Islands here.",
+          "note": null
+        },
+        {
+          "id": "2-21",
+          "image": "/images/resize/600/80/united-kingdom/biot.png",
+          "text": "The British Indian Ocean Territory is a British Overseas Territory, unsurprisingly located in the Indian Ocean. Plonk It has a more in-depth guide to the British Indian Ocean Territory here.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Step 3 - Spotlight",
+      "items": [
+        {
+          "id": "3-1",
+          "image": "/images/resize/600/80/united-kingdom/Untitled_design_4.png",
+          "text": "The Lake District is very hilly, with a lot of exposed rocks and stone walls. It can look like the Scottish Highlands, but Scotland is generally less rocky.",
+          "note": null
+        },
+        {
+          "id": "3-2",
+          "image": "/images/resize/600/80/united-kingdom/LONDON.png",
+          "text": "London street signs have a distinct look. They usually feature the street name in black, followed by the postcode and borough in red.",
+          "note": null
+        },
+        {
+          "id": "3-3",
+          "image": "/images/resize/600/80/united-kingdom/aberdeenshire_blue_signs.png",
+          "text": "Street name signs in Aberdeen and Aberdeenshire typically feature a simple blue background with white lettering. NOTE: Central Aberdeen uses a different, black-and-yellow design.",
+          "note": null
+        },
+        {
+          "id": "3-4",
+          "image": "/images/resize/600/80/united-kingdom/green_bilingual_ulster.png",
+          "text": "Signs with green text underneath the street name, indicating the townland, can be found in the western part of Northern Ireland. Especially towards the north of the shaded area, there may be a metal divider between the two lines.",
+          "note": null
+        },
+        {
+          "id": "3-5",
+          "image": "/images/resize/600/80/united-kingdom/e_car.png",
+          "text": "Some of the Generation 4 coverage in London was taken by a white electric vehicle, with this distinct back of the car visible. NOTE: A similar car was used in Dublin and Germany, so make sure to check out other clues as well.",
+          "note": null
+        },
+        {
+          "id": "3-6",
+          "image": "/images/resize/600/80/united-kingdom/aa231.png",
+          "text": "The majority of poles and signposts in Birmingham have either yellow tape or yellow paint wrapped around them. Lampposts will also usually have this yellow sticker.",
+          "note": null
+        },
+        {
+          "id": "3-7",
+          "image": "/images/resize/600/80/united-kingdom/uk_twentysplenty.png",
+          "text": "Speed signs with green borders with the text “Twenty’s Plenty” are mostly found in and around Glasgow.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Step 4 - Maps and resources",
+      "items": []
+    }
+  ]
+}

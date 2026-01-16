@@ -1,0 +1,146 @@
+{
+  "country": "Antarctica",
+  "url": "https://www.plonkit.net/antarctica",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:17:33.609397+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Identifying Antarctica",
+      "items": [
+        {
+          "id": "1-1",
+          "image": "/images/resize/900/80/antarctica/0_aq_summary.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": "/images/resize/600/80/antarctica/aq_snow.png",
+          "text": "Most of Antarctica is covered in snow and ice.",
+          "note": null
+        },
+        {
+          "id": "1-3",
+          "image": "/images/resize/600/80/antarctica/aq_darksoil.png",
+          "text": "The soil will always be dark.",
+          "note": null
+        },
+        {
+          "id": "1-4",
+          "image": "/images/resize/600/80/antarctica/aq_pingwings.png",
+          "text": "Penguins can be found on parts of the coverage. NOTE: This is mostly useful to exclude coverage in the Arctics.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Step 2 - Regional clues",
+      "items": [
+        {
+          "id": "2-1",
+          "image": "/images/resize/600/80/antarctica/aq_halfmoonisland.png",
+          "text": "Half Moon Island was covered by a tripod. It can also be recognized by the numerous other people in red jackets.",
+          "note": null
+        },
+        {
+          "id": "2-2",
+          "image": "/images/resize/600/80/antarctica/aq_deceptionisland.png",
+          "text": "The Deception Island Bay can be recognized by the blue and white ship in the bay, and the abandoned equipment on the beach.",
+          "note": null
+        },
+        {
+          "id": "2-3",
+          "image": "/images/resize/600/80/antarctica/aq_deceptionislandconga.png",
+          "text": "The trekker can be seen walking in a line on Deception Island.",
+          "note": null
+        },
+        {
+          "id": "2-4",
+          "image": "/images/resize/600/80/antarctica/aq_deceptionislanddarkbeach.png",
+          "text": "A beach with black sand and many penguins can be seen on Deception Island.",
+          "note": null
+        },
+        {
+          "id": "2-5",
+          "image": "/images/resize/600/80/antarctica/aq_cuvervilleisland.png",
+          "text": "Cuverville Island can be recognised by the overcast weather combined with the coastline to the northwest. You’ll also see a decent number of penguins, particularly toward the east.",
+          "note": null
+        },
+        {
+          "id": "2-6",
+          "image": "/images/resize/600/80/antarctica/aq_dancoisland.png",
+          "text": "Danco Island can be recognised by the beautiful sunset coverage over a snowy fjord.",
+          "note": null
+        },
+        {
+          "id": "2-7",
+          "image": "/images/resize/600/80/antarctica/aq_petermannisland.png",
+          "text": "Petermann Island can be recognized by the layer of snow with patches of exposed rocks, and the overexposed camera.",
+          "note": null
+        },
+        {
+          "id": "2-8",
+          "image": "/images/resize/600/80/antarctica/aq_rossisland.png",
+          "text": "The coverage at the western tip of Ross Island can typically be recognised by the extremely dark, and mostly barren, rocky soil.",
+          "note": null
+        },
+        {
+          "id": "2-9",
+          "image": "/images/resize/600/80/antarctica/aq_rossislandcabin.png",
+          "text": "A tripod featuring the exterior and interior of a small wooden cabin with a grey metal roof can be found south of the eastern tip of Ross Island.",
+          "note": null
+        },
+        {
+          "id": "2-10",
+          "image": "/images/resize/600/80/antarctica/aq_mcmurdo.png",
+          "text": "McMurdo Station is the largest research station on Antarctica, and can be recognized by the dark brown soil, many buildings, American infrastructure and sunset coverage. NOTE: A lot of the coverage around McMurdo Station has the sun setting in the south, which shouldn’t lead you to guess in the northern hemisphere.",
+          "note": null
+        },
+        {
+          "id": "2-11",
+          "image": "/images/resize/600/80/antarctica/aq_mcmurdotripods.png",
+          "text": "You can also find tripod coverage inside several buildings at McMurdo Station.",
+          "note": null
+        },
+        {
+          "id": "2-12",
+          "image": "/images/resize/600/80/antarctica/aq_mcmurdohut.png",
+          "text": "On the eastern side of McMurdo Station you can find a small wooden cabin, having a tripod going inside.",
+          "note": null
+        },
+        {
+          "id": "2-13",
+          "image": "/images/resize/600/80/antarctica/aq_icetrekker.png",
+          "text": "Southeast of McMurdo station, the trekker can be seen walking on a layer of ice around various machinery.",
+          "note": null
+        },
+        {
+          "id": "2-14",
+          "image": "/images/resize/600/80/antarctica/aq_mainlandvalleys.png",
+          "text": "The trekker can be seen walking through a fantastical landscape consisting of many desolate valleys on mainland Antarctica, west of Ross Island.",
+          "note": null
+        },
+        {
+          "id": "2-15",
+          "image": "/images/resize/600/80/antarctica/aq_blackisland.png",
+          "text": "A vast, snowy landscape with spread out hills can be seen south of McMurdo station.",
+          "note": null
+        },
+        {
+          "id": "2-16",
+          "image": "/images/resize/600/80/antarctica/aq_southpole.png",
+          "text": "The tripod at the south pole can be recognized by numerous countries’ flags around the tripod, and a sign with ‘Geographic South Pole’ written on it. This location is often on community-made world maps for a better scoring range.",
+          "note": null
+        },
+        {
+          "id": "2-17",
+          "image": "/images/resize/600/80/antarctica/aq_southpoleobservatory.png",
+          "text": "The South Pole Observatory has tripod coverage going around and inside of it.",
+          "note": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "country": "Panama",
+  "url": "https://www.plonkit.net/panama",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:19:56.966862+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Identifying Panama",
+      "items": [
+        {
+          "id": "1-1",
+          "image": "/images/resize/900/80/panama/0_1.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": "/images/resize/600/80/panama/2.png",
+          "text": "Panama features short licence plates, most commonly white with a horizontal turquoise strip on the top. Rarely, the strip can have other colours. Front plates are not required in Panama.",
+          "note": null
+        },
+        {
+          "id": "1-3",
+          "image": "/images/resize/600/80/panama/3.png",
+          "text": "Panama features a large white pickup truck which can either be fully visible or mostly blurred. There is always a short black antenna attached to the front of the car. Beware that the antenna can sometimes be blurred.",
+          "note": null
+        },
+        {
+          "id": "1-4",
+          "image": "/images/resize/600/80/panama/4.png",
+          "text": "Panama is a tropical country with a lot of hills. You will find a lot of palms and other tropical plants along with drier rolling hills and fields.",
+          "note": null
+        },
+        {
+          "id": "1-5",
+          "image": "/images/resize/600/80/panama/5.png",
+          "text": "Most roads are paralleled by fences that are partly or fully made out of small trees. The rest of the fence posts are also almost always wooden.",
+          "note": null
+        },
+        {
+          "id": "1-6",
+          "image": "/images/resize/600/80/panama/6.png",
+          "text": "Panamanian architecture often reflects Spanish colonial influences, featuring vibrant colours, and some ornate detailing. The most common type of building has painted concrete or sometimes brick walls with red metal sheets or tiles for a roof. Many windows have bars on them for security.",
+          "note": null
+        },
+        {
+          "id": "1-7",
+          "image": "/images/resize/600/80/panama/7.png",
+          "text": "Panama features a diverse set of road lines, but the most common combination is solid outer white with an inner yellow line. However, those are not unique to Panama. Within Latin America, solid outer white lines with no middle line are almost unique to Panama.",
+          "note": null
+        },
+        {
+          "id": "1-8",
+          "image": "/images/resize/600/80/panama/8.png",
+          "text": "Panama uses a wide variety of poles, but the most common type is a round concrete pole, with a varying amount of insulators. Poles can also be wooden or metallic. They often have plates attached to them. Blue, white, or red numbers are commonly painted on them as well.",
+          "note": null
+        },
+        {
+          "id": "1-9",
+          "image": "/images/resize/600/80/panama/9.png",
+          "text": "Yellow taxis with a chequerboard patterned horizontal stripe are a common sight in Panama. The licence plate will be drawn on the side, containing the city name and a regional code.",
+          "note": null
+        },
+        {
+          "id": "1-10",
+          "image": "/images/resize/600/80/panama/10.png",
+          "text": "Panama uses the Spanish word “ALTO” on stop signs. NOTE: Mexico and Guatemala also use “ALTO”, but the font is thinner.",
+          "note": null
+        },
+        {
+          "id": "1-11",
+          "image": "/images/resize/600/80/panama/11.png",
+          "text": "Red octagonal signs with an oddly realistic eye are unique to Panama.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Step 2 - Regional clues",
+      "items": [
+        {
+          "id": "2-1",
+          "image": "/images/resize/600/80/panama/12.png",
+          "text": "While Panama is quite well covered, there is barely any coverage on the north coast, or east of Panama City.",
+          "note": null
+        },
+        {
+          "id": "2-2",
+          "image": "/images/resize/600/80/panama/13.png",
+          "text": "The first digit of phone numbers can be used to regionguess Panama. The numbers with a smaller font indicate potentially useful regional two-digit codes. NOTE: Only phone numbers with 7 digits are helpful, and any numbers starting with 5, 6, or 8 are useless as well.",
+          "note": null
+        },
+        {
+          "id": "2-3",
+          "image": "/images/resize/600/80/panama/14.png",
+          "text": "The first digit of taxi and bus licence plates can be used to regionguess Panama. NOTE: Cars travel, so they are not always reliable, especially outside of cities.",
+          "note": null
+        },
+        {
+          "id": "2-4",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "2-5",
+          "image": "/images/resize/600/80/panama/15.png",
+          "text": "Green tropical landscapes with palm trees and very tall grass are common around Colón and Panama City.",
+          "note": null
+        },
+        {
+          "id": "2-6",
+          "image": "/images/resize/600/80/panama/16.png",
+          "text": "Volcanic rocks that are either scattered on the ground, or built into rock walls, are common north of David.",
+          "note": null
+        },
+        {
+          "id": "2-7",
+          "image": "/images/resize/600/80/panama/17.png",
+          "text": "The area around David is very flat, with lots of fairly open fields. Usually, mountains will be visible to the north and northeast.",
+          "note": null
+        },
+        {
+          "id": "2-8",
+          "image": "/images/resize/600/80/panama/18.png",
+          "text": "The region around Aguadulce is relatively flat and features a lot of agricultural fields along with very brown or orange soil.",
+          "note": null
+        },
+        {
+          "id": "2-9",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "2-10",
+          "image": "/images/resize/600/80/panama/19.png",
+          "text": "The eastern provinces often have tall vertical plates that can be yellow or white. They are commonly attached to poles by black zip ties. NOTE: Be careful not to mix them up with these white vertical plates, often attached by metallic zip ties. They are slightly wider than the eastern plates and always have 6 digits.",
+          "note": null
+        },
+        {
+          "id": "2-11",
+          "image": "/images/resize/600/80/panama/20.png",
+          "text": "Many poles in the western provinces will have horizontal plates attached to them. However, if one of these is accompanied by an eastern vertical plate, the eastern plate takes precedence.",
+          "note": null
+        },
+        {
+          "id": "2-12",
+          "image": "/images/resize/600/80/panama/21.png",
+          "text": "Thin yellow plates, vertical or horizontal, with a visible black border are most common in the Colón Province.",
+          "note": null
+        },
+        {
+          "id": "2-13",
+          "image": "/images/resize/600/80/panama/22.png",
+          "text": "Wind turbines can be seen south and north of Penonome.",
+          "note": null
+        },
+        {
+          "id": "2-14",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "2-15",
+          "image": "/images/resize/600/80/panama/23.png",
+          "text": "The main covered road in the Ngäbe-Buglé province is very high-altitude and almost above the clouds. The surrounding mountains tend to be quite dry, and the altitude makes for many stunning views.",
+          "note": null
+        },
+        {
+          "id": "2-16",
+          "image": "/images/resize/600/80/panama/24.png",
+          "text": "The road going to Changuinola features a lush and green hilly landscape. The weather is cloudy or overcast on the entire road.",
+          "note": null
+        },
+        {
+          "id": "2-17",
+          "image": "/images/resize/600/80/panama/25.png",
+          "text": "Highway 9 going from Panama City north to Colón is a divided concrete highway. The road is visibly grainy and has a lot of tar lines. The landscape is lush and hilly.",
+          "note": null
+        },
+        {
+          "id": "2-18",
+          "image": "/images/resize/600/80/panama/26.png",
+          "text": "Most of Road 407 features a freshly paved road, with visibly orange soil on the sides of the road. The southern portion is hilly, right before the road quality deteriorates.",
+          "note": null
+        },
+        {
+          "id": "2-19",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "2-20",
+          "image": "/images/resize/600/80/panama/27.png",
+          "text": "A small cluster of dirt on the car can be found on the eastern road.",
+          "note": null
+        },
+        {
+          "id": "2-21",
+          "image": "/images/resize/600/80/panama/28.png",
+          "text": "In a lot of central Panama, the Google car will have either one or two black dots visible on the front.",
+          "note": null
+        },
+        {
+          "id": "2-22",
+          "image": "/images/resize/600/80/panama/29.png",
+          "text": "This small red spot can mostly be found in Panamá Oeste and on the road 2 going from southern Los Santos province to the Verguas province.",
+          "note": null
+        },
+        {
+          "id": "2-23",
+          "image": "/images/resize/600/80/panama/30.png",
+          "text": "The antenna can be seen folded down, most commonly in Colón and Panamá provinces, and occasionally in the city of David.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Step 3 - Spotlight",
+      "items": [
+        {
+          "id": "3-1",
+          "image": "/images/resize/600/80/panama/31.png",
+          "text": "Panama City can be recognised by the large number of white high-rise buildings.",
+          "note": null
+        },
+        {
+          "id": "3-2",
+          "image": "/images/resize/600/80/panama/32.png",
+          "text": "Colón features a lot of warehouses and rundown multi-storey buildings.",
+          "note": null
+        },
+        {
+          "id": "3-3",
+          "image": "/images/resize/600/80/panama/33.png",
+          "text": "The region around Changuinola is filled with banana plantations.",
+          "note": null
+        },
+        {
+          "id": "3-4",
+          "image": "/images/resize/600/80/panama/34.png",
+          "text": "Sunset coverage can be found in southern Panama on a small road south of Tonosi.",
+          "note": null
+        },
+        {
+          "id": "3-5",
+          "image": "/images/resize/600/80/panama/35.png",
+          "text": "A mountainous landscape with pine trees, volcanic rocks, dry grass, and gravel roads can be found northeast of Volcán.",
+          "note": null
+        },
+        {
+          "id": "3-6",
+          "image": "/images/resize/600/80/panama/36.png",
+          "text": "Yellow pole socks can be found near the Panama Canal, around the town of Gatún.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Step 4 - Maps and resources",
+      "items": []
+    }
+  ]
+}

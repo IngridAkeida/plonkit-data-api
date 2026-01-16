@@ -1,0 +1,529 @@
+{
+  "country": "Namibia",
+  "url": "https://www.plonkit.net/namibia",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:17:23.379341+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Identifying Namibia",
+      "items": [
+        {
+          "id": "1-1",
+          "image": "/images/resize/900/80/namibia/0_summary.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": "/images/resize/600/80/namibia/0.png",
+          "text": "Namibia primarily uses yellow front and back licence plates. Vanity plates are white, with blue lettering. NOTE: Botswana and Namibia are the only countries in southern Africa where yellow rear plates are predominantly found.",
+          "note": null
+        },
+        {
+          "id": "1-3",
+          "image": "/images/resize/600/80/namibia/1.jpeg",
+          "text": "Namibia drives on the left side of the road. NOTE: This is also true for other countries in southern and eastern Africa. However all Middle Eastern countries with coverage drive on the right side.",
+          "note": null
+        },
+        {
+          "id": "1-4",
+          "image": "/images/resize/600/80/namibia/2.png",
+          "text": "All the coverage in Namibia was taken with a white pickup truck with a short antenna on the front. Notably, this antenna will always lean slightly to the left. NOTE: No other country in southern Africa has a similar car. The most similar country with this type of car is Oman, however the antenna there will never lean left, but often clearly to the right.",
+          "note": null
+        },
+        {
+          "id": "1-5",
+          "image": "/images/resize/600/80/namibia/3.png",
+          "text": "Most roads in Namibia use single yellow outer lines and white centre lines. NOTE: The other southern African countries also use single yellow outer lines.",
+          "note": null
+        },
+        {
+          "id": "1-6",
+          "image": "/images/resize/600/80/namibia/5.png",
+          "text": "Namibia uses green directional signs with the road number in yellow. NOTE: Green directional signs with yellow road numbers are also used in South Africa and the other Southern African countries. Namibia uses A, B, C, D, M, and sometimes F-roads. South Africa uses N and R-roads.",
+          "note": null
+        },
+        {
+          "id": "1-7",
+          "image": "/images/resize/600/80/namibia/4.png",
+          "text": "Namibia used to be a German colony, and as such, you can still notice the German influence, most notably in their place names. Some older buildings can have a German style as well.",
+          "note": null
+        },
+        {
+          "id": "1-8",
+          "image": "/images/resize/600/80/namibia/6.png",
+          "text": "You can spot these small stone bollards at intersections and on the sides of roads.",
+          "note": null
+        },
+        {
+          "id": "1-9",
+          "image": "/images/resize/600/80/namibia/9.png",
+          "text": "Round metal bins, often painted green and white like the Nigerian flag, can be spotted at many rest stops and intersections. NOTE: On some roads, the bins are blue and white.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Step 2 - Region-specific clues",
+      "items": [
+        {
+          "id": "2-1",
+          "image": "/images/resize/600/80/namibia/10.png",
+          "text": "The coverage in Namibia is mostly limited to main roads, with only sparse coverage on minor roads.",
+          "note": null
+        },
+        {
+          "id": "2-2",
+          "image": "/images/resize/600/80/namibia/11.png",
+          "text": "This map shows pavement type as well as the driving direction on all major roads.",
+          "note": null
+        },
+        {
+          "id": "2-3",
+          "image": "/images/resize/600/80/namibia/12.png",
+          "text": "Namibian area codes are a simple way to get the right region or city on urban rounds.",
+          "note": null
+        },
+        {
+          "id": "2-4",
+          "image": "/images/resize/600/80/namibia/12A.png",
+          "text": "Knowing where the Google car is blurred, will help narrow down your options significantly. Below are some useful use cases: In the north, the blurred car is only northwest of Ondangwa. The blurred car on an unpaved road likely places you on one of many sideroads of the B1 or other major roads, or in a town. The paved road between Nordoewer and Aussenkehr has the car unblurred. Other notable paved roads not north of Windhoek include the C20, C22 (south of Gobabis), C23. NOTE: The blurred car strongly correlates with a 2024 copyright. Use with caution.",
+          "note": null
+        },
+        {
+          "id": "2-5",
+          "image": "/images/resize/600/80/namibia/13.png",
+          "text": "Roads surrounded by tall and lush trees on both sides will generally place you in the north of the country. The more trees and the greener they are, the further north-northeast you should click.",
+          "note": null
+        },
+        {
+          "id": "2-6",
+          "image": "/images/resize/600/80/namibia/14.png",
+          "text": "A pocket around Oshakati, and to a lesser extent the rest of the north features more agricultural land and has very light sandy soil. This map also closely lines up with where you can find the Hyphaene Petersiana fan palms.",
+          "note": null
+        },
+        {
+          "id": "2-7",
+          "image": "/images/resize/600/80/namibia/15.png",
+          "text": "The landscape east of Windhoek closely resembles that of Botswana, with a generally flat and dry landscape, featuring slightly reddish soil, short golden grass and shrubbery, as well as acacia trees.",
+          "note": null
+        },
+        {
+          "id": "2-8",
+          "image": "/images/resize/600/80/namibia/16.png",
+          "text": "Dry mountains and hills dominate much of the western and southern parts of the country.",
+          "note": null
+        },
+        {
+          "id": "2-9",
+          "image": "/images/resize/600/80/namibia/17.png",
+          "text": "Further northwest, you’ll find a somewhat greener region, where the mountains and hills will be covered in shrubbery and trees.",
+          "note": null
+        },
+        {
+          "id": "2-10",
+          "image": "/images/resize/600/80/namibia/18.png",
+          "text": "This pocket south of Tsumeb features the most lush coverage in Namibia, with the grass and mountains being completely green in colour.",
+          "note": null
+        },
+        {
+          "id": "2-11",
+          "image": "/images/resize/600/80/namibia/19.png",
+          "text": "Around Windhoek, you’ll find a small region with a somewhat dry rolling hills landscape, with hills that are covered in dry yellow grass and dead-looking bushes and small trees.",
+          "note": null
+        },
+        {
+          "id": "2-12",
+          "image": "/images/resize/600/80/namibia/20.png",
+          "text": "A coastal sandy landscape with the occasional sand dunes can be found around and north of Swakopmund, as well as two small pockets around Luderitz and Oranjemund further south.",
+          "note": null
+        },
+        {
+          "id": "2-13",
+          "image": "/images/resize/600/80/namibia/21.png",
+          "text": "The southeast part of Namibia has countless small ridges that are NW to SE in orientation. Roads ‘riding’ these red sandy ridges appear bumpy, almost like a rollercoaster. Roads winding between the ridges make them appear like miniature valleys.",
+          "note": null
+        },
+        {
+          "id": "2-14",
+          "image": "/images/resize/600/80/namibia/22.png",
+          "text": "Tall pink sand dunes are mainly found just east of Sossusvlei, and can also be seen from further away on a few roads.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Step 3 - Spotlight",
+      "items": [
+        {
+          "id": "3-1",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "3-2",
+          "image": "/images/resize/600/80/namibia/23.png",
+          "text": "Vineyards are exclusively found around Aussenkehr on the South African border in the south.",
+          "note": null
+        },
+        {
+          "id": "3-3",
+          "image": "/images/resize/600/80/namibia/24.png",
+          "text": "These somewhat baity agricultural fields can be found just west of Mariental.",
+          "note": null
+        },
+        {
+          "id": "3-4",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "3-5",
+          "image": "/images/resize/600/80/namibia/25.png",
+          "text": "Road A1 between Windhoek and Okahandja, featuring a savannah-like landscape, is just one of two major roads that are divided in Namibia. The other one can be found just southeast of Swakopmund, and features a dry coastal landscape, with light sandy soil and sand dunes.",
+          "note": null
+        },
+        {
+          "id": "3-6",
+          "image": "/images/resize/600/80/namibia/26.png",
+          "text": "Road B1 south of Grunau is a desolate paved road going generally N-NE through a desert landscape with only very low and dry vegetation.",
+          "note": null
+        },
+        {
+          "id": "3-7",
+          "image": "/images/resize/600/80/namibia/27.png",
+          "text": "Outer yellow road lines are missing on the following sections of the B1: Between Grunau and Keetmanshoop, the landscape becomes hillier, and the road quality deteriorates in general. This small section north of Keetmanshoop is cloudy. The third section is between Gibeon and Mariental, which is flat, and goes in a N-NE direction.",
+          "note": null
+        },
+        {
+          "id": "3-8",
+          "image": "/images/resize/600/80/namibia/28.png",
+          "text": "Between Gibeon and Tses, the road has wider shoulders, and the pavement quality in general is excellent.",
+          "note": null
+        },
+        {
+          "id": "3-9",
+          "image": "/images/resize/600/80/namibia/29.png",
+          "text": "The section of road B1 between Mariental and Rehoboth can be recognised by a combination of the generic arid steppe landscape, the paved road, and mainly the distinct NW bound road angle. It can also help to know that the sun is in the SE for this section.",
+          "note": null
+        },
+        {
+          "id": "3-10",
+          "image": "/images/resize/600/80/namibia/30.png",
+          "text": "Around Rehoboth the landscape gradually becomes more vegetated, and as you get closer to Windhoek, the hills become more prominent, with a lot of somewhat pointed lonestanding hills, as well as ridges being visible. The weather is fairly clear with small clouds across the sky.",
+          "note": null
+        },
+        {
+          "id": "3-11",
+          "image": "/images/resize/600/80/namibia/31.png",
+          "text": "North of Okahandja, the B1 follows a general northbound direction, with the sun shining brightly to the N-NW. The sky is otherwise clear of clouds. As for the landscape, it’s flatter than around Windhoek, with only the occasional hill or mountain, otherwise the short golden grass, somewhat green acacia trees and shrubbery further away from the road is typical for middle to north Namibia. South of Sukses, you’ll see these two pointy mountains, one of which has a sharper peak than the other, to the west of the road.",
+          "note": null
+        },
+        {
+          "id": "3-12",
+          "image": "/images/resize/600/80/namibia/32.png",
+          "text": "You can recognise the B2 NE of Swakopmund by the sandy soil, and the mountain ridge visible to the east. A few lone mountains or hills can be seen to the NW as well. Beware that close to Swakopmund the sky is hazy, and you’ll not see the ridge. On this stretch, the coastal looking sandy soil and the NE bound road angle is still generally sufficient to confirm the road.",
+          "note": null
+        },
+        {
+          "id": "3-13",
+          "image": "/images/resize/600/80/namibia/33.png",
+          "text": "A bit further east, between Karibib and Usakos, you’ll find sunrise coverage combined with a sky covered in fairly thin clouds. There are mountains to the north, as well as smaller hills just south of the road, while it's mostly flat to the E-NE.",
+          "note": null
+        },
+        {
+          "id": "3-14",
+          "image": "/images/resize/600/80/namibia/34.png",
+          "text": "East of Karibib, the weather becomes completely clear, and the mountains are only visible further in the distance. The wide shoulder lines combined with the E-NE road angle makes this section distinct.",
+          "note": null
+        },
+        {
+          "id": "3-15",
+          "image": "/images/resize/600/80/namibia/35.png",
+          "text": "This desolate paved road goes in a general E-SE direction through a fairly flat and dry landscape. Small clouds dot the sky. The shrubbery is quite green for the most part, especially in the east, which is also very hilly. NOTE: The easiest way to tell it apart from parts of the B4 is the eastwards driving direction on this road, as opposed to westwards on the B4.",
+          "note": null
+        },
+        {
+          "id": "3-16",
+          "image": "/images/resize/600/80/namibia/36.png",
+          "text": "The B4 east of Luderitz has almost blindingly bright sandy soil. The landscape close to the road is generally flat, with hills and mountains in the distance. Close to Luderitz the landscape becomes much hillier. A railway follows the road closely on the south side for most of this section.",
+          "note": null
+        },
+        {
+          "id": "3-17",
+          "image": "/images/resize/600/80/namibia/Namibia_B4-2.png",
+          "text": "East of Aus, the road winds through some table-topped mountains, with the railway still just to the south. A similar landscape can briefly be found further east on the road, just east of the intersection with the D432, however the mountains are bigger, closer to the road and redder in colour.",
+          "note": null
+        },
+        {
+          "id": "3-18",
+          "image": "/images/resize/600/80/namibia/38.png",
+          "text": "After the road climbs onto the plateau east of Kuibis, the landscape will seem mostly flat until you reach the intersection with the D432, but you can notice the road having a gradual incline for long stretches. The soil around is very red in colour, with limited shrubbery or signs of life. The weather is clear, with some clouds far in the distance.",
+          "note": null
+        },
+        {
+          "id": "3-19",
+          "image": "/images/resize/600/80/namibia/39.png",
+          "text": "Between Seeheim and Keetmanshoop, the landscape close to the road is flat, with mountains always close by. Just east of Seeheim, you’ll see a short ridge to the NE, with a lone mountain just west of it, as well as a long ridge far away to the west. A bit east, on the NE-bound stretch, mountains are in all directions, but you’ll see a long uneven tabletop ridge to the west. A railroad can also be seen to the south on this stretch.",
+          "note": null
+        },
+        {
+          "id": "3-20",
+          "image": "/images/resize/600/80/namibia/40.png",
+          "text": "Road B6 goes in a general eastwards direction from Windhoek, with the landscape ranging from hilly close to Windhoek, to mostly flat closer to Gobabis. The soil is somewhat orange in colour, with short green grass and otherwise green vegetation growing from it. The cloud cover also varies, but no part of this road has a clear sky. NOTE: The only other similar paved road, road C39, has brighter soil.",
+          "note": null
+        },
+        {
+          "id": "3-21",
+          "image": "/images/resize/600/80/namibia/41.png",
+          "text": "You can recognise this long stretch of B8 by the light coloured grainy pavement as well as the general E-NE angle and vegetated northern landscape.",
+          "note": null
+        },
+        {
+          "id": "3-22",
+          "image": "/images/resize/600/80/namibia/42.png",
+          "text": "Bright soil, clear skies with cloud cover to the east over a tabletop mountain ridge makes this paved N-NW bound road distinct.",
+          "note": null
+        },
+        {
+          "id": "3-23",
+          "image": "/images/resize/600/80/namibia/43.png",
+          "text": "The C14 bears resemblance to the previous road, except this road is unpaved, and the skies are covered in a blanket of clouds, especially in the northern half. Near the southern end, the sky becomes clear. NOTE: The stretch south of Bethanien is paved.",
+          "note": null
+        },
+        {
+          "id": "3-24",
+          "image": "/images/resize/600/80/namibia/44.png",
+          "text": "Very red soil and small tufts of golden grass lining the road can be used to recognise the paved C19. The sky is mostly covered in dark clouds, especially to the north.",
+          "note": null
+        },
+        {
+          "id": "3-25",
+          "image": "/images/resize/600/80/namibia/45.png",
+          "text": "The C22 is a paved road generally going east, with freshly cut, orange tufts of grass along the road. A couple of large, rocky hills almost hug the road near the middle. The blinding sun low on the horizon to the east can also be helpful. NOTE: A short stretch near Okakarara was taken at a different time, making it less distinct. Look for the low ridge N-NW and the sun to the NNE to confirm.",
+          "note": null
+        },
+        {
+          "id": "3-26",
+          "image": "/images/resize/600/80/namibia/46.png",
+          "text": "A large rugged mountain formation can be seen to the west from the paved C13. Other smaller hills and mountains can be seen in other directions. Light coloured soil hugs the road, while more orange coloured soil can be seen further from the road, with light green vegetation and shrubbery acting as a contrast. Another easy way to get the road is to look for the wispy clouds trying to hide the sun in the east.",
+          "note": null
+        },
+        {
+          "id": "3-27",
+          "image": "/images/resize/600/80/namibia/47.png",
+          "text": "The C34 looks like darker streaks of black sand surrounded by more sand as far as the eye can see. Some coastal shrubbery, and even the coast can be seen in some parts. Unique white bollards with two yellow reflectors on the front, and one red in the back can also be seen along the road at regular intervals.",
+          "note": null
+        },
+        {
+          "id": "3-28",
+          "image": "/images/resize/600/80/namibia/48.png",
+          "text": "Red tinted and slightly grainy pavement along with the green savannah-like grassy landscape crowned with low-lying cumulus clouds can be used to recognise the northern section of road C35.",
+          "note": null
+        },
+        {
+          "id": "3-29",
+          "image": "/images/resize/600/80/namibia/49.png",
+          "text": "South of the C41 intersection, the road loses its red pavement, and the quality worsens. The landscape is less grassy, and more sandy, with hills to the west, though often hidden behind the vegetation. The road generally goes in a S-SE direction. Further south, it gets hillier, and parts will have a more SE bound angle. The sky is consistently covered by scattered cirrostratus and cumulus clouds.",
+          "note": null
+        },
+        {
+          "id": "3-30",
+          "image": "/images/resize/600/80/namibia/50.png",
+          "text": "A short section NW of Kamanjab along with the same somewhat green and hilly landscape, features an impressive array of clouds in the sky, with the sun attempting to peek out from the west. Hues of orange can be seen on the horizon.",
+          "note": null
+        },
+        {
+          "id": "3-31",
+          "image": "/images/resize/600/80/namibia/51.png",
+          "text": "A very rugged mountain formation can be seen to the west from a few sections of the C35 and its sideroads.",
+          "note": null
+        },
+        {
+          "id": "3-32",
+          "image": "/images/resize/600/80/namibia/52.png",
+          "text": "The C38 is yet another indistinct paved northern road with sandy soil, somewhat green vegetation and short grass lining the road. The sky, which is covered with a spotty blanket of clouds, is generally the most distinct clue. The sun is faintly shining through the clouds to the north.",
+          "note": null
+        },
+        {
+          "id": "3-33",
+          "image": "/images/resize/600/80/namibia/53.png",
+          "text": "Most of the C39 travels through a wide valley, with small vegetation-covered hills on both sides, which are mostly visible to the north. The N-NE angle and puffy cumulus clouds dotting the sunny sky are also noteworthy.",
+          "note": null
+        },
+        {
+          "id": "3-34",
+          "image": "/images/resize/600/80/namibia/54.png",
+          "text": "The C40 has a general NW angle going through flat terrain with the usual northern landscape of short grass next to the road, trees further away and some hills further in the distance. Similar to the C39, a lot of cumulus clouds dot the sky, and the closer to Kamanjab you get, the lower the sun sets to the west.",
+          "note": null
+        },
+        {
+          "id": "3-35",
+          "image": "/images/resize/600/80/namibia/55.png",
+          "text": "East of the intersection with the C35, the road has a constant SW to NW angle, and grainy pavement. The grass looks soft to the touch, and the somewhat sandy soil is typical of this region. Cumulus clouds dot the sky. West of the C35 intersection, the same grainy pavement and clouds remain, but the landscape is much hillier, and the road angle changes.",
+          "note": null
+        },
+        {
+          "id": "3-36",
+          "image": "/images/resize/600/80/namibia/56.png",
+          "text": "Along the C43 you can find some of the most impressive red-coloured tabletop mountains. The road is wide and unpaved with light coloured gravel contrasting the otherwise red landscape.",
+          "note": null
+        },
+        {
+          "id": "3-37",
+          "image": "/images/resize/600/80/namibia/57.png",
+          "text": "The C44 is a wide unpaved sandy road lined with trees, easily recognised from the general E-SE angle, and the westbound driving direction. NOTE: The D3301, a bit further south looks similar, but the soil is generally much redder, and the car is driving east.",
+          "note": null
+        },
+        {
+          "id": "3-38",
+          "image": "/images/resize/600/80/namibia/58.png",
+          "text": "The C47 is an even wider unpaved road, with slightly redder soil when compared to the C44. The road angle on this road is NE bound, with a SW driving direction. You can also look for either a clear sky, or wispy clouds.",
+          "note": null
+        },
+        {
+          "id": "3-39",
+          "image": "/images/resize/600/80/namibia/59.png",
+          "text": "Often fairly poor quality pavement with only white road lines, no road lines at all, or just slightly faded road lines and red tinted pavement, are all good clues for the C49 in the panhandle. Near the western end, the sun is very low in the sky, and the weather is fully clear. NOTE: A small section by Makolonga has good pavement with wide shoulders, so look for the orange patches on the road.",
+          "note": null
+        },
+        {
+          "id": "3-40",
+          "image": "/images/resize/600/80/namibia/60.png",
+          "text": "The D3600 and the unlabelled road going NE to Mpungu, have a very light coloured, sometimes grainy pavement, with at times very faded yellow lines, which are hard to even see. Combined with the either exactly N to S or NE angle, as well as the northern landscape, make this road very distinct.",
+          "note": null
+        },
+        {
+          "id": "3-41",
+          "image": "/images/resize/600/80/namibia/61.png",
+          "text": "A few roads in the north lack the typical outer yellows. The C46, which is a long road going generally NW to SE. The E-W section by Ruacana, has very poor pavement. SE of Oshikuku, the sun is low in the sky to the NW. C41 (M123) also has a NW angle but has more clouds in the sky than the C46. B10 west of Eenhana is an E-W stretch, which is more vegetated, and also has the sun low in the sky to the west. B10 east of Nkurenkuru is another NW bound stretch with the sun low in the sky, but this part is much more vegetated than the C46. You can also see the moon to the east. D3615 is a short road with a constant N-NE angle that technically has outer yellows, but they are quite faded.",
+          "note": null
+        },
+        {
+          "id": "3-42",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "3-43",
+          "image": "/images/resize/600/80/namibia/62.png",
+          "text": "Windhoek is by far the largest city in Namibia, as well as the richest, with many high rise buildings near downtown. Affluent and often gated single family houses are a common sight on the sides of hilly streets, which are often well marked with simple white street signs. In the northwest of the city you’ll find the slums dotting the hills.",
+          "note": null
+        },
+        {
+          "id": "3-44",
+          "image": "/images/resize/600/80/namibia/63.png",
+          "text": "Gobabis is a big north-south gridded city in the desert, with red soil permeating the landscape and roads, which are very often unpaved. A faint green ridge is sometimes visible to the north to northwest. The street signs, while rare, are also green, with silver framing on the top and bottom. Blue bins are also a good clue for Gobabis.",
+          "note": null
+        },
+        {
+          "id": "3-45",
+          "image": "/images/resize/600/80/namibia/64.png",
+          "text": "The coastal cities of Swakopmund and Walvis Bay are flat and often have sandy streets, with palms and Norfolk pines planted around. Street and road signs often have square-shaped signposts. Road angles can be used to line up parts of the city, but a northeast bound angle is common in both. These white and blue plastic containers are common in Swakopmund, as are yellow lamp posts in downtown areas.",
+          "note": null
+        },
+        {
+          "id": "3-46",
+          "image": "/images/resize/600/80/namibia/65.png",
+          "text": "While very similar to Swakopmund and Walvis Bay, Henties Bay is less gridded and noticeably poorer, with most roads being unpaved. Unlike in Swakopmund, where yellow lamps are only found near the downtown, here they can occasionally be found throughout the town. The cloudy weather can be used to confirm the town.",
+          "note": null
+        },
+        {
+          "id": "3-47",
+          "image": "/images/resize/600/80/namibia/66.png",
+          "text": "Langstrand is a small resort town between Swakopmund and Walvis Bay with pink brick sidewalks next to essentially every road. The weather is always overcast and gloomy.",
+          "note": null
+        },
+        {
+          "id": "3-48",
+          "image": "/images/resize/600/80/namibia/67.png",
+          "text": "Light coloured rocky hillsides are everywhere in the hilly coastal town of Luderitz.",
+          "note": null
+        },
+        {
+          "id": "3-49",
+          "image": "/images/resize/600/80/namibia/68.png",
+          "text": "Oranjemund is a well-off gridded city with almost exactly east to west streets, with an abundance of planted vegetation all around the city. Multiple Norfolk pines can be seen almost everywhere. Streets are well organised with E-W avenues and N-S streets, which can be seen written on small blue markers next to the gates or on street signs, which have varying designs.",
+          "note": null
+        },
+        {
+          "id": "3-50",
+          "image": "/images/resize/600/80/namibia/69.png",
+          "text": "Orange coloured thatched fences, walls, and huts are everywhere in the desert town of Aussenkehr, which is built on the slope of a hill.",
+          "note": null
+        },
+        {
+          "id": "3-51",
+          "image": "/images/resize/600/80/namibia/70.png",
+          "text": "While not as common, the same thatched architecture is present in Noordoewer, and unlike Aussenkehr, the town was built on flat land, with an imposing cliffside visible to the southwest, across the border in South Africa. Similar mountains can be seen to the north as well.",
+          "note": null
+        },
+        {
+          "id": "3-52",
+          "image": "/images/resize/600/80/namibia/71.png",
+          "text": "Rosh Pinah can easily be recognised by the dry mountains just northeast of the city, as well as slightly further away to the southwest.",
+          "note": null
+        },
+        {
+          "id": "3-53",
+          "image": "/images/resize/600/80/namibia/72.png",
+          "text": "The landscape of Aus is very rocky, with dry hills devoid of vegetation all around. The hills to the north have a fairly smooth sloped shape, while the peaks to the south are more rugged.",
+          "note": null
+        },
+        {
+          "id": "3-54",
+          "image": "/images/resize/600/80/namibia/73.png",
+          "text": "While not entirely unique, most streets in Rundu consist of deep and light coloured sand, with a bumpy texture, and tire tracks engraved into it.",
+          "note": null
+        },
+        {
+          "id": "3-55",
+          "image": "/images/resize/600/80/namibia/74.png",
+          "text": "Orange coloured mountains, which are covered in green vegetation surround the partly hilly town of Opuwo, from where you have a great vantage point of the mountains.",
+          "note": null
+        },
+        {
+          "id": "3-56",
+          "image": "/images/resize/600/80/namibia/75.png",
+          "text": "Otavi sits in between many sets of mountains, all of which are quite far away, but can be seen from the city. Being a northern town, Otavi is quite green, with slightly reddish sandy soil, which is common for the more northern cities. The entire town is on a northeast to southwest grid, which can rule out similar looking cities like Grootfontein and Tsumeb.",
+          "note": null
+        },
+        {
+          "id": "3-57",
+          "image": "/images/resize/600/80/namibia/76.png",
+          "text": "From almost anywhere in Karibib the dark silhouette of Erongo Mountain can be seen to the north. Dry hills covered in shrubbery flank the town to the south.",
+          "note": null
+        },
+        {
+          "id": "3-58",
+          "image": "/images/resize/600/80/namibia/77.png",
+          "text": "A lone tall ridge with a rugged, striated texture lies to the SSE of Usakos. Another smaller plain textured mountain, which has a red tint to it, is just to the east, or northeast, depending on part of town. From the northern part of town, the cliffy edges of Erongo Mountain are visible to the north.",
+          "note": null
+        },
+        {
+          "id": "3-59",
+          "image": "/images/resize/600/80/namibia/78.png",
+          "text": "The crown-like outline of Mt Brandeburg is barely visible to the northwest from most parts of Uis, while Many other dry hills surround the town. The open pit mines, which have a distinctive white colour, can be seen from the western half of Uis.",
+          "note": null
+        },
+        {
+          "id": "3-60",
+          "image": "/images/resize/600/80/namibia/79.png",
+          "text": "Ariamsvlei can be recognised by a single flat-topped hill with rocky ridgelines near the top, and small amounts of green shrubbery dotting the slopes. The hill is either to the north, or east, depending on the part of town. The soil has a dark red tint to it, with lots of bushes and small trees growing around the place.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Step 4 - Maps and resources",
+      "items": []
+    }
+  ]
+}

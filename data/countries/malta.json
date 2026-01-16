@@ -1,0 +1,122 @@
+{
+  "country": "Malta",
+  "url": "https://www.plonkit.net/malta",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:19:00.302546+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Identifying Malta",
+      "items": [
+        {
+          "id": "1-1",
+          "image": "/images/resize/900/80/malta/0_Normal_Summary_Graphic.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": "/images/resize/600/80/malta/mt_drivingside.png",
+          "text": "Malta drives on the left. NOTE: Cyprus also drives on the left.",
+          "note": null
+        },
+        {
+          "id": "1-3",
+          "image": "/images/resize/600/80/malta/mt_licenceplate.png",
+          "text": "Like most of Europe, Maltese licence plates have a blue strip on the left. However, unlike most of Europe, short plates are very common.",
+          "note": null
+        },
+        {
+          "id": "1-4",
+          "image": "/images/resize/600/80/malta/mt_landscape.png",
+          "text": "The general landscape of Malta consists of slightly hilly dry agricultural fields. Many roads are also only 1 or 2 lanes wide, due to the island’s size. Having a mediterranean climate, cacti and various dry shrubs can be seen.",
+          "note": null
+        },
+        {
+          "id": "1-5",
+          "image": "/images/resize/600/80/malta/mt_rockwall.png",
+          "text": "Limestone rock walls are extremely common in Malta. This alone is usually enough to determine that you are in Malta.",
+          "note": null
+        },
+        {
+          "id": "1-6",
+          "image": "/images/resize/600/80/malta/mt_architecture.png",
+          "text": "The vast majority of buildings in Malta consist of low storey buildings, with white to beige coloured walls. Buildings made of limestone are also fairly common.",
+          "note": null
+        },
+        {
+          "id": "1-7",
+          "image": "/images/resize/600/80/malta/mt_balconies.png",
+          "text": "This style of traditional covered balconies is very common on Maltese buildings. They are often painted in bright colours.",
+          "note": null
+        },
+        {
+          "id": "1-8",
+          "image": "/images/resize/600/80/malta/mt_triq.png",
+          "text": "The Maltese word for street is “triq”, which can be seen on almost every street sign.",
+          "note": null
+        },
+        {
+          "id": "1-9",
+          "image": "/images/resize/600/80/malta/mt_busstop.png",
+          "text": "Bus stops are a common sight in Malta. They may sometimes have useful information as to where you are.",
+          "note": null
+        },
+        {
+          "id": "1-10",
+          "image": "/images/resize/600/80/malta/mt_doubleyellowline.png",
+          "text": "Like the UK and Ireland, Malta uses these distinctive double yellow no parking lines.",
+          "note": null
+        },
+        {
+          "id": "1-11",
+          "image": "/images/resize/600/80/malta/mt_english.png",
+          "text": "English is the primary language of Malta.",
+          "note": null
+        },
+        {
+          "id": "1-12",
+          "image": "/images/resize/600/80/malta/mt_language.png",
+          "text": "Apart from English it is also common to see the Maltese language. Maltese uses the Latin script, but with unique letters, which include: Ċ ċ Ġ ġ Ħ ħ Ż ż",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Step 2 - Regional clues",
+      "items": [
+        {
+          "id": "2-1",
+          "image": "/images/resize/600/80/malta/Gozo_Guardrails.png",
+          "text": "Regular metal guardrails are rare on Gozo Island. Low stone barriers are more common instead.",
+          "note": null
+        },
+        {
+          "id": "2-2",
+          "image": "/images/resize/600/80/malta/Gozo_Bus_Stop.png",
+          "text": "Uniquely, all bus routes on Gozo Island are in the 300s. These can be quite hard to see, meaning they are most useful in moving games.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Step 3 - Spotlight",
+      "items": [
+        {
+          "id": "3-1",
+          "image": "/images/resize/600/80/malta/Valletta_Blue_Signs.png",
+          "text": "These blue signs are unique to Valletta.",
+          "note": null
+        },
+        {
+          "id": "3-2",
+          "image": "/images/resize/600/80/malta/Boat.png",
+          "text": "This trekker on a ship that is painted white and blue can be seen between the main island and Gozo Island.",
+          "note": null
+        }
+      ]
+    }
+  ]
+}

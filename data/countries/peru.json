@@ -1,0 +1,421 @@
+{
+  "country": "Peru",
+  "url": "https://www.plonkit.net/peru",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:20:33.122568+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Identifying Peru",
+      "items": [
+        {
+          "id": "1-1",
+          "image": "/images/resize/900/80/peru/transparent-pe_summary_2026.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": "/images/resize/600/80/peru/Peru_License_Plate.png",
+          "text": "Peruvian licence plates are either white or yellow. In contrast to the white plates, yellow plates are less likely to be seen. Additionally, taxis in Peru typically use licence plates that are yellow on the top and white on the bottom. NOTE: Within South America, yellow licence plates are only found in Peru, Colombia and rarely, Chile.",
+          "note": null
+        },
+        {
+          "id": "1-3",
+          "image": "/images/resize/600/80/peru/1.gen3cars.png",
+          "text": "In Gen 3 coverage, Peru uses a solid black or white Google car. NOTE: In South America, these two cars are limited to the following countries: The black Google car is only found in Peru, Argentina and Uruguay. The white Google car is only found in Peru, Bolivia and Chile.",
+          "note": null
+        },
+        {
+          "id": "1-4",
+          "image": "/images/resize/600/80/peru/1.gen4.png",
+          "text": "An important thing to note is that Peru has Generation 4 Street View coverage, whereas the neighbouring country of Bolivia does not. While Ecuador does have some Generation 4 coverage, it will always have a large pickup truck.",
+          "note": null
+        },
+        {
+          "id": "1-5",
+          "image": "/images/resize/600/80/peru/Smallcam_Peru.png",
+          "text": "Peru also has Generation 4 “smallcam” coverage, which is mounted lower than regular Generation 4 and has a relatively big circular blur with a small protrusion at the front. NOTE: Peru, Brazil and Argentina are the only South American countries with smallcam.",
+          "note": null
+        },
+        {
+          "id": "1-6",
+          "image": "/images/resize/600/80/peru/1.roadlines.png",
+          "text": "Peruvian roads always have white outer lines. On highways, you will find either single yellow dashed or double yellow middle lines. On rural mountain roads, you will most likely see white outer lines without any centre line. On divided highways, the road lines may be completely white in colour. NOTE: In the continent of South America, rural mountain roads, with the features mentioned above, are predominantly found in Peru.",
+          "note": null
+        },
+        {
+          "id": "1-7",
+          "image": "/images/resize/600/80/peru/1.signpost.png",
+          "text": "Peru is the only South American country to use black-and-white striped signposts. In some areas, black-and-yellow signposts can be seen. NOTE: Uruguay sometimes uses black-and-white posts for its traffic lights, but not for road signs.",
+          "note": null
+        },
+        {
+          "id": "1-8",
+          "image": "/images/resize/600/80/peru/1.bollard.png",
+          "text": "Bollards in Peru are painted red or yellow, and the country mainly uses a variety of triangular-shaped concrete bollards. Occasionally you will also spot other designs, such as these circular concrete variants.",
+          "note": null
+        },
+        {
+          "id": "1-9",
+          "image": "/images/resize/600/80/peru/1.guardrailmarking.png",
+          "text": "Black-and-yellow stripes on guardrails are seen throughout the country. You might sometimes find different designs, such as this sharp arrow design. NOTE: Similar striped guardrails are also found in Bolivia. To differentiate them, just have a look at the outer stripe. Peru uses a black one, while Bolivia features a yellow one.",
+          "note": null
+        },
+        {
+          "id": "1-10",
+          "image": "/images/resize/600/80/peru/1.kmmarker.png",
+          "text": "Kilometre markers in Peru are made out of concrete and are painted black and white. NOTE: When entering and leaving urban areas, the markers will sometimes feature the road number.",
+          "note": null
+        },
+        {
+          "id": "1-11",
+          "image": "/images/resize/600/80/peru/1.concreteblocks.png",
+          "text": "Peruvian metal signposts feature concrete blocks at the bottom. NOTE: Within South America, Peru is the only country to do so.",
+          "note": null
+        },
+        {
+          "id": "1-12",
+          "image": "/images/resize/600/80/peru/Peru_poles.png",
+          "text": "The country uses a variety of poles. They are made out of either concrete or wood, and sometimes feature distinct horizontal concrete bars. NOTE: Horizontal concrete bars are also found in Argentina.",
+          "note": null
+        },
+        {
+          "id": "1-13",
+          "image": "/images/resize/600/80/peru/Peru_pole_paint.png",
+          "text": "Some poles in Peru have painted bottom sections. Most commonly they will be black or black-and-yellow. NOTE: This pattern of pole paint is unique to Peru within South America, however, similar ones can be seen in other South American countries, such as Colombia.",
+          "note": null
+        },
+        {
+          "id": "1-14",
+          "image": "/images/resize/600/80/peru/1.orangebridge.png",
+          "text": "Bridges in Peru are commonly painted orange.",
+          "note": null
+        },
+        {
+          "id": "1-15",
+          "image": "/images/resize/600/80/peru/1.mountains.png",
+          "text": "Peru largely consists of semi-arid mountain ranges and valleys.",
+          "note": null
+        },
+        {
+          "id": "1-16",
+          "image": "/images/resize/600/80/peru/1.tuktuk.png",
+          "text": "Tuk tuks, called mototaxis in Peru, are frequently seen in the country, especially in major cities such as Lima, Trujillo, Chiclayo, Piura, and Iquitos.",
+          "note": null
+        },
+        {
+          "id": "1-17",
+          "image": "/images/resize/600/80/peru/pe_taxisticker.png",
+          "text": "Wide red and white stickers will typically be attached to the side of taxis and commercial vehicles. NOTE: While less common, these can be found in some neighbouring countries.",
+          "note": null
+        },
+        {
+          "id": "1-18",
+          "image": "/images/resize/600/80/peru/peru_electricity_counter.png",
+          "text": "Peruvian electricity counters have a unique design: They are rectangular, metallic, and typically feature two or three horizontal slits.",
+          "note": null
+        },
+        {
+          "id": "1-19",
+          "image": "/images/resize/600/80/peru/1.currency.png",
+          "text": "Sol is the currency of Peru. You will occasionally spot it on street view and its symbol is S/. NOTE: The currency is unique to Peru.",
+          "note": null
+        },
+        {
+          "id": "1-20",
+          "image": "/images/resize/600/80/peru/1.parties.png",
+          "text": "Peru has many political party logos and all of them are unique to the country. Here is a list with other parties in Peru.",
+          "note": null
+        },
+        {
+          "id": "1-21",
+          "image": "/images/resize/600/80/peru/1.architecture.png",
+          "text": "Peru is home to diverse and somewhat unique architecture. Here are a few examples of types of buildings commonly seen in Peru; ranging from Colonial-era buildings, contemporary “boxy” buildings, and traditional red brick buildings. Some of these styles are broken down further in Step 2 of this guide.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Step 2 - Region-specific clues",
+      "items": [
+        {
+          "id": "2-1",
+          "image": "/images/resize/600/80/peru/Peru_Coverage_Map1.png",
+          "text": "Street View coverage in Peru is mostly located in the west and on main highways. There are some exceptions in the east near Iquitos and along the 30C. You can click on the image to enlarge it.",
+          "note": null
+        },
+        {
+          "id": "2-2",
+          "image": "/images/resize/600/80/peru/Peru_terrain.png",
+          "text": "The country is generally flat in the east and mountainous in the west. However, an exception is the often flat desert near Piura in the northwest. You can click on the image to enlarge it.",
+          "note": null
+        },
+        {
+          "id": "2-3",
+          "image": "/images/resize/600/80/peru/climatemap_darkmode.png",
+          "text": "Peru has a diverse climate, dominated by a dry desert in the west, and a tropical rainforest in the east. You can click on the image to enlarge it.",
+          "note": null
+        },
+        {
+          "id": "2-4",
+          "image": "/images/resize/600/80/peru/2.highwaynumbers.png",
+          "text": "Highways in Peru are mainly located in the west, and the numbers increase from north to south. The 1, 3 and 5 are the longest and traverse through multiple departments. You can click on the image to enlarge it.",
+          "note": null
+        },
+        {
+          "id": "2-5",
+          "image": "/images/resize/600/80/peru/2.tumbesdry.png",
+          "text": "These three landscapes are typically found along offroads in Tumbes. You will always see sandy soil with either green or withered bushes. NOTE: In addition, Tumbes does not have black cars on off roads. Make sure to consider it whenever you see such landscapes with a white Street View car.",
+          "note": null
+        },
+        {
+          "id": "2-6",
+          "image": "/images/resize/600/80/peru/2.piurasouthwest.png",
+          "text": "The southwestern landscape of Piura is generally dry, featuring a low amount of vegetation with a few shrubs and bushes. The landscape is mostly flat, but you will sometimes see rolling hills.",
+          "note": null
+        },
+        {
+          "id": "2-7",
+          "image": "/images/resize/600/80/peru/2.piuranorthwest.png",
+          "text": "Northwest of the city of Piura lies an area with similar vegetation to the area mentioned previously. However, this area is noticeably hillier.",
+          "note": null
+        },
+        {
+          "id": "2-8",
+          "image": "/images/resize/600/80/peru/2.northernpalms.png",
+          "text": "Coconut palms (and other species of tall palms) can sometimes be seen in coastal areas of Peru, mainly north of Lima. They are mainly found in the agricultural areas which are typically found around the major coastal cities.",
+          "note": null
+        },
+        {
+          "id": "2-9",
+          "image": "/images/resize/600/80/peru/2.tacnaolives.png",
+          "text": "Olive tree plantations can be found in the far southern region of Tacna.",
+          "note": null
+        },
+        {
+          "id": "2-10",
+          "image": "/images/resize/600/80/peru/2.sugarcane.png",
+          "text": "Most of the sugar cane production is found in the northern coastal regions of Peru near the cities of Chiclayo and Trujillo. Typically you see large fields of sugar cane in these areas. Smaller areas of sugar cane can be found further south in other valleys close to the Pacific coast.",
+          "note": null
+        },
+        {
+          "id": "2-11",
+          "image": "/images/resize/600/80/peru/2.banana.png",
+          "text": "Similarly to sugar cane plants, banana plants are generally found in agricultural regions adjacent to the coast in the northern half of the country.",
+          "note": null
+        },
+        {
+          "id": "2-12",
+          "image": "/images/resize/600/80/peru/2.flatmountains.png",
+          "text": "A flat landscape in the mountains of Peru is usually seen in central Puno and around Lake Chinchaycocha. NOTE: This landscape might look similar to Bolivia. Make sure to look out for other clues before guessing.",
+          "note": null
+        },
+        {
+          "id": "2-13",
+          "image": "/images/resize/600/80/peru/2.titicaca.png",
+          "text": "Low grass, a few hills, stone walls in villages and brown brick buildings are typical for the region south of Lake Titicaca in eastern Peru.",
+          "note": null
+        },
+        {
+          "id": "2-14",
+          "image": "/images/resize/600/80/peru/2.northernmountains.png",
+          "text": "Far north Peru features mountains that are often covered in shrubby trees and bushes. Closer to the coast and the Ecuador border, these mountains are often quite dry in appearance.",
+          "note": null
+        },
+        {
+          "id": "2-15",
+          "image": "/images/resize/600/80/peru/2.pineplantation.png",
+          "text": "Pine plantations are typically found in higher elevation areas of the country, away from the coastal deserts and Amazonian Regions. The most common types of pine trees planted are Pinus radiata and Pinus patula.",
+          "note": null
+        },
+        {
+          "id": "2-16",
+          "image": "/images/resize/600/80/peru/Peru_tarapoto.png",
+          "text": "The areas adjacent to the northern Amazonian city of Tarapoto feature moderately tall foliage-covered mountains and can bear a similar resemblance to the hilly areas of Colombia or Brazil.",
+          "note": null
+        },
+        {
+          "id": "2-17",
+          "image": "/images/resize/600/80/peru/2.middlehighlandsrocks.png",
+          "text": "In higher elevation areas near the centre of the country, exposed rocky outcroppings are commonly seen in the sides of hills and mountains. Some areas with the highest concentrations are near Lago Chinchaycocha (Junin District) stretching south towards the city of Ayacucho. NOTE: Exposed rocks can rarely be seen anywhere in the country, so use this meta with some caution.",
+          "note": null
+        },
+        {
+          "id": "2-18",
+          "image": "/images/resize/600/80/peru/2.spikymountains.png",
+          "text": "Similarly, taller mountains near the middle of the country often feature rocky and sharp mountain tops. The main region of these mountains stretches from near the city of Huaraz southward to the city of Cusco; generally away from the coast.",
+          "note": null
+        },
+        {
+          "id": "2-19",
+          "image": "/images/resize/600/80/peru/Peru_lichen.png",
+          "text": "Patches of light green lichen can be seen covering rocks and growing on the ground in high elevation areas of central and southern Peru.",
+          "note": null
+        },
+        {
+          "id": "2-20",
+          "image": "/images/resize/600/80/peru/Peru_red_soil.png",
+          "text": "Dark red-tinted soil is found in several areas of Peru. Some notable areas include the areas near Cusco and Ayacucho in the south of the country, as well as areas near the northern cities of Cajamarca and Tarapoto. It can be found to a lesser extent in adjacent regions.",
+          "note": null
+        },
+        {
+          "id": "2-21",
+          "image": "/images/resize/600/80/peru/2.flatsoutherndesert.png",
+          "text": "Areas near the cities of Ica, Arequipa, and Tacna feature barren and mostly flat desert landscapes that can resemble areas of northern Chile. You can typically see mountains in the distance, primarily while looking to the east.",
+          "note": null
+        },
+        {
+          "id": "2-22",
+          "image": "/images/resize/600/80/peru/2.southagriculturevalley.png",
+          "text": "Coastal agricultural valleys in the middle and south are commonly sandwiched between dry mountains with no vegetation. The general orientation of these valleys are southwest-northeast. NOTE: Agricultural valleys in the north of Peru can look similar, but often feature more shrubs and trees on the mountains.",
+          "note": null
+        },
+        {
+          "id": "2-23",
+          "image": "/images/resize/600/80/peru/2.redbrick.png",
+          "text": "As a general rule, the closer you are to Lake Titicaca in Peru, houses and buildings made out of red brick become more common. This type of architecture resembles the predominant type of building seen in parts of western Bolivia, which is helpful for remembering where it is seen most commonly. Additionally, buildings with blue tinted glass can be seen most commonly in the same areas. NOTE: Red brick buildings can be seen anywhere in the country, so use other clues before guessing.",
+          "note": null
+        },
+        {
+          "id": "2-24",
+          "image": "/images/resize/600/80/peru/2.northernroof.png",
+          "text": "Buildings with overhanging roofs with wooden supports are mostly found in northern regions of Peru. These buildings are sometimes brightly coloured as well.",
+          "note": null
+        },
+        {
+          "id": "2-25",
+          "image": "/images/resize/600/80/peru/2.northerntuktuk.png",
+          "text": "Tuk-Tuks with open front compartments are primarily found in the northern half of Peru, and are especially common in northern Amazonian adjacent regions. NOTE: This type of Tuk-Tuk can be found elsewhere to a lesser extent, so use other clues before guessing.",
+          "note": null
+        },
+        {
+          "id": "2-26",
+          "image": "/images/resize/600/80/peru/lima_lamps_v2.png",
+          "text": "Lamp posts in Lima and Lima Department often have a distinct, sweeping curve at the top, resembling an inverted \"J\" shape. NOTE: This design can occasionally be found in other parts of the country, such as Iquitos and Pucallpa. For other, more specific patterns, please see this document.",
+          "note": null
+        },
+        {
+          "id": "2-27",
+          "image": "/images/resize/600/80/peru/2.moqueguabollard.png",
+          "text": "This cylindrical bollard, with a black and yellow stripe at the top, is unique to the state of Moquegua, which is located in the south of Peru.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Step 3 - Spotlight",
+      "items": [
+        {
+          "id": "3-1",
+          "image": "/images/resize/600/80/peru/3.1npiura.png",
+          "text": "The 1N near the Piura and Lambayeque border has a distinct looking landscape. It features a semidesert landscape and has overcast coverage in Generation 3. The new Generation 4 is drier but still looks somewhat similar.",
+          "note": null
+        },
+        {
+          "id": "3-2",
+          "image": "/images/resize/600/80/peru/3.1n1sdivided.png",
+          "text": "Highway 1N/S is divided in the highlighted area on the map. NOTE: It is the only divided highway outside of cities.",
+          "note": null
+        },
+        {
+          "id": "3-3",
+          "image": "/images/resize/600/80/peru/3.1scoast.png",
+          "text": "The 1S south of the city of Ica is not divided and mostly follows the coast. The soil is often red or orange in these areas, and there is little-to-no vegetation. This road is also entirely covered with the Generation 4 camera.",
+          "note": null
+        },
+        {
+          "id": "3-4",
+          "image": "/images/resize/600/80/peru/3.5n.png",
+          "text": "Ruta 5N between the towns of San Alejandro and Esperanza is a relatively straight, flat road in good condition. This road primarily runs north-south through the rainforest.",
+          "note": null
+        },
+        {
+          "id": "3-5",
+          "image": "/images/resize/600/80/peru/3.30c.png",
+          "text": "Ruta 30C in eastern Peru uses a white Street View car in Generation 3 between the cities of Planchon and Iñapari. It features dense forest, few villages, and resembles interior areas of Brazil. Some of this area has been overwritten with Generation 4. Most of this segment runs north to south.",
+          "note": null
+        },
+        {
+          "id": "3-6",
+          "image": "/images/resize/600/80/peru/3.28b.png",
+          "text": "Ruta 28B between the towns of Kimbiri and Echarate is a paved road with very faded or missing road lines. It is also characterised by being a relatively small road with Generation 4 coverage, which hugs the hillside and is located next to a river valley.",
+          "note": null
+        },
+        {
+          "id": "3-7",
+          "image": "/images/resize/600/80/peru/3.huancayojaujavalley.png",
+          "text": "The valley connecting the cities of Jauja and Huancayo features a flat plain with plentiful trees, agricultural areas, and small villages. North-south oriented mountains can be seen on both edges of the valley.",
+          "note": null
+        },
+        {
+          "id": "3-8",
+          "image": "/images/resize/600/80/peru/3.northtiticaca.png",
+          "text": "The coverage on the north side of Lake Titicaca was taken during a significantly wetter season than the coverage taken on the south side of Lake Titicaca.",
+          "note": null
+        },
+        {
+          "id": "3-9",
+          "image": "/images/resize/600/80/peru/3.chinchaycocha.png",
+          "text": "North of the city of Huancayo lies a shallow lake called Lake Chinchaycocha (also referred to as ‘the middle lake.’). This lake is generally marshy and a range of mountains can be seen to the east of the lake. This lake can look similar to Lake Titicaca, but is generally less densely populated and features fewer trees.",
+          "note": null
+        },
+        {
+          "id": "3-10",
+          "image": "/images/resize/600/80/peru/3.arequipavolcano.png",
+          "text": "Volcanoes are often seen in and around the city of Arequipa. NOTE: Within Peru, volcanoes are only found in the southeast in the highlighted area.",
+          "note": null
+        },
+        {
+          "id": "3-11",
+          "image": "/images/resize/600/80/peru/3.limaboulevards.png",
+          "text": "Most of the boulevard-type streets in Peru are in the city of Lima. These boulevards are typically long, straight streets divided by concrete or a grassy berm.",
+          "note": null
+        },
+        {
+          "id": "3-12",
+          "image": "/images/resize/600/80/peru/3.pucallpagrid.png",
+          "text": "The east-central Amazonian city of Pucallpa, which lies close to the Brazil border, has a consistent street grid of WSW to ENE. NOTE: Some northern and eastern areas of the city feature grids of different orientation.",
+          "note": null
+        },
+        {
+          "id": "3-13",
+          "image": "/images/resize/600/80/peru/3.iquitos.png",
+          "text": "Iquitos is a city in northeast Peru. It is an isolated city with only Generation 3 Street View coverage. Three-wheeled tuk-tuks, overcast skies, and rolling Amazonian landscapes are commonly seen in the area. This coverage is isolated from other areas of northern Peru.",
+          "note": null
+        },
+        {
+          "id": "3-14",
+          "image": "/images/resize/600/80/peru/3.cusco.png",
+          "text": "The southern city of Cusco is recognizable by its prevalence of both red brick and Spanish colonial style buildings. Cusco is surrounded by mountains on all sides and features an airport in the middle of the city. Due to its proximity and similar architecture, Cusco superficially resembles the Bolivian city of La Paz.",
+          "note": null
+        },
+        {
+          "id": "3-15",
+          "image": "/images/resize/600/80/peru/3.tacnaridge.png",
+          "text": "The city of Tacna in the far south of Peru has this distinct dry ridge to the north.",
+          "note": null
+        },
+        {
+          "id": "3-16",
+          "image": "/images/resize/600/80/peru/3.machupicchucar.png",
+          "text": "Within Peru, this white Street View car is found in central Cusco. It drives from the remote town of Aguas Calientes up to Machu Picchu.",
+          "note": null
+        },
+        {
+          "id": "3-17",
+          "image": "/images/resize/600/80/peru/3.traintrack.png",
+          "text": "A train track covered by a trekker is located between Aguas Calientes and Cusco.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Step 4 - Maps and resources",
+      "items": []
+    }
+  ]
+}

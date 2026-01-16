@@ -1,0 +1,427 @@
+{
+  "country": "Israel & the West Bank",
+  "url": "https://www.plonkit.net/israel-west-bank",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:17:46.872119+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Identifying Israel & the West Bank",
+      "items": [
+        {
+          "id": "1-1",
+          "image": "/images/resize/900/80/israel-west-bank/0_il_summary.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": "/images/resize/900/80/israel-west-bank/0_summary_west_bank.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-3",
+          "image": "/images/resize/600/80/israel-west-bank/il_Licence_Plate.png",
+          "text": "Israeli licence plates are yellow with a blue strip on the left. NOTE: While this design is specific for Israel, it is also very common on the West Bank. Jordan and the UAE use white licence plates. Tunisia uses black plates.",
+          "note": null
+        },
+        {
+          "id": "1-4",
+          "image": "/images/resize/600/80/israel-west-bank/il_car.png",
+          "text": "Most Generation 3 coverage was taken by a black Street View car with a long antenna. You may also see the black car without an antenna and a silver car with a short antenna.",
+          "note": null
+        },
+        {
+          "id": "1-5",
+          "image": "/images/resize/600/80/israel-west-bank/il_language.png",
+          "text": "You will typically find two languages; Hebrew, which is practically only found in Israel and the West Bank, and Arabic, which is particularly common in the West Bank.",
+          "note": null
+        },
+        {
+          "id": "1-6",
+          "image": "/images/resize/600/80/israel-west-bank/il_landscape.png",
+          "text": "The landscape ranges from a greener Mediterranean landscape in the north, to a very arid landscape in the south.",
+          "note": null
+        },
+        {
+          "id": "1-7",
+          "image": "/images/resize/600/80/israel-west-bank/ilps_architecture.png",
+          "text": "Architecture tends to consist of bright and warm-coloured stone buildings, often with a blocky appearance. While Mediterranean-style houses with orange tiled roofs are more common than in other Middle Eastern countries, flat roofs are still just as common.",
+          "note": null
+        },
+        {
+          "id": "1-8",
+          "image": "/images/resize/600/80/israel-west-bank/IL_Roadlines.png",
+          "text": "Most roads feature yellow outer lines with white centre lines.",
+          "note": null
+        },
+        {
+          "id": "1-9",
+          "image": "/images/resize/600/80/israel-west-bank/il_kerb.png",
+          "text": "You will very often see striped kerbs: red and white and fairly commonly black and white. Red and yellow and blue and white are also rarely found.",
+          "note": null
+        },
+        {
+          "id": "1-10",
+          "image": "/images/resize/600/80/israel-west-bank/ilps_guardrails.png",
+          "text": "Both A-type and B-type guardrails are common. NOTE: The only other Middle Eastern country where B-type guardrails are common is Turkey.",
+          "note": null
+        },
+        {
+          "id": "1-11",
+          "image": "/images/resize/600/80/israel-west-bank/Israeli_Chevron.png",
+          "text": "Chevrons are white on black.",
+          "note": null
+        },
+        {
+          "id": "1-12",
+          "image": "/images/resize/600/80/israel-west-bank/ilps_kmmarker.png",
+          "text": "Kilometre markers are white with a thick border, which can either be red, green or blue.",
+          "note": null
+        },
+        {
+          "id": "1-13",
+          "image": "/images/resize/600/80/israel-west-bank/il_stopsign.png",
+          "text": "Rather than having a word meaning ‘stop’ written on them, stop signs have a hand painted on them.",
+          "note": null
+        },
+        {
+          "id": "1-14",
+          "image": "/images/resize/600/80/israel-west-bank/IL_Stripy_Pole.png",
+          "text": "Utility poles commonly feature these painted black and white striped bottoms.",
+          "note": null
+        },
+        {
+          "id": "1-15",
+          "image": "/images/resize/600/80/israel-west-bank/IL_Mesh_Pole.png",
+          "text": "Utility poles with a mesh framework are very common.",
+          "note": null
+        },
+        {
+          "id": "1-16",
+          "image": "/images/resize/600/80/israel-west-bank/il_utilitypolesigns.png",
+          "text": "You can often find this yellow warning sign on poles.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Step 2 - Regional clues",
+      "items": [
+        {
+          "id": "2-1",
+          "image": "/images/resize/600/80/israel-west-bank/ilps_coverage1.png",
+          "text": "This is a coverage map over Israel and the West Bank. Notably, southern Israel and most of the West Bank has very sparse coverage. You can click on the image to enlarge it.",
+          "note": null
+        },
+        {
+          "id": "2-2",
+          "image": "/images/resize/600/80/israel-west-bank/ilps_areacodes.png",
+          "text": "Here is a map of area codes in Israel and the West Bank. Note that only the phone codes featured on the map are regional.",
+          "note": null
+        },
+        {
+          "id": "2-3",
+          "image": "/images/resize/600/80/israel-west-bank/il_gen4.png",
+          "text": "Generation 4 coverage is only found in Israel, in the areas marked on the map. The coverage was taken with a black Street View car.",
+          "note": null
+        },
+        {
+          "id": "2-4",
+          "image": "/images/resize/600/80/israel-west-bank/il_gen4smudge.png",
+          "text": "Most of the Generation 4 coverage features a dirty front camera.",
+          "note": null
+        },
+        {
+          "id": "2-5",
+          "image": "/images/resize/600/80/israel-west-bank/il_gen4nosmudge.png",
+          "text": "Generation 4 coverage with a clean front camera is mostly found in and around Tel Aviv.",
+          "note": null
+        },
+        {
+          "id": "2-6",
+          "image": "/images/resize/600/80/israel-west-bank/il_northlandscape.png",
+          "text": "Northern Israel is usually far more mountainous and green than the rest of Israel. Throughout the region you will almost always see forested hills and mountains.",
+          "note": null
+        },
+        {
+          "id": "2-7",
+          "image": "/images/resize/600/80/israel-west-bank/il_centrallandscape.png",
+          "text": "Central Israel is usually flat and has several cities. Highways are usually in better condition than roads in the south and north.",
+          "note": null
+        },
+        {
+          "id": "2-8",
+          "image": "/images/resize/600/80/israel-west-bank/ilps_southdry.png",
+          "text": "Southern Israel and eastern West Bank are extremely dry and sandy.",
+          "note": null
+        },
+        {
+          "id": "2-9",
+          "image": "/images/resize/600/80/israel-west-bank/il_jerusalemlandscape.png",
+          "text": "The area west of Jerusalem can often look deceptively similar to northern Israel, with green forested hills and some agriculture sprinkled across the landscape. Two things can occasionally be used to tell the two apart. Firstly, in northern Israel you may occasionally see wide, flat valleys, while the Jerusalem area is always going to be hilly. Secondly, if you see houses made of Jerusalem stone, you are likely to be near Jerusalem.",
+          "note": null
+        },
+        {
+          "id": "2-10",
+          "image": "/images/resize/600/80/israel-west-bank/ps_landscape.png",
+          "text": "Most of the West Bank has a semi-arid Mediterranean landscape. It is generally greener than southern Israel, drier than northern Israel and west of Jerusalem, and hillier and less agricultural than central Israel.",
+          "note": null
+        },
+        {
+          "id": "2-11",
+          "image": "/images/resize/600/80/israel-west-bank/ilps_jerusalemarchitecture.png",
+          "text": "In Jerusalem and surrounding cities in the West Bank, nearly every building is built with the same type of material, called Jerusalem stone. Beware that the stone will look much smoother on newer buildings. NOTE: Single houses with the same material can be found in other towns and cities.",
+          "note": null
+        },
+        {
+          "id": "2-12",
+          "image": "/images/resize/600/80/israel-west-bank/ilps_palmplantation.png",
+          "text": "Date palm plantations can often be seen close to the Jordanian border.",
+          "note": null
+        },
+        {
+          "id": "2-13",
+          "image": "/images/resize/600/80/israel-west-bank/il_rockwalls.png",
+          "text": "Rock walls put together with cement are found in the north of Israel.",
+          "note": null
+        },
+        {
+          "id": "2-14",
+          "image": "/images/resize/600/80/israel-west-bank/ilps_deadsea.png",
+          "text": "The Dead Sea can easily be recognised by the dryness surrounding it. NOTE: It is also visible from Jordan and the West Bank.",
+          "note": null
+        },
+        {
+          "id": "2-15",
+          "image": "/images/resize/600/80/israel-west-bank/il_seaofgalilee.png",
+          "text": "Other than the Dead Sea and the Mediterranean Sea, the only major body of water is the Sea of Galilee. It is noticeably more vegetated than the Dead Sea, making it easily recognisable.",
+          "note": null
+        },
+        {
+          "id": "2-16",
+          "image": "/images/resize/600/80/israel-west-bank/il_mountcarmel.png",
+          "text": "Mount Carmel is a long mountain ridge, going northwest to southeast, near the city of Haifa. From the northeast, it can easily be recognised by its direction and size. There is also a lot of coverage on top of the mountain range, which is generally fairly green and looks noticeably high altitude.",
+          "note": null
+        },
+        {
+          "id": "2-17",
+          "image": "/images/resize/600/80/israel-west-bank/ilps_mountgilboa.png",
+          "text": "Mount Gilboa is a very dry looking mountain, which can be seen from far away and from many angles. There is some coverage on top of the mountain, which is very green and often with a very good view over the surrounding valleys.",
+          "note": null
+        },
+        {
+          "id": "2-18",
+          "image": "/images/resize/600/80/israel-west-bank/il_irrigationchannel.png",
+          "text": "You can find these small irrigation canals on the side of the road, in the area around the city of Beit She’an.",
+          "note": null
+        },
+        {
+          "id": "2-19",
+          "image": "/images/resize/600/80/israel-west-bank/ps_licenceplates2.png",
+          "text": "Licence plates in the West Bank are often white with green text, often giving blurred plates a slight green tint. On public transport vehicles, such as taxis and buses, the colours will be inverted; green with white text, making blurred plates almost completely green. Beware that Israeli licence plates are also very common in most of the West Bank.",
+          "note": null
+        },
+        {
+          "id": "2-20",
+          "image": "/images/resize/600/80/israel-west-bank/ps_followcarwhite.png",
+          "text": "A significant portion of the coverage in the West Bank has a visible security follow car. The most extensive of these is a small white Suzuki, which is found in the central and southern regions.",
+          "note": null
+        },
+        {
+          "id": "2-21",
+          "image": "/images/resize/600/80/israel-west-bank/ps_followcardarkblue.png",
+          "text": "Another follow car is a small dark blue Ford, which is found in the northwest.",
+          "note": null
+        },
+        {
+          "id": "2-22",
+          "image": "/images/resize/600/80/israel-west-bank/ps_followcarbigwhite.png",
+          "text": "This larger white Citroën follow car with a West Bank licence plate can be found in a region surrounding Jerusalem. It is noticeably found in the cities of Bethlehem and Ramallah. NOTE: The side of this car features the text “SECURITY” in a bold font. Furthermore, this coverage will always feature a black Street View car with no antenna.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Step 3 - Spotlight",
+      "items": [
+        {
+          "id": "3-1",
+          "image": "/images/resize/600/80/israel-west-bank/il_90.png",
+          "text": "Road 90 is the longest road in Israel, and can often be recognised by its dryness combined with the general north to south angle. Be careful, as road 90 can sometimes look quite similar to roads 31 and 40.",
+          "note": null
+        },
+        {
+          "id": "3-2",
+          "image": "/images/resize/600/80/israel-west-bank/il_90south.png",
+          "text": "The southern stretch of road 90 will have a dry mountain range to the east. It is also common to see palm trees.",
+          "note": null
+        },
+        {
+          "id": "3-3",
+          "image": "/images/resize/600/80/israel-west-bank/il_road2.png",
+          "text": "Road 2 can usually be recognised by the Mediterranean sea being visible on the west side of the road. NOTE: If you see mountains to the east, you will be somewhere between Haifa and Zikhron Yaakov.",
+          "note": null
+        },
+        {
+          "id": "3-4",
+          "image": "/images/resize/600/80/israel-west-bank/il_mounttavor.png",
+          "text": "Mount Tavor is located in the Northern District and can be recognised by its soft, round shape.",
+          "note": null
+        },
+        {
+          "id": "3-5",
+          "image": "/images/resize/600/80/israel-west-bank/il_timna.png",
+          "text": "Timna National park can be recognised by the complete dryness combined with the mountain ridges in all directions.",
+          "note": null
+        },
+        {
+          "id": "3-6",
+          "image": "/images/resize/600/80/israel-west-bank/il_eilatmountain.png",
+          "text": "These tall, rocky mountains can be found east of Eilat, making the city very easy to recognize.",
+          "note": null
+        },
+        {
+          "id": "3-7",
+          "image": "/images/resize/600/80/israel-west-bank/il_kiryatshmona.png",
+          "text": "This mountain range, in the far north of Israel, can be recognised by its shape, somewhat resembling a camel's back. As a bonus, if you are in a city and see these mountains to the west, you will be in Kiryat Shmona.",
+          "note": null
+        },
+        {
+          "id": "3-8",
+          "image": "/images/resize/600/80/israel-west-bank/il_hasolelim.png",
+          "text": "North of the Hasolelim forest reserve you can see this large reservoir.",
+          "note": null
+        },
+        {
+          "id": "3-9",
+          "image": "/images/resize/600/80/israel-west-bank/il_telavivparking.png",
+          "text": "Finding parking in Tel Aviv is notoriously difficult, meaning the side of almost every road will be full of parked cars. NOTE: If you are confident that you are in Tel Aviv and see available parking spots, you are more likely to be in the north of the city.",
+          "note": null
+        },
+        {
+          "id": "3-10",
+          "image": "/images/resize/600/80/israel-west-bank/il_jerusalemsign.png",
+          "text": "These white rectangular signs with a thin blue border are typically found in Jerusalem.",
+          "note": null
+        },
+        {
+          "id": "3-11",
+          "image": "/images/resize/600/80/israel-west-bank/ps_jericho.png",
+          "text": "Jericho can commonly be recognised by the date palms in a somewhat sparsely built and poor-looking urban setting.",
+          "note": null
+        },
+        {
+          "id": "3-12",
+          "image": "/images/resize/600/80/israel-west-bank/ps_ramallahwatertanks.png",
+          "text": "In the city of Ramallah you will generally see several black water tanks on most houses. NOTE: Several other cities in both the West Bank and Israel can have black water tanks. What makes Ramallah stand out is the sheer number of them on most buildings.",
+          "note": null
+        },
+        {
+          "id": "3-13",
+          "image": "/images/resize/600/80/israel-west-bank/il_harishhouse.png",
+          "text": "This grey mosaic brick work shaped like towers is unique to the city of Harish.",
+          "note": null
+        },
+        {
+          "id": "3-14",
+          "image": "/images/resize/600/80/israel-west-bank/il_nahariyalamp.png",
+          "text": "This white lamp is unique to Nahariya. It has three arms, with round light bulbs on top.",
+          "note": null
+        },
+        {
+          "id": "3-15",
+          "image": "/images/resize/600/80/israel-west-bank/il_acrelamp.png",
+          "text": "These lamps, shaped similarly to Barad Dûr, are unique to Acre. It can be found in several different colours. NOTE: Similar looking lamps can be found around central Israel, however the gap between the two horns on top of the lamp should confirm Acre.",
+          "note": null
+        },
+        {
+          "id": "3-16",
+          "image": "/images/resize/600/80/israel-west-bank/il_netivotlamp.png",
+          "text": "These metal lamps, characterised by one high and one low lamp put together with a very angular look, are unique to Netivot.",
+          "note": null
+        },
+        {
+          "id": "3-17",
+          "image": "/images/resize/600/80/israel-west-bank/il_eilatpole.png",
+          "text": "Poles with blue and white paint on the bottom are unique to Eilat.",
+          "note": null
+        },
+        {
+          "id": "3-18",
+          "image": "/images/resize/600/80/israel-west-bank/il_kiryatmotzkinfence.png",
+          "text": "These yellow fences and signposts are unique to Kiryat Motzkin.",
+          "note": null
+        },
+        {
+          "id": "3-19",
+          "image": "/images/resize/600/80/israel-west-bank/il_ashdodfence.png",
+          "text": "This style of blue and white fence is very common to see in Ashdod.",
+          "note": null
+        },
+        {
+          "id": "3-20",
+          "image": "/images/resize/600/80/israel-west-bank/ps_betlehemhousenumber.png",
+          "text": "Blue house numbers with the number written with Arabic numerals in the top left and with Eastern Arabic numerals in the bottom right, with a thin diagonal line between them, can be found in Bethlehem. Street signs will generally have the same format.",
+          "note": null
+        },
+        {
+          "id": "3-21",
+          "image": "/images/resize/600/80/israel-west-bank/il_roshhaayinhousenumber.png",
+          "text": "House numbers in Rosh Haayin are blue, with a G-clef in the bottom left corner.",
+          "note": null
+        },
+        {
+          "id": "3-22",
+          "image": "/images/resize/600/80/israel-west-bank/il_nesszionahousenumber.png",
+          "text": "In Ness Ziona, There is an Israeli flag on house numbers.",
+          "note": null
+        },
+        {
+          "id": "3-23",
+          "image": "/images/resize/600/80/israel-west-bank/il_herzliyahousenumber.png",
+          "text": "Blue, shield-shaped house numbers are unique to the city of Herzliya.",
+          "note": null
+        },
+        {
+          "id": "3-24",
+          "image": "/images/resize/600/80/israel-west-bank/il_bneibrak.png",
+          "text": "Bnei Brak is an ultra-Orthodox Jewish stronghold, which can be seen only by looking at the people around. There will usually be people wearing Jewish religious clothes.",
+          "note": null
+        },
+        {
+          "id": "3-25",
+          "image": "/images/resize/600/80/israel-west-bank/il_raananaroundabout.png",
+          "text": "Roundabout signs which are either very thick or attached to a large cube, can be found in the city of Raanana.",
+          "note": null
+        },
+        {
+          "id": "3-26",
+          "image": "/images/resize/600/80/israel-west-bank/il_chimneys.png",
+          "text": "These tall industrial chimneys, by the coast north of Netanya, are visible from far away.",
+          "note": null
+        },
+        {
+          "id": "3-27",
+          "image": "/images/resize/600/80/israel-west-bank/il_rahatfollow.png",
+          "text": "This grey Hyundai follow car is unique to Rahat.",
+          "note": null
+        },
+        {
+          "id": "3-28",
+          "image": "/images/resize/600/80/israel-west-bank/il_nationaltrail.png",
+          "text": "The Israel National Trail goes through the entire country and has one of the longest trekkers in the world. The trail goes through more or less every landscape present in the country, from the rocky desert in the south to lush forests in the north. Along the trail you may find these markings, which will typically be orange, blue and white, but can also feature other colour schemes.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Step 4 - Maps and resources",
+      "items": []
+    }
+  ]
+}

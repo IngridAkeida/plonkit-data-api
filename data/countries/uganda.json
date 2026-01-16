@@ -1,0 +1,247 @@
+{
+  "country": "Uganda",
+  "url": "https://www.plonkit.net/uganda",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:17:32.484954+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Identifying Uganda",
+      "items": [
+        {
+          "id": "1-1",
+          "image": "/images/resize/900/80/uganda/0_Summary_Graphic.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": "/images/resize/600/80/uganda/world_map_because_i_dont_recognize_any_other_country.png",
+          "text": "Uganda has very limited coverage, with most of the coverage in the capital city of Kampala and the nearby city of Entebbe. The rest of the coverage is located in the various national parks that will be covered below. Note: Because the coverage in Uganda is limited, this guide is structured differently than most of the other country guides, with two separate sections for Kampala and the National Parks. These sections also include most of the tips needed to identify the country. You can click on the image to enlarge it.",
+          "note": null
+        },
+        {
+          "id": "1-3",
+          "image": "/images/resize/600/80/uganda/ug_leftdrive.png",
+          "text": "Uganda drives on the left hand side of the road. NOTE: African countries are split between right and left hand drive. For a full overview of countries and their driving side, see here.",
+          "note": null
+        },
+        {
+          "id": "1-4",
+          "image": "/images/resize/600/80/uganda/Uganda_License_Plate.png",
+          "text": "Uganda uses white front plates with yellow rear plates. These plates can be long or tall.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Step 2 - Kampala",
+      "items": [
+        {
+          "id": "2-1",
+          "image": "/images/resize/600/80/uganda/Kampala_Car_3.png",
+          "text": "In all coverage in Kampala, a unique Google car is visible. This car is white with square side mirrors and a boxy look. NOTE: This Google car is only found in Uganda and is unique to the city of Kampala and its outskirts.",
+          "note": null
+        },
+        {
+          "id": "2-2",
+          "image": "/images/resize/600/80/uganda/ug_kampalalook.png",
+          "text": "Kampala is a fairly busy-looking city, with many signs, narrow unpaved roads and typically fairly small, one-storey houses. Like many African countries, houses will often be surrounded by tall walls, commonly with barbed wire on top.",
+          "note": null
+        },
+        {
+          "id": "2-3",
+          "image": "/images/resize/600/80/uganda/ug_kampalasoil.png",
+          "text": "Like most of the national park coverage, Kampalan soil is typically very red. Even paved roads normally have a noticeable red, purple or pink tinge.",
+          "note": null
+        },
+        {
+          "id": "2-4",
+          "image": "/images/resize/600/80/uganda/ug_kampalahills.png",
+          "text": "Kampala is a very hilly city, and as such it is rare to get a round without elevation or noticeable hills.",
+          "note": null
+        },
+        {
+          "id": "2-5",
+          "image": "/images/resize/600/80/uganda/van.png",
+          "text": "Throughout Kampala, you will often see these taxi buses, with a blue blocky pattern on the sides. These are a good clue for the city if you are not able to see the Google car.",
+          "note": null
+        },
+        {
+          "id": "2-6",
+          "image": "/images/resize/600/80/uganda/corrupt_politician.png",
+          "text": "In the city centre of Kampala, you will see paved roads with black-and-white curbs. In contrast to the rest of the city, the city centre looks richer and very built-up, with lots of multi-storey buildings.",
+          "note": null
+        },
+        {
+          "id": "2-7",
+          "image": "/images/resize/600/80/uganda/ug_entebbe.png",
+          "text": "The city of Entebbe, southwest of Kampala, can often be recognized by feeling slightly emptier than most of the capital, with more greenery and somewhat fancier houses. The area also has significantly more street signs than the rest of the capital.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Step 3 - National Parks",
+      "items": [
+        {
+          "id": "3-1",
+          "image": "/images/resize/600/80/uganda/ug_npcar.png",
+          "text": "Most coverage in the Ugandan national parks was taken with this Street View car, which is similar to the one seen in Kampala, but with a black bar along the front of the car. The visibility of the car varies greatly, and it is somewhat common for it to not be visible at all.",
+          "note": null
+        },
+        {
+          "id": "3-2",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "3-3",
+          "image": "/images/resize/600/80/uganda/ug_kidepo.png",
+          "text": "The National Park is located in the northeastern parts of the country and mostly consists of a large savannah with mountains being visible in most directions. The most recognizable mountain range can be seen to the east and is visible in most of the coverage.",
+          "note": null
+        },
+        {
+          "id": "3-4",
+          "image": "/images/resize/600/80/uganda/ug_kidepo2.png",
+          "text": "The southern half of the north road in Kidepo is somewhat forested, and as such it may occasionally be hard to see the various mountains.",
+          "note": null
+        },
+        {
+          "id": "3-5",
+          "image": "/images/resize/600/80/uganda/ug_kidepo3.png",
+          "text": "The northern half of the north road in Kidepo is located in a savannah and can be easily recognised by the wide mountain to the north.",
+          "note": null
+        },
+        {
+          "id": "3-6",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "3-7",
+          "image": "/images/resize/600/80/uganda/ug_murchison.png",
+          "text": "The National Park is located by the northern end of Lake Albert and can commonly be recognized by the low dirt barriers along the side of the roads. A savannah can be seen in the western part, while the eastern parts contain many small trees and bushes. Apart from a fairly low and wide mountain range far away to the west, there are no mountains in the vicinity.",
+          "note": null
+        },
+        {
+          "id": "3-8",
+          "image": "/images/resize/600/80/uganda/ug_murchisonpalms.png",
+          "text": "Seeing these palms in Uganda means you are extremely likely to be in the northern parts of Murchison Falls.",
+          "note": null
+        },
+        {
+          "id": "3-9",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "3-10",
+          "image": "/images/resize/600/80/uganda/ug_kibalebigroad.png",
+          "text": "The National Park has three types of coverage, the first of which is a very wide dirt road going through a dense, tropical forest. It is by far the widest dirt road in the country outside of Kampala with Street View coverage.",
+          "note": null
+        },
+        {
+          "id": "3-11",
+          "image": "/images/resize/600/80/uganda/ug_kibalesmallroad.png",
+          "text": "The second type of coverage in Kibale is on a small forest road, which is still large enough to be covered using a car. The forest appears to be quite dense, however it is typically not very dark. The area is mostly flat.",
+          "note": null
+        },
+        {
+          "id": "3-12",
+          "image": "/images/resize/600/80/uganda/ug_kibaletinypath.png",
+          "text": "The final type of coverage is a number of tiny forest paths. The coverage is somewhat dark, with the sun shining through every so often.",
+          "note": null
+        },
+        {
+          "id": "3-13",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "3-14",
+          "image": "/images/resize/600/80/uganda/ug_mburo.png",
+          "text": "The park is located west of lake Victoria and has by far the driest coverage in the country. The grass is almost always completely dried out, which is normally enough to recognise it. Bushes and trees along the road also typically look very dry. The area is quite hilly, but not mountainous.",
+          "note": null
+        },
+        {
+          "id": "3-15",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "3-16",
+          "image": "/images/resize/600/80/uganda/ug_semuliki.png",
+          "text": "The coverage in the national park consists of two small forest paths running parallel to each other. The forest appears very humid, and on much of the coverage, drops of water can be seen on the camera lens.",
+          "note": null
+        },
+        {
+          "id": "3-17",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "3-18",
+          "image": "/images/resize/600/80/uganda/ug_mtelgonwest.png",
+          "text": "The national park is located near the Kenyan border and has two stretches of paths covered, the first of which is in a forest with a fairly steep slope heading upwards to the east. The dirt typically has a very dark red colour.",
+          "note": null
+        },
+        {
+          "id": "3-19",
+          "image": "/images/resize/600/80/uganda/ug_mtelgoneast.png",
+          "text": "The eastern stretch of path covered is easily recognized by its small palm-like trees on an open hilly field and a man following the photographer, who is dressed in green and holding a rifle.",
+          "note": null
+        },
+        {
+          "id": "3-20",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "3-21",
+          "image": "/images/resize/600/80/uganda/ug_queenlizdirt.png",
+          "text": "Queen Elizabeth National Park, north of Lake Edward, is one of the only places in Uganda where you will commonly see dirt which is not red. Instead, the dirt will typically be either brown or greyish.",
+          "note": null
+        },
+        {
+          "id": "3-22",
+          "image": "/images/resize/600/80/uganda/ug_queenlizcactus.png",
+          "text": "On top of the brown dirt, the national park also contains large cacti with many branches going almost straight upwards, resembling the shape of trees.",
+          "note": null
+        },
+        {
+          "id": "3-23",
+          "image": "/images/resize/600/80/uganda/ug_queenlizcrater.png",
+          "text": "On the northern coverage, it is common to see large, water-filled craters. Similar craters cannot be found elsewhere in the country.",
+          "note": null
+        },
+        {
+          "id": "3-24",
+          "image": "/images/resize/600/80/uganda/ug_queenlizpavedroad.png",
+          "text": "The only paved road with coverage outside Kampala can be found here. The pavement almost entirely lacks the red tinge which is typical for most roads in the country. The road has white, solid outer lines and a yellow middle line. A power line runs parallel to the road, to your east. To your north, you will be able to see hills.",
+          "note": null
+        },
+        {
+          "id": "3-25",
+          "image": "/images/resize/600/80/uganda/ug_queenlizkatwe.png",
+          "text": "Katwe village is the only significant settlement outside of Kampala with Street View coverage. NOTE: Much smaller villages, safari lodges and single houses with coverage can be found elsewhere.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Step 4 - Maps and resources",
+      "items": []
+    }
+  ]
+}

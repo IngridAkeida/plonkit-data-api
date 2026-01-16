@@ -1,0 +1,140 @@
+{
+  "country": "Puerto Rico",
+  "url": "https://www.plonkit.net/puerto-rico",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:19:58.270433+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Identifying Puerto Rico",
+      "items": [
+        {
+          "id": "1-1",
+          "image": "/images/resize/900/80/puerto-rico/transparent-pr_summary_new.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": "/images/resize/600/80/puerto-rico/pr_location.png",
+          "text": "Puerto Rico is a United States overseas territory. As such, it is counted as the US for country streaks purposes.",
+          "note": null
+        },
+        {
+          "id": "1-3",
+          "image": "/images/resize/600/80/puerto-rico/Puerto_Rico_Smallcam.png",
+          "text": "Nearly all of the coverage was captured with smallcam, a variant of Generation 4, which in this case can be recognised by the wide blur and antenna that is often visible. The camera is lower and the front blur more round than pickup truck blurs.",
+          "note": null
+        },
+        {
+          "id": "1-4",
+          "image": "/images/resize/600/80/puerto-rico/pr_googlecar.png",
+          "text": "The Generation 3 Street View car found in Puerto Rico has an antenna at the front right. The antenna has a small white dot on the tip. NOTE: The Google car on Guam and NMI also have an antenna at the front right. Make sure to look out for other clues before guessing.",
+          "note": null
+        },
+        {
+          "id": "1-5",
+          "image": "/images/resize/600/80/puerto-rico/pr_areacode.png",
+          "text": "The entirety of Puerto Rico uses (787) as their regional phone code. This number can be seen in front of phone numbers using this format: (787) XXX-XXXX NOTE: While far less common, you may also encounter the phone code 939.",
+          "note": null
+        },
+        {
+          "id": "1-6",
+          "image": "/images/resize/600/80/puerto-rico/pr_spanish.png",
+          "text": "Spanish, instead of English, can commonly be seen on signs around Puerto Rico.",
+          "note": null
+        },
+        {
+          "id": "1-7",
+          "image": "/images/resize/600/80/puerto-rico/pr_wal_mart_gen4.png",
+          "text": "American store chains, such as Wal-Mart, are very common in Puerto Rico. This will help distinguish Puerto Rico from other nearby Latin American countries and territories, where American stores are not common.",
+          "note": null
+        },
+        {
+          "id": "1-8",
+          "image": "/images/resize/600/80/puerto-rico/pr_nofrontplates.png",
+          "text": "Front plates are not mandatory in Puerto Rico. Therefore, seeing cars with front plates is rare. This helps differentiate from Guam and Northern Mariana Islands.",
+          "note": null
+        },
+        {
+          "id": "1-9",
+          "image": "/images/resize/600/80/puerto-rico/pr_highways_gen4",
+          "text": "A significant part of the coverage in rural Puerto Rico is taken on large divided highways.",
+          "note": null
+        },
+        {
+          "id": "1-10",
+          "image": "/images/resize/600/80/puerto-rico/pr_highway_shields.png",
+          "text": "Here is an example of what highway shields in Puerto Rico look like. From top left to bottom right they are: primary highway shields, primary urban highway shields, secondary shields, and tertiary shields. These will not be present in any other state or territory of the US.",
+          "note": null
+        },
+        {
+          "id": "1-11",
+          "image": "/images/resize/600/80/puerto-rico/pr_maximum_new",
+          "text": "Speed limit signs in Puerto Rico are identical in shape and size to speed limit signs seen in the mainland US. The major difference is that these signs will always be in Spanish, instead of English.",
+          "note": null
+        },
+        {
+          "id": "1-12",
+          "image": "/images/resize/600/80/puerto-rico/pr_pare.png",
+          "text": "Stop signs in Puerto Rico say ‘PARE’ instead of stop. NOTE: ‘PARE’ is also used in all of South America as well as the Dominican Republic.",
+          "note": null
+        },
+        {
+          "id": "1-13",
+          "image": "/images/resize/600/80/puerto-rico/pr_kmmarker.png",
+          "text": "Puerto Rican kilometre markers are tall, green and with “km” written at the top, followed by a number written vertically in large text.",
+          "note": null
+        },
+        {
+          "id": "1-14",
+          "image": "/images/resize/600/80/puerto-rico/pr_house_new2.png",
+          "text": "Most homes in Puerto Rico are made of concrete and have flat rooftops. Metal gates in front of homes are common features as well, especially in urban areas. NOTE: Homes in other areas of Latin America can have a similar appearance.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Step 2 - Regional clues",
+      "items": [
+        {
+          "id": "2-1",
+          "image": "/images/resize/600/80/puerto-rico/pr_drysouth.png",
+          "text": "Southern Puerto Rico can often look distinctly drier than the rest of the island.",
+          "note": null
+        },
+        {
+          "id": "2-2",
+          "image": "/images/resize/600/80/puerto-rico/pr_plains.png",
+          "text": "The North and South coasts of Puerto Rico typically feature flat coastal plains or rolling hills.",
+          "note": null
+        },
+        {
+          "id": "2-3",
+          "image": "/images/resize/600/80/puerto-rico/pr_mountains.png",
+          "text": "Most of the mountainous regions of Puerto Rico are located in the middle section of the country. Most of the coverage in these areas is limited to divided highways.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Step 3 - Spotlight",
+      "items": [
+        {
+          "id": "3-1",
+          "image": "/images/resize/600/80/puerto-rico/pr_ponce_architecture_gen4.png",
+          "text": "The Southern city of Ponce features many buildings in the style of Ponce Creole Architecture, which is a combination of Victorian and Spanish Revival styles. Buildings are typically made out of wood and masonry.",
+          "note": null
+        },
+        {
+          "id": "3-2",
+          "image": "/images/resize/600/80/puerto-rico/pr_old_town_san_juan_gen4.png",
+          "text": "Old Town San Juan is located at the far Northwest tip of the city of San Juan. This area has very narrow streets, colourful buildings, and a mix of Gothic, Renaissance, and Baroque architecture. Also, some streets in this area are made of bricks.",
+          "note": null
+        }
+      ]
+    }
+  ]
+}

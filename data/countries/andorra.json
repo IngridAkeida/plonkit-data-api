@@ -1,0 +1,127 @@
+{
+  "country": "Andorra",
+  "url": "https://www.plonkit.net/andorra",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:18:22.205756+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Identifying Andorra",
+      "items": [
+        {
+          "id": "1-1",
+          "image": "/images/resize/900/80/andorra/0_Copy_of_Copy_of_Copy_of_Copy_of_Infographic.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": "/images/resize/600/80/andorra/Andorra_License_Plate.png",
+          "text": "Andorran licence plates have an orange dot on the left side and can be regularly found throughout the country. NOTE: Within Europe, this plate is unique to Andorra.",
+          "note": null
+        },
+        {
+          "id": "1-3",
+          "image": "/images/resize/600/80/andorra/Camera_gens.png",
+          "text": "Andorra only has Generation 2 and Generation 3 coverage. In all Generation 3 coverage, a medium-short antenna is visible on the Google car. Generation 3 is by far the most common. Almost all of Generation 2 is overwritten and is mostly confined to a couple of smaller off-roads.",
+          "note": null
+        },
+        {
+          "id": "1-4",
+          "image": "/images/resize/600/80/andorra/Fall_colours_2.png",
+          "text": "All the Generation 3 coverage was taken in October, meaning that many deciduous trees have autumn colours.",
+          "note": null
+        },
+        {
+          "id": "1-5",
+          "image": "/images/resize/600/80/andorra/architecture.png",
+          "text": "Andorra has a lot of these stone buildings. They can be seen almost everywhere in the country. NOTE: These buildings can also be found close to Andorra, in the French and Spanish Pyrenees.",
+          "note": null
+        },
+        {
+          "id": "1-6",
+          "image": "/images/resize/600/80/andorra/Untitled_design_2855_29.png",
+          "text": "Andorran snow poles are made out of wood and can have a variety of colours on them.",
+          "note": null
+        },
+        {
+          "id": "1-7",
+          "image": "/images/resize/600/80/andorra/Andorra_Catalan.png",
+          "text": "Catalan is the main language in Andorra. It is a Romance language that is closely related to Spanish and French. If you are unfamiliar with Romance languages, it can be hard to distinguish between Catalan and Spanish. If you see i instead of y (“and” in English), it is Catalan. In addition, more Catalan words end with consonants. NOTE: The Catalan language is also used in eastern Spain: in Catalonia, the Valencian community and the Balearic islands.",
+          "note": null
+        },
+        {
+          "id": "1-8",
+          "image": "/images/resize/600/80/andorra/Screenshot_2022-06-29_203415.png",
+          "text": "The Catalan word for street is “carrer”.",
+          "note": null
+        },
+        {
+          "id": "1-9",
+          "image": "/images/resize/600/80/andorra/Copy_of_Copy_of_Copy_of_Copy_of_Small_Pin_281_29.png",
+          "text": "These kilometre markers with CG and CS road numbers are found in Andorra. NOTE: Similar kilometre marker designs can be found in Spain.",
+          "note": null
+        },
+        {
+          "id": "1-10",
+          "image": "/images/resize/600/80/andorra/guardrailreflector.png",
+          "text": "Andorra uses yellow reflectors on its guardrails. NOTE: Within Europe, yellow reflectors are only found in Andorra, Spain and Belgium. For a good overview of European guardrails, see this infographic.",
+          "note": null
+        },
+        {
+          "id": "1-11",
+          "image": "/images/resize/600/80/andorra/bollard.png",
+          "text": "The Andorran bollard has an orange reflector and can be occasionally found on the main highways. NOTE: This bollard can also be found in Spain.",
+          "note": null
+        },
+        {
+          "id": "1-12",
+          "image": "/images/resize/600/80/andorra/Untitled_design_2871_29.png",
+          "text": "Yellow and turquoise-green traffic cones are used in the whole country.",
+          "note": null
+        },
+        {
+          "id": "1-13",
+          "image": "/images/resize/600/80/andorra/Pedestrian_sign.png",
+          "text": "Pedestrian signs have 8 stripes. NOTE: Spain is the only other European country that has pedestrian signs with 8 stripes.",
+          "note": null
+        },
+        {
+          "id": "1-14",
+          "image": "/images/resize/600/80/andorra/snowtrekker.png",
+          "text": "Andorra has a lot of Generation 2 snow trekkers, especially on ski resorts. NOTE: Other countries have snow trekkers as well, but Andorra has the highest amount for its size.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Step 2 - Regional and parish-specific clues",
+      "items": [
+        {
+          "id": "2-1",
+          "image": "/images/resize/600/80/andorra/Andorra_La_Vella.png",
+          "text": "Andorra la Vella is a capital city surrounded by high mountains, making it recognisable. NOTE: It is the highest European capital with an altitude of 1023 metres.",
+          "note": null
+        },
+        {
+          "id": "2-2",
+          "image": "/images/resize/600/80/andorra/Caldea_Tower_And_Sky_Wheel.png",
+          "text": "In the capital Andorra la Vella you can often see the Caldea tower and the sky wheel.",
+          "note": null
+        },
+        {
+          "id": "2-3",
+          "image": "/images/resize/600/80/andorra/Pas_De_La_Casa.png",
+          "text": "Pas de la Casa, a touristy city in eastern Andorra, can be easily recognized by the plethora of shops and hotels. As it is located at an altitude of 2080 metres, there are no trees visible on the mountains surrounding it.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Other resources",
+      "items": []
+    }
+  ]
+}

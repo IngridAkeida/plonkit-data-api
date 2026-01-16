@@ -1,0 +1,116 @@
+{
+  "country": "Reunion",
+  "url": "https://www.plonkit.net/reunion",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:17:26.459314+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Identifying Réunion",
+      "items": [
+        {
+          "id": "1-1",
+          "image": "/images/resize/900/80/reunion/0_summary_reunion.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": "/images/resize/600/80/reunion/D_C3_A9partement_974_in_France__28zoom_29.svg.png",
+          "text": "Réunion, officially the Department of Réunion, is an overseas department and region of France, east of Madagascar in the Indian Ocean. As such, for country streaks purposes, it is counted as France.",
+          "note": null
+        },
+        {
+          "id": "1-3",
+          "image": "/images/resize/600/80/reunion/image__281_29.png",
+          "text": "Réunion has a Street View car with visible side mirrors, a roof rack, and black tape at the end of the rear right bar. NOTE: Make sure not to get this confused with the Ghana car, which has tape on the front right bar.",
+          "note": null
+        },
+        {
+          "id": "1-4",
+          "image": "/images/resize/600/80/reunion/image.png",
+          "text": "Being a French Department, you will see French infrastructure, such as signs, bollards and poles.",
+          "note": null
+        },
+        {
+          "id": "1-5",
+          "image": "/images/resize/600/80/reunion/General_Landscape.png",
+          "text": "Réunion is a mountainous volcanic island in the Indian Ocean on a similar latitude to Queensland, Australia. Most roads are along the coast, with lush green mountains visible close by. Vegetation consists of palms and ferns, pine trees at higher elevation, and flowering plants due to the island’s tropical savanna climate.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Step 2 - Regional and arrondissement-specific clues",
+      "items": [
+        {
+          "id": "2-1",
+          "image": "/images/resize/600/80/reunion/Reunion_Car_Coverage_map.jpg",
+          "text": "Only a handful of roads were covered without a trekker. Learning the general regions with coverage will help you get those extra 10 points.",
+          "note": null
+        },
+        {
+          "id": "2-2",
+          "image": "/images/resize/600/80/reunion/Reunion_Bus_Stops.png",
+          "text": "There are six distinct bus stop designs on Réunion: Yellow - This is the most common type and can be found all over the island. It is usually accompanied by another bus stop, meaning you can get a good region guess if you see it on its own. L Shaped - It can either be white, or an olive colour. It may also be in the form of a bus shelter. It is almost never accompanied by a yellow bus stop. Pink - Rarely accompanied by a yellow bus stop. Orange - Almost always accompanied by a yellow bus stop. Green - Almost always accompanied by a yellow bus stop. Red - Rarely accompanied by a yellow bus stop. This infographic shows where each one can be found. The list above is ranked by how common each one is found. You can click on the image to enlarge it.",
+          "note": null
+        },
+        {
+          "id": "2-3",
+          "image": "/images/resize/600/80/reunion/Sugarcane.png",
+          "text": "Sugarcane plantations on Réunion can be found in two regions: the northeast and the southwest. The southwest is generally more built up and densely populated, meaning you will see more buildings or cars around.",
+          "note": null
+        },
+        {
+          "id": "2-4",
+          "image": "/images/resize/600/80/reunion/Cilaos.png",
+          "text": "Cilaos is a town inside a caldera. It can be recognized by the wall of mountains surrounding the town with overcast coverage.",
+          "note": null
+        },
+        {
+          "id": "2-5",
+          "image": "/images/resize/600/80/reunion/Reunion_Blur_Hint.png",
+          "text": "You can spot this rectangular blur on the front camera in all the coverage going north of Saint-Louis.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Step 3 - Spotlight",
+      "items": [
+        {
+          "id": "3-1",
+          "image": "/images/resize/600/80/reunion/Coastal_N1.png",
+          "text": "The northwestern section of the N1 is divided, with a distinct ridge to the southeast and the ocean to the northwest. Note that although a bridge appears on the map, the coverage was taken before the bridge was built, meaning you will not see the bridge.",
+          "note": null
+        },
+        {
+          "id": "3-2",
+          "image": "/images/resize/600/80/reunion/Route_du_Volcan.png",
+          "text": "Route du Volcan can be recognized by the Martian landscape. The only vegetation is scattered shrubs and the soil is a distinct brown-red colour. These white stones lining the road are also a good clue.",
+          "note": null
+        },
+        {
+          "id": "3-3",
+          "image": "/images/resize/600/80/reunion/Rural_Road.png",
+          "text": "La Route Forestière 58 de la Scierie et du Haut des Makes is a winding dirt track that can be recognized by the dense vegetation surrounding it, particularly pine trees and eucalyptus. The track itself is also dark in colour, with grass growing in the middle of it.",
+          "note": null
+        },
+        {
+          "id": "3-4",
+          "image": "/images/resize/600/80/reunion/Eastern_N2.png",
+          "text": "The eastern region of Réunion is the least densely populated, evident by the eastern part of the N2, which is a single carriageway passing through somewhat dense vegetation on both sides, or a vast landscape with little to no trees.",
+          "note": null
+        },
+        {
+          "id": "3-5",
+          "image": "/images/resize/600/80/reunion/City_Bollards.png",
+          "text": "The two largest towns in Réunion can be differentiated by their bollards, commonly seen at intersections. Saint Paul uses black bollards, while Saint Denis uses green bollards, often with white balls on top. Saint Denis is also more built up, being the capital.",
+          "note": null
+        }
+      ]
+    }
+  ]
+}

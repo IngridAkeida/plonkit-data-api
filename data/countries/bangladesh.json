@@ -1,0 +1,301 @@
+{
+  "country": "Bangladesh",
+  "url": "https://www.plonkit.net/bangladesh",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:17:34.512208+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Identifying Bangladesh",
+      "items": [
+        {
+          "id": "1-1",
+          "image": "/images/resize/900/80/bangladesh/0_Shitcam_Summary_Graphic.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": "/images/resize/600/80/bangladesh/Bangladesh_License_Plate.png",
+          "text": "Bangladeshi licence plates are either white, black or turquoise. NOTE: The turquoise plate can only be found in Bangladesh.",
+          "note": null
+        },
+        {
+          "id": "1-3",
+          "image": "/images/resize/600/80/bangladesh/bd_language.png",
+          "text": "The Bengali script features a continuous horizontal line at the top of each word. It has a similar look to Devanagari (Hindi), however it can usually be recognised by the many letters featuring triangular shapes. NOTE: Bengali is an official language in Bangladesh and parts of eastern India.",
+          "note": null
+        },
+        {
+          "id": "1-4",
+          "image": "/images/resize/600/80/bangladesh/Untitled_design_2863_29.png",
+          "text": "In Generation 3 coverage, these three cars can be seen in Bangladesh: the red mirror with bars, classic white and striped white car. NOTE: The classic white car is the only car that is not unique to Bangladesh. Make sure to not mix up the striped white with the Cambodian car, since they look similar.",
+          "note": null
+        },
+        {
+          "id": "1-5",
+          "image": "/images/resize/600/80/bangladesh/gen4cars.png",
+          "text": "In Generation 4 coverage, two Street View cars can be seen in Bangladesh: a black car and a white car.",
+          "note": null
+        },
+        {
+          "id": "1-6",
+          "image": "/images/resize/600/80/bangladesh/1shitcam.png",
+          "text": "Bangladesh, as well as a variety of other countries, has received some poor quality coverage, also known as “Shitcam”. The Shitcam car colours are black and white. NOTE: Sometimes the car colour can be fully obstructed by a big circular blur.",
+          "note": null
+        },
+        {
+          "id": "1-7",
+          "image": "/images/resize/600/80/bangladesh/Rickshaw.png",
+          "text": "Rickshaws are frequently found all around Bangladesh, especially the green auto rickshaws. NOTE: They are found in other Asian countries as well.",
+          "note": null
+        },
+        {
+          "id": "1-8",
+          "image": "/images/resize/600/80/bangladesh/signpost.png",
+          "text": "Signposts in Bangladesh often have black-and-white stripes. NOTE: Within Asia, these posts are also found in Sri Lanka, Bhutan, India and Malaysia. Make sure to check other clues before guessing.",
+          "note": null
+        },
+        {
+          "id": "1-9",
+          "image": "/images/resize/600/80/bangladesh/Untitled_design_2864_29.png",
+          "text": "Bodies of water and agricultural fields can be often seen beside the streets of Bangladesh.",
+          "note": null
+        },
+        {
+          "id": "1-10",
+          "image": "/images/resize/600/80/bangladesh/treealleys.png",
+          "text": "Streets in Bangladesh are often lined by trees, which sometimes have white paint on the bottom of their trunks.",
+          "note": null
+        },
+        {
+          "id": "1-11",
+          "image": "/images/resize/600/80/bangladesh/bollard.png",
+          "text": "Bangladesh uses red-and-white concrete bollards throughout the whole country. NOTE: They can also be found in a square form instead of a circular form.",
+          "note": null
+        },
+        {
+          "id": "1-12",
+          "image": "/images/resize/600/80/bangladesh/Tin_roofs.png",
+          "text": "Tin roofs are commonly found in Bangladesh. NOTE: Due to the humid climate, many countries in South and Southeast Asia use tin roofs.",
+          "note": null
+        },
+        {
+          "id": "1-13",
+          "image": "/images/resize/600/80/bangladesh/smokyfeel.png",
+          "text": "The Generation 4 coverage in Bangladesh will often have a smoky feel to it.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Step 2 - Regional and division-specific clues",
+      "items": [
+        {
+          "id": "2-1",
+          "image": "/images/resize/600/80/bangladesh/western_roof.png",
+          "text": "Bangladesh has several distinct roof styles that create an east/west divide in the country. The west, particularly the divisions of Rajshahi, Khulna and Dhaka, is dominated by hip roofs made of sheet metal. The states of Rangpur and Chittagong tend to have mixed roofs.",
+          "note": null
+        },
+        {
+          "id": "2-2",
+          "image": "/images/resize/600/80/bangladesh/eastern_roof.png",
+          "text": "In the east, you will commonly see sheet metal roofs with a triangular \"window\" just below the ridge of the roof. The state of Sylhet will exclusively have this style, which can also be seen in Chittagong, Mymensingh, eastern Rangpur and northern Dhaka.",
+          "note": null
+        },
+        {
+          "id": "2-3",
+          "image": "/images/resize/600/80/bangladesh/tiled_roof.png",
+          "text": "Tiled roofs are uncommon in Bangladesh, but the ones you do see are of West Bengal origin, and are thus only found on the Indian border in the state of Khulna.",
+          "note": null
+        },
+        {
+          "id": "2-4",
+          "image": "/images/resize/600/80/bangladesh/early_rice.png",
+          "text": "Rice is the main agricultural crop in Bangladesh and is planted twice a year. The different rice seasons can be told apart by the height and colour of the rice and are very useful for regionguessing. Short green rice that is barely sticking out of the water is known as early growth rice. Early growth rice can be seen in the states of Khulna, Mymensingh and south of Padma River in Dhaka. NOTE: Beware that this, and the following tips, are only accurate in Generation 4 coverage.",
+          "note": null
+        },
+        {
+          "id": "2-5",
+          "image": "/images/resize/600/80/bangladesh/mid_growth.png",
+          "text": "Slightly taller rice, in the middle of growing, which still remains green, can be seen in the states of Rangpur, Barishal and Chittagong.",
+          "note": null
+        },
+        {
+          "id": "2-6",
+          "image": "/images/resize/600/80/bangladesh/fully_grown.png",
+          "text": "Fully-grown rice is characterised by being noticeably taller, as well as having a yellow or orange colour and fluffier tips - the fluffiness signifies that the rice is ripe. Fully-grown rice is mostly seen in the state of Rajshahi, but it is also present in Rangpur and Chittagong.",
+          "note": null
+        },
+        {
+          "id": "2-7",
+          "image": "/images/resize/600/80/bangladesh/harvest.png",
+          "text": "Harvested rice can be identified by its beige or brown colour and shorter, cut down appearance. It can be seen alongside fully-grown, unharvested rice as well as freshly planted early growth rice in adjacent fields. This is most commonly seen in the states of Sylhet and southern Khulna.",
+          "note": null
+        },
+        {
+          "id": "2-8",
+          "image": "/images/resize/600/80/bangladesh/off_season.png",
+          "text": "Rice fields require some rest time, so it's natural to come across some off-season barren, empty fields without rice altogether. Off-season fields are mostly seen in the state of Dhaka, north of Padma River.",
+          "note": null
+        },
+        {
+          "id": "2-9",
+          "image": "/images/resize/600/80/bangladesh/empty.png",
+          "text": "Vast rice fields with almost nothing else in view can be seen in the border area between the states of Dhaka, Mymensingh and Sylhet.",
+          "note": null
+        },
+        {
+          "id": "2-10",
+          "image": "/images/resize/600/80/bangladesh/elevation.png",
+          "text": "While most of Bangladesh is almost completely flat, in the eastern parts of Chittagong you may find fairly tall, forested and uncultivated hills.",
+          "note": null
+        },
+        {
+          "id": "2-11",
+          "image": "/images/resize/600/80/bangladesh/sylhet_mountain.png",
+          "text": "A sizable east-west ridge can be seen on the Indian border from the northern parts of Sylhet and eastern Mymensingh. It is often obscured or diminished by heavy haze.",
+          "note": null
+        },
+        {
+          "id": "2-12",
+          "image": "/images/resize/600/80/bangladesh/corn.png",
+          "text": "Corn tends to be planted in the west of Bangladesh - large and medium-sized fields can be found in Rajshahi, Rangpur, western Mymensingh and northern Khulna. Smaller patches of corn can be found in the south of Barishal, usually adjacent to other crops.",
+          "note": null
+        },
+        {
+          "id": "2-13",
+          "image": "/images/resize/600/80/bangladesh/jute.png",
+          "text": "Jute is a tall-growing green crop which gets dried and used in the making of rugs, bags and other goods. Because of when the coverage was taken, jute can almost exclusively be found on Street View in Rangpur. In its dried state it can be found hanging off fences and drying on the roads anywhere in the country.",
+          "note": null
+        },
+        {
+          "id": "2-14",
+          "image": "/images/resize/600/80/bangladesh/rapeseed.png",
+          "text": "Canola is a low-growing crop with yellow flowers that is used to make cooking oil. It is usually planted during the off-season for rice, making it extremely common north of Padma river in the state of Dhaka.",
+          "note": null
+        },
+        {
+          "id": "2-15",
+          "image": "/images/resize/600/80/bangladesh/tea.png",
+          "text": "Tea production in Bangladesh is concentrated in the highlands of southern Sylhet and, rarely, Chittagong.",
+          "note": null
+        },
+        {
+          "id": "2-16",
+          "image": "/images/resize/600/80/bangladesh/fruit_trees.png",
+          "text": "Standalone fruit trees in Bangladesh are most commonly seen in the states of Rajshahi and Rangpur. Fruit orchards with systematically planted trees, however, are concentrated near the Indian border in both states.",
+          "note": null
+        },
+        {
+          "id": "2-17",
+          "image": "/images/resize/600/80/bangladesh/sunflower.png",
+          "text": "Sunflower fields are found in the south of Barishal state.",
+          "note": null
+        },
+        {
+          "id": "2-18",
+          "image": "/images/resize/600/80/bangladesh/watermelon.png",
+          "text": "Fields of watermelons can also be found in the south of Barishal.",
+          "note": null
+        },
+        {
+          "id": "2-19",
+          "image": "/images/resize/600/80/bangladesh/eucalyptus.png",
+          "text": "Eucalyptus trees are tall trees with lush crowns and ivory-coloured trunks. In Bangladesh they are more common in the north, with Rangpur, Rajshahi and Mymensingh being the most likely states.",
+          "note": null
+        },
+        {
+          "id": "2-20",
+          "image": "/images/resize/600/80/bangladesh/Blossoming_trees.png",
+          "text": "Blossoming trees are tied to coverage and seasonal metas in Bangladesh, and are only found in the states where coverage was taken during spring time - Khulna, Mymensingh and southern Dhaka. NOTE: Beware that this is only accurate in Generation 4 coverage.",
+          "note": null
+        },
+        {
+          "id": "2-21",
+          "image": "/images/resize/600/80/bangladesh/coastal_trees.png",
+          "text": "Beach Sheoaks (Casuarina equisetifolia) are thin evergreen trees with thin, long, drooping branchlets. Like the name suggests, they are mostly observed in coastal regions - along the coast of the Teknaf Peninsula and around Noakhali city in Chittagong.",
+          "note": null
+        },
+        {
+          "id": "2-22",
+          "image": "/images/resize/600/80/bangladesh/2022.png",
+          "text": "For legal reasons, Google has added small labels noting their copyright on all Street View coverage. These labels contain a year, typically the year when the coverage was released, which can be used to regionguess Bangladesh. Generation 4 coverage with 2022 written on the copyright labels can be found in Mymensingh, Dhaka and less commonly Chittagong. NOTE: Beware that the copyright labels will rarely get updated to a later year, without any other changes to the coverage.",
+          "note": null
+        },
+        {
+          "id": "2-23",
+          "image": "/images/resize/600/80/bangladesh/2023.png",
+          "text": "Similarly, Generation 4 coverage with 2023 written on the copyright labels can be found in Rangpur, Rajshahi, Khulna, Barishal, Sylhet and less commonly Chittagong. NOTE: 2024 and 2025 now make up around half of all copyright dates. These can be found all over the country.",
+          "note": null
+        },
+        {
+          "id": "2-24",
+          "image": "/images/resize/600/80/bangladesh/shitcam.png",
+          "text": "Shitcam coverage is only found in and around Dhaka.",
+          "note": null
+        },
+        {
+          "id": "2-25",
+          "image": "/images/resize/600/80/bangladesh/gen_3_white.png",
+          "text": "Generation 3 coverage with the white Street View car can be found in Dhaka, Chattogram as well as on the highway connecting them.",
+          "note": null
+        },
+        {
+          "id": "2-26",
+          "image": "/images/resize/600/80/bangladesh/gen_3_striped.png",
+          "text": "Generation 3 coverage with the striped Street View car can be found mostly on yellow roads west of Dhaka.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Step 3 - Spotlight",
+      "items": [
+        {
+          "id": "3-1",
+          "image": "/images/resize/600/80/bangladesh/Sylhet_Guard_Hayfork.png",
+          "text": "In the city of Sylhet there will often be a guard at the side of the car visible, usually holding a hayfork. Note that this only applies to Generation 3 coverage.",
+          "note": null
+        },
+        {
+          "id": "3-2",
+          "image": "/images/resize/600/80/bangladesh/Barishal_Guard.png",
+          "text": "In the city of Barishal there can also be a guard at the side of the car visible, not to be confused with the Sylhet guard. NOTE: The same man can rarely be found elsewhere on trekker coverage.",
+          "note": null
+        },
+        {
+          "id": "3-3",
+          "image": "/images/resize/600/80/bangladesh/Khulna_Trekker.png",
+          "text": "This interesting trekker with a black cover can be found in the city of Khulna.",
+          "note": null
+        },
+        {
+          "id": "3-4",
+          "image": "/images/resize/600/80/bangladesh/Nijhum_Dwip_Trekker.png",
+          "text": "The trekker with red colour in the mirrors is unique to the island of Nijhum Dwip.",
+          "note": null
+        },
+        {
+          "id": "3-5",
+          "image": "/images/resize/600/80/bangladesh/Hatiya_Island_Trekker.png",
+          "text": "A scooter trekker, where mostly the left mirror and some hair is visible, can be found on Hatiya Island.",
+          "note": null
+        },
+        {
+          "id": "3-6",
+          "image": "/images/resize/600/80/bangladesh/Saint_Martins_Island_Trekker.png",
+          "text": "A trekker escorted by a security guard is found on Saint Martin's Island.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Step 4 - Maps and resources",
+      "items": []
+    }
+  ]
+}

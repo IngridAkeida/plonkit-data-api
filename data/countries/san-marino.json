@@ -1,0 +1,92 @@
+{
+  "country": "San Marino",
+  "url": "https://www.plonkit.net/san-marino",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:19:17.660247+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Identifying San Marino",
+      "items": [
+        {
+          "id": "1-1",
+          "image": "/images/resize/900/80/san-marino/0_rsm.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": "/images/resize/600/80/san-marino/San_Marino_Monte_Titano.png",
+          "text": "The 739m-tall Monte Titano dominates the surrounding landscape and is visible from almost every point in the Republic. NOTE: Look for the three towers to safely identify it.",
+          "note": null
+        },
+        {
+          "id": "1-3",
+          "image": "/images/resize/600/80/san-marino/San_Marino_Landscape.png",
+          "text": "The landscape of San Marino largely consists of smooth agricultural hills, with many small winding roads. The vegetation is distinctly Mediterranean, and normally appears quite lush.",
+          "note": null
+        },
+        {
+          "id": "1-4",
+          "image": "/images/resize/600/80/san-marino/San_Marino_License_Plate.png",
+          "text": "Sammarinese licence plates are short, white and have blue lettering on them. NOTE: Other European countries will typically have longer licence plates, often with one or more blue strips.",
+          "note": null
+        },
+        {
+          "id": "1-5",
+          "image": "/images/resize/600/80/san-marino/San_Marino_Italian_infrastructure.png",
+          "text": "Road signs and bollards are generally identical to the ones used in Italy. NOTE: Many road signs give directions to the nearby Italian city of Rimini.",
+          "note": null
+        },
+        {
+          "id": "1-6",
+          "image": "/images/resize/600/80/san-marino/San_Marino_Poles.png",
+          "text": "Just like Italy, most utility poles in San Marino are round and made of concrete. Wooden poles are also found in the country.",
+          "note": null
+        },
+        {
+          "id": "1-7",
+          "image": "/images/resize/600/80/san-marino/San_Marino_Chevron.png",
+          "text": "San Marino is the only country in the world to use yellow chevrons with burgundy red arrows.",
+          "note": null
+        },
+        {
+          "id": "1-8",
+          "image": "/images/resize/600/80/san-marino/San_Marino_Pedestrian_Crossing.png",
+          "text": "These elaborate pedestrian crossings, with painted blue crosswalks and hanging signs, are specific to San Marino.",
+          "note": null
+        },
+        {
+          "id": "1-9",
+          "image": "/images/resize/600/80/san-marino/San_Marino_Trash_Bins.png",
+          "text": "Lime-green bins are particularly common in San Marino. In Generation 4 coverage some of them have been replaced by black bins.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Step 2 - Regional clues",
+      "items": [
+        {
+          "id": "2-1",
+          "image": "/images/resize/600/80/san-marino/San_Marino_divided_road.png",
+          "text": "The Superstrada di San Marino runs from the border village of Dogana to the City of San Marino. It is the only divided road in the country, and the lanes are separated by a metal guardrail.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Step 3 - Spotlight",
+      "items": [
+        {
+          "id": "3-1",
+          "image": "/images/resize/600/80/san-marino/Historic_Centre_Trekker.png",
+          "text": "The historic centre is covered by a Generation 3 trekker camera.",
+          "note": null
+        }
+      ]
+    }
+  ]
+}

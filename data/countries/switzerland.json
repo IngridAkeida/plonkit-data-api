@@ -1,0 +1,283 @@
+{
+  "country": "Switzerland",
+  "url": "https://www.plonkit.net/switzerland",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:19:33.121963+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Identifying Switzerland",
+      "items": [
+        {
+          "id": "1-1",
+          "image": "/images/resize/900/80/switzerland/0_Switzerland_Summary.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": "/images/resize/600/80/switzerland/Lowcam.png",
+          "text": "By far the most important way to recognize Switzerland, is that all car coverage is low-cam. This means that the camera on the Google car is intentionally set up lower than in most other countries. This can be recognized in two ways: The car blur is significantly bigger. Roads look wider and objects around you are seen from a lower angle. Generally, the bigger car blur is the most consistent way to recognize low-cam. NOTE: The only other countries that always have low-cam are Japan and Liechtenstein.",
+          "note": null
+        },
+        {
+          "id": "1-3",
+          "image": "/images/resize/600/80/switzerland/Switzerland_License_Plate.png",
+          "text": "Swiss licence plates differ substantially from other European plates. They are fully white and lack the blue strip found in most other European countries. Front plates are extremely short compared to most in Europe. Rear plates can be either long or tall. In both cases the red country emblem can be seen on the left, while the canton emblem can be seen on the right.",
+          "note": null
+        },
+        {
+          "id": "1-4",
+          "image": "/images/resize/600/80/switzerland/ch_bollard.png",
+          "text": "Swiss bollards are black-and-white with white or grey reflectors. They can be either wedge-shaped or cylindrical with a rounded top. NOTE: Liechtenstein uses almost identical round bollards.",
+          "note": null
+        },
+        {
+          "id": "1-5",
+          "image": "/images/resize/600/80/switzerland/ch_directionsigns.png",
+          "text": "The colour of directional signs indicates which type of road you are on. Main road signs will be blue, while side roads are white. Major place names will frequently appear on blue signs, while smaller places tend to be on white signs. However, you can still find large city names on a white sign.",
+          "note": null
+        },
+        {
+          "id": "1-6",
+          "image": "/images/resize/600/80/switzerland/ch_pedestrian_sign.png",
+          "text": "Swiss pedestrian signs have seven stripes, making it almost unique for Europe. Furthermore, rather than the typical European square shape, the signs appear as tall blue rectangles. NOTE: Liechtenstein uses identical signs.",
+          "note": null
+        },
+        {
+          "id": "1-7",
+          "image": "/images/resize/600/80/switzerland/Screenshot__28505_29.png",
+          "text": "Long dashed yellow road lines are a good clue for Switzerland. NOTE: These road lines are also common in Liechtenstein.",
+          "note": null
+        },
+        {
+          "id": "1-8",
+          "image": "/images/resize/600/80/switzerland/ch_pedestrian_crossing.png",
+          "text": "Pedestrian crossings are typically painted yellow and exclusive to Switzerland and Liechtenstein within Europe.",
+          "note": null
+        },
+        {
+          "id": "1-9",
+          "image": "/images/resize/600/80/switzerland/ch_sign_border.png",
+          "text": "Swiss road signs commonly have a round, grey metal border around them. NOTE: Liechtenstein uses almost identical directional signs. Somewhat similar metal borders are found on some directional signs in Denmark.",
+          "note": null
+        },
+        {
+          "id": "1-10",
+          "image": "/images/resize/600/80/switzerland/ch_townsign.png",
+          "text": "Town entry signs in Switzerland are usually white or blue, with a metal frame around them. NOTE: On the back of these signs you may often find the distance to larger, nearby cities. Furthermore, the abbreviation for the canton can often be seen on the bottom of the sign, especially when the town is situated near a canton border.",
+          "note": null
+        },
+        {
+          "id": "1-11",
+          "image": "/images/resize/600/80/switzerland/ch_chevron.png",
+          "text": "Chevrons are black with a white arrow. You may also rarely find chevrons that are white with a black arrow. NOTE: Austrian chevrons are red and white, or red and yellow.",
+          "note": null
+        },
+        {
+          "id": "1-12",
+          "image": "/images/resize/600/80/switzerland/ch_landscape.png",
+          "text": "While the southern half of Switzerland is extremely mountainous, with long, thin valleys between the mountains, the northern half mostly consists of large farmlands on either flat ground or rolling hills, typically with forested hills in the distance.",
+          "note": null
+        },
+        {
+          "id": "1-13",
+          "image": "/images/resize/600/80/switzerland/ch_houses.png",
+          "text": "Swiss and Alpine architecture in general largely consists of stone buildings painted in light and warm colours, often combined with wooden parts and details. Roofs are typically tiled and of a gable type. It is extremely common for windows to have wooden shutters which open horizontally in two parts.",
+          "note": null
+        },
+        {
+          "id": "1-14",
+          "image": "/images/resize/600/80/switzerland/ch_busstop.png",
+          "text": "These bus stop signs, with thick metal signposts going around them, are unique to Switzerland.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Step 2 - Regional and canton-specific clues",
+      "items": [
+        {
+          "id": "2-1",
+          "image": "/images/resize/600/80/switzerland/ch_languages.png",
+          "text": "Switzerland has four official languages: German, French, Italian and Romansh, which are spoken in the regions shown. Note that some areas, mostly near the region borders, are bilingual. NOTE: Unlike Germany and Austria, Swiss German does not use the letter ß.",
+          "note": null
+        },
+        {
+          "id": "2-2",
+          "image": "/images/resize/600/80/switzerland/ch_speedsigns.png",
+          "text": "The text on the speed limit signs varies depending on the official languages in the region.",
+          "note": null
+        },
+        {
+          "id": "2-3",
+          "image": "/images/resize/600/80/switzerland/ch_cantons.png",
+          "text": "Cantons are the first-level administrative division of Switzerland. It is very common to find the two-letter abbreviation for the canton that you are in, as seen on some town entry signs. As such, remembering these can be a great asset when region-guessing Switzerland. NOTE: If you happen to come across an unblurred licence plate, the first two letters will correspond to the canton that it is registered in.",
+          "note": null
+        },
+        {
+          "id": "2-4",
+          "image": "/images/resize/600/80/switzerland/2_digit_postcode_switzerland.png",
+          "text": "The first digits of Swiss postal codes are a good way to regionguess the country. The general pattern is that the numbers increase from the west to east.",
+          "note": null
+        },
+        {
+          "id": "2-5",
+          "image": "/images/resize/600/80/switzerland/ch_elevation.png",
+          "text": "Elevation is an important part of region-guessing Switzerland. The southern half of Switzerland is extremely mountainous, while the northern half mostly has smaller mountains and hills.",
+          "note": null
+        },
+        {
+          "id": "2-6",
+          "image": "/images/resize/600/80/switzerland/Jura_Mountains_hint.png",
+          "text": "A fairly flat landscape with a long chain of medium-sized, forested mountains northwest means you are likely south of the Jura Mountains.",
+          "note": null
+        },
+        {
+          "id": "2-7",
+          "image": "/images/resize/600/80/switzerland/ch_juralimestone.png",
+          "text": "Exposed limestone rocks, protruding from forested hills, are commonly found in the Jura mountains.",
+          "note": null
+        },
+        {
+          "id": "2-8",
+          "image": "/images/resize/600/80/switzerland/ch_rockwalls.png",
+          "text": "Rock walls are mainly found in the Jura mountains, but can also be found in the Alps, particularly in the Italian speaking parts.",
+          "note": null
+        },
+        {
+          "id": "2-9",
+          "image": "/images/resize/600/80/switzerland/ch_italyhouses.png",
+          "text": "Not unexpectedly, seeing typical Italian architecture in Switzerland should imply that you are in the Italian-speaking areas in the south, principally the canton of Ticino. The architectural style is characterized by, typically very smooth, orange-yellow stone walls with multiple floors and orange or brownish tiled roofs. Green and brown Italian-style window shutters are common.",
+          "note": null
+        },
+        {
+          "id": "2-10",
+          "image": "/images/resize/600/80/switzerland/ch_architecturebern.png",
+          "text": "Large houses with thick roofs, which are shaped like an arch underneath, are common around Bern.",
+          "note": null
+        },
+        {
+          "id": "2-11",
+          "image": "/images/resize/600/80/switzerland/ch_timberframes.png",
+          "text": "Elaborate timber frames, which are commonly painted red, are found in the northeast. NOTE: Simpler timber frames in other colours can be found in other parts of the country.",
+          "note": null
+        },
+        {
+          "id": "2-12",
+          "image": "/images/resize/600/80/switzerland/ch_appenzellarchitecture.png",
+          "text": "Around Appenzell, most houses will consist of a large living house connected to a long barn, such that the roof of the living house and the barn are at a 90° angle. The front facade of the living house will often be divided into small squares, with each window being perfectly contained within a square.",
+          "note": null
+        },
+        {
+          "id": "2-13",
+          "image": "/images/resize/600/80/switzerland/ch_graubundenarchitecture.png",
+          "text": "In the canton of Graubünden, you will often come across houses entirely made of stone, with, most commonly white, decorative painted details around windows and the edges of the house.",
+          "note": null
+        },
+        {
+          "id": "2-14",
+          "image": "/images/resize/600/80/switzerland/ch_vaudtownsign.png",
+          "text": "These large town entry signs can sometimes be found in the canton of Vaud.",
+          "note": null
+        },
+        {
+          "id": "2-15",
+          "image": "/images/resize/600/80/switzerland/ch_baselolivegreen.png",
+          "text": "Olive green infrastructure, particularly signposts, sign borders and sign backs, are found in Basel-Landschaft.",
+          "note": null
+        },
+        {
+          "id": "2-16",
+          "image": "/images/resize/600/80/switzerland/ch_thickwoodenbollard.png",
+          "text": "In the canton of Valais, you will often see thick wooden bollards, which can either be square-shaped or cylindrical.",
+          "note": null
+        },
+        {
+          "id": "2-17",
+          "image": "/images/resize/600/80/switzerland/ch_fencereflectors.png",
+          "text": "In place of bollards, reflectors in the canton of Glarus will often be attached to fences following the road.",
+          "note": null
+        },
+        {
+          "id": "2-18",
+          "image": "/images/resize/600/80/switzerland/ch_genevabikesymbol.png",
+          "text": "In Geneva and in the valley between Martigny and Lake Geneva, you can find bike path symbols painted on the road with a simplified person on top of two disconnected wheels. NOTE: This stands in contrast to the rest of the country, where the symbol will be a somewhat detailed bike.",
+          "note": null
+        },
+        {
+          "id": "2-19",
+          "image": "/images/resize/600/80/switzerland/Reflectors_wide.png",
+          "text": "You may find several different types of road dividers across the country, distributed as seen in this graphic. This image was provided by quarksauce. You can click on the image to enlarge it.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Step 3 - Spotlight",
+      "items": [
+        {
+          "id": "3-1",
+          "image": "/images/resize/600/80/switzerland/ch_lakegeneva.png",
+          "text": "If the area around your location appears hilly, but not mountainous, and you manage to catch a glimpse of a large lake to the south, with tall mountains on the other side, then you are very likely north of Lake Geneva.",
+          "note": null
+        },
+        {
+          "id": "3-2",
+          "image": "/images/resize/600/80/switzerland/ch_bodensee.png",
+          "text": "Seeing a wide lake to the northeast, situated in a landscape with relatively low elevation, means you should be looking at Lake Constance (on some Maps labelled as the Bodensee). NOTE: Due to the low-lying landscape, you will probably be fairly close to the shore if you see the lake.",
+          "note": null
+        },
+        {
+          "id": "3-3",
+          "image": "/images/resize/600/80/switzerland/ch_martignyfruits1.png",
+          "text": "The valley of Martigny has the highest density of fruit plantations in the country. It can easily be recognized by the many small fruit trees in combination with the wide, flat valley with large mountains on either side.",
+          "note": null
+        },
+        {
+          "id": "3-4",
+          "image": "/images/resize/600/80/switzerland/ch_fruittrees.png",
+          "text": "Apart from the valley of Martigny, the most likely area to find fruit trees is near Lake Constance, followed by the area northwest of Lake Geneva.",
+          "note": null
+        },
+        {
+          "id": "3-5",
+          "image": "/images/resize/600/80/switzerland/ch_traintrekker_copy.png",
+          "text": "In the canton of Graubünden, you can find this unique and easily recognizable train coverage on the tracks of the “Bernina Express.” It runs around most of the canton, all the way down to Tirano in Italy.",
+          "note": null
+        },
+        {
+          "id": "3-6",
+          "image": "/images/resize/600/80/switzerland/ch_gen2.png",
+          "text": "Generation 2 coverage is very limited in Switzerland. It can be found mostly near the border between the cantons of Bern and Valais, and on a few very short stretches in Schaffhausen. NOTE: This does not include the many ski resorts with Generation 2 snow coverage, which can be found throughout the southern half of the country.",
+          "note": null
+        },
+        {
+          "id": "3-7",
+          "image": "/images/resize/600/80/switzerland/ch_stgallen_streetsign.png",
+          "text": "These blue street signs, with rounded edges on the sides, are unique to the city of Sankt Gallen.",
+          "note": null
+        },
+        {
+          "id": "3-8",
+          "image": "/images/resize/600/80/switzerland/ch_baselstreetsigns.png",
+          "text": "Large blue street signs, attached to a low double signpost, similar to directional signs in Denmark, are found in Basel.",
+          "note": null
+        },
+        {
+          "id": "3-9",
+          "image": "/images/resize/600/80/switzerland/ch_bern.png",
+          "text": "Downtown Bern can be recognized by this specific architecture. Grey toned buildings, typically with four floors and large, somewhat rounded openings lined up on the ground floor are common.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Step 4 - Maps and resources",
+      "items": []
+    }
+  ]
+}

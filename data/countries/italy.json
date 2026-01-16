@@ -1,0 +1,367 @@
+{
+  "country": "Italy",
+  "url": "https://www.plonkit.net/italy",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:18:51.236110+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Identifying Italy",
+      "items": [
+        {
+          "id": "1-1",
+          "image": "/images/resize/900/80/italy/transparent-it_summary_2026.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": "/images/resize/600/80/italy/it_licenceplate.png",
+          "text": "Contrary to most European licence plates, Italian plates have blue strips on either side of the plate. Furthermore, the front plate is distinctly shorter than most European plates, which in combination with the two strips, makes it unique. NOTE: Albanian licence plates also have two blue strips, and French licence plates have a smaller strip on the right. However, neither Albanian nor French front plates are short.",
+          "note": null
+        },
+        {
+          "id": "1-3",
+          "image": "/images/resize/600/80/italy/it_bollard.png",
+          "text": "Italian bollards are triangular in shape, and white with a black top. They have a red front and a white rear reflector. NOTE: Albania uses the same bollards.",
+          "note": null
+        },
+        {
+          "id": "1-4",
+          "image": "/images/resize/600/80/italy/it_roadlines.png",
+          "text": "One of the most common types of Italian road lines are white solid outer lines with no middle line. This is generally less common in other Mediterranean countries.",
+          "note": null
+        },
+        {
+          "id": "1-5",
+          "image": "/images/resize/600/80/italy/it_language.png",
+          "text": "Italian is the most spoken language in Italy. It uses many double consonants, and typically has a very large number of i’s. You can also find ì, é and à. Most words will end with a vowel. NOTE: The Italian word for street is ‘via’, and can be found on most street signs.",
+          "note": null
+        },
+        {
+          "id": "1-6",
+          "image": "/images/resize/600/80/italy/it_landscape.png",
+          "text": "Italy has a Mediterranean landscape with a lot of agricultural fields on rolling hills, and forested mountain valleys.",
+          "note": null
+        },
+        {
+          "id": "1-7",
+          "image": "/images/resize/600/80/italy/it_architecture.png",
+          "text": "Italian architecture mainly consists of pastel coloured stone houses, generally with terracotta roofs. Houses will very commonly have wooden shutters, which will typically be divided in two and open sideways.",
+          "note": null
+        },
+        {
+          "id": "1-8",
+          "image": "/images/resize/600/80/italy/it_concretepole.png",
+          "text": "Unlike most Mediterranean countries, Italy features a lot of round concrete poles.",
+          "note": null
+        },
+        {
+          "id": "1-9",
+          "image": "/images/resize/600/80/italy/it_whitepolesticker.png",
+          "text": "Wooden poles in Italy will commonly feature a small white pole sticker.",
+          "note": null
+        },
+        {
+          "id": "1-10",
+          "image": "/images/resize/600/80/italy/it_poletop.png",
+          "text": "The most common pole tops in Italy are concrete trident pole tops. There are several possible configurations of insulators.The two shown in the image are the most common ones.",
+          "note": null
+        },
+        {
+          "id": "1-11",
+          "image": "/images/resize/600/80/italy/it_doubleguardrail.png",
+          "text": "It is very common to find double guardrails in Italy.",
+          "note": null
+        },
+        {
+          "id": "1-12",
+          "image": "/images/resize/600/80/italy/it_redreflector.png",
+          "text": "Italian guardrails feature red front reflectors. NOTE: This is most useful to distinguish Italy from Spain, which uses yellow reflectors. For a good overview of European guardrails, see this infographic.",
+          "note": null
+        },
+        {
+          "id": "1-13",
+          "image": "/images/resize/600/80/italy/Italy_Guardrail_Ending.png",
+          "text": "Italian guardrails commonly end in this distinct shape. The guardrail gets flatter, wider, and it bends away from the road.",
+          "note": null
+        },
+        {
+          "id": "1-14",
+          "image": "/images/resize/600/80/italy/it_blacksignback.png",
+          "text": "It is very common for the back of Italian road signs to be black, or dark grey.",
+          "note": null
+        },
+        {
+          "id": "1-15",
+          "image": "/images/resize/600/80/italy/it_directionalsign.png",
+          "text": "Directional signs are blue with a white arrow. All letters on these signs will be capitalised.",
+          "note": null
+        },
+        {
+          "id": "1-16",
+          "image": "/images/resize/600/80/italy/Italy_Highway_Signs.png",
+          "text": "Directional signs in national roads (Strada Statale) are blue with a white and blue border. Divided highways (Autostrade) have green signs with a white and green border.",
+          "note": null
+        },
+        {
+          "id": "1-17",
+          "image": "/images/resize/600/80/italy/it_kmmarker.png",
+          "text": "Italian kilometre markers are white squares with a roman numeral on top and an arabic numeral on the bottom. The arabic numeral gives you the number of kilometres and the roman numeral gives you the number of hundred metres from the start of the road.",
+          "note": null
+        },
+        {
+          "id": "1-18",
+          "image": "/images/resize/600/80/italy/it_roadnumbers.png",
+          "text": "Italian road numbers will normally begin with the letters “SS”, “SR” or “SP”. The second letter can be used to identify the type of road. \"S\" when it is a State road, so the number is unique within the country. \"R\" when it is a Regional road, so the number is unique to the region. \"P\" when it is a Provincial road, so the number is unique to the province.",
+          "note": null
+        },
+        {
+          "id": "1-19",
+          "image": "/images/resize/600/80/italy/it_chevron.png",
+          "text": "Italian chevrons are white arrows on a black background. NOTE: In Southern Europe, white on black chevrons can also be found in Spain, Greece and Albania.",
+          "note": null
+        },
+        {
+          "id": "1-20",
+          "image": "/images/resize/600/80/italy/it_streetsign.png",
+          "text": "Street signs are typically white with a thin blue border and black text.",
+          "note": null
+        },
+        {
+          "id": "1-21",
+          "image": "/images/resize/600/80/italy/it_pedestriansign.png",
+          "text": "Italian pedestrian signs have five stripes and a basic person without a belt.",
+          "note": null
+        },
+        {
+          "id": "1-22",
+          "image": "/images/resize/600/80/italy/it_passocarrabile.png",
+          "text": "These signs, featuring a “no parking”-sign with the text “passo carrabile” are commonly found in urban areas. At the top of these signs you will typically find the municipality (comune) name.",
+          "note": null
+        },
+        {
+          "id": "1-23",
+          "image": "/images/resize/600/80/italy/europe_smallcam.png",
+          "text": "Italy has Generation 4 “smallcam” coverage, which is mounted lower than regular Generation 4 and has a relatively big circular blur with a small protrusion at the front. The blur can also be fully transparent, making it harder to spot.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Step 2 - Regional clues",
+      "items": [
+        {
+          "id": "2-1",
+          "image": "/images/resize/600/80/italy/it_phonecodes.png",
+          "text": "Italian area codes follow a pattern where the first digit generally increases to the east, then south.",
+          "note": null
+        },
+        {
+          "id": "2-2",
+          "image": "/images/resize/600/80/italy/it_regionalflags.png",
+          "text": "Each Italian region has its own unique flag.",
+          "note": null
+        },
+        {
+          "id": "2-3",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "2-4",
+          "image": "/images/resize/600/80/italy/it_german.png",
+          "text": "The region of South Tyrol has a German majority, and as such uses German bilingual signs.",
+          "note": null
+        },
+        {
+          "id": "2-5",
+          "image": "/images/resize/600/80/italy/it_aostafrench.png",
+          "text": "French can be seen on signs in the Aosta Valley. Most notably, street signs often use both the Italian word “via” and the French word “rue”.",
+          "note": null
+        },
+        {
+          "id": "2-6",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "2-7",
+          "image": "/images/resize/600/80/italy/it_povalley.png",
+          "text": "The Padan Plain (commonly referred to as Po Valley) can typically be recognized by its complete flatness. The plain has some of the worst air quality in Europe, which has led to much of the coverage having a noticeable haze.",
+          "note": null
+        },
+        {
+          "id": "2-8",
+          "image": "/images/resize/600/80/italy/it_bari.png",
+          "text": "The landscape on the southeastern peninsula surrounding Bari has many olive plantations, which are often seen together with bright rock walls. The dirt in the region typically has a noticeably red colour. Beware that a similar landscape can also be found in southeastern Sicily.",
+          "note": null
+        },
+        {
+          "id": "2-9",
+          "image": "/images/resize/600/80/italy/it_alps.png",
+          "text": "The alpine region in northern Italy has tall, wide mountain ranges and deep valleys.",
+          "note": null
+        },
+        {
+          "id": "2-10",
+          "image": "/images/resize/600/80/italy/it_sicilylandscape.png",
+          "text": "The Sicilian landscape is characterised by an arid, hilly agricultural landscape, often combined with rocky mountains.",
+          "note": null
+        },
+        {
+          "id": "2-11",
+          "image": "/images/resize/600/80/italy/it_sardiniarocks.png",
+          "text": "Grey rocks sticking up from the ground are commonly found on Sardinia, particularly in the northeast. NOTE: A similar phenomenon can be seen on Sicily, however the landscape will typically be much drier than Sardinia.",
+          "note": null
+        },
+        {
+          "id": "2-12",
+          "image": "/images/resize/600/80/italy/it_cacti.png",
+          "text": "Cacti in Italy are most common in the south, particularly in Sicily, southern Sardinia and the south of Apulia.",
+          "note": null
+        },
+        {
+          "id": "2-13",
+          "image": "/images/resize/600/80/italy/it_citrus.png",
+          "text": "Citrus plantations are primarily found on eastern Sicily and the southern tip of Calabria.",
+          "note": null
+        },
+        {
+          "id": "2-14",
+          "image": "/images/resize/600/80/italy/it_rice.png",
+          "text": "Rice is mainly produced in the western and central parts of Po valley, and less commonly in Sardinia.",
+          "note": null
+        },
+        {
+          "id": "2-15",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "2-16",
+          "image": "/images/resize/600/80/italy/it_tuscanyarchitecture.png",
+          "text": "A lot of buildings in and around Tuscany are made of irregular unpainted brown-grey bricks. NOTE: A similar style of architecture can be found in northeastern Spain.",
+          "note": null
+        },
+        {
+          "id": "2-17",
+          "image": "/images/resize/600/80/italy/it_alpinehouses.png",
+          "text": "Alpine architecture, which typically features large buildings with white stone walls and wooden details, are found in the Alpine region.",
+          "note": null
+        },
+        {
+          "id": "2-18",
+          "image": "/images/resize/600/80/italy/it_aostaarchitecture.png",
+          "text": "Buildings in Aosta Valley are often built with grey uneven bricks, with an Alpine look. NOTE: This can look superficially similar to Andorran architecture.",
+          "note": null
+        },
+        {
+          "id": "2-19",
+          "image": "/images/resize/600/80/italy/it_venetoshutters.png",
+          "text": "Solid wooden shutters with black metal hinges is a common feature in the northeast of Italy, particularly in Veneto.",
+          "note": null
+        },
+        {
+          "id": "2-20",
+          "image": "/images/resize/600/80/italy/it_southflatroofs.png",
+          "text": "Houses in the Apulian region are generally very light coloured, and have flat roofs, typically with two to three floors. The architecture is sometimes reminiscent of the Middle East.",
+          "note": null
+        },
+        {
+          "id": "2-21",
+          "image": "/images/resize/600/80/italy/it_trullo.png",
+          "text": "This particular style of roof, called a trullo, is unique to the Itria valley in southeastern Italy. It is particularly common in and around the town of Alberobello.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Step 3 - Spotlight",
+      "items": [
+        {
+          "id": "3-1",
+          "image": "/images/resize/600/80/italy/it_slovene.png",
+          "text": "Close to the Slovenian border you can find Slovene bilingual signs.",
+          "note": null
+        },
+        {
+          "id": "3-2",
+          "image": "/images/resize/600/80/italy/it_exclave.png",
+          "text": "The Campione d'Italia exclave in Switzerland can be recognized by its low camera, having a long antenna and a flag. There is also a body of water to the west. NOTE: This antenna can also be found in several areas in Switzerland.",
+          "note": null
+        },
+        {
+          "id": "3-3",
+          "image": "/images/resize/600/80/italy/it_etna.png",
+          "text": "Etna, the tallest volcano in Europe, can be seen rising above the landscape from far away in eastern Sicily.",
+          "note": null
+        },
+        {
+          "id": "3-4",
+          "image": "/images/resize/600/80/italy/it_vesuvio.png",
+          "text": "The volcano of Vesuvius can often be seen to the south or east from the plains around Naples.",
+          "note": null
+        },
+        {
+          "id": "3-5",
+          "image": "/images/resize/600/80/italy/it_venice.png",
+          "text": "Venice can typically be recognized by its many canals running through most of the city.",
+          "note": null
+        },
+        {
+          "id": "3-6",
+          "image": "/images/resize/600/80/italy/it_planadelfucino.png",
+          "text": "Plana del Fùcino is a small plain surrounded by mountains in the middle of Italy with a grid of roads going completely north-to-south.",
+          "note": null
+        },
+        {
+          "id": "3-7",
+          "image": "/images/resize/600/80/italy/it_pantelleria.png",
+          "text": "The island of Pantelleria is a volcanic island southwest of Sicily. Dark volcanic rocks can be seen in the many rock walls of the island, as well as on some houses. It is fairly common to see yellow lichen covering the rocks. The island also has a very large amount of cacti.",
+          "note": null
+        },
+        {
+          "id": "3-8",
+          "image": "/images/resize/600/80/italy/it_aeolianislands.png",
+          "text": "The Aeolian islands are a volcanic archipelago north of Sicily. Here you will find a mix of volcanic soil and rocks with mediterranean vegetation, like stone pines or olive trees. Like in Sicily, cacti are fairly common. In the mountains of the islands it is very common to see touristic white villas.",
+          "note": null
+        },
+        {
+          "id": "3-9",
+          "image": "/images/resize/600/80/italy/it_salina.png",
+          "text": "Within the Aeolian islands, Salina can easily be distinguished from the twin volcanoes forming a valley across the island.",
+          "note": null
+        },
+        {
+          "id": "3-10",
+          "image": "/images/resize/600/80/italy/it_vulcano.png",
+          "text": "Vulcano is perhaps the most easily recognisable of the Aeolian islands, with its volcano having an almost white stripe of dirt following the top of the mountainside. It can typically be spotted from afar on the island.",
+          "note": null
+        },
+        {
+          "id": "3-11",
+          "image": "/images/resize/600/80/italy/it_favignana.png",
+          "text": "The island of Favignana has a distinct topography, with mountains running north to south splitting the island in two. On both sides of the island you will find flat areas, with many rock walls similar to those found in Bari. Unlike the other islands near Sicily, Favignana is not volcanic.",
+          "note": null
+        },
+        {
+          "id": "3-12",
+          "image": "/images/resize/600/80/italy/it_sandomino.png",
+          "text": "The island of San Domino only has overcast Generation 2 coverage, which mostly looks quite gloomy.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Step 4 - Maps and resources",
+      "items": []
+    }
+  ]
+}

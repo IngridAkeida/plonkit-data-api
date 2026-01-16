@@ -1,0 +1,266 @@
+{
+  "country": "Austria",
+  "url": "https://www.plonkit.net/austria",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:18:22.819504+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Identifying Austria",
+      "items": [
+        {
+          "id": "1-1",
+          "image": "/images/resize/900/80/austria/transparent-at_summary_2026.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": "/images/resize/600/80/austria/Plates.png",
+          "text": "Austria has long, white licence plates with the standard blue EU strip on the left. NOTE: Italian plates have two blue strips, on both sides of the plate. Italian plates also tend to be noticeably shorter. Swiss plates are long and white, but lack the blue strip.",
+          "note": null
+        },
+        {
+          "id": "1-3",
+          "image": "/images/resize/600/80/austria/Austria_or_Slovenia.png",
+          "text": "Austria uses white bollards, with a black top. The colour of the reflector is (dark) red or dark grey. Many bollards also feature a small nipple-shaped black cap on the top. Bollards sometimes have a snow pole on top. NOTE: Slovenia and Montenegro use the same bollards, but with bright red reflectors instead of grey or dark red. Germany uses simple white bollards with grey reflectors.",
+          "note": null
+        },
+        {
+          "id": "1-4",
+          "image": "/images/resize/600/80/austria/Chevrons.png",
+          "text": "Austria uses two colour schemes for chevrons: white on red red on yellow NOTE: Germany mostly uses red on white chevrons, and rarely red on yellow.",
+          "note": null
+        },
+        {
+          "id": "1-5",
+          "image": "/images/resize/600/80/austria/Wooden_poles.png",
+          "text": "Round wooden poles are the most common type of pole found in Austria.",
+          "note": null
+        },
+        {
+          "id": "1-6",
+          "image": "/images/resize/600/80/austria/Landscape.png",
+          "text": "Most of Austria is mountainous and covered in forests. However, some areas in the east and northeast are much more flat and agricultural.",
+          "note": null
+        },
+        {
+          "id": "1-7",
+          "image": "/images/resize/600/80/austria/Alpine_architecture.png",
+          "text": "Alpine architecture is common in Austria and other countries in the Alps. Houses commonly have distinct light coloured walls, with wooden elements such as balconies or panelling around the top floor, with dark-coloured wooden roofs that extend outward. The roofs can sometimes be angled downward at the front and back. In addition, houses are also often multi-storeyed. NOTE: Germany uses similar architecture in its southern states.",
+          "note": null
+        },
+        {
+          "id": "1-8",
+          "image": "/images/resize/600/80/austria/at_language.png",
+          "text": "The official language of Austria is German. The German language uses the special letters Ä, Ö, Ü and ß. NOTE: The other majority German-speaking countries with coverage are Switzerland and Germany. In addition, German is spoken in East Belgium and the Italian province of South Tyrol.",
+          "note": null
+        },
+        {
+          "id": "1-9",
+          "image": "/images/resize/600/80/austria/Camera_meta.png",
+          "text": "You can tell the three German-speaking countries apart by camera meta alone: Austria only has Generation 3 and Generation 4 coverage (the only exceptions being Generation 2 on one road in Burgenland, and several ski resort trekkers). Germany only has Generation 4 coverage. (the only exceptions being spills and trekkers) Switzerland car coverage is always low-cam. This can be recognized by the much bigger car blur.",
+          "note": null
+        },
+        {
+          "id": "1-10",
+          "image": "/images/resize/600/80/austria/europe_smallcam.png",
+          "text": "Austria also has generation 4 “smallcam” coverage, which is mounted lower than regular generation 4 and has a relatively big circular blur with a small protrusion at the front. The blur can also be fully transparent, making it harder to spot. NOTE: Most of Western Europe also has smallcam.",
+          "note": null
+        },
+        {
+          "id": "1-11",
+          "image": "/images/resize/600/80/austria/Direction_signs.png",
+          "text": "Direction signs have a white background, a blue outline, and a unique font.",
+          "note": null
+        },
+        {
+          "id": "1-12",
+          "image": "/images/resize/600/80/austria/Town_entrance_sign.png",
+          "text": "Similar white signs with a blue outline and unique font can also be seen at the entrance of towns. NOTE: Germany uses yellow town entrance signs with a black outline.",
+          "note": null
+        },
+        {
+          "id": "1-13",
+          "image": "/images/resize/600/80/austria/Green_signs.png",
+          "text": "Green signs can commonly be seen, giving directions to different local facilities.",
+          "note": null
+        },
+        {
+          "id": "1-14",
+          "image": "/images/resize/600/80/austria/Pedestrian_sign.png",
+          "text": "Pedestrian signs have a unique design: instead of zebra stripes, they have two horizontal dashed lines. NOTE: All neighbouring countries have pedestrian signs with zebra stripes.",
+          "note": null
+        },
+        {
+          "id": "1-15",
+          "image": "/images/resize/600/80/austria/cEvVaTa.png",
+          "text": "Road signs in Austria are sometimes mounted by four metal clips, which is unique within central Europe. However, plenty of Austrian signs are attached in other ways.",
+          "note": null
+        },
+        {
+          "id": "1-16",
+          "image": "/images/resize/600/80/austria/Road_marker.png",
+          "text": "Road markers are blue with white numbers. They have one decimal separated by a comma, making them very recognizable. NOTE: Slovenian road markers are white. And German markers have a thin white outline.",
+          "note": null
+        },
+        {
+          "id": "1-17",
+          "image": "/images/resize/600/80/austria/Bus_stop_signs.png",
+          "text": "Austrian bus stop signs contain a yellow and green circle with the letter H. NOTE: This design is relatively unique in Europe. The only other country with similar bus stop signs is Germany.",
+          "note": null
+        },
+        {
+          "id": "1-18",
+          "image": "/images/resize/600/80/austria/Einbahn.png",
+          "text": "These one-way traffic signs, with the word ‘EINBAHN’ written on them, are unique to Austria. NOTE: In Germany there will be “Einbahnstraße” written on the sign.",
+          "note": null
+        },
+        {
+          "id": "1-19",
+          "image": "/images/resize/600/80/austria/at_anfangende.png",
+          "text": "“No Stopping” and “No Waiting” signs in Austria will often have the words “Anfang” or “Ende” (meaning “beginning” and “end”) written on, or below, them.",
+          "note": null
+        },
+        {
+          "id": "1-20",
+          "image": "/images/resize/600/80/austria/at_deadendsign.png",
+          "text": "These simple dead-end signs with a white upside down T are unique to Austria.",
+          "note": null
+        },
+        {
+          "id": "1-21",
+          "image": "/images/resize/600/80/austria/Yellow_gas_poles.png",
+          "text": "These yellow natural gas poles, which resemble snow poles, are unique to Austria.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Step 2 - Regional and state-specific clues",
+      "items": [
+        {
+          "id": "2-1",
+          "image": "/images/resize/600/80/austria/Elevation_map.png",
+          "text": "Elevation is very important when region-guessing Austria based on landscape alone. The central and western parts of Austria are the most mountainous. The flatter areas are found in the east, mostly near the borders. Note that “flat” is a relative concept in Austria: even in the flat areas, rolling hills are still common.",
+          "note": null
+        },
+        {
+          "id": "2-2",
+          "image": "/images/resize/600/80/austria/Autobahn_darkmode.png",
+          "text": "A map of Austrian A-roads can be seen here, following the general trend of increasing in number from east to west. You can click the image to enlarge it.",
+          "note": null
+        },
+        {
+          "id": "2-3",
+          "image": "/images/resize/600/80/austria/B_roads.png",
+          "text": "Austrian B-roads, indicated by white text inside of a blue rectangle, also follow the general trend of increasing in number from east to west. An important exception to this are roads 222-230, which are located inside the state of Vienna. You can click the image to enlarge it.",
+          "note": null
+        },
+        {
+          "id": "2-4",
+          "image": "/images/resize/600/80/austria/State_flags.png",
+          "text": "Each Austrian state has its own unique flag, shown in the image. You can click the image to enlarge it.",
+          "note": null
+        },
+        {
+          "id": "2-5",
+          "image": "/images/resize/600/80/austria/Bus_companies.png",
+          "text": "Each Austrian state has its own unique bus company, the logo of which can be seen on the side of buses. You can click the image to enlarge it.",
+          "note": null
+        },
+        {
+          "id": "2-6",
+          "image": "/images/resize/600/80/austria/at_vorarlbergbusstop.png",
+          "text": "Bus stops consisting of neon-yellow poles are found in Vorarlberg.",
+          "note": null
+        },
+        {
+          "id": "2-7",
+          "image": "/images/resize/600/80/austria/at_vorarlbergsticker.png",
+          "text": "These yellow and white stripes around poles and signposts are found in Vorarlberg.",
+          "note": null
+        },
+        {
+          "id": "2-8",
+          "image": "/images/resize/600/80/austria/at_vorarlbergwhitekmmarker.png",
+          "text": "White kilometre markers can be found in Vorarlberg as well as on a road in western Salzburg.",
+          "note": null
+        },
+        {
+          "id": "2-9",
+          "image": "/images/resize/600/80/austria/at_salzburgkmline.png",
+          "text": "A large white painted square in the middle of the road can be found next to kilometre markers in Salzburg.",
+          "note": null
+        },
+        {
+          "id": "2-10",
+          "image": "/images/resize/600/80/austria/at_burgenlandguterwegsign.png",
+          "text": "Green “Güterweg” signs are found in Burgenland.",
+          "note": null
+        },
+        {
+          "id": "2-11",
+          "image": "/images/resize/600/80/austria/at_upperaustriaguterwegsign.png",
+          "text": "White “Güterweg” signs with a black outline are mainly found in Upper Austria.",
+          "note": null
+        },
+        {
+          "id": "2-12",
+          "image": "/images/resize/600/80/austria/at_loweraustriasignborder.png",
+          "text": "In Lower Austria, you may find signs with yellow and blue sign borders, corresponding to the flag of the region.",
+          "note": null
+        },
+        {
+          "id": "2-13",
+          "image": "/images/resize/600/80/austria/Wine_production.png",
+          "text": "Vineyards are limited to the far eastern part of the country. You can find a very precise map here. Notably, there are a lot of vineyards close to Vienna and around Lake Neusiedl.",
+          "note": null
+        },
+        {
+          "id": "2-14",
+          "image": "/images/resize/600/80/austria/Highest_mountains.png",
+          "text": "The highest parts of the Alps are found in the west and central parts of the country. The tallest mountains are found in the panhandle of Austria, on the Italian border. These mountains can be recognized by their generally sharper peak and grander appearance.",
+          "note": null
+        },
+        {
+          "id": "2-15",
+          "image": "/images/resize/600/80/austria/Conspiracy_Theorist_Driver.png",
+          "text": "This unique tin foil antenna can be found in western Austria, mostly near the Swiss border. NOTE: This antenna is unique to Austria.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Step 3 - Spotlight",
+      "items": [
+        {
+          "id": "3-1",
+          "image": "/images/resize/600/80/austria/Vienna_street_signs.png",
+          "text": "Vienna street signs are extremely recognizable dark blue plaques with a traditional-looking white serif font. The number at the start will indicate which district you are in (see the map). You can click the image to enlarge it.",
+          "note": null
+        },
+        {
+          "id": "3-2",
+          "image": "/images/resize/600/80/austria/City_specific_street_signs.png",
+          "text": "Most other major cities in Austria also have their own unique street signs. NOTE: Many of the arbitrary blue ones can look similar, but the 4 listed in the graphic can be differentiated by: Vienna - District Number Salzburg - Unique Font Klagenfurt - Irregular White Border St Polten - Rounded White Border You can click the image to enlarge it.",
+          "note": null
+        },
+        {
+          "id": "3-3",
+          "image": "/images/resize/600/80/austria/at_wieninnsbruck_strips.png",
+          "text": "Poles in Vienna and Innsbruck feature these red-and-white pieces of tape that look like the Austrian flag. They can be differentiated by the fact that the tapes in Vienna are thinner, and there are typically two on each pole.",
+          "note": null
+        },
+        {
+          "id": "3-4",
+          "image": "/images/resize/600/80/austria/big_wateh.png",
+          "text": "Lake Constance (known in German as the Bodensee) is a large lake on the western border of Austria. It can be recognized by its vastness, which is not seen in other lakes within the mountainous part of the country.",
+          "note": null
+        }
+      ]
+    }
+  ]
+}

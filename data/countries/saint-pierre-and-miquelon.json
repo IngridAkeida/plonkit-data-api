@@ -1,0 +1,104 @@
+{
+  "country": "Saint Pierre and Miquelon",
+  "url": "https://www.plonkit.net/saint-pierre-and-miquelon",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:19:59.439687+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Identifying Saint Pierre and Miquelon",
+      "items": [
+        {
+          "id": "1-1",
+          "image": "/images/resize/900/80/saint-pierre-and-miquelon/0_summary_stpm.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": "/images/resize/600/80/saint-pierre-and-miquelon/Saint_Pierre_and_Miquelon_in_France.svg.png",
+          "text": "Saint Pierre and Miquelon, officially the Territorial Collectivity of Saint-Pierre and Miquelon, is an overseas department and region of France, south of Newfoundland in Canada. As such, for country streaks purposes, it is counted as France.",
+          "note": null
+        },
+        {
+          "id": "1-3",
+          "image": "/images/resize/600/80/saint-pierre-and-miquelon/pm_licenceplate.png",
+          "text": "Licence plates can be either white or yellow and either short or long. They all have a blue EU strip however, and the white plates will also have a blue strip on the right, as is custom in France. Vehicles may or may not have front plates.",
+          "note": null
+        },
+        {
+          "id": "1-4",
+          "image": "/images/resize/600/80/saint-pierre-and-miquelon/pm_trekker.png",
+          "text": "All coverage was taken with a Generation 3 trekker camera.",
+          "note": null
+        },
+        {
+          "id": "1-5",
+          "image": "/images/resize/600/80/saint-pierre-and-miquelon/pm_architecture.png",
+          "text": "Most houses are made of wooden panels with a boxy look and often vivid colours.",
+          "note": null
+        },
+        {
+          "id": "1-6",
+          "image": "/images/resize/600/80/saint-pierre-and-miquelon/pm_landscape.png",
+          "text": "The landscape mainly consists of flat or rolling grasslands. The coast will be visible more often than not.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Step 2 - Regional clues",
+      "items": [
+        {
+          "id": "2-1",
+          "image": "/images/resize/600/80/saint-pierre-and-miquelon/pm_coverage.png",
+          "text": "Coverage is fairly limited, being only found in the eastern parts of Saint-Pierre as well as at the northern tip of Miquelon-Langlade.",
+          "note": null
+        },
+        {
+          "id": "2-2",
+          "image": "/images/resize/600/80/saint-pierre-and-miquelon/Miquelon_Langlade_Town.png",
+          "text": "Miquelon-Langlade is a small town in the north of St Pierre. It can be recognized by the houses with timber cladding painted in bold, vivid colours. A shadow of the ATV used to cover this town can also be seen.",
+          "note": null
+        },
+        {
+          "id": "2-3",
+          "image": "/images/resize/600/80/saint-pierre-and-miquelon/St_Pierre_Town.png",
+          "text": "Saint-Pierre is the capital and largest town. The coverage in this town is made with a sidewalk trekker. Larger buildings and more cars can be seen, with a more populated feel compared to Miquelon-Langlade.",
+          "note": null
+        },
+        {
+          "id": "2-4",
+          "image": "/images/resize/600/80/saint-pierre-and-miquelon/Ile_aux_Marins.png",
+          "text": "A slightly hilly, grassy landscape with boxy houses spaced apart can be seen on Île-aux-Marins.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Step 3 - Spotlight",
+      "items": [
+        {
+          "id": "3-1",
+          "image": "/images/resize/600/80/saint-pierre-and-miquelon/Rural_North.png",
+          "text": "This rural trekker in the far north can be recognized by the rolling, grassy landscape. The trekker can also be seen walking on a wooden path, with trees on either side.",
+          "note": null
+        },
+        {
+          "id": "3-2",
+          "image": "/images/resize/600/80/saint-pierre-and-miquelon/Saint_Pierre_Island_Rural.png",
+          "text": "The rural trekker on Saint Pierre island has a more rocky landscape. The trekker also walks on a path with trees on both sides.",
+          "note": null
+        },
+        {
+          "id": "3-3",
+          "image": "/images/resize/600/80/saint-pierre-and-miquelon/Boat.png",
+          "text": "This boat trekker between Saint Pierre Island and Île-aux-Marins can be recognized by this man wearing a grey and black sweater.",
+          "note": null
+        }
+      ]
+    }
+  ]
+}

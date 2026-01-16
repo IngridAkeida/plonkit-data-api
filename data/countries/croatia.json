@@ -1,0 +1,235 @@
+{
+  "country": "Croatia",
+  "url": "https://www.plonkit.net/croatia",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:18:27.342816+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Identifying Croatia",
+      "items": [
+        {
+          "id": "1-1",
+          "image": "/images/resize/900/80/croatia/transparent-hr_summary_2026.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": "/images/resize/600/80/croatia/Croatia_License_Plate.png",
+          "text": "Croatia has long, white licence plates. Some plates have a blue strip on the left, some are fully white. Most cars seen in Generation 3 will not feature a blue strip on their licence plates. In addition, there is a mix of cars with or without blue strips in Generation 4, with blue strips more common on newer cars. NOTE: Blue strips are more common along the coast due to travelling tourists from other EU countries such as Italy.",
+          "note": null
+        },
+        {
+          "id": "1-3",
+          "image": "/images/resize/600/80/croatia/Croatia_bollard.png",
+          "text": "Croatian bollards are white with a black rectangle and red or white reflector. From the top, it is shaped like a triangle. NOTE: Hungarian and Lithuanian bollards look similar, but have more rounded edges compared to Croatia’s sharper edges. Lithuanian bollards will also have an orange reflector.",
+          "note": null
+        },
+        {
+          "id": "1-4",
+          "image": "/images/resize/600/80/croatia/hr_language.png",
+          "text": "Croatian is a Slavic language. It is always written in the Latin alphabet. ‘IJE’ is common in Croatian whereas Serbian uses only ‘E’ instead. NOTE: The Slovene language also features a lot of ‘J’s. Serbian and Montenegrin are also very similar, but Serbia and Montenegro use both Latin and Cyrillic script.",
+          "note": null
+        },
+        {
+          "id": "1-5",
+          "image": "/images/resize/600/80/croatia/Chevron.png",
+          "text": "Croatia features chevrons with a red arrow on a yellow or white background.",
+          "note": null
+        },
+        {
+          "id": "1-6",
+          "image": "/images/resize/600/80/croatia/Croatia_guardrails.png",
+          "text": "Croatia has square (B-type) guardrails. NOTE: Croatia is one of the few European countries that use B-type guardrails. For a good overview of European guardrails, see this infographic.",
+          "note": null
+        },
+        {
+          "id": "1-7",
+          "image": "/images/resize/600/80/croatia/Croatia-side-mirror.png",
+          "text": "Generation 3 coverage often has a non-standard car blur where the side mirrors of the car are partially visible. This is not unique to Croatia, but by far most common there. NOTE: Sometimes, you can see a small circular yellow sticker on the car mirror. This sticker is unique to Croatia.",
+          "note": null
+        },
+        {
+          "id": "1-8",
+          "image": "/images/resize/600/80/croatia/Fall_colours.png",
+          "text": "Another quirk of Generation 3 coverage is that the majority of it was made in autumn. This means that the vegetation in this coverage will often have distinct yellowish or orange fall colours. Take note that this seasonal meta is not found in Generation 4 coverage.",
+          "note": null
+        },
+        {
+          "id": "1-9",
+          "image": "/images/resize/600/80/croatia/Screenshot (625).png",
+          "text": "A black generation 4 car that will never have an antenna can be found in Croatia. NOTE: A black car can be found in many European countries, though it will often have an antenna visible.",
+          "note": null
+        },
+        {
+          "id": "1-10",
+          "image": "/images/resize/600/80/croatia/Screenshot (628).png",
+          "text": "A white generation 4 car that will never have an antenna can be found in Croatia. NOTE: A white car can be found in many European countries, though it will often have an antenna visible.",
+          "note": null
+        },
+        {
+          "id": "1-11",
+          "image": "/images/resize/600/80/croatia/Croatia_HR_sticker2.png",
+          "text": "Stickers with the letters HR can be found on Croatian cars. HR stands for Hrvatska, the Croatian name for Croatia. NOTE: These were mainly used before EU plates were introduced, meaning they will be less common in Generation 4.",
+          "note": null
+        },
+        {
+          "id": "1-12",
+          "image": "/images/resize/600/80/croatia/Croatia_direction_signs.png",
+          "text": "Croatia has direction signs with a yellow background and a black outline. They often have a pencil-shaped tip. NOTE: The other former Yugoslav countries of Slovenia, Serbia, Montenegro and North Macedonia have similar signs. A comparison can be seen here.",
+          "note": null
+        },
+        {
+          "id": "1-13",
+          "image": "/images/resize/600/80/croatia/Croatia_poles.png",
+          "text": "Croatian utility poles are cylindrical and made of concrete or wood, often with alternating hooks on the wooden poles (somewhat similar to Latvian poles).",
+          "note": null
+        },
+        {
+          "id": "1-14",
+          "image": "/images/resize/600/80/croatia/Croatia_red_brick.png",
+          "text": "Buildings in Croatia sometimes feature exposed red brick walls. This architecture is more common in inland areas. NOTE: This type of architecture can also be found in Slovenia and Serbia.",
+          "note": null
+        },
+        {
+          "id": "1-15",
+          "image": "/images/resize/600/80/croatia/image.png",
+          "text": "Croatia features blue fire hydrants with two diagonal protrusions on either side. Newer fire hydrants seen in Generation 4 have a smaller top but are still recognisable due to the blue paint. NOTE: Similar fire hydrants can be found in bordering countries, most commonly in Hungary.",
+          "note": null
+        },
+        {
+          "id": "1-16",
+          "image": "/images/resize/600/80/croatia/Pedestrian_sign_2.png",
+          "text": "Croatia’s pedestrian sign features a pedestrian with a belt and a zebra path with 5 stripes. NOTE: The pedestrian on Slovenia’s sign does not have a belt.",
+          "note": null
+        },
+        {
+          "id": "1-17",
+          "image": "/images/resize/600/80/croatia/beers.webp",
+          "text": "Karlovačko and Ožujsko are common Croatian beer companies, with advertisements seen around the country. Konzum and Plodine are supermarket chains exclusive to Croatia, mostly found in big cities.",
+          "note": null
+        },
+        {
+          "id": "1-18",
+          "image": "/images/resize/600/80/croatia/Croatia_gen_2_trekker.png",
+          "text": "Croatia does not have Generation 2 car coverage. However, in some historic downtown areas, a Generation 2 trekker camera was used. NOTE: In some of this trekker coverage, the Google employee’s red cap is visible.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Step 2 - Regional and county-specific clues",
+      "items": [
+        {
+          "id": "2-1",
+          "image": "/images/resize/600/80/croatia/hr_areacodes_copy.png",
+          "text": "Croatian landlines typically start with a zero followed by the area code.",
+          "note": null
+        },
+        {
+          "id": "2-2",
+          "image": "/images/resize/600/80/croatia/Hungary_border_and_Slavonia.png",
+          "text": "The north-eastern region of Croatia is mostly flat and features a lot of agriculture. It is similar in terms of landscape to Hungary and north-western Serbia.",
+          "note": null
+        },
+        {
+          "id": "2-3",
+          "image": "/images/resize/600/80/croatia/Zagreb_hill_farm_cool.png",
+          "text": "The region north and west of Zagreb is hilly and agricultural.",
+          "note": null
+        },
+        {
+          "id": "2-4",
+          "image": "/images/resize/600/80/croatia/Adriatic_coast_transparent_v2.png",
+          "text": "The Adriatic coast features rocky mountains similar to those seen in Montenegro or Albania. Shrubs are more common instead of trees along the coast, especially in the south. This coastal region has a lot of islands and peninsulas.",
+          "note": null
+        },
+        {
+          "id": "2-5",
+          "image": "/images/resize/600/80/croatia/Croatia_adriatic_brick_v2.png",
+          "text": "Houses and walls made of beige brick are common on the Adriatic coast. They often feature green shutters. NOTE: Similar architecture can also be found in some regions in Italy. Additionally, Croatian shutters can also be white, beige etc.",
+          "note": null
+        },
+        {
+          "id": "2-6",
+          "image": "/images/resize/600/80/croatia/Istria.png",
+          "text": "The north-western region of Istria, south of the Italian city of Trieste, sometimes has distinct red soil.",
+          "note": null
+        },
+        {
+          "id": "2-7",
+          "image": "/images/resize/600/80/croatia/Indicator-template-Croatia12.png",
+          "text": "Bilingual street name signs with Croatian and Italian are typically found in Istria, especially in the western cities.",
+          "note": null
+        },
+        {
+          "id": "2-8",
+          "image": "/images/resize/600/80/croatia/hr_ec.png",
+          "text": "Town names ending with “-ec” are common to see in the northern parts of central Croatia.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Step 3 - Spotlight",
+      "items": [
+        {
+          "id": "3-1",
+          "image": "/images/resize/600/80/croatia/Zagreb.png",
+          "text": "Croatia’s capital Zagreb has a distinct big city feel. Apartment blocks can be seen throughout the city. The northern part of the city is hilly. Furthermore, Zagreb has blue electric trams. NOTE: In addition to regular car coverage, Zagreb also has various urban sidewalk trekkers, often made with a Generation 2 camera.",
+          "note": null
+        },
+        {
+          "id": "3-2",
+          "image": "/images/resize/600/80/croatia/hr_trams.png",
+          "text": "Zagreb and Osijek are the only two cities in Croatia with trams.",
+          "note": null
+        },
+        {
+          "id": "3-3",
+          "image": "/images/resize/600/80/croatia/Flat_Area_Northeast_Of_Zadar.png",
+          "text": "The region northeast of Zadar is recognizable as it is flat with a mountain ridge visible in the distance north.",
+          "note": null
+        },
+        {
+          "id": "3-4",
+          "image": "/images/resize/600/80/croatia/Ilok_Vineyards.png",
+          "text": "There are a lot of vineyards around the town of Ilok, near the Serbian border, west of Novi Sad. You can find vineyards in other parts of Croatia as well, but they are most common in this area. If you see lots of vineyards in a northeastern Croatian landscape, you are more often than not near Ilok.",
+          "note": null
+        },
+        {
+          "id": "3-5",
+          "image": "/images/resize/600/80/croatia/long_bois.png",
+          "text": "Traffic lights in Rijeka are held up by long blue poles that extend out over the road. These are exclusive to the city.",
+          "note": null
+        },
+        {
+          "id": "3-6",
+          "image": "/images/resize/600/80/croatia/lecters_house.png",
+          "text": "The town of Petrinja was severely damaged by an earthquake in 2020. As a result, many buildings can be seen ruined and undergoing repair.",
+          "note": null
+        },
+        {
+          "id": "3-7",
+          "image": "/images/resize/600/80/croatia/Dubrovnik-city-walls.png",
+          "text": "The city of Dubrovnik in the far south of coastal Croatia is famous for its beautifully preserved medieval city walls, which can be seen from many points in and around the Old Town.",
+          "note": null
+        },
+        {
+          "id": "3-8",
+          "image": "/images/resize/600/80/croatia/hr_dubrovniktrees.png",
+          "text": "These tall cypress trees are commonly found near the southern tip of Croatia.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Step 4 - Maps and resources",
+      "items": []
+    }
+  ]
+}

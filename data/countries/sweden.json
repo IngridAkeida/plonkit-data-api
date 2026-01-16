@@ -1,0 +1,811 @@
+{
+  "country": "Sweden",
+  "url": "https://www.plonkit.net/sweden",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:19:28.939927+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Identifying Sweden",
+      "items": [
+        {
+          "id": "1-1",
+          "image": "/images/resize/900/80/sweden/transparent-se_summary_2026.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": "/images/resize/600/80/sweden/Sweden_License_Plate.png",
+          "text": "Swedish licence plates are long, white, and have the standard blue EU strip on the left side. Licence plates on taxis have a yellow background instead of white.",
+          "note": null
+        },
+        {
+          "id": "1-3",
+          "image": "/images/resize/600/80/sweden/spr_C3_A5k.png",
+          "text": "Swedish is a North Germanic language that is closely related to Danish and Norwegian. The Swedish alphabet contains the special letters Å, Ä and Ö. NOTE: The special letters found in Swedish can also be found in some of the other Northern Germanic languages: Danish uses Å, but not Ä or Ö. Norwegian uses Å, but not Ä or Ö. Icelandic uses Ö, but not Å or Ä. Finnish uses Ä and Ö. Å is also used, but is treated as Swedish. Finnish words are typically longer and often use double vowels, which are very rare in Swedish.",
+          "note": null
+        },
+        {
+          "id": "1-4",
+          "image": "/images/resize/600/80/sweden/vaglinje_liten.png",
+          "text": "On smaller roads, the outer road lines are white and dashed. They are distinctly shorter than the Norwegian dashed lines. In contrast to Norway and Finland, all road lines are white.",
+          "note": null
+        },
+        {
+          "id": "1-5",
+          "image": "/images/resize/600/80/sweden/vaglinje_motorvag.png",
+          "text": "The outer road lines on highways look solid from a distance, but are typically divided into small sections with a unique pattern, which is different from the solid lines in Finland and Norway. Road lines in Denmark can have a similar pattern, however the individual sections should be rectangular.",
+          "note": null
+        },
+        {
+          "id": "1-6",
+          "image": "/images/resize/600/80/sweden/pollare.png",
+          "text": "Swedish bollards are black-and-white, typically with a grey reflector. Reflectors by intersections are commonly orange instead. They can be either wedge-shaped, round, or thin and curved.",
+          "note": null
+        },
+        {
+          "id": "1-7",
+          "image": "/images/resize/600/80/sweden/snostolpe.png",
+          "text": "Snow poles are typically orange, with a tall white reflector slightly above the middle of the pole. Some poles have a second, thinner reflector above the normal one. NOTE: Finland and Norway both have similar orange snow poles. The reflector on Finnish poles is usually much thinner and very close to the top. Norwegian poles typically have either one or two slightly thinner reflectors, with one commonly being very close to the middle.",
+          "note": null
+        },
+        {
+          "id": "1-8",
+          "image": "/images/resize/600/80/sweden/elstolpe.png",
+          "text": "Swedish utility poles are usually wooden and can have a variety of poletops. There is commonly a small black metal cap on the very top, which is only found in Nordic countries. NOTE: Norway and Finland also use primarily wooden poles.",
+          "note": null
+        },
+        {
+          "id": "1-9",
+          "image": "/images/resize/600/80/sweden/se_lamp.png",
+          "text": "Lamps attached to wooden poles in Sweden are normally mounted slightly below the top of the pole with a double bolting. NOTE: Within Scandinavia, Finland also uses double bolting. However, Finland’s lamps are mounted at the top and are much straighter.",
+          "note": null
+        },
+        {
+          "id": "1-10",
+          "image": "/images/resize/600/80/sweden/elmark_C3_B6r.png",
+          "text": "These wooden electricity markers, with a blue and a white stripe at the top, are often found near utility poles and pylons, and are not found in any other Nordic country.",
+          "note": null
+        },
+        {
+          "id": "1-11",
+          "image": "/images/resize/600/80/sweden/herrg_C3_A5rman.png",
+          "text": "Swedish pedestrian signs have four stripes. There is notably a version featuring a female silhouette. NOTE: Finnish and Danish pedestrian signs have five stripes. Norwegian pedestrian signs usually have four stripes, but can also have five.",
+          "note": null
+        },
+        {
+          "id": "1-12",
+          "image": "/images/resize/600/80/sweden/vagskylt.png",
+          "text": "Most directional signs are blue with a white font and border. A thin arrow shows the direction. Yellow signs with a black font and red border are also common. Places showcased on yellow signs are typically very small and thus hard to find on a map. NOTE: Norwegian directional signs are yellow or white, and the white arrow on Finnish signs is filled in.",
+          "note": null
+        },
+        {
+          "id": "1-13",
+          "image": "/images/resize/600/80/sweden/vagskyltar.png",
+          "text": "Swedish road signs have a red border and a yellow background. NOTE: Finnish road signs have a thin yellow border outside the red one.",
+          "note": null
+        },
+        {
+          "id": "1-14",
+          "image": "/images/resize/600/80/sweden/chevron.png",
+          "text": "Sweden is the only country in Europe whose chevrons have yellow arrows on a blue background. NOTE: While very rare, yellow on blue chevrons also exist in Luxembourg.",
+          "note": null
+        },
+        {
+          "id": "1-15",
+          "image": "/images/resize/600/80/sweden/motesplats.png",
+          "text": "On smaller roads, it is common to see these blue signs with a large white M. NOTE: Similar signs can be found in Norway, however the font is distinctly different. The middle point of the M extends to the bottom of the letter. There are no similar signs in Finland.",
+          "note": null
+        },
+        {
+          "id": "1-16",
+          "image": "/images/resize/600/80/sweden/skyltf_C3_A4rg.png",
+          "text": "Signposts will often have striped markings. Blue and white, and red and yellow are the two most common, but you can also find other colours such as blue and red or white and red. NOTE: Blue and white markings can be found in several other countries, such as Finland and Estonia, however the other colour schemes are essentially unique to Sweden.",
+          "note": null
+        },
+        {
+          "id": "1-17",
+          "image": "/images/resize/600/80/sweden/r_C3_B6dgulinfrastruktur.png",
+          "text": "On top of having red and yellow road signs and signpost markings, Sweden often has a lot of road infrastructure, such as road work signs and road blocks, painted red and yellow. You can even come across red and yellow chevrons.",
+          "note": null
+        },
+        {
+          "id": "1-18",
+          "image": "/images/resize/600/80/sweden/vagnamn.png",
+          "text": "Swedish street names most commonly use the suffixes “vägen” and “gatan”. They are often shortened into “v” and “g” respectively on street signs. Street names can also use “väg” or “gata” as a separate word in a street name. Additionally, the suffix “gränd” can be found near city centres. NOTE: Norway uses veien or vei, gate or gaten, and gata attached to the rest of the street name, rather than as a separate word. Denmark uses vej and gade.",
+          "note": null
+        },
+        {
+          "id": "1-19",
+          "image": "/images/resize/600/80/sweden/arkitektur.png",
+          "text": "Houses in the Swedish countryside are most commonly wooden and often painted with a distinct dark red paint, which is almost exclusively found in Sweden, Norway and Finland. Urban architecture is usually modern and made of concrete and bricks, while suburban buildings are commonly freestanding single family houses built of either wood or brick.",
+          "note": null
+        },
+        {
+          "id": "1-20",
+          "image": "/images/resize/600/80/sweden/landskap.png",
+          "text": "Sweden has a varied landscape, with a lot of boreal forests, small to medium-sized farmlands and many lakes. The northern and western parts of the country are quite mountainous, with long, narrow lakes and rivers, while the southern and eastern parts are generally flatter.",
+          "note": null
+        },
+        {
+          "id": "1-21",
+          "image": "/images/resize/600/80/sweden/g_C3_A4rdsg_C3_A5rd.png",
+          "text": "This type of traditional wooden fence, made out of thin spaced out vertical tree trunks and slightly diagonal trunks stacked on top of each other, is commonly found in Sweden. NOTE: Similar fences can be found in other Nordic countries, particularly in Norway near the Swedish border, but are significantly less common.",
+          "note": null
+        },
+        {
+          "id": "1-22",
+          "image": "/images/resize/600/80/sweden/volvo.png",
+          "text": "The most common car brand in Sweden is Volvo, which makes up almost 30% of all passenger cars. NOTE: Approximately 10% of all passenger cars in both Norway and Finland are Volvo.",
+          "note": null
+        },
+        {
+          "id": "1-23",
+          "image": "/images/resize/600/80/sweden/kyrkflagga.png",
+          "text": "The Swedish church flag has a red cross on a yellow background with a crown in the middle, and is often found near churches throughout the country.",
+          "note": null
+        },
+        {
+          "id": "1-24",
+          "image": "/images/resize/600/80/sweden/vitbil.png",
+          "text": "A white street view car with a long antenna is featured on a lot of Generation 3 coverage. NOTE: A similar car is found on all road coverage in Iceland and is also somewhat common in Finland. While it exists in both Norway and Denmark, it is extremely rare in both.",
+          "note": null
+        },
+        {
+          "id": "1-25",
+          "image": "/images/resize/600/80/sweden/gen4bil.png",
+          "text": "Generation 4 coverage in Sweden features three Street View cars: a red, a white, and a blue car. Each of the cars can be seen with or without a visible antenna. NOTE: Only the blue car is found in Norway, Finland and Denmark.",
+          "note": null
+        },
+        {
+          "id": "1-26",
+          "image": "/images/resize/600/80/sweden/europe_smallcam.png",
+          "text": "Sweden has Generation 4 “smallcam” coverage, which is mounted lower than regular Generation 4 and has a relatively big circular blur with a small protrusion at the front. The blur can also be fully transparent, making it harder to spot. NOTE: Most of Northern Europe also has smallcam.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Step 2 - Regional clues",
+      "items": [
+        {
+          "id": "2-1",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "2-2",
+          "image": "/images/resize/600/80/sweden/l_C3_B6vtr_C3_A4d.png",
+          "text": "Broad leafed trees, other than birches, only grow naturally in the southern half of the country, and become increasingly common the further south you get.",
+          "note": null
+        },
+        {
+          "id": "2-3",
+          "image": "/images/resize/600/80/sweden/ormbunke.png",
+          "text": "Ferns are mostly found in southern and central Sweden. It can occasionally be found further north in the east.",
+          "note": null
+        },
+        {
+          "id": "2-4",
+          "image": "/images/resize/600/80/sweden/fjall.png",
+          "text": "While it is possible to see forested mountains in several regions in the country, mountains with no trees at the top can only be found in the northwestern parts of the country.",
+          "note": null
+        },
+        {
+          "id": "2-5",
+          "image": "/images/resize/600/80/sweden/maxnorrvegetation.png",
+          "text": "This type of vegetation, consisting of thin, weak-looking boreal trees and somewhat sandy soil can be found in the far north of Sweden.",
+          "note": null
+        },
+        {
+          "id": "2-6",
+          "image": "/images/resize/600/80/sweden/bokskog.png",
+          "text": "Beech forests, which can generally be recognised by the barren ground covered in brown leafs, are mainly found in the far south.",
+          "note": null
+        },
+        {
+          "id": "2-7",
+          "image": "/images/resize/600/80/sweden/stenmur.png",
+          "text": "Rock walls are mainly found in the south, with the largest concentration being in several coastal areas, on Öland, and on the southern and northern tips of Gotland. Beware that rock walls around churches and cemeteries are common further north.",
+          "note": null
+        },
+        {
+          "id": "2-8",
+          "image": "/images/resize/600/80/sweden/vastkustklippa.png",
+          "text": "It is very common to see exposed, often somewhat round, rocks on the Swedish west coast. They will often have lower vegetation, such as small bushes, growing on them. NOTE: Exposed rocks around Stockholm are also fairly common, however these typically look sharper than rocks on the west coast, and commonly have thick moss growing on them.",
+          "note": null
+        },
+        {
+          "id": "2-9",
+          "image": "/images/resize/600/80/sweden/sk_C3_A5nelandskap.png",
+          "text": "In Skåne you will find the most open agricultural landscape in Sweden. It is the only region where, rather than a dense forest in the distance, you can get only a few small patches of trees strewn across the fields. On top of that, crops are often more diverse than the cereal crops, which are typical for the rest of Sweden.",
+          "note": null
+        },
+        {
+          "id": "2-10",
+          "image": "/images/resize/600/80/sweden/malardalen.png",
+          "text": "The area surrounding lake Mälaren can often be recognized by the fairly flat ground with medium sized agricultural fields, forests beyond them, and small “islands” of bushes and trees in the middle of the fields.",
+          "note": null
+        },
+        {
+          "id": "2-11",
+          "image": "/images/resize/600/80/sweden/_C3_B6stv_C3_A4stg_C3_B6taf_C3_A4lt.png",
+          "text": "The agricultural landscape of Västergötland and Östergötland is mostly flat, similarly to the landscape around lake Mälaren. The two most consistent differences is that this landscape is more open and has lots of wind turbines. While you can almost always see a forest in the distance, it will typically be much further away than around Mälaren.",
+          "note": null
+        },
+        {
+          "id": "2-12",
+          "image": "/images/resize/600/80/sweden/halland_miljo.png",
+          "text": "On the west coast, and particularly in Halland, you will see a lot of flat agricultural fields with small, round, forested hills in the distance. Generally, the hills get larger and the fields get smaller further north. The area also has more precipitation than most of the country, and as such it typically looks very lush.",
+          "note": null
+        },
+        {
+          "id": "2-13",
+          "image": "/images/resize/600/80/sweden/nordkustf_C3_A4lt.png",
+          "text": "If you see flat, medium-sized to small agricultural fields, and you suspect that you are in the northern half of the country, you are likely somewhat close to the coast between Umeå and Luleå.",
+          "note": null
+        },
+        {
+          "id": "2-14",
+          "image": "/images/resize/600/80/sweden/j_C3_A4mtlandsf_C3_A4lt.png",
+          "text": "In most of Jämtland County, particularly around lake Storsjön, you can find large farmlands, commonly situated in the middle of wide, often somewhat steep hills, which is uncommon in the rest of the country, where most farmlands will be either on flat ground or in valleys. The fields are generally not cultivated and will mostly consist of ordinary grass.",
+          "note": null
+        },
+        {
+          "id": "2-15",
+          "image": "/images/resize/600/80/sweden/h_C3_B6gakusten.png",
+          "text": "The landscape around the High Coast in Västernorrland can be recognised by the many forested, rocky mountains surrounding agricultural valleys. The valleys are rarely straight and the mountains are of varying heights and shapes.",
+          "note": null
+        },
+        {
+          "id": "2-16",
+          "image": "/images/resize/600/80/sweden/sormland_akrar.png",
+          "text": "Agricultural fields in and around Södermanland very often go through small valleys, with forests up on the sides of the valleys. The fields are typically medium to small sized.",
+          "note": null
+        },
+        {
+          "id": "2-17",
+          "image": "/images/resize/600/80/sweden/gotlandsand.png",
+          "text": "White sand can often be seen next to roads on Gotland. It is typically more noticeable in the northern half of the island and on Fårö.",
+          "note": null
+        },
+        {
+          "id": "2-18",
+          "image": "/images/resize/600/80/sweden/gotlandsgÃ¤rdsgÃ¥rd.png",
+          "text": "Traditional Swedish fences are typically made of thin round tree trunks and branches. However, on Gotland these fences are typically made of larger trunks that have been cut into sharp-looking wedges.",
+          "note": null
+        },
+        {
+          "id": "2-19",
+          "image": "/images/resize/600/80/sweden/r_C3_B6djord.png",
+          "text": "Red dirt roads are mainly found in Dalarna, but can also be found in and around Kalmar county, the border between inland Norrbotten and Västerbotten, and rarely between lakes Vänern and Vättern.",
+          "note": null
+        },
+        {
+          "id": "2-20",
+          "image": "/images/resize/600/80/sweden/gr_C3_A5jord.png",
+          "text": "Dirt roads which have a deep grey colour and are aligned with low, green grassy vegetation on either side are commonly found in the northern half of Jämtland. This is mostly found in Generation 4 summer and Generation 3 fall coverage.",
+          "note": null
+        },
+        {
+          "id": "2-21",
+          "image": "/images/resize/600/80/sweden/Oland.png",
+          "text": "Öland is an extremely flat island with a somewhat barren south half with many small bushes, while the north is typically slightly lusher with fewer, but larger bushes and some trees. The island also contains a very large number of small rock walls.",
+          "note": null
+        },
+        {
+          "id": "2-22",
+          "image": "/images/resize/600/80/sweden/Nordkustbjork.png",
+          "text": "It is very common to see long, neat rows of moderately thin birches in urban areas along the north coast.",
+          "note": null
+        },
+        {
+          "id": "2-23",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "2-24",
+          "image": "/images/resize/600/80/sweden/metalltak.png",
+          "text": "Grey metal roofs on residential buildings generally get more common the further north in the country you get. Note that metal roofs on barns and sheds can be found significantly further south.",
+          "note": null
+        },
+        {
+          "id": "2-25",
+          "image": "/images/resize/600/80/sweden/skanehus.png",
+          "text": "Houses in Skåne commonly have either a white stone, or a red brick wall with a coloured wooden triangle beneath the roof on the sides. Similar houses with other materials (such as grey brick) for the walls can be found elsewhere in the southern half of the country.",
+          "note": null
+        },
+        {
+          "id": "2-26",
+          "image": "/images/resize/600/80/sweden/korsvirke2.png",
+          "text": "Half-timbered houses can be found mainly in the southern half of Skåne, but also in the northern half and southern Halland. It can also be found in Visby on rare occasions.",
+          "note": null
+        },
+        {
+          "id": "2-27",
+          "image": "/images/resize/600/80/sweden/skanetegel.png",
+          "text": "A lot of single family houses in Skåne are built out of red brick. They typically look slightly older than red brick houses in other parts of the country. NOTE: Red brick architecture is also very common in Denmark.",
+          "note": null
+        },
+        {
+          "id": "2-28",
+          "image": "/images/resize/600/80/sweden/sydmetalltak.png",
+          "text": "Corrugated square metal roof panels with moss growing on them are typically found in southern Sweden, particularly in Skåne and Blekinge. It is mainly found on large barns, and the roofs are often very steep.",
+          "note": null
+        },
+        {
+          "id": "2-29",
+          "image": "/images/resize/600/80/sweden/diamanttegel.png",
+          "text": "Grey diamond-tiled roofs are mainly found in Skåne, Blekinge, Öland, and occasionally on Gotland. NOTE: Gotland and Öland are normally more easily recognised from landscape alone. Houses in western and southern Skåne typically use a lot of stone and bricks, while houses in northeastern Skåne and Blekinge are mostly made of red painted wood.",
+          "note": null
+        },
+        {
+          "id": "2-30",
+          "image": "/images/resize/600/80/sweden/vastkusthus.png",
+          "text": "While houses in Sweden are mostly very colourful, on the west coast they are commonly much lighter. There are an especially large number of white and light yellow houses along the coast between Gothenburg and the Norwegian border.",
+          "note": null
+        },
+        {
+          "id": "2-31",
+          "image": "/images/resize/600/80/sweden/v_C3_A4stkustfiskestugor.png",
+          "text": "Dense rows of very small red sheds are commonly found in coastal towns on the northern west coast.",
+          "note": null
+        },
+        {
+          "id": "2-32",
+          "image": "/images/resize/600/80/sweden/dalahus.png",
+          "text": "Central Dalarna has a strong tradition of wooden craftsmanship, and as a result much of the architecture has a unique, picturesque look to it. Most commonly, you may find red timbered houses, portals made of logs, and so-called härbren which have a very distinct design. NOTE: Similar buildings can be found elsewhere in the country, but it is by far most common in central Dalarna.",
+          "note": null
+        },
+        {
+          "id": "2-33",
+          "image": "/images/resize/600/80/sweden/halsingegard.png",
+          "text": "Hälsingland has many big, mostly red, farmhouses. They are characterised by many large windows, 2–3 floors, and the front facade being long and grand-looking. Barns can also be seen having an unusual amount of windows in the region.",
+          "note": null
+        },
+        {
+          "id": "2-34",
+          "image": "/images/resize/600/80/sweden/nordskjul.png",
+          "text": "Along the northern coast you will commonly encounter agricultural sheds which are either octagonal or rectangular, with the walls noticeably leaning outwards. They will typically be made out of red-painted logs.",
+          "note": null
+        },
+        {
+          "id": "2-35",
+          "image": "/images/resize/600/80/sweden/gotlandshus.png",
+          "text": "Houses on Gotland are commonly made of limestone and often have a dirty-looking white facade. Churches on Gotland are very distinct looking, with either grey walls or white walls with grey corners, a large portal around the door and small windows typically divided in two by a pillar.",
+          "note": null
+        },
+        {
+          "id": "2-36",
+          "image": "/images/resize/600/80/sweden/_C3_B6landstegel.png",
+          "text": "This type of uneven stone brick is typically found in houses and rock walls on Öland, and less commonly in rock walls on Gotland.",
+          "note": null
+        },
+        {
+          "id": "2-37",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "2-38",
+          "image": "/images/resize/600/80/sweden/busstopp3.png",
+          "text": "Each administrative region in Sweden has at least one, and in many cases several, bus stop signs which are unique to that region. You can click on the image to enlarge it.",
+          "note": null
+        },
+        {
+          "id": "2-39",
+          "image": "/images/resize/600/80/sweden/busskurer.png",
+          "text": "Many regions have their own distinct type of bus shelters, which may either replace or complement the bus stop signs. This image contains the ones which are most common and easily recognizable. NOTE: Every region has multiple types of bus shelters, these are simply the most common. You can click on the image to enlarge it.",
+          "note": null
+        },
+        {
+          "id": "2-40",
+          "image": "/images/resize/600/80/sweden/v_C3_A4gnummer_darkmode.webp",
+          "text": "Besides the European highways, there are two types of numbered roads in Sweden, national roads (9-99) and regional roads (100-404). Numbers typically increase the further northeast you get. These maps are only approximate, since some roads go across many of the regions shown. You can click on the image to enlarge it.",
+          "note": null
+        },
+        {
+          "id": "2-41",
+          "image": "/images/resize/600/80/sweden/skoterled.png",
+          "text": "Small red crosses marking snowmobile trails can be found throughout the northern half of the country.",
+          "note": null
+        },
+        {
+          "id": "2-42",
+          "image": "/images/resize/600/80/sweden/dalav_C3_A4g.png",
+          "text": "Many roads in western Dalarna and nearby regions have a very noticeable red colour. NOTE: Forests in the region predominantly consist of thin pines, which, in combination with the red roads, is a very good indication of the region.",
+          "note": null
+        },
+        {
+          "id": "2-43",
+          "image": "/images/resize/600/80/sweden/gronasnostolpar.png",
+          "text": "Green snow poles can occasionally be found in the area surrounding Umeå.",
+          "note": null
+        },
+        {
+          "id": "2-44",
+          "image": "/images/resize/600/80/sweden/pollaretysk.png",
+          "text": "Wedge-shaped bollards, similar to those found in Germany, are most common in the southern regions of the country.",
+          "note": null
+        },
+        {
+          "id": "2-45",
+          "image": "/images/resize/600/80/sweden/pollarerund.png",
+          "text": "Cylindrical bollards, with a completely horizontal black section near the top, are most commonly found near the west coast and in Värmland and southern Dalarna.",
+          "note": null
+        },
+        {
+          "id": "2-46",
+          "image": "/images/resize/600/80/sweden/pollareplatt.png",
+          "text": "Flat bollards, or cylindrical bollards with a black rectangle containing the reflector are most commonly found on major roads in the northern half of the country. Beware that one type of flat bollards can look similar to the cylindrical bollards from the last tip, however the black section here is not horizontal.",
+          "note": null
+        },
+        {
+          "id": "2-47",
+          "image": "/images/resize/600/80/sweden/sk_C3_A5ne_pollare.png",
+          "text": "These small white bollards with either a blue or a red strip near the top can be found in the countryside of Skåne. NOTE: You may occasionally find similar bollards in urban areas further north.",
+          "note": null
+        },
+        {
+          "id": "2-48",
+          "image": "/images/resize/600/80/sweden/sp_C3_A5rID.png",
+          "text": "The backside of railway crossing signs have a yellow sticker with a 5-digit ID number. The first digit indicates the region, and it predominantly increases to the northeast. NOTE: The first digit may also be a 6, which can be found randomly throughout most of the country.",
+          "note": null
+        },
+        {
+          "id": "2-49",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "2-50",
+          "image": "/images/resize/600/80/sweden/toponymer_darkmode_v2.png",
+          "text": "Some place name endings are limited to a certain region. This map shows some common and useful endings. Place names are not limited to just villages and towns: local farmsteads and other geographical points of interest are also included. The distributions shown on the maps are not 100% definite. Some exceptions exist. You can click on the image to enlarge it.",
+          "note": null
+        },
+        {
+          "id": "2-51",
+          "image": "/images/resize/600/80/sweden/samiska.png",
+          "text": "Sámi bilingual signs can be found inland in the northern parts of Sweden.",
+          "note": null
+        },
+        {
+          "id": "2-52",
+          "image": "/images/resize/600/80/sweden/me_C3_A4nkieli.png",
+          "text": "Meänkieli is a language closely related to Finnish, which is found close to the Finnish border. One of the most common occurrences on signage is for river names, which will end in “väylä”. It is also possible to find trilingual signs with both Meänkieli and Sámi. NOTE: As a general principle, if you encounter Finnish sounding place names, you are also likely to be fairly close to the Finnish border.",
+          "note": null
+        },
+        {
+          "id": "2-53",
+          "image": "/images/resize/600/80/sweden/blavitbil.png",
+          "text": "Along the Swedish west coast, and in Skåne, you may find a white Google car with a blue stripe on the back. NOTE: This car is almost never found outside of Sweden.",
+          "note": null
+        },
+        {
+          "id": "2-54",
+          "image": "/images/resize/600/80/sweden/Phone_numbers_darkmode.png",
+          "text": "The first 3-4 (2 in Stockholm) digits of landline phone numbers in Sweden are the area code. The map shows the first two digits in every region. Within the regions, the third and fourth digit of area codes typically increase to the northeast. NOTE: Mobile phone numbers always begin with 07. You can click on the image to enlarge it.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Step 3 - Spotlight",
+      "items": [
+        {
+          "id": "3-1",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "3-2",
+          "image": "/images/resize/600/80/sweden/E10.png",
+          "text": "The E10 between Kiruna and the Norwegian border is a major road which can be recognised by the vegetation mainly consisting of small birches, occasionally with some pines strewn in, combined with snow covered mountains, which can typically be seen in the distant west close to Kiruna, and in all directions when you approach the border. A major lake can also be seen to the north on the western half of the road.",
+          "note": null
+        },
+        {
+          "id": "3-3",
+          "image": "/images/resize/600/80/sweden/99.png",
+          "text": "The northern section of road 99 can usually be recognized by its grey sandy ground with brown-green moss, the noticeable ditch following most of the road and its fairly low, dense forest with a mixture of birches, pines and spruces. Beware that the most recent coverage on much of the road was taken during early spring, which makes some of these features harder to recognise.",
+          "note": null
+        },
+        {
+          "id": "3-4",
+          "image": "/images/resize/600/80/sweden/ritsem.png",
+          "text": "The road to Ritsem can generally be recognised by having a large lake following it on the south, combined with having some of the most dramatic mountains seen on Street View in the country. The road is small and without roadlines, but still fairly well-paved. It is covered both in summer and in early spring.",
+          "note": null
+        },
+        {
+          "id": "3-5",
+          "image": "/images/resize/600/80/sweden/vildmarksvaegen.png",
+          "text": "Most mountain roads in Sweden have been built below the treeline, resulting in small trees being visible on almost all coverage. The only paved road in Sweden above the treeline, with no visible trees, can be found on the border between Jämtland and Västerbotten, near the Norwegian border. The coverage was taken during fall, giving the limited vegetation a yellowish brown colour.",
+          "note": null
+        },
+        {
+          "id": "3-6",
+          "image": "/images/resize/600/80/sweden/flatruet.png",
+          "text": "The highest altitude public road in Sweden, which is a dirt road going straight over a treeless mountain plateau, was covered in Generation 4 on a cloudy day during summer. NOTE: The highest point on the road features a parking spot and is right on top of the “Falkvålen” label.",
+          "note": null
+        },
+        {
+          "id": "3-7",
+          "image": "/images/resize/600/80/sweden/kiruna_gruvberg.png",
+          "text": "In Kiruna it is very common to get a glimpse of one of the two mountains which have taken shape as a result of the local mine, one to the south and one to the north. On the side of both mountains, different layers in the shape of a staircase may be seen, which is a very strong indication of the town. The mountains may also be spotted from the E10 west of the town.",
+          "note": null
+        },
+        {
+          "id": "3-8",
+          "image": "/images/resize/600/80/sweden/gallivaredundret.png",
+          "text": "In the town of Gällivare you can often see a mountain with a smooth slope and a low tree line to the southwest. No other town in Sweden has a natural treeless mountain in such close proximity.",
+          "note": null
+        },
+        {
+          "id": "3-9",
+          "image": "/images/resize/600/80/sweden/omberg.png",
+          "text": "If you are surrounded by flat agricultural fields, with a single forested hill range to the west, you are likely to be east of Omberg in western Östergötland.",
+          "note": null
+        },
+        {
+          "id": "3-10",
+          "image": "/images/resize/600/80/sweden/mistel.png",
+          "text": "Mistletoe is mainly found near lake Mälaren and is particularly common in the city of Västerås.",
+          "note": null
+        },
+        {
+          "id": "3-11",
+          "image": "/images/resize/600/80/sweden/visingso.png",
+          "text": "The island of Visingsö in the middle of Lake Vättern can often be recognised by the agricultural fields with the lake being visible both to the northwest and southeast, with forested hills at the shore of either side of the lake.",
+          "note": null
+        },
+        {
+          "id": "3-12",
+          "image": "/images/resize/600/80/sweden/_C3_A4ppelodling.png",
+          "text": "A majority of all large orchards in Sweden are found around the town of Kivik on the east coast of Skåne. Large orchards can also be found northeast of Kristianstad in Vånga, around Båstad, and on the southern east coast of lake Vättern.",
+          "note": null
+        },
+        {
+          "id": "3-13",
+          "image": "/images/resize/600/80/sweden/_C3_B6landskusten.png",
+          "text": "Following the northern west coast of Öland you will find this small coastal road, with a rocky beach and low, bushy vegetation.",
+          "note": null
+        },
+        {
+          "id": "3-14",
+          "image": "/images/resize/600/80/sweden/fÃ¥rÃ¶.png",
+          "text": "If you suspect you are on Gotland, and see small, dry stony fields with small juniper bushes, you are very likely to be on Fårö. This landscape becomes more extreme near the north coast of the island.",
+          "note": null
+        },
+        {
+          "id": "3-15",
+          "image": "/images/resize/600/80/sweden/hoburgen1.png",
+          "text": "On the southern tip of Gotland you can find this west coastal road with grassy fields and a grassy hill ridge to the east.",
+          "note": null
+        },
+        {
+          "id": "3-16",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "3-17",
+          "image": "/images/resize/600/80/sweden/vallonbruk.png",
+          "text": "Near the coast north and east of Uppsala, you can come across old factory towns called Walloon mills. They typically consist of long rows of identical residential houses, which can either be made of brightly coloured stone or red wood, as well as small belfries, mansions and factory buildings, which are typically made in similar styles as the residential buildings.",
+          "note": null
+        },
+        {
+          "id": "3-18",
+          "image": "/images/resize/600/80/sweden/bergslagssten.png",
+          "text": "Buildings made fully or partially out of blue or green slag stone can occasionally be found in the mining region of Bergslagen.",
+          "note": null
+        },
+        {
+          "id": "3-19",
+          "image": "/images/resize/600/80/sweden/olandskvarn.png",
+          "text": "Numerous small grey, and sometimes red, wooden windmills are spread across Öland. The island has more windmills than any other region in the country.",
+          "note": null
+        },
+        {
+          "id": "3-20",
+          "image": "/images/resize/600/80/sweden/zornkrona.png",
+          "text": "Red brick chimneys with either a crown-like top or wide rectangular holes can be found close to lake Siljan in Dalarna county. It is somewhat common for these chimneys to be painted white.",
+          "note": null
+        },
+        {
+          "id": "3-21",
+          "image": "/images/resize/600/80/sweden/visby.png",
+          "text": "Visby is the only preserved Hanseatic town in Sweden. The inner town can typically be recognised by the cobblestone streets, combined with the small, brightly painted stone houses and an abundance of roses following the house walls. It is also quite common to get a glimpse of the old Hanseatic wall surrounding the town.",
+          "note": null
+        },
+        {
+          "id": "3-22",
+          "image": "/images/resize/600/80/sweden/gamlastan.png",
+          "text": "The old town of Stockholm can be recognised by the old stone buildings, usually painted in warm colours, towering over the narrow cobblestone alleyways.",
+          "note": null
+        },
+        {
+          "id": "3-23",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "3-24",
+          "image": "/images/resize/600/80/sweden/busskylt_lokal.png",
+          "text": "Many cities and towns have their own local bus stop signs, which are different from the signs in the rest of the region (as shown in the infographic in section 2). NOTE: The Växjö sign can also occasionally be found in Älmhult. You can click on the image to enlarge it.",
+          "note": null
+        },
+        {
+          "id": "3-25",
+          "image": "/images/resize/600/80/sweden/neongulbusskylt.png",
+          "text": "Neon-yellow school bus stop signs are commonly found in the municipalities of Linköping, Norrköping and Jönköping.",
+          "note": null
+        },
+        {
+          "id": "3-26",
+          "image": "/images/resize/600/80/sweden/kungsbackabusstop.png",
+          "text": "If you see Västra Götaland bus stops combined with three blue stripes as shown in the picture, you are in Kungsbacka municipality. NOTE: These same stripes are found on bus stops in all of Halland.",
+          "note": null
+        },
+        {
+          "id": "3-27",
+          "image": "/images/resize/600/80/sweden/sparvagn.png",
+          "text": "Trams can be found mostly in Gothenburg, secondly in Norrköping and Stockholm, and rarely on Generation 4 coverage in Lund.",
+          "note": null
+        },
+        {
+          "id": "3-28",
+          "image": "/images/resize/600/80/sweden/busskur_vasteras_umea.png",
+          "text": "Black bus shelters with this specific design, mainly recognised by the square ridge along the back of the roof, can be found in Västerås and Umeå.",
+          "note": null
+        },
+        {
+          "id": "3-29",
+          "image": "/images/resize/600/80/sweden/stockholmgatuskylt.png",
+          "text": "Street signs in Stockholm will have two rows divided by a black line and will usually lack a black border. Similar signs can also rarely be found in central Gävle. NOTE: Several suburbs in Stockholm use plain white street signs.",
+          "note": null
+        },
+        {
+          "id": "3-30",
+          "image": "/images/resize/600/80/sweden/vagskylt_goteborg.png",
+          "text": "The entire city of Gothenburg uses these unique blue street signs. Note that they almost always have two lines. NOTE: Some other cities will have blue street signs near the centre, however they use a different design.",
+          "note": null
+        },
+        {
+          "id": "3-31",
+          "image": "/images/resize/600/80/sweden/malmo_gatskylt.png",
+          "text": "These somewhat old-looking, white street signs, with black corners, can be found all throughout Malmö.",
+          "note": null
+        },
+        {
+          "id": "3-32",
+          "image": "/images/resize/600/80/sweden/ystad_skylt.png",
+          "text": "Signs similar to the ones in Malmö, but with a yellow background can be found in Ystad.",
+          "note": null
+        },
+        {
+          "id": "3-33",
+          "image": "/images/resize/600/80/sweden/vellinge_skylt.png",
+          "text": "Blue street signs similar to the ones found in Gothenburg can be found in Vellinge municipality. Note that these normally only have one line, compared to the two lines on Gothenburg street signs.",
+          "note": null
+        },
+        {
+          "id": "3-34",
+          "image": "/images/resize/600/80/sweden/falkoping_skylt.png",
+          "text": "Plain, yellow street signs can be found in Falköping. Note that yellow street signs may very rarely be seen in other towns, however they will always have a distinctly brighter colour.",
+          "note": null
+        },
+        {
+          "id": "3-35",
+          "image": "/images/resize/600/80/sweden/k_C3_B6ping_skylt.png",
+          "text": "Blue street signs with a thin, black outline can be found in Köping.",
+          "note": null
+        },
+        {
+          "id": "3-36",
+          "image": "/images/resize/600/80/sweden/gattu.png",
+          "text": "Street names ending in gattu or gatu are found in central Dalarna, near lake Siljan. Notably, gattu is found in the south of this area, while gatu is found in the north.",
+          "note": null
+        },
+        {
+          "id": "3-37",
+          "image": "/images/resize/600/80/sweden/_C3_A4lvdalska.png",
+          "text": "Elfdalian is a language that is exclusively found in and around Älvdalen. It is most commonly seen on street signs, with street names typically ending in “-ween” or “-weg”.",
+          "note": null
+        },
+        {
+          "id": "3-38",
+          "image": "/images/resize/600/80/sweden/karlstadsgul.png",
+          "text": "Three yellow stripes can be found on signposts and street lamps in Karlstad as well as on traffic lights in Stockholm.",
+          "note": null
+        },
+        {
+          "id": "3-39",
+          "image": "/images/resize/600/80/sweden/tr_C3_A4df_C3_A4llningsskylt.png",
+          "text": "These small yellow signs advertising tree felling are commonly found on utility poles and lamp posts in the suburbs of Stockholm. While the phone code for Stockholm is usually written on the signs, it is often difficult to make out from a distance.",
+          "note": null
+        },
+        {
+          "id": "3-40",
+          "image": "/images/resize/600/80/sweden/drakstaden.png",
+          "text": "Sundsvall is known as Drakstaden (the Dragon City) in Sweden, which can be seen referenced in the form of dragon statues in the central parts of the city, and on signs.",
+          "note": null
+        },
+        {
+          "id": "3-41",
+          "image": "/images/resize/600/80/sweden/E4_norr.png",
+          "text": "The stretch of the E4 between Umeå and the Finnish border is one of very few roads in the northern parts of the country which is large enough to normally have either a wide ditch or a barrier between the carriageways. The area is fairly flat and the road is mainly surrounded by forests, mostly consisting of thin birches and pines, which get lower further north.",
+          "note": null
+        },
+        {
+          "id": "3-42",
+          "image": "/images/resize/600/80/sweden/e12_snostolpar.png",
+          "text": "If you are in a mountainous area with orange snow poles that have two wide reflectors close together, you are very likely to be near the Norwegian border on, or close to road E12.",
+          "note": null
+        },
+        {
+          "id": "3-43",
+          "image": "/images/resize/600/80/sweden/95gr_C3_A4ns.png",
+          "text": "The stretch of road 95 closest to the Norwegian border can be recognized by a large number of yellow snow poles, all having two white reflectors. The coverage can be either Generation 2 in autumn or winter, or snowy Generation 4.",
+          "note": null
+        },
+        {
+          "id": "3-44",
+          "image": "/images/resize/600/80/sweden/e10_sn_C3_B6stolpar.png",
+          "text": "If you see a mixture of orange and yellow snow poles in a mountainous area, you should be on road E10 close to the Norwegian border.",
+          "note": null
+        },
+        {
+          "id": "3-45",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "3-46",
+          "image": "/images/resize/600/80/sweden/95.png",
+          "text": "Road 95 west of Arjeplog can be recognised by the Generation 4 thawing snow coverage in a mountainous landscape. The amount of snow significantly decreases as you go further east.",
+          "note": null
+        },
+        {
+          "id": "3-47",
+          "image": "/images/resize/600/80/sweden/Umesno.png",
+          "text": "The city of Umeå has a lot of Generation 4 spring coverage, with dirty piles of thawing snow along almost every road. Almost no other city in the country has similar coverage.",
+          "note": null
+        },
+        {
+          "id": "3-48",
+          "image": "/images/resize/600/80/sweden/e45fuktigt.png",
+          "text": "The stretch of the E45 going between Orsa and Älvros can be recognised by the brown-red wet pavement with forest consisting of thin pines and birches along the roadside.",
+          "note": null
+        },
+        {
+          "id": "3-49",
+          "image": "/images/resize/600/80/sweden/holmon.png",
+          "text": "The island of Holmön has Generation 3 coverage, made by a white car with a long antenna, that features a distinctive visual glitch. NOTE: A similar glitch can be found elsewhere, however it should be less noticeable than on Holmön.",
+          "note": null
+        },
+        {
+          "id": "3-50",
+          "image": "/images/resize/600/80/sweden/foskrosv_C3_A4gen.png",
+          "text": "Foskrosvägen, on the border between Jämtland and Dalarna, can be recognised by the slightly red dirt on the road, combined with several water smudges on the camera. A good way to find the road when scanning is to look for the “Reindeer spot point” right on the county border.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Step 4 - Maps and resources",
+      "items": []
+    }
+  ]
+}

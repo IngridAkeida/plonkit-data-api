@@ -1,0 +1,391 @@
+{
+  "country": "Taiwan",
+  "url": "https://www.plonkit.net/taiwan",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:18:12.601854+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Identifying Taiwan",
+      "items": [
+        {
+          "id": "1-1",
+          "image": "/images/resize/900/80/taiwan/transparent-tw_summary_2026.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": "/images/resize/600/80/taiwan/Traditional_Chinese.png",
+          "text": "Taiwan uses Traditional Chinese. It is one of the most complex scripts visible on street view, with intricate characters that consist of many strokes. NOTE: Hong Kong also uses traditional Chinese characters on signage. Japanese uses some Chinese characters (kanji), meaning the script can look somewhat similar. However, Japanese will also have a considerable amount of more simplified looking characters (katakana and hiragana).",
+          "note": null
+        },
+        {
+          "id": "1-3",
+          "image": "/images/resize/600/80/taiwan/ui_remover.png",
+          "text": "Poles almost always feature these black and yellow diagonal-striped markings that run all the way to the bottom. NOTE: Similar markings can be seen in South Korea. However, the markings are much shorter and do not run all the way to the bottom.",
+          "note": null
+        },
+        {
+          "id": "1-4",
+          "image": "/images/resize/600/80/taiwan/tw_driving_side.png",
+          "text": "Taiwan drives on the right side of the road. NOTE: Japan and Hong Kong drive on the left.",
+          "note": null
+        },
+        {
+          "id": "1-5",
+          "image": "/images/resize/600/80/taiwan/ui_remover__281_29.png",
+          "text": "Roads in Taiwan generally feature double yellow middle lines with single white outer lines. Thinner roads sometimes use single dashed yellow lines instead.",
+          "note": null
+        },
+        {
+          "id": "1-6",
+          "image": "/images/resize/600/80/taiwan/outsidelines.png",
+          "text": "Roads with outside white road lines and no middle lines at all are common. In the absence of better clues, this type of road line can be a very good way to identify Taiwan.",
+          "note": null
+        },
+        {
+          "id": "1-7",
+          "image": "/images/resize/600/80/taiwan/redroadlines.png",
+          "text": "Red outer lines that indicate no parking are common in Taiwan, especially in cities. This is essentially unique to the country.",
+          "note": null
+        },
+        {
+          "id": "1-8",
+          "image": "/images/resize/600/80/taiwan/chevron.png",
+          "text": "Taiwan uses black on yellow chevrons.",
+          "note": null
+        },
+        {
+          "id": "1-9",
+          "image": "/images/resize/600/80/taiwan/mirror.png",
+          "text": "These mirrors with orange hoods are frequently featured in intersections and bends.",
+          "note": null
+        },
+        {
+          "id": "1-10",
+          "image": "/images/resize/600/80/taiwan/reflector.png",
+          "text": "Taiwan uses these bollards with either two or three circular reflectors on a black rectangle. You can also find these lollipop looking reflectors on guardrails, similar to the designs found in Japan.",
+          "note": null
+        },
+        {
+          "id": "1-11",
+          "image": "/images/resize/600/80/taiwan/ditch.png",
+          "text": "Concrete drainage ditches are commonly found on the side of roads.",
+          "note": null
+        },
+        {
+          "id": "1-12",
+          "image": "/images/resize/600/80/taiwan/distribution_transformer.png",
+          "text": "These distribution transformers that look like boxes are frequently found in Taiwan, especially in urban areas.They are mostly painted in dark green or grey.",
+          "note": null
+        },
+        {
+          "id": "1-13",
+          "image": "/images/resize/600/80/taiwan/architecture.png",
+          "text": "Architecture in Taiwan varies in designs, ranging from cramped, multiple-story housing to flat, single-story houses with backyards. Many residential buildings have a very boxy look. A lot of walls are covered in tiles, usually white. Sheds made out of tin are also featured, commonly painted in a light green colour.",
+          "note": null
+        },
+        {
+          "id": "1-14",
+          "image": "/images/resize/600/80/taiwan/black_car.png",
+          "text": "In Generation 3 coverage, you can find this black car with a long antenna and a red brake light in the middle, similar to the one you can see in Russia.",
+          "note": null
+        },
+        {
+          "id": "1-15",
+          "image": "/images/resize/600/80/taiwan/wide_blur.png",
+          "text": "You can also find this Generation 3 car with a very large blur that covers the entire car and almost looks like low-cam. Note that this is not the same as low-cam: the camera is still at a normal height, meaning you see the world around you from a normal vantage point.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Step 2 - Regional and county-specific clues",
+      "items": [
+        {
+          "id": "2-1",
+          "image": "/images/resize/600/80/taiwan/Taiwan_administrative_divisions.png",
+          "text": "This is a map of the counties of Taiwan. Importantly, Taiwan has a couple of smaller islands and island groups with coverage that are fairly far away from the main island. It is important to be aware of these, as they often catch beginning players off-guard. These include: Kinmen close to the coast of mainland China. Lienchiang (Matsu Islands), also close to the coast of mainland China. Penghu in the middle of the Taiwan Strait. Green Island and Orchid Island, southeast of the main island. These two islands belong to Taitung County.",
+          "note": null
+        },
+        {
+          "id": "2-2",
+          "image": "/images/resize/600/80/taiwan/twareacodes.png",
+          "text": "Taiwan telephone numbers are 10 digits, with the first two digits indicating the area code. Area codes range from 02 to 08, increasing as you go south. NOTE: Oftentimes the area code will be written within parentheses. Mobile numbers start with 09.",
+          "note": null
+        },
+        {
+          "id": "2-3",
+          "image": "/images/resize/600/80/taiwan/twfreeway.png",
+          "text": "Taiwan’s National Freeway system is organised so that odd numbers represent north-south roads and even numbers represent east-west. Generally, numbers also increase moving west to east and north to south. The 1 and the 3 are by far the longest, running across the west coast. You can click on the image to enlarge it.",
+          "note": null
+        },
+        {
+          "id": "2-4",
+          "image": "/images/resize/600/80/taiwan/county_roads.png",
+          "text": "These signs indicate Township roads, with the character written before or above the road number indicating the county. You can click on the image to enlarge it.",
+          "note": null
+        },
+        {
+          "id": "2-5",
+          "image": "/images/resize/600/80/taiwan/taiwan_electricity.png",
+          "text": "Many poles in Taiwan feature these blue plaques with strings of letters and numbers that act as precise coordinates. For an example of how to read the plaques in-game, the only thing that is useful here is the string “E3264”. “BE08” can further narrow down the position but is not practical in-game. “E” refers to the 50x80km rectangle from this map. “3264” means that within the rectangle, we are 32% eastward and 64% northward. This article explains how the string “BE08” can be further used to narrow down the exact coordinates of the telephone pole.",
+          "note": null
+        },
+        {
+          "id": "2-6",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "2-7",
+          "image": "/images/resize/600/80/taiwan/westplains.png",
+          "text": "The central western plain of Taiwan mainly consists of flat to low rolling plains. It is common to find crops and other farmland in this area.",
+          "note": null
+        },
+        {
+          "id": "2-8",
+          "image": "/images/resize/600/80/taiwan/Taiwan_mountains.png",
+          "text": "The central-eastern region that covers two-thirds of Taiwan consists of forested mountains. The central mountain range that runs all the way to the south of the island is made up of tall mountains and rugged valleys. At high elevations, the vegetation can look less tropical and feature temperate or even coniferous trees.",
+          "note": null
+        },
+        {
+          "id": "2-9",
+          "image": "/images/resize/600/80/taiwan/valley.png",
+          "text": "The Hualien-Taitung Valley is a thin and long valley located on the east coast of the island passing from Hualien City at the north to Taitung City at the south. It is very recognizable as it consists of flat gentle plains surrounded by densely-forested mountains to the east and west. NOTE: Most of the coverage on the east coast lies within this valley. There are also other valleys in central Taiwan that can look similar.",
+          "note": null
+        },
+        {
+          "id": "2-10",
+          "image": "/images/resize/600/80/taiwan/yilanplains.png",
+          "text": "The Yilan Plain is easily identifiable by the mountain ranges that are seen in the north, west, and south. Rice paddies are also extremely common as well as houses built right next to these fields. NOTE: While the landscape on the surface can look quite similar to the valleys of Hualien and Taitung, unlike those two, you will almost never find mountains to the east in the plains of Yilan. Furthermore, the flat plains of Yilan are also generally more open.",
+          "note": null
+        },
+        {
+          "id": "2-11",
+          "image": "/images/resize/600/80/taiwan/kinmen.png",
+          "text": "The island of Kinmen can be recognized by these trees with fuzzy leaves lining the road and red-tinged soil. NOTE: There is no Generation 4 coverage in Kinmen.",
+          "note": null
+        },
+        {
+          "id": "2-12",
+          "image": "/images/resize/600/80/taiwan/miaolihills.png",
+          "text": "Miaoli and Hsinchu share a landscape of low rolling hills and winding roads as well as sparse farmland with vegetation that can look messy and unkempt.",
+          "note": null
+        },
+        {
+          "id": "2-13",
+          "image": "/images/resize/600/80/taiwan/taichung.png",
+          "text": "Similarly, Taichung features these open plains surrounded by low mountains that are often in the distance.",
+          "note": null
+        },
+        {
+          "id": "2-14",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "2-15",
+          "image": "/images/resize/600/80/taiwan/areca.png",
+          "text": "Areca catechu, also known as areca palms or betel nut palms, are extensively found in central and southern Taiwan. Areca palms are most common in the mountainous regions of Taiwan, you can still see dense areca palm patches in northern counties but they are few and far between.",
+          "note": null
+        },
+        {
+          "id": "2-16",
+          "image": "/images/resize/600/80/taiwan/coconutpalms.png",
+          "text": "Coconut palms (Cocos nucifera) are primarily found in the southern-half of the island, toward the coast.",
+          "note": null
+        },
+        {
+          "id": "2-17",
+          "image": "/images/resize/600/80/taiwan/norfolk.png",
+          "text": "Norfolk island pines (Araucaria heterophylla) are extremely common in the county of Penghu, especially in tightly-packed rows next to roads. NOTE: While these trees can be found on the main island as well, they are usually never found in such close proximity.",
+          "note": null
+        },
+        {
+          "id": "2-18",
+          "image": "/images/resize/600/80/taiwan/bald.png",
+          "text": "These leafless trees are most frequently seen in Penghu.",
+          "note": null
+        },
+        {
+          "id": "2-19",
+          "image": "/images/resize/600/80/taiwan/fishfarms.png",
+          "text": "Cultivated fish farms are mostly found right next to the coast in the western counties.They are generally seen in the southern-half of the island, anywhere from Changhua to Pingtung, but predominantly found in the counties of Yunlin, Chiayi, Tainan, and Kaohsiung.",
+          "note": null
+        },
+        {
+          "id": "2-20",
+          "image": "/images/resize/600/80/taiwan/tea.png",
+          "text": "Tea plantations are generally seen in mountainous areas all over Taiwan. You can find them commonly in Chiayi, Nantou, Hsinchu, and Miaoli.",
+          "note": null
+        },
+        {
+          "id": "2-21",
+          "image": "/images/resize/600/80/taiwan/pingtungplantation.png",
+          "text": "These areca palm plantations are mostly found in the county of Pingtung. NOTE: Plantations in Pingtung are mainly found in neat, organised rows like these, in the flat plains. While in most central and southern counties, they will be found in the mountainous areas. Additionally, the counties further north will also rarely have areca palms in the flat plains of the west coast.",
+          "note": null
+        },
+        {
+          "id": "2-22",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "2-23",
+          "image": "/images/resize/600/80/taiwan/messyapartment.png",
+          "text": "Old and disorganised housing units as well as tall dingy-looking apartment blocks are frequently seen in the urban areas of northern Taiwan.",
+          "note": null
+        },
+        {
+          "id": "2-24",
+          "image": "/images/resize/600/80/taiwan/redbrick.png",
+          "text": "Taoyuan features these red brick and sometimes red tile apartment buildings. NOTE: They can also be commonly spotted in the greater Taipei area and rarely in other urban areas but are most common in Taoyuan.",
+          "note": null
+        },
+        {
+          "id": "2-25",
+          "image": "/images/resize/600/80/taiwan/yilanhouse.png",
+          "text": "In Yilan, you can find these rich multiple-story villas.They come in all types of designs and are often gated.",
+          "note": null
+        },
+        {
+          "id": "2-26",
+          "image": "/images/resize/600/80/taiwan/creamhouse.png",
+          "text": "White-tinged cream coloured houses are frequently seen in Penghu.",
+          "note": null
+        },
+        {
+          "id": "2-27",
+          "image": "/images/resize/600/80/taiwan/kinmenhouse.png",
+          "text": "You can find these small, traditional-looking houses in Kinmen.",
+          "note": null
+        },
+        {
+          "id": "2-28",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "2-29",
+          "image": "/images/resize/600/80/taiwan/lamppoststickers.png",
+          "text": "Similar to the blue plaques found on utility poles, Taiwan also features stickers to ID the locations of lamps. These can be found on both lampposts and utility poles with lamps attached to them. You can click on the image to enlarge it.",
+          "note": null
+        },
+        {
+          "id": "2-30",
+          "image": "/images/resize/600/80/taiwan/speckly.png",
+          "text": "Pavement with white speckles is commonly found along the east coast.",
+          "note": null
+        },
+        {
+          "id": "2-31",
+          "image": "/images/resize/600/80/taiwan/redwhitestripe.png",
+          "text": "Kinmen often features lampposts with red and white diagonal stripes. NOTE: Red and white striped markings are also found on the main island, especially in cities and urban areas.",
+          "note": null
+        },
+        {
+          "id": "2-32",
+          "image": "/images/resize/600/80/taiwan/kaohsiung__281_29.png",
+          "text": "Similarly, lampposts with red and white diagonal stripes on a trapezoidal base are frequently found in Kaohsiung City.",
+          "note": null
+        },
+        {
+          "id": "2-33",
+          "image": "/images/resize/600/80/taiwan/yunlin_pole.png",
+          "text": "In Yunlin, you can find poles with a thicker support below the pole top.",
+          "note": null
+        },
+        {
+          "id": "2-34",
+          "image": "/images/resize/600/80/taiwan/chiayigreensquare.png",
+          "text": "These green square stickers are typically seen on every pole in Chiayi City.",
+          "note": null
+        },
+        {
+          "id": "2-35",
+          "image": "/images/resize/600/80/taiwan/chevroncurve2.png",
+          "text": "These bent sign and chevron holders with two black and yellow-striped stickers are only found in Pingtung, Kaohsiung, and Taitung.",
+          "note": null
+        },
+        {
+          "id": "2-36",
+          "image": "/images/resize/600/80/taiwan/raised.png",
+          "text": "Distribution transformers raised by a dark green holder are mostly found in New Taipei City and Keelung City.",
+          "note": null
+        },
+        {
+          "id": "2-37",
+          "image": "/images/resize/600/80/taiwan/blue.png",
+          "text": "Blue outer lines are almost entirely exclusive to Penghu.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Step 3 - Spotlight",
+      "items": [
+        {
+          "id": "3-1",
+          "image": "/images/resize/600/80/taiwan/orchidgreenislands.png",
+          "text": "The islands east of Taitung, Green Island and Orchid Island, are distinct due to the more tropical climate, abundance of coconut palms, and lush cliffs. Additionally, it is common to find run-down, concrete pavement. NOTE: While the landscape between Green Island and Orchid Island are quite similar, a good way to distinguish the two is that Green Island frequently uses yellow outer lines. Additionally, Green Island is slightly more built-up.",
+          "note": null
+        },
+        {
+          "id": "3-2",
+          "image": "/images/resize/600/80/taiwan/lienchiangislands.png",
+          "text": "Lienchiang County, also referred to as the Matsu Islands, is recognizable from the hilly landscape and frequent use of concrete roads. The coverage is overcast and this pavement can also commonly be found.",
+          "note": null
+        },
+        {
+          "id": "3-3",
+          "image": "/images/resize/600/80/taiwan/provincialhighway8.png",
+          "text": "The Provincial Highway 8 that runs from Taichung to Hualien is very recognizable, specifically in the Hualien part, due to the yellow guardrail that can be found all throughout the western half of the road in the county. The eastern half of the road features these tall exposed-rock cliffs that tower over the road.",
+          "note": null
+        },
+        {
+          "id": "3-4",
+          "image": "/images/resize/600/80/taiwan/provincialhighway20.png",
+          "text": "The Provincial Highway 20, specifically the part that runs through Yushan National Park, features tall mountains covered with coniferous trees. The road also utilises these tube-like double guardrails. NOTE: This road is only covered in Generation 2 and 4. The Generation 4 coverage is very overexposed and features sunny weather.",
+          "note": null
+        },
+        {
+          "id": "3-5",
+          "image": "/images/resize/600/80/taiwan/taipingshan.png",
+          "text": "The road that leads up to Taipingshan National Forest in Yilan is distinct due to it often being very foggy when covered. Other features of this road include the coniferous trees and a guardrail with red legs. NOTE: Certain parts of the roads feature a sunset in Generation 3.",
+          "note": null
+        },
+        {
+          "id": "3-6",
+          "image": "/images/resize/600/80/taiwan/hualienplains.png",
+          "text": "This open landscape with forests of short trees surrounding a narrow grassy road can be found in Hualien in the flat parts of Guangfu and Fenglin. This area can be distinguished due to it being commonly covered in Generation 2; however, you can find similar landscapes in Generation 3 and 4.",
+          "note": null
+        },
+        {
+          "id": "3-7",
+          "image": "/images/resize/600/80/taiwan/greentraincar.png",
+          "text": "A green train car can be found in east Chiayi around Alishan National Forest.",
+          "note": null
+        },
+        {
+          "id": "3-8",
+          "image": "/images/resize/600/80/taiwan/bluetruck.png",
+          "text": "A blue pickup truck can be seen in a few of the riverside parks in Taipei City.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Step 4 - Maps and resources",
+      "items": []
+    }
+  ]
+}

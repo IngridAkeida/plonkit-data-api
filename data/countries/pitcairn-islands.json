@@ -1,0 +1,80 @@
+{
+  "country": "Pitcairn Islands",
+  "url": "https://www.plonkit.net/pitcairn-islands",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:20:16.641009+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Identifying Pitcairn Islands",
+      "items": [
+        {
+          "id": "1-1",
+          "image": "/images/resize/900/80/pitcairn-islands/0_summary_pitcairn.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": "/images/resize/600/80/pitcairn-islands/Pitcairn_Islands_in_United_Kingdom.svg.png",
+          "text": "The Pitcairn Islands are a group of four islands in the South Pacific Ocean and a territory of the United Kingdom. As such, it is counted as the UK for country streaks purposes.",
+          "note": null
+        },
+        {
+          "id": "1-3",
+          "image": "/images/resize/600/80/pitcairn-islands/pn_coverage.png",
+          "text": "Coverage is limited to two islands: Pitcairn Island and Henderson Island. The following clues will be focused on Pitcairn Island, as Henderson Island only has a very small amount of beach coverage.",
+          "note": null
+        },
+        {
+          "id": "1-4",
+          "image": "/images/resize/600/80/pitcairn-islands/pn_trekker.png",
+          "text": "All coverage was taken with a Generation 3 trekker.",
+          "note": null
+        },
+        {
+          "id": "1-5",
+          "image": "/images/resize/600/80/pitcairn-islands/pn_landscape.png",
+          "text": "Pitcairn Island is a semi-tropical and densely forested island, with most of the coverage being taken on small dirt tracks going through the forest.",
+          "note": null
+        },
+        {
+          "id": "1-6",
+          "image": "/images/resize/600/80/pitcairn-islands/pn_soil.png",
+          "text": "The soil is commonly very red.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Step 2 - Regional clues",
+      "items": [
+        {
+          "id": "2-1",
+          "image": "/images/resize/600/80/pitcairn-islands/pn_adamstown.png",
+          "text": "Adamstown is the only settlement on Pitcairn Island, and is found near the northeastern shore. Some of the roads going through the town are made of concrete rather than dirt.",
+          "note": null
+        },
+        {
+          "id": "2-2",
+          "image": "/images/resize/600/80/pitcairn-islands/pn_henderson.png",
+          "text": "The coverage on Henderson Island is limited to two white sand beaches on the northern and eastern shore.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Step 3 - Spotlight",
+      "items": [
+        {
+          "id": "3-1",
+          "image": "/images/resize/600/80/pitcairn-islands/pn_toughslope.png",
+          "text": "A dock with the POI “The Landing” containing a large number of small ATVs can be found at the eastern end of Adamstown.",
+          "note": null
+        }
+      ]
+    }
+  ]
+}

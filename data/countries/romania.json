@@ -1,0 +1,253 @@
+{
+  "country": "Romania",
+  "url": "https://www.plonkit.net/romania",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:19:11.939766+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Identifying Romania",
+      "items": [
+        {
+          "id": "1-1",
+          "image": "/images/resize/900/80/romania/transparent-ro_summary_2026.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": "/images/resize/600/80/romania/ro_licenseplate.png",
+          "text": "Romania uses standard long, white European plates with a single blue strip on the left.",
+          "note": null
+        },
+        {
+          "id": "1-3",
+          "image": "/images/resize/600/80/romania/ro_language.png",
+          "text": "Romanian is a Romance language similar to Italian, containing the following special letters: Ă ă Ș ș Ț ț These letters are also found in some other European languages: Â â, used in French, Portuguese and Turkish Î î, used in French, Turkish and Italian",
+          "note": null
+        },
+        {
+          "id": "1-4",
+          "image": "/images/resize/600/80/romania/ro_holeypole.png",
+          "text": "The most common types of utility poles in Romania are holey poles with the holes going all the way to the bottom. The holes are typically either quite wide or quite tall. NOTE: Poland and Hungary also both use holey poles. Polish holey poles do not have holes near the bottom and Hungarian holey poles generally have smaller holes than in Romania.",
+          "note": null
+        },
+        {
+          "id": "1-5",
+          "image": "/images/resize/600/80/romania/ro_undpoles.png",
+          "text": "Round concrete poles are also quite common. NOTE: These are very similar to poles found in Bulgaria.",
+          "note": null
+        },
+        {
+          "id": "1-6",
+          "image": "/images/resize/600/80/romania/ro_whitepaint.png",
+          "text": "Trees and poles will often have white painted bottoms. NOTE: This is also common in Ukraine and parts of Russia.",
+          "note": null
+        },
+        {
+          "id": "1-7",
+          "image": "/images/resize/600/80/romania/ro_polesticker.png",
+          "text": "This type of extremely large yellow pole sticker is specific to Romania. Beware that smaller stickers are also common and that both Bulgaria and Hungary can have similar ones. NOTE: The town or city name will typically be written close to the middle of these stickers. In this case Podu Iloaiei is written.",
+          "note": null
+        },
+        {
+          "id": "1-8",
+          "image": "/images/resize/600/80/romania/ro_trianglepoletop.png",
+          "text": "Two support bars holding up the metal bar on pole tops, resembling an upside down triangle, can sometimes be found in Romania. NOTE: Czechia, Slovakia, Albania and Serbia also feature this pole top.",
+          "note": null
+        },
+        {
+          "id": "1-9",
+          "image": "/images/resize/600/80/romania/ro_adstones.png",
+          "text": "It is very common to see waystones in Romania. They are typically fairly large, with red or blue framing with the road number on the side, or made of actual stone and somewhat rugged-looking. There is also a very small variant which is all white.",
+          "note": null
+        },
+        {
+          "id": "1-10",
+          "image": "/images/resize/600/80/romania/ro_adlines.png",
+          "text": "While there are many types of roadlines in Romania, these outer lines, consisting of short dashes with narrow spaces, can be a good clue for the country.",
+          "note": null
+        },
+        {
+          "id": "1-11",
+          "image": "/images/resize/600/80/romania/ro_road_lines.png",
+          "text": "Middle lines are often noticeably thicker than average. This is especially useful to tell Romania apart from Bulgaria, which generally has thinner road lines.",
+          "note": null
+        },
+        {
+          "id": "1-12",
+          "image": "/images/resize/600/80/romania/ro_directionalsigns.png",
+          "text": "Romanian directional signs are blue, arrow shaped, and have a white border. They will very often display the road number, which can be either red or blue.",
+          "note": null
+        },
+        {
+          "id": "1-13",
+          "image": "/images/resize/600/80/romania/ro_townentry.png",
+          "text": "The most common type of town entry sign in Romania is a yellow sign displaying a speed limit and a city skyline, with a white sign displaying the town name below. NOTE: The upper sign can also either be white or completely absent.",
+          "note": null
+        },
+        {
+          "id": "1-14",
+          "image": "/images/resize/600/80/romania/ro_blacksignback.png",
+          "text": "Romanian sign backs are often black. NOTE: This is also common in Italy, Albania and Germany.",
+          "note": null
+        },
+        {
+          "id": "1-15",
+          "image": "/images/resize/600/80/romania/ro_chevron.png",
+          "text": "Romanian chevrons are red on white, often with a yellow frame. NOTE: Several eastern and central European countries have the red on white chevrons, however yellow frames are by far the most common in Romania.",
+          "note": null
+        },
+        {
+          "id": "1-16",
+          "image": "/images/resize/600/80/romania/ro_bollard.png",
+          "text": "Romanian bollards are thin and white, with a red vertical strip near the top. It is worth noting that bollards in Romania are somewhat rare. NOTE: Turkey has a very similar bollard.",
+          "note": null
+        },
+        {
+          "id": "1-17",
+          "image": "/images/resize/600/80/romania/ro_prioritysign.png",
+          "text": "This yield sign, with an extremely thick red border, with a thin white outline, is unique to Romania. Beware that different yield signs also exist in Romania.",
+          "note": null
+        },
+        {
+          "id": "1-18",
+          "image": "/images/resize/600/80/romania/ro_architecture.png",
+          "text": "Romanian architecture primarily consists of single-family houses made of stone, typically painted in different pastel colours and with roofs ranging from orange tiles to grey metal. It is also somewhat common to see houses with walls made of painted square tiles in different patterns.",
+          "note": null
+        },
+        {
+          "id": "1-19",
+          "image": "/images/resize/600/80/romania/ro_landscape.png",
+          "text": "The Romanian landscape ranges from tall forested mountains and hills in the centre to flat or rolling agricultural landscapes in the south, west and east.",
+          "note": null
+        },
+        {
+          "id": "1-20",
+          "image": "/images/resize/600/80/romania/ro_haystack.png",
+          "text": "This type of haystack, typically featuring a stick going straight through, is very common in Romania.",
+          "note": null
+        },
+        {
+          "id": "1-21",
+          "image": "/images/resize/600/80/romania/ro_dacia.png",
+          "text": "Dacia is the most common car brand in Romania, making up more than a quarter of all vehicles in the country. NOTE: No other eastern European country has more than 10% Dacias.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Step 2 - Regional clues",
+      "items": [
+        {
+          "id": "2-1",
+          "image": "/images/resize/600/80/romania/ro_topography.png",
+          "text": "This is an elevation map of Romania. The tallest mountains are found in the middle and north of the country, while the south and west are particularly flat.",
+          "note": null
+        },
+        {
+          "id": "2-2",
+          "image": "/images/resize/600/80/romania/ro_flat.png",
+          "text": "Completely flat agricultural landscapes can be found in the south and west. NOTE: If you can see distant hills or mountains to the north, you are likely in the south, and if you see them to the south or east, you are likely in the west.",
+          "note": null
+        },
+        {
+          "id": "2-3",
+          "image": "/images/resize/600/80/romania/ro_tiledroofs.png",
+          "text": "If you see several houses and almost all of them have orange tiled roofs, you are likely to be in the western half of the country.",
+          "note": null
+        },
+        {
+          "id": "2-4",
+          "image": "/images/resize/600/80/romania/ro_metalroofsandplasticfaketiles.png",
+          "text": "Similarly, if you see several houses and almost all of them have metal or plastic fake tiled roofs, you will probably be in the eastern half of the country.",
+          "note": null
+        },
+        {
+          "id": "2-5",
+          "image": "/images/resize/600/80/romania/ro_hungarianvillage.png",
+          "text": "Villages near the Hungarian border will often be built in the same style as villages in Hungary. This style can be summarised as having long, straight streets with single-storey houses being evenly spaced along the road, typically having the short side of the house facing the road. The vast majority of roofs will have orange tiles.",
+          "note": null
+        },
+        {
+          "id": "2-6",
+          "image": "/images/resize/600/80/romania/ro_eastvalleys.png",
+          "text": "South of Iași, near the border to Moldova, you can find rolling agricultural valleys with a very specific north-north-west to south-south-east angle. NOTE: Make sure to look for agricultural fields on top of the hills to confirm this region.",
+          "note": null
+        },
+        {
+          "id": "2-7",
+          "image": "/images/resize/600/80/romania/ro_hungarian.png",
+          "text": "Bilingual signs with Hungarian are mostly found in the central regions of Covasna, Harghita and Mureş, but also less commonly near the Hungarian border.",
+          "note": null
+        },
+        {
+          "id": "2-8",
+          "image": "/images/resize/600/80/romania/ro_maramuresgate.png",
+          "text": "Elaborately decorated wooden gates are commonly found in the region of Maramureș.",
+          "note": null
+        },
+        {
+          "id": "2-9",
+          "image": "/images/resize/600/80/romania/ro_sunflowers.png",
+          "text": "Sunflowers are primarily found in the far east of the country, and secondly in the far west.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Step 3 - Spotlight",
+      "items": [
+        {
+          "id": "3-1",
+          "image": "/images/resize/600/80/romania/ro_streetsigns.png",
+          "text": "Several Romanian cities and towns have unique street signs. This infographic covers all with a population above 100 000.",
+          "note": null
+        },
+        {
+          "id": "3-2",
+          "image": "/images/resize/600/80/romania/ro_67c.png",
+          "text": "The 67C is a mountain road with all yellow road lines.",
+          "note": null
+        },
+        {
+          "id": "3-3",
+          "image": "/images/resize/600/80/romania/ro_7c.png",
+          "text": "The 7C is recognisable as going through some of the most dramatic mountains in Romania. The highest point on the road is right by the border between Sibiu and Argeș.",
+          "note": null
+        },
+        {
+          "id": "3-4",
+          "image": "/images/resize/600/80/romania/ro_sibiueyes.png",
+          "text": "This type of window, shaped like a squinting eye, is most commonly found in the city of Sibiu.",
+          "note": null
+        },
+        {
+          "id": "3-5",
+          "image": "/images/resize/600/80/romania/ro_brasovgen2.png",
+          "text": "If you see a mountainous landscape in Generation 2, you are likely close to Brașov.",
+          "note": null
+        },
+        {
+          "id": "3-6",
+          "image": "/images/resize/600/80/romania/ro_bucharestgen2.png",
+          "text": "Flat landscapes in Generation 2 are mostly found near Bucharest.",
+          "note": null
+        },
+        {
+          "id": "3-7",
+          "image": "/images/resize/600/80/romania/ro_boattrekker.png",
+          "text": "A boat trekker, with a green boat, can be found in the far east of the country. It mostly goes through small, overgrown canals in a flat landscape. NOTE: There is no road coverage in this region.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Step 4 - Maps and resources",
+      "items": []
+    }
+  ]
+}

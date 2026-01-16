@@ -1,0 +1,158 @@
+{
+  "country": "Luxembourg",
+  "url": "https://www.plonkit.net/luxembourg",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:18:57.927249+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Identifying Luxembourg",
+      "items": [
+        {
+          "id": "1-1",
+          "image": "/images/resize/900/80/luxembourg/0_lux_summary_2026",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": "/images/resize/600/80/luxembourg/Luxembourg_License_Plate.png",
+          "text": "Luxembourg uses long yellow plates with a blue strip on the left. Since Luxembourg is a small country, foreign cars with white plates are somewhat common. NOTE: There are only a few other European countries that use yellow plates for private vehicles: The Netherlands has yellow plates front and rear. The UK has yellow rear plates. Some pre-2009 French cars have yellow rear plates.",
+          "note": null
+        },
+        {
+          "id": "1-3",
+          "image": "/images/resize/600/80/luxembourg/Bollards.png",
+          "text": "Bollards are black and white. They are wedge-shaped and have grey reflectors. Some have a distinctive indent in the lower half. NOTE: They look more or less identical to German bollards. The most notable difference is that the reflectors on German bollards have two bolts, while in Luxembourg they have three. The bollards of Belgium, the Netherlands and France look very different.",
+          "note": null
+        },
+        {
+          "id": "1-4",
+          "image": "/images/resize/600/80/luxembourg/Chevrons.png",
+          "text": "Chevrons are black with yellow arrows. You may also rarely come across blue and yellow chevrons. NOTE: None of Luxembourg’s neighbours use these chevrons. The only other European countries with this colour scheme tend to have wildly different landscapes: Iceland, Norway, Finland, Ireland, and Portugal.",
+          "note": null
+        },
+        {
+          "id": "1-5",
+          "image": "/images/resize/600/80/luxembourg/Poletops.png",
+          "text": "Poles with poletops shaped like upside-down tridents are the most common type of pole in Luxembourg. In addition, you can find a variety of other poletops. NOTE: These poles can also be commonly seen in France, Spain and Portugal.",
+          "note": null
+        },
+        {
+          "id": "1-6",
+          "image": "/images/resize/600/80/luxembourg/Luxembourg_camera_meta.png",
+          "text": "Almost all coverage in Luxembourg is either Generation 2 or Generation 4. Generation 3 is rare, but does exist.",
+          "note": null
+        },
+        {
+          "id": "1-7",
+          "image": "/images/resize/600/80/luxembourg/French_and_German2.png",
+          "text": "Luxembourg is a highly multilingual country. It has three administrative languages: Luxembourgish, French, and German. French is the language that is mostly used for public communication. Road signs and advertisements are usually in French. Presence of German on signs is less common compared to French, but certainly not non-existent.",
+          "note": null
+        },
+        {
+          "id": "1-8",
+          "image": "/images/resize/600/80/luxembourg/lu_language.png",
+          "text": "Luxembourgish is closely related to German and can look very similar. Like German, it uses umlauts (dots over vowels). In addition, it uses a fair amount of double vowels, and sometimes an é with an accent. Most town names have their origin in Luxembourgish, German, or both.",
+          "note": null
+        },
+        {
+          "id": "1-9",
+          "image": "/images/resize/600/80/luxembourg/Directional_signs.png",
+          "text": "Directional signs are yellow with a thin black outline. Town names are written in uppercase. The signs have a pointed tip. They are completely surrounded by a frame, making them very recognizable. Some directional signs feature road numbers: Regional road numbers have 1 or 2 digits and a red box. Local road numbers have 3 digits and a yellow box.",
+          "note": null
+        },
+        {
+          "id": "1-10",
+          "image": "/images/resize/600/80/luxembourg/Town_entry_sign.png",
+          "text": "Town entrance signs are also yellow and surrounded by a frame. Most of these signs have bilingual versions of the town name. They frequently have the road number on the top, along with a speed limit sign.",
+          "note": null
+        },
+        {
+          "id": "1-11",
+          "image": "/images/resize/600/80/luxembourg/Framing.png",
+          "text": "The frames mentioned in the previous two tips are also commonly found on a lot of other road infrastructure. NOTE: Denmark notably also uses a lot of similar-looking frames on road infrastructure. A recognizable difference is that the corners on Luxembourg frames are more square, while Danish frames are more rounded.",
+          "note": null
+        },
+        {
+          "id": "1-12",
+          "image": "/images/resize/600/80/luxembourg/lu_signpost.png",
+          "text": "Almost all Luxembourgish road signs will be supported by a white signpost. NOTE: While not nearly as common, white signposts are also found in France.",
+          "note": null
+        },
+        {
+          "id": "1-13",
+          "image": "/images/resize/600/80/luxembourg/Street_signs.png",
+          "text": "Street signs are almost always short and usually have a white background. The exact designs vary from town to town. A very common design is the one pictured on the left in the example image, with slanted blue corners. NOTE: Belgian street signs often appear short as well, but can have other background colours – not just white. In addition, Dutch street signs almost always have a blue background and tend to be much longer than they are tall.",
+          "note": null
+        },
+        {
+          "id": "1-14",
+          "image": "/images/resize/600/80/luxembourg/Signpost_markings.png",
+          "text": "Some signposts have this bulky, round reflector with blue and white markings. NOTE: Similar markings are found in Sweden and Finland. Landscape should be sufficient to tell these apart from Luxembourg, however.",
+          "note": null
+        },
+        {
+          "id": "1-15",
+          "image": "/images/resize/600/80/luxembourg/Pedestrian_sign.png",
+          "text": "Pedestrian signs have 5 vertical stripes. NOTE: Belgian pedestrian signs have 2 horizontal stripes.",
+          "note": null
+        },
+        {
+          "id": "1-16",
+          "image": "/images/resize/600/80/luxembourg/Bus_stop_sign.png",
+          "text": "Bus stop signs are blue and always have this exact design. The bus has six windows. NOTE: Bus stop signs in Belgium and the Netherlands have significantly different designs. For example, the Belgian bus stop sign always has a yellow signpost.",
+          "note": null
+        },
+        {
+          "id": "1-17",
+          "image": "/images/resize/600/80/luxembourg/Landscape2.png",
+          "text": "Almost all of Luxembourg’s landscape consists of green rolling hills, with a patchwork of agriculture and forests. NOTE: If you see a yellow licence plate, and you are not sure what country it belongs to, landscape is often a good clue: almost all of the Netherlands is completely flat.",
+          "note": null
+        },
+        {
+          "id": "1-18",
+          "image": "/images/resize/600/80/luxembourg/Architecture.png",
+          "text": "Houses tend to have dark slate roofs. Walls and windows tend to be plain and undecorated. Walls are usually painted white, grey, or pastel colours. NOTE: Such architecture can also be found in the surrounding regions in Belgium and France, but is especially prominent in Luxembourg.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Step 2 - Regional and canton-specific clues",
+      "items": [
+        {
+          "id": "2-1",
+          "image": "/images/resize/600/80/luxembourg/Road_numbers.png",
+          "text": "Local road numbers have three digits. They are geographically clustered by first digit. The first digits range from 1-3. 1xx is found in the southern half. 2xx is found in and around the capital. 3xx is found in the northern half.",
+          "note": null
+        },
+        {
+          "id": "2-2",
+          "image": "/images/resize/600/80/luxembourg/Lux_elevation.png",
+          "text": "The north of the country is hillier and has an overall higher elevation than the south.",
+          "note": null
+        },
+        {
+          "id": "2-3",
+          "image": "/images/resize/600/80/luxembourg/Vineyards.png",
+          "text": "Vineyards are primarily found in the southeast of the country.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Step 3 - Spotlight",
+      "items": [
+        {
+          "id": "3-1",
+          "image": "/images/resize/600/80/luxembourg/Lux_city_trekker.png",
+          "text": "Some of Luxembourg City’s downtown area was covered by a Generation 3 urban trekker. Occasionally, the trekker’s sunglasses and greying hair can be seen.",
+          "note": null
+        }
+      ]
+    }
+  ]
+}

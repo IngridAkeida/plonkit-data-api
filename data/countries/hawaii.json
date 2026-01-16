@@ -1,0 +1,224 @@
+{
+  "country": "Hawaii",
+  "url": "https://www.plonkit.net/hawaii",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:19:51.360985+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Identifying Hawaii",
+      "items": [
+        {
+          "id": "1-1",
+          "image": "/images/resize/900/80/hawaii/transparent-hawaii_summary_2025.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": "/images/resize/600/80/hawaii/hi_plate.png",
+          "text": "The most common Hawaii licence plate is white with an arcing rainbow across the centre of the plate. When blurred, you can sometimes see the outline of the rainbow. Front plates are required in Hawaii.",
+          "note": null
+        },
+        {
+          "id": "1-3",
+          "image": "/images/resize/600/80/hawaii/I_want_to_visit_Honolulu_.png",
+          "text": "Hawaii is the only state to use its own language, though English is still predominantly used. Most place names are in Hawaiian, so you can spot it on street signs, and other road markers. Hawaiian is a vowel-oriented language that only uses eight consonants: H, K, L, M, N, P, W, and (ʻ), called an ʻOkina. Every Hawaiian word ends in one of 5 vowels: A, E, I, O, or U. Each vowel can also have a macron over it: Ā, Ē, Ī, Ō, and Ū. These vowels are often combined to make Diphthongs. I.e. UI, AI, AE, etc...",
+          "note": null
+        },
+        {
+          "id": "1-4",
+          "image": "/images/resize/600/80/hawaii/hawaii_smallcam.png",
+          "text": "Hawaii has a large amount of Generation 4 \"smallcam\" coverage, which is mounted lower than regular Generation 4 and has a relatively big circular blur with a small protrusion at the front, with parts of the car being visible. The blur can also be fully transparent, making it harder to spot.",
+          "note": null
+        },
+        {
+          "id": "1-5",
+          "image": "/images/resize/600/80/hawaii/Why_are_you_reading_this_Look_at_the_beautiful_pictures.png",
+          "text": "Hawaii is known for its lush and tropical vegetation, with a variety of plants and trees. However, being a volcanic island chain, Hawaii has a wide range of landscapes, and as such vegetation as well. You will often see plenty of ferns, tall grass, or other flowers on the sides of the roads.",
+          "note": null
+        },
+        {
+          "id": "1-6",
+          "image": "/images/resize/600/80/hawaii/Yes_I_know_its_beautiful.png",
+          "text": "Topography on Hawaii is characterised by many sloping volcanoes, rugged cliffs, hills, valleys and craters. Such distinct topography combined with tropical vegetation is a good way to identify Hawaii.",
+          "note": null
+        },
+        {
+          "id": "1-7",
+          "image": "/images/resize/600/80/hawaii/hawaii_architecture.png",
+          "text": "Contemporary Hawaiian homes are typically 1 or 2 storey wooden structures, commonly lighter in colour. Many homes feature retaining walls made of volcanic rock.",
+          "note": null
+        },
+        {
+          "id": "1-8",
+          "image": "/images/resize/600/80/hawaii/poleband.png",
+          "text": "Thick yellow bands can sometimes be seen on poles in Hawaii. NOTE: Make sure not to confuse this with the 3 stripes found on Californian poles.",
+          "note": null
+        },
+        {
+          "id": "1-9",
+          "image": "/images/resize/600/80/hawaii/hawaii_statehighway.png",
+          "text": "Hawaii uses highway shields that resemble a guitar pick, with the numbers on the bottom of the shield. Most highway signs also use yellow signposts.",
+          "note": null
+        },
+        {
+          "id": "1-10",
+          "image": "/images/resize/600/80/hawaii/Colombia_right.png",
+          "text": "A stubby antenna can be seen in most Generation 3 coverage on Hawaii. NOTE: The antenna is not always visible, so make sure to look out for other clues before guessing.",
+          "note": null
+        },
+        {
+          "id": "1-11",
+          "image": "/images/resize/600/80/hawaii/round.png",
+          "text": "Hawaii has a fair amount of Generation 2 coverage, compared to other US states. Especially on more rural roads. NOTE: Generation 2 can be recognized by the lower quality camera, and circular blur above and below the camera.",
+          "note": null
+        },
+        {
+          "id": "1-12",
+          "image": "/images/resize/600/80/hawaii/hi_reflector.png",
+          "text": "Raised pavement markers in Hawaii will commonly be placed in a specific pattern: a single reflector, followed by four reflectors put close together and then a single reflector, repeating the pattern.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Step 2 - Regional clues",
+      "items": [
+        {
+          "id": "2-1",
+          "image": "/images/resize/600/80/hawaii/hawaii_numbering.png",
+          "text": "State highways are grouped by their first digit, with 1 and 2 found on Hawaiʻi, 3 on Maui, 4 on Molokaʻi and Lānaʻi, 5 on Kauaʻi and 6 to 9 on Oʻahu. Moreover, all four of the so-called interstate highways are located on Oʻahu.",
+          "note": null
+        },
+        {
+          "id": "2-2",
+          "image": "/images/resize/600/80/hawaii/hawaii_blackcar.png",
+          "text": "On the three largest islands, namely Hawaiʻi, Maui and Oʻahu, smallcam coverage was taken with a black Google car.",
+          "note": null
+        },
+        {
+          "id": "2-3",
+          "image": "/images/resize/600/80/hawaii/hawaii_whitecar.png",
+          "text": "Smallcam imagery on the islands of Kauaʻi, Molokaʻi and Lānaʻi was captured by a white car. Just like with the black car, you will often be able to see the unblurred hood and mirrors.",
+          "note": null
+        },
+        {
+          "id": "2-4",
+          "image": "/images/resize/600/80/hawaii/Copy_of_Hawaii_Hint1.png",
+          "text": "Generation 2 and non-smallcam Generation 4 coverage can only be found on the islands of Hawaiʻi, Maui and Oʻahu. The other islands only have Generation 3 or smallcam coverage.",
+          "note": null
+        },
+        {
+          "id": "2-5",
+          "image": "/images/resize/600/80/hawaii/hawaii_kauai_2025.png",
+          "text": "The Island of Kauaʻi is the furthest west island in Hawaii with official Google coverage. This island has deep red soil and has large rugged hills with lush, jungle-like vegetation. NOTE: Other islands such as Maui and Molokaʻi have similar soil colours, but the hillsides on them will typically have less dense vegetation.",
+          "note": null
+        },
+        {
+          "id": "2-6",
+          "image": "/images/resize/600/80/hawaii/hawaii_oahu.png",
+          "text": "The Island of Oʻahu lies southeast of Kauaʻi. It is known for being home to the Honolulu urban area. It also is home to steep, lush hills, which can be commonly seen from all around the island, especially in Honolulu’s suburbs.",
+          "note": null
+        },
+        {
+          "id": "2-7",
+          "image": "/images/resize/600/80/hawaii/hawaii_honolulu.png",
+          "text": "Honolulu, located on southern Oʻahu, is by far the largest city and urban area in Hawaii. If you are in a dense urban area and can see tall buildings, you will always be in or near Honolulu.",
+          "note": null
+        },
+        {
+          "id": "2-8",
+          "image": "/images/resize/600/80/hawaii/hawaii_molokai_new.png",
+          "text": "The Island of Molokaʻi is just southeast of Oʻahu. It features deep red soil and a prominent volcano on the eastern end of the island. Especially in the older Generation 3 coverage, the vegetation appears very dry. Molokaʻi is also very sparsely populated.",
+          "note": null
+        },
+        {
+          "id": "2-9",
+          "image": "/images/resize/600/80/hawaii/hawaii_lanaicentral_new.png",
+          "text": "The Island of Lānaʻi is a small, yet distinct island that lies just south of Moloka’i. A volcano is found just east of the centre of the island, adjacent to the town of Lānaʻi. In this area, tall Cook pines are abundant. In addition, some main roads near the centre of the island are lined with younger Cook pines.",
+          "note": null
+        },
+        {
+          "id": "2-10",
+          "image": "/images/resize/600/80/hawaii/hawaii_lanaicoastal_new.png",
+          "text": "Towards the coasts of the island of Lānaʻi, hills dotted with dry grass and shrubby vegetation are commonly seen. These areas are very rural with few buildings.",
+          "note": null
+        },
+        {
+          "id": "2-11",
+          "image": "/images/resize/600/80/hawaii/hawaii_mauicentral.png",
+          "text": "The Island of Maui sits southeast of Molokaʻi. In the centre of the island, you will find dry and somewhat flat grasslands with one or both of the mountain ranges on the island visible.",
+          "note": null
+        },
+        {
+          "id": "2-12",
+          "image": "/images/resize/600/80/hawaii/hawaii_mauicoastal.png",
+          "text": "Coastal areas of Maui are noticeably more lush and green. Banana plants, palm trees, and views of the mountains are all common.",
+          "note": null
+        },
+        {
+          "id": "2-13",
+          "image": "/images/resize/600/80/hawaii/hawaii_hawaiicentral.png",
+          "text": "The Island of Hawai’i (also referred to as The Big Island) is both the largest and farthest southeast island with Street View coverage in the state. The interior areas feature rolling, grassy plains and volcanic rocks. You can typically see one or more of the island’s volcanoes from the road.",
+          "note": null
+        },
+        {
+          "id": "2-14",
+          "image": "/images/resize/600/80/hawaii/hawaii_hawaiicoastal.png",
+          "text": "The coastal areas of the island of Hawai’i are where most of the towns and built-up areas on the island are located. These areas are typically more lush and have more trees and fern plants than the interior.",
+          "note": null
+        },
+        {
+          "id": "2-15",
+          "image": "/images/resize/600/80/hawaii/Copy_of_Copy_of_Hawaii_Hint.png",
+          "text": "Rural roads going through forests within a flat landscape are commonly found south of the city of Hilo, on the island of Hawaiʻi. NOTE: Mountainous forests are dotted around Hawaii, but if you are in one, and you see red soil with Generation 3, consider guessing in Kauaʻi, the westernmost covered island.",
+          "note": null
+        },
+        {
+          "id": "2-16",
+          "image": "/images/resize/600/80/hawaii/Quite_tropical_for_Estonia.png",
+          "text": "Within Hawaii, a distinct green blur can only be seen on the island of Oʻahu.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Step 3 - Spotlight",
+      "items": [
+        {
+          "id": "3-1",
+          "image": "/images/resize/600/80/hawaii/The_Great_Hawaii_Lattice1.png",
+          "text": "The infamous “Hawaiian lattice” can be recognized by the volcanic soil and rocks that are abundant in the region. Volcanic vegetation can also be seen lining the roads. Note that the angle of the roads is a big clue for the area, and that this lattice was built on the slope of Mauna Loa.",
+          "note": null
+        },
+        {
+          "id": "3-2",
+          "image": "/images/resize/600/80/hawaii/hi_kaunakakai_new2.png",
+          "text": "The town of Kaunakakai is the largest settlement on the Island of Molokaʻi. It is the only area on the island with an ‘urban’ vibe. As it is on Molokaʻi, the soil is somewhat red.",
+          "note": null
+        },
+        {
+          "id": "3-3",
+          "image": "/images/resize/600/80/hawaii/redhill.png",
+          "text": "The Red Hill can easily be recognised by this unique barren, red rocky landscape. Due to the high altitude, clouds are usually visible below you.",
+          "note": null
+        },
+        {
+          "id": "3-4",
+          "image": "/images/resize/600/80/hawaii/hawaii_molokaivolcano_new.png",
+          "text": "On the eastern side of the island of Molokaʻi lies the Kamakou volcano, leading to a significantly hillier and slightly more vegetated landscape than the western parts of the island.",
+          "note": null
+        },
+        {
+          "id": "3-5",
+          "image": "/images/resize/600/80/hawaii/kahoolawe.png",
+          "text": "Kahoʻolawe is a small island that lies just to the southwest of Maui. It only has trekker coverage on small gravel roads and dirt trails, and is characterised by dry, shrubby vegetation, rolling hills, and dark red soil. On the western end of this coverage, several buildings can be seen.",
+          "note": null
+        }
+      ]
+    }
+  ]
+}

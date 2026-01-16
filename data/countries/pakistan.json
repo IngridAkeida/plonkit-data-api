@@ -1,0 +1,176 @@
+{
+  "country": "Pakistan",
+  "url": "https://www.plonkit.net/pakistan",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:18:07.291677+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Identifying Pakistan",
+      "items": [
+        {
+          "id": "1-1",
+          "image": "/images/resize/900/80/pakistan/0_pk_summary.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": "/images/resize/600/80/pakistan/pk_trekker.png",
+          "text": "Coverage in Pakistan was mainly taken with a Generation 3 trekker camera.",
+          "note": null
+        },
+        {
+          "id": "1-3",
+          "image": "/images/resize/600/80/pakistan/pk_language.png",
+          "text": "While many languages are spoken in Pakistan, Urdu is considered the National language and most commonly found on signage. It is written in the Urdu alphabet, which is closely related to the Arabic alphabet and may appear almost indistinguishable, however Urdu often uses softer and curvier fonts. Notably, English is also an official language in Pakistan and is fairly common on signage.",
+          "note": null
+        },
+        {
+          "id": "1-4",
+          "image": "/images/resize/600/80/pakistan/pk_licenceplate.png",
+          "text": "Pakistan uses short licence plates and each region has its unique design. However, as all of the coverage was taken in Punjab, most plates will have the Punjab design, with a green strip on the left side. Fully green plates are also fairly common. NOTE: India primarily uses long licence plates.",
+          "note": null
+        },
+        {
+          "id": "1-5",
+          "image": "/images/resize/600/80/pakistan/pk_mughalgardens.png",
+          "text": "A significant portion of the Pakistani coverage was taken in large, well ordered gardens, often surrounded by stone walls and in combination with old temples or fortresses. This type of garden is typically referred to as a Mughal garden.",
+          "note": null
+        },
+        {
+          "id": "1-6",
+          "image": "/images/resize/600/80/pakistan/pk_widepants.png",
+          "text": "Typically brightly coloured, baggy pants are very common in Pakistan. NOTE: This is mostly useful to differentiate it from Generation 3 trekkers in India, where pants tend to be tighter.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Step 2 - Region-specific clues",
+      "items": [
+        {
+          "id": "2-1",
+          "image": "/images/resize/600/80/pakistan/pk_coverage.png",
+          "text": "Coverage in Pakistan is extremely limited, only being found in Punjab around major temples and tourist attractions. Due to the number of distinct coverage spots, this section will only focus on the parts that are considered pinpointable.",
+          "note": null
+        },
+        {
+          "id": "2-2",
+          "image": "/images/resize/600/80/pakistan/pk_lahorecar.png",
+          "text": "You may find this grey car, with a visible right side, driving around Lahore Fort in the north of Lahore. NOTE: This is considered hidden coverage, as it can not be accessed normally on Google Maps. It can however be accessed in the Map Making App and is still included in some community-made maps.",
+          "note": null
+        },
+        {
+          "id": "2-3",
+          "image": "/images/resize/600/80/pakistan/pk_lahoreurbantrekker.png",
+          "text": "Just south of Lahore Fort you can find a trekker walking around some narrow urban streets that are typically very busy. NOTE: This is also hidden coverage.",
+          "note": null
+        },
+        {
+          "id": "2-4",
+          "image": "/images/resize/600/80/pakistan/pk_lahorefort.png",
+          "text": "Lahore Fort is a large fortress in Lahore, with the Alamgiri Gate being one of the most iconic monuments in Pakistan.",
+          "note": null
+        },
+        {
+          "id": "2-5",
+          "image": "/images/resize/600/80/pakistan/pk_lahorefortroad.png",
+          "text": "Inside Lahore Fort you may find this road completely surrounded by tall red brick walls on both sides.",
+          "note": null
+        },
+        {
+          "id": "2-6",
+          "image": "/images/resize/600/80/pakistan/pk_governmentcollege.png",
+          "text": "The Government College University of Lahore can be recognised by its gothic architecture.",
+          "note": null
+        },
+        {
+          "id": "2-7",
+          "image": "/images/resize/600/80/pakistan/pk_patialablock.png",
+          "text": "The Patiala Block of King Edward Medical University in Lahore is a large white colonial building with large white domes having black lines going around them.",
+          "note": null
+        },
+        {
+          "id": "2-8",
+          "image": "/images/resize/600/80/pakistan/pk_kinnairdcollege.png",
+          "text": "Kinnaird College for Women University is mainly made up of traditional Pakistani red brick buildings, often combined with red brick paths.",
+          "note": null
+        },
+        {
+          "id": "2-9",
+          "image": "/images/resize/600/80/pakistan/pk_jallo.png",
+          "text": "The coverage in Jallo, an eastern suburb of Lahore, can be recognised by the semi-urban coverage in a fairly poor-looking neighbourhood, with a very thick haze.",
+          "note": null
+        },
+        {
+          "id": "2-10",
+          "image": "/images/resize/600/80/pakistan/pk_bahriagrandhotel.png",
+          "text": "Bahria Grand Hotel, in the southwestern suburbs of Lahore, can be recognised by the minigolf course in front of the hotel. There is also a statue of a cow by the entrance to the hotel grounds.",
+          "note": null
+        },
+        {
+          "id": "2-11",
+          "image": "/images/resize/600/80/pakistan/pk_harappa.png",
+          "text": "West of Sahiwal, just northwest of Harappa, you can find a trekker starting in the south at Harappa Museum. This trekker can be recognised by most of the coverage being taken on a very narrow path made of concrete.",
+          "note": null
+        },
+        {
+          "id": "2-12",
+          "image": "/images/resize/600/80/pakistan/pk_hiranminar.png",
+          "text": "Hiran Minar is a small temple, completely surrounded by a small lake with a single bridge connecting it to land, can be found just northwest of the city of Sheikhupura.",
+          "note": null
+        },
+        {
+          "id": "2-13",
+          "image": "/images/resize/600/80/pakistan/pk_hazrabababullehshah.png",
+          "text": "The coverage around the shrine of Hazrat Baba Bulleh Shah, in western Kasur, can typically be recognised by the mosque with a large green dome, and two smaller green domes on top of the minarets. While the mosque itself isn’t visible from all of the coverage, the minarets can be seen from most spots.",
+          "note": null
+        },
+        {
+          "id": "2-14",
+          "image": "/images/resize/600/80/pakistan/pk_pakpattanmarket.png",
+          "text": "In Pākpattan you can find a busy market street with a roof made of rugs. NOTE: Like the car coverage in Lahore, this, and the rest of the coverage in Pākpattan, is hidden coverage.",
+          "note": null
+        },
+        {
+          "id": "2-15",
+          "image": "/images/resize/600/80/pakistan/pk_pakpattanbusystreet.png",
+          "text": "Just west of the market street in Pākpattan you can find a very busy-looking urban street.",
+          "note": null
+        },
+        {
+          "id": "2-16",
+          "image": "/images/resize/600/80/pakistan/pk_pakpattannarrowalley.png",
+          "text": "You can also find this narrow alleyway in Pākpattan, just north of the market street.",
+          "note": null
+        },
+        {
+          "id": "2-17",
+          "image": "/images/resize/600/80/pakistan/pk_rohtasfort.png",
+          "text": "Rohtas Fort, west of Jhelum, can typically be recognised by the almost black fortress walls. While the walls aren’t always nearby, they can usually be seen in the distance.",
+          "note": null
+        },
+        {
+          "id": "2-18",
+          "image": "/images/resize/600/80/pakistan/pk_katas.png",
+          "text": "The coverage in Katas, north of Sargodha, can be recognised by the hazy sky combined with the hilliness.",
+          "note": null
+        },
+        {
+          "id": "2-19",
+          "image": "/images/resize/600/80/pakistan/pk_patriata.png",
+          "text": "Patriata, northeast of Islamabad can be recognised by the hilly forests, mainly consisting of tall pine trees. Interestingly, parts of the coverage were taken from an aerial lift.",
+          "note": null
+        },
+        {
+          "id": "2-20",
+          "image": "/images/resize/600/80/pakistan/pk_changamanga.png",
+          "text": "The coverage in Changa Manga Forest Park can be recognised by the path angle being northeastern, and the narrow channel closely following the path, either on the northern or southern side.",
+          "note": null
+        }
+      ]
+    }
+  ]
+}

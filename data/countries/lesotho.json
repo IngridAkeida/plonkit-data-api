@@ -1,0 +1,163 @@
+{
+  "country": "Lesotho",
+  "url": "https://www.plonkit.net/lesotho",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:17:20.093817+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Identifying Lesotho",
+      "items": [
+        {
+          "id": "1-1",
+          "image": "/images/resize/900/80/lesotho/0_summary_lesotho.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": "/images/resize/600/80/lesotho/Car_meta.png",
+          "text": "All coverage in Lesotho is Generation 3. In almost all locations, the back of a white Google car without an antenna is visible. NOTE: The other three southern African countries of Eswatini, Botswana and South Africa also have the same white car in Generation 3 coverage. While Botswana and Eswatini only have Generation 3 coverage, South Africa also has Generation 2 and Generation 4 coverage. In addition, Generation 3 coverage is somewhat rare in South Africa.",
+          "note": null
+        },
+        {
+          "id": "1-3",
+          "image": "/images/resize/600/80/lesotho/Lesotho_mountains.png",
+          "text": "One of the best ways to identify the country are the characteristic ‘Lesotho mountains’. They are bare and treeless, often have tabletop-like shapes, and recognizable horizontal rocky ridgelines. Depending on where you are in the country, the mountains can vary a bit in appearance. Especially inland areas towards the southeast, where they appear more like rolling green hills rather than isolated tabletop mountains. However, you will still often be able to see the horizontal rocky ridges.",
+          "note": null
+        },
+        {
+          "id": "1-4",
+          "image": "/images/resize/600/80/lesotho/Lesotho_License_Plate.png",
+          "text": "Lesotho uses long white licence plates with blue text. If partially unblurred, you may see the Mokorotlo hat symbol on the left.",
+          "note": null
+        },
+        {
+          "id": "1-5",
+          "image": "/images/resize/600/80/lesotho/Road_lines.png",
+          "text": "Lesotho uses yellow outer lines and white inner lines. NOTE: These are also found in the other three southern African countries.",
+          "note": null
+        },
+        {
+          "id": "1-6",
+          "image": "/images/resize/600/80/lesotho/Triple_road_lines.png",
+          "text": "Some roads have unique triple middle lines, consisting of two solid lines with a dashed line in between. NOTE: These are also found in the other three southern African countries, but nowhere else in the world.",
+          "note": null
+        },
+        {
+          "id": "1-7",
+          "image": "/images/resize/600/80/lesotho/Driving_side.png",
+          "text": "Like the three other Southern African countries, Lesotho drives on the left.",
+          "note": null
+        },
+        {
+          "id": "1-8",
+          "image": "/images/resize/600/80/lesotho/Traditional_huts2.png",
+          "text": "In rural areas, you will often see traditional round huts with thatched roofs. NOTE: These are less common in the other three southern African countries, but can still be seen.",
+          "note": null
+        },
+        {
+          "id": "1-9",
+          "image": "/images/resize/600/80/lesotho/Agave.png",
+          "text": "These agave plants are common throughout the countryside and often a good clue for the country.",
+          "note": null
+        },
+        {
+          "id": "1-10",
+          "image": "/images/resize/600/80/lesotho/Short_grass.png",
+          "text": "Grasslands in Lesotho primarily consist of short grass. NOTE: This is mostly useful to distinguish Lesotho from Eswatini, which famously has a lot of tall grass.",
+          "note": null
+        },
+        {
+          "id": "1-11",
+          "image": "/images/resize/600/80/lesotho/Traditional_clothing.png",
+          "text": "Many people in Lesotho wear traditional clothing. Most recognizably, a lot of people can be seen wearing a Basotho woollen blanket.",
+          "note": null
+        },
+        {
+          "id": "1-12",
+          "image": "/images/resize/600/80/lesotho/Livestock.png",
+          "text": "Lesotho is a very rural society. You will often see a lot of free-roaming livestock on Lesotho’s roads: most commonly cows, but also horses, donkeys, and other farm animals.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Step 2 - Regional/district-specific clues",
+      "items": [
+        {
+          "id": "2-1",
+          "image": "/images/resize/600/80/lesotho/ls_coverage.png",
+          "text": "Coverage in Lesotho is very sparse, particularly in the southeastern half, where it’s mostly limited to yellow roads. All urban coverage is found in the northwest.",
+          "note": null
+        },
+        {
+          "id": "2-2",
+          "image": "/images/resize/600/80/lesotho/Flat_Lesotho.png",
+          "text": "Lesotho can be roughly divided into two regions, based on landscape: flat and mountainous. In the flat region, the road itself runs through a mostly flat or hilly landscape. “Flat” is a bit of a misnomer, as you will usually still see tabletop-like mountains around you. However they will usually be significantly further away from the road, giving you a more clear line of sight. This “flat” part is the region with the most coverage, settlements and agriculture.",
+          "note": null
+        },
+        {
+          "id": "2-3",
+          "image": "/images/resize/600/80/lesotho/Mountainous_Lesotho.png",
+          "text": "Conversely, in the mountainous part, the road will usually be directly on the side of the mountain, instead of slightly away from it. The mountains are often large, closer to the road, and covered in green grass. Coverage in the mountainous part of Lesotho is very sparse: there are only 6 main roads (and a couple of very small off-roads) with coverage, meaning that you can learn each road by heart if you feel so inclined.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Step 3 - Spotlight",
+      "items": [
+        {
+          "id": "3-1",
+          "image": "/images/resize/600/80/lesotho/Reservoirs.png",
+          "text": "There are two large man-made water reservoirs in the mountainous part of Lesotho, which can be seen from several road sections. The larger Katse reservoir is visible from parts of the A25. The smaller Mohale reservoir is visible from an off-road of the A3. NOTE: Do not confuse these with the small industrial lake found near the Letseng diamond mine.",
+          "note": null
+        },
+        {
+          "id": "3-2",
+          "image": "/images/resize/600/80/lesotho/A2_road_quality.png",
+          "text": "The section of the A2 between Maseru and Mafeteng has by far the best road quality in all of Lesotho.",
+          "note": null
+        },
+        {
+          "id": "3-3",
+          "image": "/images/resize/600/80/lesotho/Raindrops.png",
+          "text": "On a section of the A25, just east of the big reservoir, the camera is covered in raindrops in one direction.",
+          "note": null
+        },
+        {
+          "id": "3-4",
+          "image": "/images/resize/600/80/lesotho/White_construction_bollard.png",
+          "text": "Several sections of the A5 south of Nyakosoba are under construction. As a result, you will often see a sort of temporary “bollard” next to the road, consisting of a stick that is mostly painted white. Even on sections without the bollard, you can often recognize this road, as it is a wide dirt road with very dark brown soil.",
+          "note": null
+        },
+        {
+          "id": "3-5",
+          "image": "/images/resize/600/80/lesotho/Sehlabathebe.png",
+          "text": "The road going from Ramatsediso to Sehlabathebe NP, in the southeast on the border with South Africa, is very recognizable. Consider guessing there if the following three things are all true for your location: Unpaved road with light brown soil. Good weather with little fluffy clouds. Grassy landscape high in the mountains. You will also often be able to see exposed, light-coloured rocks next to the road.",
+          "note": null
+        },
+        {
+          "id": "3-6",
+          "image": "/images/resize/600/80/lesotho/Maseru.png",
+          "text": "The only city with a significantly urbanised downtown area is Maseru, the capital. All other towns have a very provincial feel in comparison to Maseru. Note that the suburbs of Maseru can still have a very rural feel.",
+          "note": null
+        },
+        {
+          "id": "3-7",
+          "image": "/images/resize/600/80/lesotho/Qachas_Nek.png",
+          "text": "Qacha's Nek is a very recognizable town that is located far away from most other towns, on the southeastern border with South Africa. It is situated right in the middle of green mountains, and it had noticeably bad weather when the Google car drove there.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Other resources",
+      "items": []
+    }
+  ]
+}

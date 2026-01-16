@@ -1,0 +1,50 @@
+{
+  "country": "Martinique",
+  "url": "https://www.plonkit.net/martinique",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:19:52.907694+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Identifying Martinique",
+      "items": [
+        {
+          "id": "1-1",
+          "image": "/images/resize/900/80/martinique/0_mq_summary_new.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": "/images/resize/600/80/martinique/Martinique_in_France_2016.svg.png",
+          "text": "Martinique, officially the Department of Martinique, is an overseas department and region of France, in the Caribbean between Dominica and St Lucia. As such, for country streaks purposes, it is counted as France. Coverage is very limited: there are just three Generation 3 trekkers. Instead of learning metas to identify the territory, it is more useful to just memorise what the trekkers look like.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Step 2 - Regional clues",
+      "items": [
+        {
+          "id": "2-1",
+          "image": "/images/resize/600/80/martinique/Martinique_Habitation_Clement.png",
+          "text": "Habitation Clément is a rum distillery covered by a trekker. Due to it being pinpointable, some locations are on maps such as ACW. There are several landscapes in and around the distillery, including: A warehouse with a truck and a forklift. A view of the outside with hills in the background and machinery on display. A rural dirt track outside with red soil and palm trees. The inside of the distillery with the structure made of H-beam steel.",
+          "note": null
+        },
+        {
+          "id": "2-2",
+          "image": "/images/resize/600/80/martinique/Martinique_Coastal_Trekker.png",
+          "text": "The coastal southern trekker can be recognized by a few unique things: In the north, the trekker starts off walking on a slightly hilly path, with other people. Several houses with orange roofs can be seen. A flatter and more open path can be seen, with the ocean slightly visible through the trees. The coverage ends in the south with a car park and some stalls.",
+          "note": null
+        },
+        {
+          "id": "2-3",
+          "image": "/images/resize/600/80/martinique/Martinique_Jardin.png",
+          "text": "The Jardin de Balata trekker is the most tropical and humid feeling on Martinique. The trekker can be recognized by dark and damp feeling, the trees with buttress roots, ferns and bamboo. This man wearing a black shirt and grey cap can sometimes be seen with the trekker.",
+          "note": null
+        }
+      ]
+    }
+  ]
+}

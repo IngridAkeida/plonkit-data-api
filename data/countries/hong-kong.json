@@ -1,0 +1,301 @@
+{
+  "country": "Hong Kong",
+  "url": "https://www.plonkit.net/hong-kong",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:17:40.897379+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Identifying Hong Kong",
+      "items": [
+        {
+          "id": "1-1",
+          "image": "/images/resize/900/80/hong-kong/0_Hong_Kong_summary.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": "/images/resize/600/80/hong-kong/1280px-Hong_Kong_in_China_28zoomed29_282Ball_claims_hatched29.png",
+          "text": "Hong Kong is located in Southern China, sharing a border with the Guangdong province. It is a Chinese Special Administrative Region, so for country streaks purposes, it is counted as part of China. You can click on the image to enlarge it.",
+          "note": null
+        },
+        {
+          "id": "1-3",
+          "image": "/images/resize/600/80/hong-kong/Hong_Kong_License_Plate.png",
+          "text": "Hong Kong has white front licence plates and yellow rear licence plates. The licence plates can be long or short. Some cars have an additional black mainland Chinese licence plate.",
+          "note": null
+        },
+        {
+          "id": "1-4",
+          "image": "/images/resize/600/80/hong-kong/driving_side.png",
+          "text": "Hong Kong drives on the left. NOTE: Singapore also drives on the left, however Taiwan drives on the right.",
+          "note": null
+        },
+        {
+          "id": "1-5",
+          "image": "/images/resize/600/80/hong-kong/urban_landscape.png",
+          "text": "Hong Kong is a densely populated city with millions of inhabitants. In urban areas, modern skyscrapers are common, with busy streets filled with vehicles and pedestrians. The city has a unique vibe that you can quickly pick up on. In many cases, this vibe alone should be sufficient to identify urban Hong Kong locations.",
+          "note": null
+        },
+        {
+          "id": "1-6",
+          "image": "/images/resize/600/80/hong-kong/rural_landscape.png",
+          "text": "There is also a plethora of rural locations that are harder to identify. Outside the urban areas, Hong Kong is generally quite mountainous, with green, subtropical vegetation. There is extensive coverage in rural areas outside the city, with many roads going through the mountains. You might see low-rise rural buildings, however usually you will not need to travel far to see tall apartment blocks. NOTE: Singapore, on the other hand, is very flat.",
+          "note": null
+        },
+        {
+          "id": "1-7",
+          "image": "/images/resize/600/80/hong-kong/Tall_apartment_buildings.png",
+          "text": "One very striking aspect of Hong Kong architecture are the many extremely tall apartment buildings found throughout the city. NOTE: Apartment buildings in Singapore and Taiwan tend to be not nearly as tall as those in Hong Kong.",
+          "note": null
+        },
+        {
+          "id": "1-8",
+          "image": "/images/resize/600/80/hong-kong/it_27s_hot_outside.png",
+          "text": "Because of the subtropical climate, air conditioners attached to the walls of apartments are very common in Hong Kong.",
+          "note": null
+        },
+        {
+          "id": "1-9",
+          "image": "/images/resize/600/80/hong-kong/bilingual.png",
+          "text": "Hong Kong has two official languages: English and Chinese (legally, no variety is specified, but residents primarily speak Cantonese). Bilingual signs are common, with English next to traditional Chinese characters.",
+          "note": null
+        },
+        {
+          "id": "1-10",
+          "image": "/images/resize/600/80/hong-kong/ooh_light_producing_thing.png",
+          "text": "Cylindrical grey lamp posts with a wide base are common. Many lamp posts have a white sticker.",
+          "note": null
+        },
+        {
+          "id": "1-11",
+          "image": "/images/resize/600/80/hong-kong/utility_poles.png",
+          "text": "Utility poles will never be seen in urban rounds, however you might see cylindrical wooden poles in rural areas. The poles can be single or double, with electricity counters or transformers attached to them.",
+          "note": null
+        },
+        {
+          "id": "1-12",
+          "image": "/images/resize/600/80/hong-kong/never_striped.png",
+          "text": "In Hong Kong, you will almost never see striped kerbs, which are extremely common in Singapore. In addition, grey pedestrian guardrails are also common.",
+          "note": null
+        },
+        {
+          "id": "1-13",
+          "image": "/images/resize/600/80/hong-kong/yellow_road_markings.png",
+          "text": "Hong Kong uses yellow pedestrian crossings. Some intersections have yellow grids.",
+          "note": null
+        },
+        {
+          "id": "1-14",
+          "image": "/images/resize/600/80/hong-kong/road_lines.png",
+          "text": "Hong Kong usually uses white centre lines and white or yellow outer lines. These lines can be single, double or dashed. Roads are also commonly made of concrete. Yellow outer lines are most commonly found on small roads to indicate no-stopping.",
+          "note": null
+        },
+        {
+          "id": "1-15",
+          "image": "/images/resize/600/80/hong-kong/road_signs.png",
+          "text": "Road signs are white and rectangular, with a thick black outline and bilingual text.",
+          "note": null
+        },
+        {
+          "id": "1-16",
+          "image": "/images/resize/600/80/hong-kong/give_way_sign.png",
+          "text": "Give way signs feature a white upside down triangle with a thick red border and bilingual text.",
+          "note": null
+        },
+        {
+          "id": "1-17",
+          "image": "/images/resize/600/80/hong-kong/not_so_great_wall_of_china.png",
+          "text": "Distinct weathered rock walls can be seen on the side of mountains. Some of them have nets, to prevent rockslides. In addition, green or blue plaques are a common sight.",
+          "note": null
+        },
+        {
+          "id": "1-18",
+          "image": "/images/resize/600/80/hong-kong/fire_hydrant.png",
+          "text": "Most fire hydrants are red, and usually have circular tops and three protrusions. There is also a pipe-like variant. Some fire hydrants have other colours, so make sure to look at their shape or other clues before guessing.",
+          "note": null
+        },
+        {
+          "id": "1-19",
+          "image": "/images/resize/600/80/hong-kong/bollard_thing.png",
+          "text": "Yellow bollards with a white arrow in a blue circle are commonly seen at pedestrian crossings, but also elsewhere, indicating where cars should go. There is a flat and a cuboid version.",
+          "note": null
+        },
+        {
+          "id": "1-20",
+          "image": "/images/resize/600/80/hong-kong/orange_bins.png",
+          "text": "Distinct bright orange bins can be found on sidewalks.",
+          "note": null
+        },
+        {
+          "id": "1-21",
+          "image": "/images/resize/600/80/hong-kong/taxis.png",
+          "text": "Hong Kong taxis come in two variants: sedans or station wagons, with the sedans most commonly seen. They can be easily identified by their silver roofs, green stickers on the front and rear bumper, and the taxi sign on the roof. Red taxis are most common on Hong Kong Island and Kowloon, green taxis in the New Territories in the northern region and blue taxis on Lantau Island and Chek Lap Kok. Keep in mind, Hong Kong is a small city and taxis travel all around it.",
+          "note": null
+        },
+        {
+          "id": "1-22",
+          "image": "/images/resize/600/80/hong-kong/buses.png",
+          "text": "Buses in Hong Kong are mostly double-decker, with various colour schemes and adverts on the side. Single-decker versions do exist, but are less common. Smaller minibuses can also be seen, with a green or red roof. NOTE: Place names are sometimes visible on the front of the buses, which can be useful for region guessing. Double-decker buses are also somewhat common in Singapore, but these will often have a recognizable light green colour scheme.",
+          "note": null
+        },
+        {
+          "id": "1-23",
+          "image": "/images/resize/600/80/hong-kong/rural_architecture.png",
+          "text": "Boxy houses that are a few storeys high are a common sight in small villages, mostly to the north of Hong Kong.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Step 2 - Regional clues",
+      "items": [
+        {
+          "id": "2-1",
+          "image": "/images/resize/600/80/hong-kong/apple_pie.png",
+          "text": "A double-decker tram line runs along the north of Hong Kong Island. A full map of the route can be seen here. NOTE: Make sure not to mistake this tram for the red MTR railway line, which has some sections above ground.",
+          "note": null
+        },
+        {
+          "id": "2-2",
+          "image": "/images/resize/600/80/hong-kong/very_important_meta_1.png",
+          "text": "The northwestern part of the New Territories is served by a distinct light rail system. It can be recognised by its green-and-orange platforms, single-level train cars and the fact that the tracks are separated from the street.",
+          "note": null
+        },
+        {
+          "id": "2-3",
+          "image": "/images/resize/600/80/hong-kong/MOMN.png",
+          "text": "Mong Kok and the surrounding districts in Kowloon can be recognized by the crowded, busy, gridded streets, with apartment blocks situated above the shops. NOTE: These buildings are usually older, which means there will be a lack of glass walls (as opposed to parts of Hong Kong Island which feature more glass).",
+          "note": null
+        },
+        {
+          "id": "2-4",
+          "image": "/images/resize/600/80/hong-kong/wateh.png",
+          "text": "The north-western area near the Mainland China border is mostly flat and features a patchwork of waterlogged rice paddies. The Shenzhen skyline is visible in the distance, to your north.",
+          "note": null
+        },
+        {
+          "id": "2-5",
+          "image": "/images/resize/600/80/hong-kong/what_color_is_your_bugatti.png",
+          "text": "The Central District can be recognized by the large concentration of modern skyscrapers. The district feels quite busy, affluent and well-kept, with lots of luxury brand stores and ads.",
+          "note": null
+        },
+        {
+          "id": "2-6",
+          "image": "/images/resize/600/80/hong-kong/my_file_names_aren_27t_as_good_as_the_ones_cron_comes_up_with.png",
+          "text": "You can use these two skyscrapers to determine whether you are on the Kowloon or Hong Kong Island side. The IFC is on the Hong Kong Island side and the ICC is on the Kowloon side. The ICC has straighter edges and looks more like a cuboid, while the IFC is rounder. The IFC will also have noticeable vertical window frames, while the ICC has none.",
+          "note": null
+        },
+        {
+          "id": "2-7",
+          "image": "/images/resize/600/80/hong-kong/hose.png",
+          "text": "Mid-Levels is a residential district that is easily recognized by the non-identical tall modern apartments and hilliness.",
+          "note": null
+        },
+        {
+          "id": "2-8",
+          "image": "/images/resize/600/80/hong-kong/neck_strainer.png",
+          "text": "The residential district of Sai Wan Ho has a lot of identical white and brown apartment blocks, and tall glass office buildings.",
+          "note": null
+        },
+        {
+          "id": "2-9",
+          "image": "/images/resize/600/80/hong-kong/construkshin.png",
+          "text": "Chek Lap Kok Island and the Boundary Crossing Facilities can be recognized by the various large scale construction works going on in the area. From the outside, it can be identified by the many bridges that connect other parts of Hong Kong to the two islands.",
+          "note": null
+        },
+        {
+          "id": "2-10",
+          "image": "/images/resize/600/80/hong-kong/why_is_there_grass_on_the_pavement.png",
+          "text": "The residential district of Caribbean Coast and Tung Chung has identical apartment blocks that face the same direction, almost like a “wall” of buildings. There are a lot of planted palm trees in between and on the side of roads.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Step 3 - Spotlight",
+      "items": [
+        {
+          "id": "3-1",
+          "image": "/images/resize/600/80/hong-kong/hk_tsing_ma_bridge.png",
+          "text": "The Tsing Ma Bridge can be recognized by being one of three suspension bridges in Hong Kong. The bridge has two ladder-like support towers, and yellow and red guardrails.",
+          "note": null
+        },
+        {
+          "id": "3-2",
+          "image": "/images/resize/600/80/hong-kong/hk_ting_kau_bridge.png",
+          "text": "Ting Kau Bridge, another suspension bridge connecting Ting Kau and Tsing Yi, can be identified by the generally clean asphalt and newer condition, three cylindrical support towers, hangers coming directly from the towers themselves, and yellow paint seen in the median and on the outsides.",
+          "note": null
+        },
+        {
+          "id": "3-3",
+          "image": "/images/resize/600/80/hong-kong/hk_stonecutters_bridge.png",
+          "text": "While similar to the Ting Kau Bridge, the Stonecutters Bridge can be identified by the lack of yellow paint, and its box beam guardrail design, as opposed to the cable design seen on the other two bridges.",
+          "note": null
+        },
+        {
+          "id": "3-4",
+          "image": "/images/resize/600/80/hong-kong/lung_wo_road.png",
+          "text": "Lung Wo Road can be recognized by the Hong Kong Island skyline to the south and the Kowloon skyline to the north. The road is also in good condition and the sidewalks are clean.",
+          "note": null
+        },
+        {
+          "id": "3-5",
+          "image": "/images/resize/600/80/hong-kong/venice.png",
+          "text": "The Tai Chung Kiu Road is a divided road that runs in a north-east direction, and has views of the Shing Mun River to the west. The median has palm trees. In addition, a bicycle path runs alongside the road. Further north, Route 2 also runs alongside the river, but this road has more lanes.",
+          "note": null
+        },
+        {
+          "id": "3-6",
+          "image": "/images/resize/600/80/hong-kong/tre.png",
+          "text": "Fan Kam Road runs in a general north-east direction, and can be recognized by the dense tropical vegetation surrounding the road, and sometimes mountains in the background. The road is also quite narrow and does not have any outer lines. Many small villages branch off of the road, south and north of the country park.",
+          "note": null
+        },
+        {
+          "id": "3-7",
+          "image": "/images/resize/600/80/hong-kong/lam_kam_road.png",
+          "text": "Lam Kam Road is similar to Fan Kam Road, however it runs in a more east-west direction. The road should also feel busier with more cars driving along the road and more houses on the sides of the road. In addition, the road is usually wider and a median containing trees can be seen separating sidewalks near the villages.",
+          "note": null
+        },
+        {
+          "id": "3-8",
+          "image": "/images/resize/600/80/hong-kong/hk_cruise_terminal.png",
+          "text": "The Kai Tak Cruise Terminal can mainly be seen from the Eastern Corridor, north of Tsat Tsz Mui, and from the Kwun Tong bypass south-west of Kwun Tong. The cruise terminal can be recognized by its shiny, cylindrical appearance, with triangular windows along the side.",
+          "note": null
+        },
+        {
+          "id": "3-9",
+          "image": "/images/resize/600/80/hong-kong/hk_macao_zhuhai_bridge.png",
+          "text": "The Hong Kong-Zhuhai-Macao Bridge can be seen from the South Perimeter Road, on Chek Lap Kok Island. Its length stretches into the horizon, spanning across the ocean. The road itself can be recognized by the black and yellow concrete barriers on either side.",
+          "note": null
+        },
+        {
+          "id": "3-10",
+          "image": "/images/resize/600/80/hong-kong/legoland.png",
+          "text": "The roads going to Disneyland are divided, with palm trees along the side of the road with teal coloured street lamps.",
+          "note": null
+        },
+        {
+          "id": "3-11",
+          "image": "/images/resize/600/80/hong-kong/i_go_cycling_here_every_so_often.png",
+          "text": "Between Hong Kong Island and Lantau Island, there are three unique islands: Peng Chau, Cheung Chau and Lamma Island, with trekker coverage. These islands can be identified by the lack of cars, narrow streets, and rural architecture. Lamma Island is also the hilliest of the three.",
+          "note": null
+        },
+        {
+          "id": "3-12",
+          "image": "/images/resize/600/80/hong-kong/jerry_from_texas.png",
+          "text": "The Lugard Road trekker around Victoria Peak can be recognized by the distinct black guardrail, view of the skyline and tourists walking along the path.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Step 4 - Maps and resources",
+      "items": []
+    }
+  ]
+}

@@ -1,0 +1,547 @@
+{
+  "country": "Japan",
+  "url": "https://www.plonkit.net/japan",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:17:48.675578+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Identifying Japan",
+      "items": [
+        {
+          "id": "1-1",
+          "image": "/images/resize/900/80/japan/0_1.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": "/images/resize/600/80/japan/2.png",
+          "text": "Japan consists of three main terms used to identify land, groupings and borders: Islands, Regions and Prefectures. Islands: The four main islands that make up the country of Japan. From the top they are: Hokkaido, Honshu, Shikoku and Kyushu. Regions: Some islands are further broken down into groupings of prefectures. Prefectures: These form the currently 47 different subdivisions within the country. Many of these names are used in this guide, on maps, and when referring to areas of Japan. Therefore, it is recommended to learn and become comfortable with each category, and the titles within.",
+          "note": null
+        },
+        {
+          "id": "1-3",
+          "image": "/images/resize/600/80/japan/3.png",
+          "text": "The appearance of the standard Japanese Google car is often black and white. You may find it in black or rarely with an antenna. In addition, due to privacy reasons, the camera is intentionally set lower to the ground. This is known as low-cam. You can identify it by: Looking downwards. The blur will be noticeably larger. The road will look wider, and objects will be viewed from a lower perspective. NOTE: The only other country that always has low-cam is Switzerland. It can also be seen in Generation 4 coverage in Sri Lanka. Also, the car will be blurred in Switzerland.",
+          "note": null
+        },
+        {
+          "id": "1-4",
+          "image": "/images/resize/600/80/japan/4.png",
+          "text": "Japan drives on the left hand side of the road. NOTE: Hong Kong drives on the left hand side of the road, same as Japan. South Korea and Taiwan drive on the right hand side instead.",
+          "note": null
+        },
+        {
+          "id": "1-5",
+          "image": "/images/resize/600/80/japan/5.png",
+          "text": "Japanese is written with a mixture of three main systems: kanji and two syllabic scripts: hiragana and katakana. Formal signs and texts will mostly use kanji and hiragana. The kanji system is directly borrowed from Chinese and thus looks very similar, while the syllabic scripts are more loosely inspired by Chinese. Hiragana generally looks simpler than Chinese characters, many of the symbols have loops, which are not present in Chinese. The shapes are also typically slightly softer than the shapes present in most kanji. You can learn more about hiragana, katakana and kanji in the region guessing section, learning frequent terms and names.",
+          "note": null
+        },
+        {
+          "id": "1-6",
+          "image": "/images/resize/600/80/japan/6.png",
+          "text": "Katakana is mainly used for loan words, and are thus common to find in commercials. They are generally quite simple, with a lot of geometrical shapes rather than the more artistic shapes present in hiragana and kanji.",
+          "note": null
+        },
+        {
+          "id": "1-7",
+          "image": "/images/resize/600/80/japan/7.png",
+          "text": "On the left hand side you can find the pronunciation and meaning of eight of the most commonly featured kanji in town and city names. Learning to recognise these can make finding cities considerably easier. On the right you see the shape and pronunciation of the cardinal directions and the shape of some kanji commonly found at the end of place names. If you see the kanji for prefecture or city, chances are you will be able to find it fairly quickly. Wards are typically findable granted you know the city, while towns are often fairly difficult to locate. NOTE: Most of these kanji have alternative, less common pronunciations.",
+          "note": null
+        },
+        {
+          "id": "1-8",
+          "image": "/images/resize/600/80/japan/8.png",
+          "text": "Japanese architecture has many distinct and expressive styles, with many unique buildings. These can range from traditional country houses, regional designs, modern large cities, coastal reinforced buildings, and anything in between. You can learn more about different types of architecture and styles in the region guessing section.",
+          "note": null
+        },
+        {
+          "id": "1-9",
+          "image": "/images/resize/600/80/japan/9.png",
+          "text": "Japan mostly uses these round concrete poles, which have these screw-like extensions. Other information can often be found on or attached to the pole including: Electrical plates. Guy-wires. Pole reflectors. Therefore, they are a key asset in region guessing Japan. You can learn more about plates, reflectors, and guy-wires in the region guessing section.",
+          "note": null
+        },
+        {
+          "id": "1-10",
+          "image": "/images/resize/600/80/japan/10.png",
+          "text": "You can find a variety of pole reflectors in Japan. They are typically short and do not touch the ground. Common patterns found all across Japan include: Yellow vertical stripes. Yellow diagonal stripes. Vertical or diagonal white stripes. NOTE: The Taiwanese variant has diagonal stripes that reach the ground. The South Korean ones have diagonal, thicker stripes. You can learn more about the different regional reflectors in the region guessing section.",
+          "note": null
+        },
+        {
+          "id": "1-11",
+          "image": "/images/resize/600/80/japan/11.png",
+          "text": "Japan uses a standard short white licence plate with green text. You will often see a different short yellow version with black text issued to “light automobiles”, otherwise known as Kei Cars.",
+          "note": null
+        },
+        {
+          "id": "1-12",
+          "image": "/images/resize/600/80/japan/12.png",
+          "text": "Japan has three common variations of road lines. They are as follows: The most common being white, solid outer lines with a dashed white middle line. White solid sidelines with a yellow solid middle line. White solid sidelines with yellow and white middle lines. While you may find other, more rare combinations, Japan will never have yellow outside road lines.",
+          "note": null
+        },
+        {
+          "id": "1-13",
+          "image": "/images/resize/600/80/japan/13.png",
+          "text": "Japan usually uses simple white bollards with circular reflector(s) on the top. However, sometimes these bollards are black, or have other extensions. They can also have the city or prefecture written on it in kanji. You can learn more about the bollards and kanji in the region guessing section.",
+          "note": null
+        },
+        {
+          "id": "1-14",
+          "image": "/images/resize/600/80/japan/14.png",
+          "text": "Japan generally uses these simple, white guardrails. You can learn more about the exceptions in the region guessing section.",
+          "note": null
+        },
+        {
+          "id": "1-15",
+          "image": "/images/resize/600/80/japan/15.png",
+          "text": "Prefecture roads are identified by their hexagonal-shaped shields. The prefecture is often written under the road number in kanji. While the shield design remains, other variations can be found: On prefectural highway shields (with kanji). On directional intersection signs. Or on small, directional arrow signs. As multiple prefectures can have the same road number, it is recommended to first find the prefecture you are in.",
+          "note": null
+        },
+        {
+          "id": "1-16",
+          "image": "/images/resize/600/80/japan/16.png",
+          "text": "Some frequently seen infrastructure in Japan consists of: This unique stop sign. A school pedestrian crossing. And these traffic mirrors. While many infrastructural clues exist, these three are very common, and may very well help you identify Japan on a difficult round.",
+          "note": null
+        },
+        {
+          "id": "1-17",
+          "image": "/images/resize/600/80/japan/17.png",
+          "text": "Retaining walls can be an excellent clue for Japan in rural areas with little to no information.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Step 2 - Regional and prefecture-specific clues",
+      "items": [
+        {
+          "id": "2-1",
+          "image": "/images/resize/600/80/japan/jp_areacodes_darkmode.png",
+          "text": "Area codes are commonly found throughout the country and increase to the south. NOTE: Area codes ending with a 0 are often not regional, most notably 0120.",
+          "note": null
+        },
+        {
+          "id": "2-2",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "2-3",
+          "image": "/images/resize/600/80/japan/21.png",
+          "text": "Every region in Japan features a distinct plate on their utility poles.",
+          "note": null
+        },
+        {
+          "id": "2-4",
+          "image": "/images/resize/600/80/japan/38.png",
+          "text": "The pole reflector pads vary by region in Japan.",
+          "note": null
+        },
+        {
+          "id": "2-5",
+          "image": "/images/resize/600/80/japan/39.png",
+          "text": "You can narrow down the prefecture you are in based on the style of road diamond.",
+          "note": null
+        },
+        {
+          "id": "2-6",
+          "image": "/images/resize/600/80/japan/37.png",
+          "text": "Most Japanese prefectures have unique stickers you can find on their signposts.",
+          "note": null
+        },
+        {
+          "id": "2-7",
+          "image": "/images/resize/600/80/japan/jp_guywires_copy.png",
+          "text": "Most regions in Japan have unique guy wires. NOTE: Only the most consistent ones are on this map.",
+          "note": null
+        },
+        {
+          "id": "2-8",
+          "image": "/images/resize/600/80/japan/22.png",
+          "text": "You may sometimes find an orange arrow located above the top most pole plate in Chugoku.",
+          "note": null
+        },
+        {
+          "id": "2-9",
+          "image": "/images/resize/600/80/japan/23.png",
+          "text": "These orange and black bands wrapped around poles can often be found in Shikoku.",
+          "note": null
+        },
+        {
+          "id": "2-10",
+          "image": "/images/resize/600/80/japan/24.png",
+          "text": "These attachments with an approximately 120-degree angle can commonly be found on poles in Kansai. NOTE: Sometimes there is no angle, and instead just an angled downward attachment.",
+          "note": null
+        },
+        {
+          "id": "2-11",
+          "image": "/images/resize/600/80/japan/25.png",
+          "text": "These smaller attachments with a 90-degree angle can commonly be found on poles in Shikoku.",
+          "note": null
+        },
+        {
+          "id": "2-12",
+          "image": "/images/resize/600/80/japan/26.png",
+          "text": "The electrical poles in Hokkaido either have this plus-shaped bar attached to the side of the pole, or one transformer mounted on two bars. However, if there is more than one transformer, they will often be mounted on the sides of a square. NOTE: While the Kanto transformer may also be mounted on two bars, Hokkaido will never have a wooden plate.",
+          "note": null
+        },
+        {
+          "id": "2-13",
+          "image": "/images/resize/600/80/japan/27.png",
+          "text": "The transformers in Tohoku, which often have additional square holding brackets and the logo of the Tohoku Electrical Company, are sometimes mounted on a round plate with a zigzag bar. Furthermore, you may also find transformers mounted on the side of a square, with a straight bar mounted on the top of the square. Rarely, you may find a square without a bar. NOTE: While Kansai may have a square attachment as well, the bar will be mounted on the bottom rather than the top.",
+          "note": null
+        },
+        {
+          "id": "2-14",
+          "image": "/images/resize/600/80/japan/28.png",
+          "text": "The transformers in Kanto, which can have three or two insulators, are often mounted on a wooden plate and two bars, or a round plate and a T-shaped bar. NOTE: While the Hokkaido transformer may also be mounted on two bars, it will never have a wooden plate. Kanto ones can also be mounted without a wooden plate.",
+          "note": null
+        },
+        {
+          "id": "2-15",
+          "image": "/images/resize/600/80/japan/29.png",
+          "text": "The transformers in Hokuriku, which are attached with thin metal bars, often have these small “lamp” shaped insulators. There will never be a bar present except for the attachment mentioned above. NOTE: The prefecture of Niigata will have the Tohoku transformer design, as opposed to Hokuriku one.",
+          "note": null
+        },
+        {
+          "id": "2-16",
+          "image": "/images/resize/600/80/japan/30.png",
+          "text": "The transformers in Chubu, which often have painted yellow numbers and black “tap” connectors, are either attached with large triangle and horizontal bars, or these thin metal brackets.",
+          "note": null
+        },
+        {
+          "id": "2-17",
+          "image": "/images/resize/600/80/japan/31.png",
+          "text": "The transformers in Kansai have either a straight or zigzag bar mounted on the bottom of a square. The transformer(s) will be mounted on the sides of that same square. While this is uncommon, the bar and transformer(s) may be mounted on a vertical bar, rather than a square. NOTE: While Tohoku may have a square attachment as well, the bar will be mounted on the top rather than the bottom.",
+          "note": null
+        },
+        {
+          "id": "2-18",
+          "image": "/images/resize/600/80/japan/32.png",
+          "text": "The transformers in Chugoku, which have a cross-shaped bar attached in the middle of the pole, mounted by a full triangle, will have a long horizontal or short vertical insulator(s) at the end. A white sticker will often be stuck to the bottom of the transformer with red numbers. They may also be painted on the side.",
+          "note": null
+        },
+        {
+          "id": "2-19",
+          "image": "/images/resize/600/80/japan/33.png",
+          "text": "The transformers in Shikoku, which also have a cross-shaped bar attached in the middle of the pole, mounted by a half triangle, will have “hat shaped” short horizontal insulators at the end. A white sticker will often be stuck to the bottom of the transformer with black numbers.",
+          "note": null
+        },
+        {
+          "id": "2-20",
+          "image": "/images/resize/600/80/japan/34.png",
+          "text": "The transformers in Kyushu, which have a straight bar attached on the side of the pole with three insulators at the end, will have transformers mounted 180-degrees from one another.",
+          "note": null
+        },
+        {
+          "id": "2-21",
+          "image": "/images/resize/600/80/japan/35.png",
+          "text": "Transformers in Okinawa, which have a T-shaped bar attached on the side of the pole, will have transformers mounted on opposite sides of the pole.",
+          "note": null
+        },
+        {
+          "id": "2-22",
+          "image": "/images/resize/600/80/japan/36.png",
+          "text": "These grey “insulator-esque” blocks, which wires are fed through, can be found in the regions of Chubu, Kansai, Chugoku, Shikoku, and very rarely in Hokkaido.",
+          "note": null
+        },
+        {
+          "id": "2-23",
+          "image": "/images/resize/600/80/japan/51.png",
+          "text": "This pole top, with four thicker bars and a circle piece at the top, is common in the Chubu region.",
+          "note": null
+        },
+        {
+          "id": "2-24",
+          "image": "/images/resize/600/80/japan/52.png",
+          "text": "This pole top, with two sides filled in and shaped like a tent, is common in the Hokuriku region.",
+          "note": null
+        },
+        {
+          "id": "2-25",
+          "image": "/images/resize/600/80/japan/53.png",
+          "text": "This pole top, with four thin, skinny bars, is common in the Chugoku region.",
+          "note": null
+        },
+        {
+          "id": "2-26",
+          "image": "/images/resize/600/80/japan/54.png",
+          "text": "This tuning fork pole top, with a long top bar that sticks out each end and horizontal bar(s) below, is found the majority of the time in the Kanto region.",
+          "note": null
+        },
+        {
+          "id": "2-27",
+          "image": "/images/resize/600/80/japan/55.png",
+          "text": "This tuning fork pole top, with a short top bar and horizontal bar below, is found the majority of the time in the Chubu region.",
+          "note": null
+        },
+        {
+          "id": "2-28",
+          "image": "/images/resize/600/80/japan/56.png",
+          "text": "This tuning fork pole top, with a thin wire and horizontal bar below, is common in the Kansai region.",
+          "note": null
+        },
+        {
+          "id": "2-29",
+          "image": "/images/resize/600/80/japan/46.png",
+          "text": "This infrastructural arrow informs drivers of where the shoulder line is when under snow, and is located almost exclusively in Hokkaido. NOTE: While much more rare, other variations can be found here: This arrow, found in the Aomori prefecture (or more rarely Hokkaido), has distinct silver bolts around the border. This variation, found in the Gifu prefecture, is long and thin. This alternate yellow and black design can often be found on the northern part of National Highway 275 in Hokkaido. This yellow and green arrow is found southwest of Sapporo. This yellow and black arrow can be found on Hokkaido.",
+          "note": null
+        },
+        {
+          "id": "2-30",
+          "image": "/images/resize/600/80/japan/40.png",
+          "text": "This flat, white bollard, found on the island of Kyushu and in Yamaguchi Prefecture, will have a series of separated orange reflectors on one side, and the same white on the opposite. NOTE: Rarely, you may find similar bollards in Hokkaido. However, both sides will have orange reflectors.",
+          "note": null
+        },
+        {
+          "id": "2-31",
+          "image": "/images/resize/600/80/japan/41.png",
+          "text": "Some bollards on the island of Shikoku can have a black stripe just under the reflector. They can be found normally, attached to guardrails or walls.",
+          "note": null
+        },
+        {
+          "id": "2-32",
+          "image": "/images/resize/600/80/japan/42.png",
+          "text": "This thick, white bollard, found in the Tohoku region, will have an octagonal reflector, and yellow stripe just underneath. In addition, you can find the same bollard, but with a rectangular top. Finally, there are two other variations. You can find a black octagonal, and rectangular version. They are often found on National Highways or Expressways and can have the number printed on them.",
+          "note": null
+        },
+        {
+          "id": "2-33",
+          "image": "/images/resize/600/80/japan/43.png",
+          "text": "This bollard, much like Tohoku, will be a thick, white bollard with an octagonal reflector. However, this Akita prefecture variation will have two yellow stripes underneath the reflector.",
+          "note": null
+        },
+        {
+          "id": "2-34",
+          "image": "/images/resize/600/80/japan/44.png",
+          "text": "The Toyama prefecture bollard has one reflector, is extendable and has a red stripe underneath the reflector. NOTE: Be careful: if there is either a second reflector, or a yellow stripe instead of a red one, these are different bollards. These are more common variations found across many prefectures.",
+          "note": null
+        },
+        {
+          "id": "2-35",
+          "image": "/images/resize/600/80/japan/45.png",
+          "text": "This bollard, with an octagonal reflector, and red stripe underneath it, is exclusive to the Okayama prefecture. Additionally, there will be a sloped connection where the base meets the reflector.",
+          "note": null
+        },
+        {
+          "id": "2-36",
+          "image": "/images/resize/600/80/japan/47.png",
+          "text": "This bollard, found in the Aomori prefecture, has two yellow stripes, a single circular reflector, and is extendable. Sometimes, only one thicker stripe near the top may be present.",
+          "note": null
+        },
+        {
+          "id": "2-37",
+          "image": "/images/resize/600/80/japan/48.png",
+          "text": "These striped bollards (which cover over the original) have a thinner top half, and no reflectors, and are common to the Tohoku region. They are especially common in Akita prefecture.",
+          "note": null
+        },
+        {
+          "id": "2-38",
+          "image": "/images/resize/600/80/japan/50.png",
+          "text": "In the northern parts of the Chugoku region, you can primarily find these basic snow poles, with either a thin extended, or thin contracted top. They can also sometimes be found in Iwate.",
+          "note": null
+        },
+        {
+          "id": "2-39",
+          "image": "/images/resize/600/80/japan/49.png",
+          "text": "Green bands on guardrails are most commonly found in Oita and Miyazaki, but can be found on all of Kyushu.",
+          "note": null
+        },
+        {
+          "id": "2-40",
+          "image": "/images/resize/600/80/japan/57.png",
+          "text": "These distinctive yellow guardrails can be found in the Yamaguchi Prefecture.",
+          "note": null
+        },
+        {
+          "id": "2-41",
+          "image": "/images/resize/600/80/japan/58.png",
+          "text": "You can find these chevron-like stickers, or more rarely orange ones, on guardrails in Hokkaido. On the end or side of a guardrail. Stuck to metal posts between wire fences, which are often found in Hokkaido. On railings, which are often found on bridges, underneath the inside of the railing.",
+          "note": null
+        },
+        {
+          "id": "2-42",
+          "image": "/images/resize/600/80/japan/59.png",
+          "text": "Guardrail endings with these red and yellow striped stickers can commonly be found across Chugoku, except in Yamaguchi. They can also rarely be found in Niigata.",
+          "note": null
+        },
+        {
+          "id": "2-43",
+          "image": "/images/resize/600/80/japan/60.png",
+          "text": "Vertical traffic lights can be found in Hokkaido, and along the northwestern coast. The usual horizontal traffic lights can be found everywhere else.",
+          "note": null
+        },
+        {
+          "id": "2-44",
+          "image": "/images/resize/600/80/japan/61.png",
+          "text": "These specific black signs with two yellow circles are found in Kagawa. Other variations can be seen, including them stacked on top of each other, or with an arrow attached above.",
+          "note": null
+        },
+        {
+          "id": "2-45",
+          "image": "/images/resize/600/80/japan/62.png",
+          "text": "Kerosine tanks, otherwise known as “Claymores”, can be found more commonly the further north you go. They are abundant in Hokkaido, but can be found in prefectures south of it, or in high elevation mountainous areas.",
+          "note": null
+        },
+        {
+          "id": "2-46",
+          "image": "/images/resize/600/80/japan/63.png",
+          "text": "Hot water, gas and propane tanks can be found more frequently in northern prefectures or high elevation mountainous areas. Here are a few common variations you can find: The standard hot water tank. Covered propane tanks. Exposed propane tanks. These cylindrical tanks. And finally, these circular tripod tanks. Moreover, these are even more common in rural towns or villages, where major water or gas lines are unavailable.",
+          "note": null
+        },
+        {
+          "id": "2-47",
+          "image": "/images/resize/600/80/japan/64.png",
+          "text": "Snow prevention roads, known as ‘Shosetsu’, are found mainly in northwest coastal prefectures. They appear as tiny circles in the pavement, and spray warm underground water to clear snow.",
+          "note": null
+        },
+        {
+          "id": "2-48",
+          "image": "/images/resize/600/80/japan/65.png",
+          "text": "Cycling routes in Ehime use an outside white, with an inside blue line. They are more commonly found along the coast but may be found further inland too. While exceptions do exist, and can be found in other prefectures, they are the extreme minority.",
+          "note": null
+        },
+        {
+          "id": "2-49",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "2-50",
+          "image": "/images/resize/600/80/japan/66.png",
+          "text": "These unique red-tiled roofs are most commonly found in Chugoku, especially in the prefectures of Hiroshima and Shimane.",
+          "note": null
+        },
+        {
+          "id": "2-51",
+          "image": "/images/resize/600/80/japan/67.png",
+          "text": "The further you are north, roofs generally transition from tiled to level or flat sloped in order to compensate for heavy snowfall. Northern houses often have ladders attached to the side, giving roof access to clear snow. NOTE: In addition to north to south, high-elevation mountainous regions or high snowfall areas often use such roofs, even in more central or southern prefectures.",
+          "note": null
+        },
+        {
+          "id": "2-52",
+          "image": "/images/resize/600/80/japan/77.png",
+          "text": "Okinawa can often be recognised by the white concrete buildings with flat roofs.",
+          "note": null
+        },
+        {
+          "id": "2-53",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "2-54",
+          "image": "/images/resize/600/80/japan/68.png",
+          "text": "Giant butterbur (commonly referred to as cabbage) is abundant in Hokkaido and some northern prefectures. Plants found south of Hokkaido often have smaller leaves. It is often found growing along the roadside. NOTE: Cabbage is also found on the island of Sakhalin, Russia. However, the Google car will not have low-cam there.",
+          "note": null
+        },
+        {
+          "id": "2-55",
+          "image": "/images/resize/600/80/japan/69.png",
+          "text": "Green tea plants are often grown in hedged rows. You will often see these fans mounted on poles, which serve the purpose of preventing frost from falling on the plants. The prefectures of Shizuoka (36%) and Kagoshima (34%) make up the majority of the production, with Mie (7%), Miyazaki (4%), and other prefectures (17%) making up the minority.",
+          "note": null
+        },
+        {
+          "id": "2-56",
+          "image": "/images/resize/600/80/japan/70.png",
+          "text": "Rice is mainly produced north of Tokyo. During growth, it resembles straws of grass. And when ready for harvest, brown husks are visible. They are also commonly planted in beds of water. The regions of Chubu (21%), Kanto (15%), Tohoku (27%), and Hokkaido (7%) make up the majority of production.",
+          "note": null
+        },
+        {
+          "id": "2-57",
+          "image": "/images/resize/600/80/japan/71.png",
+          "text": "Japanese White Birch grows dominantly in the Chubu and Hokkaido regions, and to a lesser extent in Tohoku. Small areas of white birch can be found throughout Japan, so use this information primarily to help assist your region guess. NOTE: Japanese Beech is another species of tree found in Japan. They, however, have more grey and spotted bark, as opposed to the mostly white Japanese White Birch.",
+          "note": null
+        },
+        {
+          "id": "2-58",
+          "image": "/images/resize/600/80/japan/72.png",
+          "text": "In general, bamboo grows more often in the south, and slowly decreases further north. Population size and areas where it grows can vary, so use this information primarily in helping assist your region guess.",
+          "note": null
+        },
+        {
+          "id": "2-59",
+          "image": "/images/resize/600/80/japan/73.png",
+          "text": "Chinese Silver Grass, referred to as Kyushu grass, is indeed very abundant on the island of Kyushu. However, use this tip with caution, as they can be seen outside of this area. NOTE: Another notable region they can be found in is the prefectures of Niigata, Yamagata and Akita. Though, combining the rather large quantity found on Kyushu, its normally distinct vegetation, along with other information, there often will be a clear distinction.",
+          "note": null
+        },
+        {
+          "id": "2-60",
+          "image": "/images/resize/600/80/japan/76.png",
+          "text": "Sugarcane is almost exclusively found on the islands in southern Kyushu and Okinawa.",
+          "note": null
+        },
+        {
+          "id": "2-61",
+          "image": "/images/resize/600/80/japan/74.png",
+          "text": "Hokkaido has very limited winter and snow coverage. Unless you are certain, it is often better not to guess this prefecture. Though, if you do find yourself in Hokkaido, these regions are most likely. Other low amounts of miscellaneous coverage is primarily in the southern half of the island.",
+          "note": null
+        },
+        {
+          "id": "2-62",
+          "image": "/images/resize/600/80/japan/75.png",
+          "text": "Japan is notably a very mountainous country. However, there are some regions that are quite flat, being the Nobi and Kanto plains. While at times they can look very similar, determining that it is one or the other can be very helpful. NOTE: While there are, of course, other flat areas in Japan, these two are the most recognizable.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Step 3 - Spotlight",
+      "items": [
+        {
+          "id": "3-1",
+          "image": "/images/resize/600/80/japan/78.png",
+          "text": "You can find these ‘Shisa’ guardian lions and house plaques with these specific characters in Okinawa. The colour and shapes of both can vary.",
+          "note": null
+        },
+        {
+          "id": "3-2",
+          "image": "/images/resize/600/80/japan/79.png",
+          "text": "Agricultural fields with red soil are commonly found on several southern islands, most notably on the islands of Miyakojima and Ishigaki in southern Okinawa.",
+          "note": null
+        },
+        {
+          "id": "3-3",
+          "image": "/images/resize/600/80/japan/80.png",
+          "text": "Mount Fuji is the tallest mountain in Japan, with a gradual incline and often snowy summit. Depending on the elevation, it can be seen from far away. This can create some excellent region guesses, especially if you account for direction and distance.",
+          "note": null
+        },
+        {
+          "id": "3-4",
+          "image": "/images/resize/600/80/japan/Tokyo_Manhole_cover.png",
+          "text": "Tokyo City features a nice manhole design, with a 5 petal flower and many small circles on the outside.",
+          "note": null
+        },
+        {
+          "id": "3-5",
+          "image": "/images/resize/600/80/japan/81.png",
+          "text": "Cyrillic can be found on signs in the cities of Wakkanai and Nemuro, in northern Hokkaido.",
+          "note": null
+        },
+        {
+          "id": "3-6",
+          "image": "/images/resize/600/80/japan/82.png",
+          "text": "These artistically painted poles, made to resemble birch trees, are unique to the city of Date in Hokkaido.",
+          "note": null
+        },
+        {
+          "id": "3-7",
+          "image": "/images/resize/600/80/japan/83.png",
+          "text": "There are a variety of trekkers and tripods, covering a vast amount of locations which span over multiple prefectures and regions. Due to the enormous volume of information on this topic, and it being too large to be contained in this guide, we recommend this resource to learn more about the various trekkers.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Step 4 - Maps and resources",
+      "items": []
+    }
+  ]
+}

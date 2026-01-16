@@ -1,0 +1,319 @@
+{
+  "country": "Philippines",
+  "url": "https://www.plonkit.net/philippines",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:18:08.009264+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Identifying the Philippines",
+      "items": [
+        {
+          "id": "1-1",
+          "image": "/images/resize/900/80/philippines/transparent-ph_summary_2026.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": "/images/resize/600/80/philippines/1_concreteroad.png",
+          "text": "Concrete roads are extremely common in the Philippines. NOTE: Thailand also has a lot of concrete roads.",
+          "note": null
+        },
+        {
+          "id": "1-3",
+          "image": "/images/resize/600/80/philippines/1_rightdrive.png",
+          "text": "The Philippines drives on the right. NOTE: Within Southeast Asia, Cambodia, Laos and Taiwan also drive on the right.",
+          "note": null
+        },
+        {
+          "id": "1-4",
+          "image": "/images/resize/600/80/philippines/1_licenceplate.png",
+          "text": "Standard white licence plates with black text are used for passenger vehicles. You can also find many that are privately issued, which are recognizable due to their green tint.",
+          "note": null
+        },
+        {
+          "id": "1-5",
+          "image": "/images/resize/600/80/philippines/1_octopole.png",
+          "text": "Octagonal metal poles are quite common in the Philippines. NOTE: They can sometimes be found in Bangladesh and some parts of Malaysia as well.",
+          "note": null
+        },
+        {
+          "id": "1-6",
+          "image": "/images/resize/600/80/philippines/1_poleinsulator.png",
+          "text": "You will often see a single insulator at the top of a vertical bar which is attached to the side of a utility pole.",
+          "note": null
+        },
+        {
+          "id": "1-7",
+          "image": "/images/resize/600/80/philippines/1_roadline.png",
+          "text": "Middle road lines in the Philippines can be either yellow or white. In particular, you will often see combined yellow and white middle lines, which is not common in any other East Asian country. Yellow road lines commonly have a distinct orange tint.",
+          "note": null
+        },
+        {
+          "id": "1-8",
+          "image": "/images/resize/600/80/philippines/1_kmstone.png",
+          "text": "These tall, square yellow road stones are unique to the Philippines.",
+          "note": null
+        },
+        {
+          "id": "1-9",
+          "image": "/images/resize/600/80/philippines/1_chevron.png",
+          "text": "Chevrons are typically red on white.",
+          "note": null
+        },
+        {
+          "id": "1-10",
+          "image": "/images/resize/600/80/philippines/1_signpost.png",
+          "text": "Sign posts are often painted red, orange or yellow.",
+          "note": null
+        },
+        {
+          "id": "1-11",
+          "image": "/images/resize/600/80/philippines/1_tuktuk.png",
+          "text": "Tuk-tuks, also referred to as tricycles, are extremely common in the Philippines, in many areas they are more common than typical cars.",
+          "note": null
+        },
+        {
+          "id": "1-12",
+          "image": "/images/resize/600/80/philippines/1_english.png",
+          "text": "Although Filipino is the official language of the Philippines, English is extremely common to find on signs. It is the only major Southeast Asian country where you’re likely to come across English.",
+          "note": null
+        },
+        {
+          "id": "1-13",
+          "image": "/images/resize/600/80/philippines/1_gen3car.png",
+          "text": "In Generation 3 you can come across a white Street View car with the black roof clearly visible. You may also come across a silvery grey car, which is also found in Bhutan.",
+          "note": null
+        },
+        {
+          "id": "1-14",
+          "image": "/images/resize/600/80/philippines/1_roadgrain.png",
+          "text": "It is somewhat common to see grains being spread out on roads to dry. NOTE: This practice is also common in Vietnam.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Step 2 - Region-specific clues",
+      "items": [
+        {
+          "id": "2-1",
+          "image": "/images/resize/600/80/philippines/2_blackwhiteboxes.png",
+          "text": "These black or white boxes are commonly seen on utility poles. Most of the time they feature a three letter abbreviation of the municipality you are in. The abbreviations will either have all three letters stand for the municipality, or the first two letters will abbreviate the municipality while the third letter indicates the province. In the first image the \"GMI\" and \"GMU\" stands for the town of Gamu in the province of Isabela while the second image the \"BGE\" stands for the town of Bangued. NOTE: Most towns do not have any standardised abbreviation so you might find many different abbreviations for the same place.",
+          "note": null
+        },
+        {
+          "id": "2-2",
+          "image": "/images/resize/600/80/philippines/2_tuktukmap.jpeg",
+          "text": "The Philippines have several different tuk-tuk and tricycle designs, roughly distributed as shown in this infographic. This image was provided by AeroGelo. You can click on the image to enlarge it.",
+          "note": null
+        },
+        {
+          "id": "2-3",
+          "image": "/images/resize/600/80/philippines/provinces.png",
+          "text": "Province names are very common to find on signs and can thus be very useful. However, they do not appear on the map, meaning they’re necessary to memorise in order to use them. It is worth mentioning that Davao de Oro changed its name from Compostela Valley in 2019.",
+          "note": null
+        },
+        {
+          "id": "2-4",
+          "image": "/images/resize/600/80/philippines/2_areacodes.png",
+          "text": "Landlines will start with a 0 followed by the area code. Mobile phone numbers start with 09.",
+          "note": null
+        },
+        {
+          "id": "2-5",
+          "image": "/images/resize/600/80/philippines/2_licenceplates.png",
+          "text": "Motorcycles in the Philippines have regional colour-coded plates as seen on this map. Notably, the northern half of the country has the coloured strip at the top, while the southern half has it on the bottom of the plate.",
+          "note": null
+        },
+        {
+          "id": "2-6",
+          "image": "/images/resize/600/80/philippines/2_luzonmountain.png",
+          "text": "The forested mountain range in Northern Luzon is characterised by somewhat dry mountainsides and an abundance of pine trees. You may rarely come across a similar landscape on high-altitude roads in Mindanao.",
+          "note": null
+        },
+        {
+          "id": "2-7",
+          "image": "/images/resize/600/80/philippines/2_corn.png",
+          "text": "While corn can be found in most of the country, it is most common on northern Luzon and on Mindanao.",
+          "note": null
+        },
+        {
+          "id": "2-8",
+          "image": "/images/resize/600/80/philippines/2_oilpalms.png",
+          "text": "The vast majority of Oil palm plantations are found on Mindanao.",
+          "note": null
+        },
+        {
+          "id": "2-9",
+          "image": "/images/resize/600/80/philippines/2_sugarcane.png",
+          "text": "The majority of sugarcane in the Philippines can be found on the islands of Negros and Panay.",
+          "note": null
+        },
+        {
+          "id": "2-10",
+          "image": "/images/resize/600/80/philippines/2_pineapple.png",
+          "text": "Pineapple plantations are mostly found on Mindanao.",
+          "note": null
+        },
+        {
+          "id": "2-11",
+          "image": "/images/resize/600/80/philippines/2_banana.png",
+          "text": "Banana plantations are almost exclusively found in central and southern Mindanao. NOTE: Wild growing banana plants can be found all over the country, so make sure what you are seeing is an actual plantation before guessing.",
+          "note": null
+        },
+        {
+          "id": "2-12",
+          "image": "/images/resize/600/80/philippines/2_mindanaotree.png",
+          "text": "Moluccan albizia are trees with light coloured trunks and pinnate leaves near the top of the tree. They are mainly found on Mindanao and are especially common in the eastern and central regions of the island.",
+          "note": null
+        },
+        {
+          "id": "2-13",
+          "image": "/images/resize/600/80/philippines/2_diamondpatternhouse.png",
+          "text": "Houses built with amakan walls, a traditionally woven bamboo mat, with a diamond pattern are almost exclusively found in the southern half of the country.",
+          "note": null
+        },
+        {
+          "id": "2-14",
+          "image": "/images/resize/600/80/philippines/2_palawanpatternhouse.png",
+          "text": "Houses built with amakan walls (referred to as Sawali in the north) with a diagonally woven pattern are mostly found on the island of Palawan, but can also be found throughout the northern half of the country.",
+          "note": null
+        },
+        {
+          "id": "2-15",
+          "image": "/images/resize/600/80/philippines/2_baguioconcreteguardrail.png",
+          "text": "In the Cordillera Administrative Region you can find yellow and black striped concrete guardrails.",
+          "note": null
+        },
+        {
+          "id": "2-16",
+          "image": "/images/resize/600/80/philippines/2_bicolguardrail.png",
+          "text": "White guardrails with three recurring black stripes are unique to the region of Bicol in southern Luzon.",
+          "note": null
+        },
+        {
+          "id": "2-17",
+          "image": "/images/resize/600/80/philippines/2_chilepole.png",
+          "text": "Square concrete poles with an indent on both side, similar to the poles found in Chile, are mainly found north of Manila and in and around the city of Bacolod on the island of Negros.",
+          "note": null
+        },
+        {
+          "id": "2-18",
+          "image": "/images/resize/600/80/philippines/2_manilapoletop.png",
+          "text": "A poletop made up of two tall vertical metal bars having an L-shaped cross-section which are connected via several thin wires, making it resemble a ladder, is unique to Manila and the surrounding area. NOTE: You may sometimes come across similar looking poletops, with square bars instead of L-shaped ones, throughout the entire country. They will however almost never have more than two connecting wires.",
+          "note": null
+        },
+        {
+          "id": "2-19",
+          "image": "/images/resize/600/80/philippines/2_zamboangapole.png",
+          "text": "Square metal mesh poles are found on Mindanao, mainly on the Zamboanga peninsula. NOTE: Most of the poles found outside of the Zamboanga peninsula are found along highways and have poletops with three hanging insulators.",
+          "note": null
+        },
+        {
+          "id": "2-20",
+          "image": "/images/resize/600/80/philippines/2_islam.png",
+          "text": "While most of the Philippines is strongly Christian, a region of western Mindanao is majority Muslim.",
+          "note": null
+        },
+        {
+          "id": "2-21",
+          "image": "/images/resize/600/80/philippines/2_mountaindew.png",
+          "text": "Decorations made of neon-green Mountain Dew bottles are commonly found in the north, particularly on northern Luzon.",
+          "note": null
+        },
+        {
+          "id": "2-22",
+          "image": "/images/resize/600/80/philippines/2_cambocar.png",
+          "text": "This type of tractor, called a kuliglig, is mostly found on the plains around Cauayan on northern Luzon.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Step 3 - Spotlight",
+      "items": [
+        {
+          "id": "3-1",
+          "image": "/images/resize/600/80/philippines/3_chocolatehills.png",
+          "text": "On central Bohol you can find these distinct round grassy hills. The hills generally have dark brown soil beneath the grass, earning them the name of Chocolate Hills.",
+          "note": null
+        },
+        {
+          "id": "3-2",
+          "image": "/images/resize/600/80/philippines/3_arayatvolcano.png",
+          "text": "The Arayat Volcano can be recognised by being completely surrounded by flat agricultural fields.",
+          "note": null
+        },
+        {
+          "id": "3-3",
+          "image": "/images/resize/600/80/philippines/3_mayonvolcano.png",
+          "text": "The Mayon Volcano is one of the tallest mountains in the Philippines and can be recognised by its almost perfect smooth cone shape. Beware that it will very often be covered in clouds.",
+          "note": null
+        },
+        {
+          "id": "3-4",
+          "image": "/images/resize/600/80/philippines/3_marawiruins.png",
+          "text": "In and around the city of Marawi, Mindanao you can find many destroyed houses and ruins from the Marawi siege in 2017.",
+          "note": null
+        },
+        {
+          "id": "3-5",
+          "image": "/images/resize/600/80/philippines/3_bataandeathmarchstone.png",
+          "text": "These large decorated white waystones, commemorating the Bataan Death March, can be seen along roads going from Mariveles and Bagac in the south to San Fernando in the north. NOTE: The Bataan Death March continued from San Fernando to Capas by train, where a larger memorial has been built.",
+          "note": null
+        },
+        {
+          "id": "3-6",
+          "image": "/images/resize/600/80/philippines/3_trans-palawanhighway.png",
+          "text": "The highway going south from Puerto Princesa on Palawan can be characterised by being very wide, often featuring six lanes, while simultaneously having very little traffic. Along the road you will usually see this double electrical wire, which can help confirm your guess.",
+          "note": null
+        },
+        {
+          "id": "3-7",
+          "image": "/images/resize/600/80/philippines/3_siquijorlamp.png",
+          "text": "Lamp posts on Siquijor are typically painted yellow, with black stripes at the bottom.",
+          "note": null
+        },
+        {
+          "id": "3-8",
+          "image": "/images/resize/600/80/philippines/3_marinduqueromansoldier.png",
+          "text": "Images and statues of ancient Roman soldiers can be found on the island of Marinduque.",
+          "note": null
+        },
+        {
+          "id": "3-9",
+          "image": "/images/resize/600/80/philippines/3_generalsantoscar.png",
+          "text": "You may find this black Street View car with a visible roof rack in and around the city of General Santos.",
+          "note": null
+        },
+        {
+          "id": "3-10",
+          "image": "/images/resize/600/80/philippines/3_boholcar.png",
+          "text": "In northwestern Bohol you can find this Street View car with tape on the back.",
+          "note": null
+        },
+        {
+          "id": "3-11",
+          "image": "/images/resize/600/80/philippines/3_corregidorcar.png",
+          "text": "An orange Street View car with visible side mirrors can be found on Corregidor Island.",
+          "note": null
+        },
+        {
+          "id": "3-12",
+          "image": "/images/resize/600/80/philippines/3_mayoncar.png",
+          "text": "This vehicle with several thick black bars can be found just south of the Mayon Volcano.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Step 4 - Maps and resources",
+      "items": []
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "country": "South Korea",
+  "url": "https://www.plonkit.net/south-korea",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:18:10.795490+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Identifying South Korea",
+      "items": [
+        {
+          "id": "1-1",
+          "image": "/images/resize/900/80/south-korea/0_skr.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": "/images/resize/600/80/south-korea/licen_plae.png",
+          "text": "South Korea uses a variety of different licence plates. Pre-2006 plates are short and green. These will still show up in the street view coverage. Post-2006 plates are white for private vehicles, and yellow for commercial vehicles. These can be long and short.",
+          "note": null
+        },
+        {
+          "id": "1-3",
+          "image": "/images/resize/600/80/south-korea/kr_cars.png",
+          "text": "Almost all road coverage in South Korea is made with a Generation 3 camera. In most, but not all, of the coverage, the back of the Google car is visible. You can see three colours: black, white and silver. The car never has an antenna.",
+          "note": null
+        },
+        {
+          "id": "1-4",
+          "image": "/images/resize/600/80/south-korea/kr_autumn_winter.png",
+          "text": "A considerable amount of the coverage was made during autumn and winter. Note that more pleasant-looking spring and summer coverage is also not uncommon.",
+          "note": null
+        },
+        {
+          "id": "1-5",
+          "image": "/images/resize/600/80/south-korea/kr_script.png",
+          "text": "The Korean writing system (Hangul) is very unique and recognizable. One of its standout features is the presence of circles in many of its letters. This sets it apart from most other East Asian writing systems.",
+          "note": null
+        },
+        {
+          "id": "1-6",
+          "image": "/images/resize/600/80/south-korea/kr_pole_marking.png",
+          "text": "Utility poles almost always have these pole markings near the bottom, consisting of black and yellow diagonal stripes. These markings look similar to the ones found in Taiwan. There are however two main differences: In South Korea, the stripes do not reach all the way to the bottom, whereas in Taiwan they do. In South Korea, the stripes are more yellow. In Taiwan, they have more of an orange tint.",
+          "note": null
+        },
+        {
+          "id": "1-7",
+          "image": "/images/resize/600/80/south-korea/kr_spikey_pole_top.png",
+          "text": "Most poles have a tapered “spike” on top.",
+          "note": null
+        },
+        {
+          "id": "1-8",
+          "image": "/images/resize/600/80/south-korea/kr_driving_side.png",
+          "text": "South Korea drives on the right.",
+          "note": null
+        },
+        {
+          "id": "1-9",
+          "image": "/images/resize/600/80/south-korea/kr_yellow_middle_line.png",
+          "text": "Roads generally have yellow middle lines and white outer lines.",
+          "note": null
+        },
+        {
+          "id": "1-10",
+          "image": "/images/resize/600/80/south-korea/kr_red_block_markings.png",
+          "text": "You can sometimes see red block markings on the road.",
+          "note": null
+        },
+        {
+          "id": "1-11",
+          "image": "/images/resize/600/80/south-korea/kr_yellow_road_signs.png",
+          "text": "Triangular warning signs have a yellow background. Note that circular prohibition signs, such as speed signs, have a white background. Yield signs also have a white background.",
+          "note": null
+        },
+        {
+          "id": "1-12",
+          "image": "/images/resize/600/80/south-korea/kr_bluestreetsigns.png",
+          "text": "Street signs will be blue, arrow-shaped and commonly hanging from a metal bar mounted to utility poles.",
+          "note": null
+        },
+        {
+          "id": "1-13",
+          "image": "/images/resize/600/80/south-korea/kr_directionsigns.png",
+          "text": "Direction signs in South Korea have white text on a green background.",
+          "note": null
+        },
+        {
+          "id": "1-14",
+          "image": "/images/resize/600/80/south-korea/kr_pedestrian_crossing.png",
+          "text": "Speed bumps are often painted yellow and white.",
+          "note": null
+        },
+        {
+          "id": "1-15",
+          "image": "/images/resize/600/80/south-korea/kr_pedestriansigns.png",
+          "text": "South Korean pedestrian crossing signs can be easily recognised from the distinct pentagonal shape combined with the blue background.",
+          "note": null
+        },
+        {
+          "id": "1-16",
+          "image": "/images/resize/600/80/south-korea/kr_house_number.png",
+          "text": "Korean buildings have very distinctive house numbers. They are blue and usually are shaped quite literally like a house. The full address of the building is written on them, in both Hangul and Latin script. Some places have unique house numbers, which you can use to region-guess. More information about this can be found in the spotlight section.",
+          "note": null
+        },
+        {
+          "id": "1-17",
+          "image": "/images/resize/600/80/south-korea/kr_regular_bollards.png",
+          "text": "You will sometimes see these black and white wedge-shaped bollards. They have a round yellow reflector on the front, and a grey one on the back.",
+          "note": null
+        },
+        {
+          "id": "1-18",
+          "image": "/images/resize/600/80/south-korea/kr_mountains.png",
+          "text": "The South Korean landscape is predominantly mountainous. It is very rare to not see at least some hills or mountains in the distance. Even in the flat areas, you can almost always see elevation on the horizon.",
+          "note": null
+        },
+        {
+          "id": "1-19",
+          "image": "/images/resize/600/80/south-korea/kr_brick.png",
+          "text": "Red brick is a very common building material in South Korea.",
+          "note": null
+        },
+        {
+          "id": "1-20",
+          "image": "/images/resize/600/80/south-korea/kr_roofs.png",
+          "text": "Many buildings have traditional tiled roofs like these. These often have decorative elements on the corners, and tend to have sides that curve slightly upwards. Blue roofs are quite common.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Step 2 - Region-specific clues",
+      "items": [
+        {
+          "id": "2-1",
+          "image": "/images/resize/600/80/south-korea/kr_coveragemap.png",
+          "text": "South Korea has fairly limited and very spotty coverage. Other than large highways, most of the coverage is concentrated in and around major cities.",
+          "note": null
+        },
+        {
+          "id": "2-2",
+          "image": "/images/resize/600/80/south-korea/kr_phonecodes v4.png",
+          "text": "Area codes in South Korea increase to the south, from 02 in the north, to 064 on Jeju. It is also notable that Seoul has the only two-digit area code in the country.",
+          "note": null
+        },
+        {
+          "id": "2-3",
+          "image": "/images/resize/600/80/south-korea/kr_gen2.png",
+          "text": "Generation 2 coverage is almost exclusively found in Seoul and Busan. It can also be found on a couple of highways outside the cities, however almost all of that coverage has been overwritten.",
+          "note": null
+        },
+        {
+          "id": "2-4",
+          "image": "/images/resize/600/80/south-korea/kr_carmeta.png",
+          "text": "A small camera can be seen mounted above the brake light on the Street View car on coverage northeast of Seoul and around Pohang.",
+          "note": null
+        },
+        {
+          "id": "2-5",
+          "image": "/images/resize/600/80/south-korea/kr_jejudirt.png",
+          "text": "Jeju is a volcanic island with a lot of dark volcanic dirt, where you can also often see volcanoes in the distance.",
+          "note": null
+        },
+        {
+          "id": "2-6",
+          "image": "/images/resize/600/80/south-korea/kr_jejurockwall.png",
+          "text": "Jeju also has a lot of rock walls, made of dark volcanic rocks.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Step 3 - Spotlight",
+      "items": [
+        {
+          "id": "3-1",
+          "image": "/images/resize/600/80/south-korea/kr_gimjeplains.png",
+          "text": "The area around Gimje can be recognised by being one of the only completely flat areas of South Korea, combined with the open, yellow-green fields along almost every road in the area.",
+          "note": null
+        },
+        {
+          "id": "3-2",
+          "image": "/images/resize/600/80/south-korea/kr_hampyeonghousenumber.png",
+          "text": "House numbers in the Hampyeong region can be recognised from the large white section at the top of the sign.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Other resources",
+      "items": []
+    }
+  ]
+}

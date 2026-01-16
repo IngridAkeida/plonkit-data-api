@@ -1,0 +1,463 @@
+{
+  "country": "Chile",
+  "url": "https://www.plonkit.net/chile",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:20:26.020396+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Identifying Chile",
+      "items": [
+        {
+          "id": "1-1",
+          "image": "/images/resize/900/80/chile/0_summary_cl_2025.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": "/images/resize/600/80/chile/road_lines.png",
+          "text": "Chilean road lines are either all white, or all yellow: All white road lines are most common. Within the Americas, they are a good clue for Chile, though not completely unique. All yellow road lines are seen in National Parks or areas of high snowfall. Within the Americas, these all yellow road lines are essentially unique to Chile. You will almost never see a combination of the two colours, apart from a few rare exceptions. NOTE: It is important to note that Argentina has a decent amount of roads with all white road lines.",
+          "note": null
+        },
+        {
+          "id": "1-3",
+          "image": "/images/resize/600/80/chile/google_car.png",
+          "text": "Chile has a solid white Google Car with no antenna in Generation 3. There are two variants: A plain white car (left). A white car with a visible black section (right). This car is unique to Chile. A blue Google Car can be seen in Generation 4. NOTE: In Generation 3, a plain white Google Car with no antenna can also be seen in Peru and Bolivia.",
+          "note": null
+        },
+        {
+          "id": "1-4",
+          "image": "/images/resize/600/80/chile/pole.png",
+          "text": "Chile uses square concrete poles with an indent on both sides. They are somewhat similar to Brazilian poles, however have fewer horizontal supports in the indent. The upper part typically has small pinholes. Wooden poles are also fairly common.",
+          "note": null
+        },
+        {
+          "id": "1-5",
+          "image": "/images/resize/600/80/chile/Chile_License_Plate.png",
+          "text": "Regular vehicles have white licence plates, while commercial and taxi vehicles have orange plates. NOTE: Orange plates can also be seen in Ecuador. Brazilian commercial plates are red, but can look similar in some lighting.",
+          "note": null
+        },
+        {
+          "id": "1-6",
+          "image": "/images/resize/600/80/chile/Slotted_Signs.png",
+          "text": "Slots can often be seen at the top of signposts.",
+          "note": null
+        },
+        {
+          "id": "1-7",
+          "image": "/images/resize/600/80/chile/bollard.png",
+          "text": "Chilean bollards are similar to Spanish style bollards, with a white reflector at the front and a yellow-orange reflector at the back. They are not super common.",
+          "note": null
+        },
+        {
+          "id": "1-8",
+          "image": "/images/resize/600/80/chile/temporary_bollards.png",
+          "text": "While regular bollards are somewhat rare in Chile, you may sometimes find this orange, temporary bollard, with two white stripes at the top.",
+          "note": null
+        },
+        {
+          "id": "1-9",
+          "image": "/images/resize/600/80/chile/red_bridges.png",
+          "text": "Bridges in Chile often have red painted fence posts.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Step 2 - Region-specific clues",
+      "items": [
+        {
+          "id": "2-1",
+          "image": "/images/resize/600/80/chile/Chile_map_of_KÃ¶ppen_climate_classification_with_new_classification_types_darkmode_wikipediacommons.png",
+          "text": "Shown here is a Köppen climate map of Chile. Chile is a long and narrow country that spans more than 4,000 kilometres from north to south, meaning that its climate varies significantly due to latitude. The northern parts of the country, which lie in the tropical zone, are dry and arid, leading to a mild desert climate. In the centre, around the capital, the climate becomes less arid, leading to a temperate mediterranean climate. In the southernmost regions of Chile, which lie in the subantarctic zone, the climate is cold and wet, leading to a cool oceanic climate. You can click on the image to enlarge it.",
+          "note": null
+        },
+        {
+          "id": "2-2",
+          "image": "/images/resize/600/80/chile/Chile_Road_Naming_System_nobg.png",
+          "text": "Chile uses a memorable regional road naming system, where the first letter increases between A and Y from north to south. For more information on specific regions, see here.",
+          "note": null
+        },
+        {
+          "id": "2-3",
+          "image": "/images/resize/600/80/chile/Chile_Area_Codes.png",
+          "text": "Chilean phone codes will sometimes have a two digit area code in front, followed by seven digits. The patterns of the codes are easily memorable. Most of the central states also have different area codes for specific provinces, which can help you make accurate guesses.",
+          "note": null
+        },
+        {
+          "id": "2-4",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "2-5",
+          "image": "/images/resize/600/80/chile/Atacama.png",
+          "text": "The Atacama is an extremely arid desert covering the northern third of Chile. Some parts of it experience the lowest rainfall on the planet. As a result, many locations in this desert are almost completely devoid of any vegetation: you will often just see sand and bare rock without any plants in sight anywhere. NOTE: The Atacama Desert also covers parts of southern Peru, western Bolivia and northwestern Argentina.",
+          "note": null
+        },
+        {
+          "id": "2-6",
+          "image": "/images/resize/600/80/chile/Arica_Valleys.png",
+          "text": "The region of Arica y Parinacota can be recognized by the smooth, sandy mountains that may look slightly eroded, or have bulbous formations. Valleys are also common, which are rarely seen in other parts of Chile.",
+          "note": null
+        },
+        {
+          "id": "2-7",
+          "image": "/images/resize/600/80/chile/Atacama_Rocky_Mountains.png",
+          "text": "These rocky, uneven mountains are most commonly seen in Atacama and northern Coquimbo.",
+          "note": null
+        },
+        {
+          "id": "2-8",
+          "image": "/images/resize/600/80/chile/Atacama_Red_Soil.png",
+          "text": "This brownish red soil can sometimes be seen in Atacama region. NOTE: This is most reliable in Generation 3. This soil can be seen in other regions in Generation 4.",
+          "note": null
+        },
+        {
+          "id": "2-9",
+          "image": "/images/resize/600/80/chile/euca.png",
+          "text": "Eucalyptus plantations combined with a somewhat dry climate are a good indicator that you are in southwestern Valparaíso.",
+          "note": null
+        },
+        {
+          "id": "2-10",
+          "image": "/images/resize/600/80/chile/Santiago_Mediterrean_Climate_gen4.png",
+          "text": "The region around Santiago can be recognized by its semi-arid climate, having dry hills and scattered vegetation.",
+          "note": null
+        },
+        {
+          "id": "2-11",
+          "image": "/images/resize/600/80/chile/Maule_Vineyards_gen4.png",
+          "text": "Compared to the area around Santiago, the Maule region has a similar look. However, it has a Mediterranean climate, and is generally greener. Vineyards are also commonly seen in this region.",
+          "note": null
+        },
+        {
+          "id": "2-12",
+          "image": "/images/resize/600/80/chile/Concepcion_Pines.png",
+          "text": "Concepcion pines, scientifically named Pinus radiata, can be recognized by their puffy needles. They are most commonly found in Bio Bio, where the city of Concepcion is located, and less commonly in Ñuble and Araucania.",
+          "note": null
+        },
+        {
+          "id": "2-13",
+          "image": "/images/resize/600/80/chile/Biobio__Araucania_Narrow_Roads.png",
+          "text": "Narrow roads with trees on both sides can commonly be seen in the regions of Bio Bio and Araucania.",
+          "note": null
+        },
+        {
+          "id": "2-14",
+          "image": "/images/resize/600/80/chile/monkeh.png",
+          "text": "Monkey puzzles, scientifically named Araucaria araucana, are found in far eastern Araucania. NOTE: Monkey puzzles can also be found on the other side of the Argentinian border.",
+          "note": null
+        },
+        {
+          "id": "2-15",
+          "image": "/images/resize/600/80/chile/Isla_Grande.png",
+          "text": "A rolling, agricultural landscape, comparable to New Zealand, can be seen on Isla Grande de Chiloé. NOTE: Similar looking landscapes exist in some other parts of the country, but usually more level.",
+          "note": null
+        },
+        {
+          "id": "2-16",
+          "image": "/images/resize/600/80/chile/Chilean_Rhubarb__281_29.png",
+          "text": "Chilean rhubarb can commonly be found on Isla Grande, and on the mainland east of it. Chilean rhubarb can be recognized by its large, cabbage-like appearance.",
+          "note": null
+        },
+        {
+          "id": "2-17",
+          "image": "/images/resize/600/80/chile/Southern_Valleys_gen4.png",
+          "text": "Lush green valleys, with rocky mountains and often overcast coverage, can be seen in southern Los Lagos and northern Aysén.",
+          "note": null
+        },
+        {
+          "id": "2-18",
+          "image": "/images/resize/600/80/chile/Autumn_Coverage.png",
+          "text": "Southern Aysén can be recognised by autumn coverage, having orange and red coloured vegetation. Keep in mind that not all coverage in this region will have fall colours.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Step 3 - Spotlight",
+      "items": [
+        {
+          "id": "3-1",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "3-2",
+          "image": "/images/resize/600/80/chile/dont_fall.png",
+          "text": "The A-31 can be recognised by its high altitude, with a steep drop into a valley to the north. The road also has Gen 3 sunset coverage.",
+          "note": null
+        },
+        {
+          "id": "3-3",
+          "image": "/images/resize/600/80/chile/image.png",
+          "text": "Generation 4 sunset coverage can be seen on Ruta 21 from Calama to San Francisco de Chiu Chiu. In the west near Calama, the sun has just started to set, causing a giant white dome in the sky. In the east, the sky has a warm gradient, and the tops of the volcanoes are seen glowing pink.",
+          "note": null
+        },
+        {
+          "id": "3-4",
+          "image": "/images/resize/600/80/chile/sunset_roads.png",
+          "text": "More Generation 4 Sunset coverage can be seen on B-710 and Ruta 5. On the B-710, a slight ridge can be seen to the west, while Ruta 5 is more open. Make sure to use the road angle or other clues before guessing.",
+          "note": null
+        },
+        {
+          "id": "3-5",
+          "image": "/images/resize/600/80/chile/Regionguessing_Ruta_1.png",
+          "text": "Ruta 1 is a coastal road that is easily recognized by the wall of mountains to the east, and the Pacific Ocean to the west. This image shows the various weather conditions faced on the road to help you make closer guesses. You can click on the image to enlarge it.",
+          "note": null
+        },
+        {
+          "id": "3-6",
+          "image": "/images/resize/600/80/chile/worm_looking_road.png",
+          "text": "Part of Ruta 41 is located in a valley, with snowy mountains seen in the distance. Many trees and vineyards can commonly be seen toward the west. Triple yellow lines can also be seen from this point.",
+          "note": null
+        },
+        {
+          "id": "3-7",
+          "image": "/images/resize/600/80/chile/flower.png",
+          "text": "These purple flowers, named Large-leaved Lupines, can commonly be found along Ruta 240.",
+          "note": null
+        },
+        {
+          "id": "3-8",
+          "image": "/images/resize/600/80/chile/Magallanes_concrete_new.png",
+          "text": "All yellow lines on a concrete road are a good indicator that you are on a paved road in the Magallanes region, in the very south of Chile. The landscape tends to be barren, grassy, and treeless. NOTE: Ruta 9 only appears in Generation 3, whereas the other roads only appear in Generation 4 coverage.",
+          "note": null
+        },
+        {
+          "id": "3-9",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "3-10",
+          "image": "/images/resize/600/80/chile/Lauca.png",
+          "text": "A distinct landscape consisting of a line of snow-capped mountains with two other isolated, symmetrical snow-capped volcanoes are seen in Lauca National Park. Most of the roads are newly paved and have a smooth, dark look.",
+          "note": null
+        },
+        {
+          "id": "3-11",
+          "image": "/images/resize/600/80/chile/tama.png",
+          "text": "The northern section of Pampa del Tamarugal National Reserve can be recognized by the Tamarugo trees lining the road. The road itself is mediocre quality, and in a consistent north-west direction.",
+          "note": null
+        },
+        {
+          "id": "3-12",
+          "image": "/images/resize/600/80/chile/Alta_Loa_gen4.png",
+          "text": "Alto Loa National Reserve can be recognized by the vast, open landscape, followed by salt pans leading up to snow-capped volcanoes. The road running through the reserve is paved.",
+          "note": null
+        },
+        {
+          "id": "3-13",
+          "image": "/images/resize/600/80/chile/Los_Flamencos.png",
+          "text": "Smooth mountains with a reddish tint are seen in Los Flamencos National Reserve. Salt pans are also a common sight. The reserve uses triple yellow lines, with short dashes in the west.",
+          "note": null
+        },
+        {
+          "id": "3-14",
+          "image": "/images/resize/600/80/chile/Tres_Cruces.png",
+          "text": "In the west, Nevado Tres Cruces National Park can be recognized by the vast, open landscape, followed by salt pans leading up to a line of mountains. The sand has a reddish tint. In the east, the Google Car drives up a mountain pass with views of lightly snow-capped volcanoes and snow on the side of the road. The roads in the National Park are paved.",
+          "note": null
+        },
+        {
+          "id": "3-15",
+          "image": "/images/resize/600/80/chile/Llanos.png",
+          "text": "Llanos de Challe National Park can be recognized by the brown coloured dirt on the roadside, patches of light sand, juniper plants, and dark coloured mountains. The sky is overcast in most of the coverage. NOTE: Pan de Azúcar National Park looks similar, however has less vegetation.",
+          "note": null
+        },
+        {
+          "id": "3-16",
+          "image": "/images/resize/600/80/chile/Alto_Bio_Bio.png",
+          "text": "A vast, mostly treeless landscape combined with triple yellow lines are seen in Alto Bio Bio National Reserve. While the reserve may look dry, there is a distinct cold and high altitude feel. Monkey puzzles are also seen toward the east. NOTE: Ruta 181 leading up to the reserve also has triple yellow lines, however, is less vast with more vegetation.",
+          "note": null
+        },
+        {
+          "id": "3-17",
+          "image": "/images/resize/600/80/chile/Puyehue.png",
+          "text": "Puyehue National Park can be recognized by the dense vegetation surrounding the road. The pavement itself has triple yellow lines, and tar snakes are frequently seen. In the east, many dead trees can be seen with a lack of leaves.",
+          "note": null
+        },
+        {
+          "id": "3-18",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "3-19",
+          "image": "/images/resize/600/80/chile/ari_gen4.png",
+          "text": "A slight, sandy ridge with a gradual incline can be seen in Arica.",
+          "note": null
+        },
+        {
+          "id": "3-20",
+          "image": "/images/resize/600/80/chile/queque_gen4.png",
+          "text": "A larger, towering ridge can be seen in Iquique.",
+          "note": null
+        },
+        {
+          "id": "3-21",
+          "image": "/images/resize/600/80/chile/anto_mountain.png",
+          "text": "A rockier, and more uneven ridge can be seen in Antofagasta.",
+          "note": null
+        },
+        {
+          "id": "3-22",
+          "image": "/images/resize/600/80/chile/mr_pedro.png",
+          "text": "San Pedro de Atacama can be recognized by its clay brick walls, commonly with triangles at the top.",
+          "note": null
+        },
+        {
+          "id": "3-23",
+          "image": "/images/resize/600/80/chile/orange.png",
+          "text": "Orange street signs can be seen at almost every intersection in the city of Lanco, and occasionally in the nearby town of Malalhue.",
+          "note": null
+        },
+        {
+          "id": "3-24",
+          "image": "/images/resize/600/80/chile/OHiggins_gen4.png",
+          "text": "Villa O’Higgins can be recognized by the large mountains located immediately to the east. To the west, snow-capped mountains are seen in the distance. Street signs, fences and many other structures throughout the village are made of orange-stained wood.",
+          "note": null
+        },
+        {
+          "id": "3-25",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "3-26",
+          "image": "/images/resize/600/80/chile/cl_orange_lamp.webp",
+          "text": "Orange lamps can most often be seen in Calama and Chañaral, and rarely in Antofagasta. NOTE: Orange lamps can rarely be found in other smaller cities. Make sure to look out for other clues before guessing.",
+          "note": null
+        },
+        {
+          "id": "3-27",
+          "image": "/images/resize/600/80/chile/Copiapo_Lamps.png",
+          "text": "Lamps that look like green domes can be seen in Copiapo.",
+          "note": null
+        },
+        {
+          "id": "3-28",
+          "image": "/images/resize/600/80/chile/Santiago_Photocells.png",
+          "text": "Lamps in Santiago very commonly have photocells. You will rarely find them in other cities such as Valparaiso, Osorno and Loncoche.",
+          "note": null
+        },
+        {
+          "id": "3-29",
+          "image": "/images/resize/600/80/chile/talca_lamp.png",
+          "text": "Grey lamps with a thin, flat top and a rounded underside can be found in Talca.",
+          "note": null
+        },
+        {
+          "id": "3-30",
+          "image": "/images/resize/600/80/chile/concepcion_lamp.png",
+          "text": "Blue rectangular lamps with a yellow stripe can be found in Concepción.",
+          "note": null
+        },
+        {
+          "id": "3-31",
+          "image": "/images/resize/600/80/chile/grey_lamp.png",
+          "text": "This lamp, with a silver top and grey bottom, can be found in Puerto Montt and Temuco.",
+          "note": null
+        },
+        {
+          "id": "3-32",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "3-33",
+          "image": "/images/resize/600/80/chile/arica.png",
+          "text": "Poles in Arica feature white paint with a black number, while the other cities in the Atacama Desert feature poles with yellow paint. Keep in mind the paint may have faded, making it look white.",
+          "note": null
+        },
+        {
+          "id": "3-34",
+          "image": "/images/resize/600/80/chile/el_salvador.png",
+          "text": "Round poles with black paint can be seen in the town of El Salvador.",
+          "note": null
+        },
+        {
+          "id": "3-35",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "3-36",
+          "image": "/images/resize/600/80/chile/pace_american.png",
+          "text": "The Google car can be seen towing a white and silver trailer with the word ‘Outback’ south of the Chilean National Zoo in Santiago.",
+          "note": null
+        },
+        {
+          "id": "3-37",
+          "image": "/images/resize/600/80/chile/banos_car.png",
+          "text": "A grey Toyota Hilux, with various gear loaded and a snorkel on the front right, can be seen from around Baños Morales to this point, where the trekker continues the journey on foot.",
+          "note": null
+        },
+        {
+          "id": "3-38",
+          "image": "/images/resize/600/80/chile/conguillo_np.png",
+          "text": "Conguillio National Park can be recognized by this white truck with visible side mirrors and an antenna on the front right.",
+          "note": null
+        },
+        {
+          "id": "3-39",
+          "image": "/images/resize/600/80/chile/p_william.png",
+          "text": "Puerto Williams, the southernmost town covered by street view, can be recognized by this white pickup truck with visible side mirrors. NOTE: The Puerto Williams coverage is located fairly far away from the normal car coverage in Chile. The nearest normal car coverage is in Fuerte Bulnes, near Punta Arenas.",
+          "note": null
+        },
+        {
+          "id": "3-40",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "3-41",
+          "image": null,
+          "text": "Note: there are many trekkers in Chile. This section highlights a small selection of some of the most notable and unique ones.",
+          "note": null
+        },
+        {
+          "id": "3-42",
+          "image": "/images/resize/600/80/chile/Atacama_Large_Millimeter_Array.png",
+          "text": "The Atacama Large Millimetre Array can be recognized by the many radio telescopes in a barren, snowy environment.",
+          "note": null
+        },
+        {
+          "id": "3-43",
+          "image": "/images/resize/600/80/chile/ALMA_OSF.png",
+          "text": "ALMA OSF can be recognized by the large radio telescopes and rural facilities.",
+          "note": null
+        },
+        {
+          "id": "3-44",
+          "image": "/images/resize/600/80/chile/Santiago_Horse_Trekker.png",
+          "text": "This horse trekker can be seen to the northeast of San Felipe. NOTE: A similar trekker can be found on the other side of the border in Argentina.",
+          "note": null
+        },
+        {
+          "id": "3-45",
+          "image": "/images/resize/600/80/chile/torres_del_paine.png",
+          "text": "The Torres del Paine area can be recognized by the sharp peaked mountains, and the trekker walking on a glacier along with other people in orange helmets.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Step 4 - Maps and resources",
+      "items": []
+    }
+  ]
+}

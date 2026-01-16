@@ -1,0 +1,163 @@
+{
+  "country": "Isle of Man",
+  "url": "https://www.plonkit.net/isle-of-man",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:18:50.307331+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Identifying Isle of Man",
+      "items": [
+        {
+          "id": "1-1",
+          "image": "/images/resize/900/80/isle-of-man/0_summary_iom.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": "/images/resize/600/80/isle-of-man/isleofmanplace.png",
+          "text": "Isle of Man is a British Crown dependency, situated between the United Kingdom and Ireland. So for country streaks purposes, it is counted as the United Kingdom.",
+          "note": null
+        },
+        {
+          "id": "1-3",
+          "image": "/images/resize/600/80/isle-of-man/gen2.png",
+          "text": "Coverage on the Isle of Man is limited to Generation 2. This camera can be recognized by the lower camera quality and circular blur above and below. Colours will also seem slightly off.",
+          "note": null
+        },
+        {
+          "id": "1-4",
+          "image": "/images/resize/600/80/isle-of-man/IOM_Plate.png",
+          "text": "Similar to the United Kingdom, the Isle of Man uses white front licence plates with yellow rears, but with a red strip on the left.",
+          "note": null
+        },
+        {
+          "id": "1-5",
+          "image": "/images/resize/600/80/isle-of-man/landscape.png",
+          "text": "The general landscape on the Isle of Man consists of hilly farmland, and narrow roads passing through them.",
+          "note": null
+        },
+        {
+          "id": "1-6",
+          "image": "/images/resize/600/80/isle-of-man/architecture.png",
+          "text": "Houses with whitewashed walls and entrance walls are a common sight, similar to Ireland.",
+          "note": null
+        },
+        {
+          "id": "1-7",
+          "image": "/images/resize/600/80/isle-of-man/kerb.png",
+          "text": "Striped kerbs can sometimes be seen along main roads.",
+          "note": null
+        },
+        {
+          "id": "1-8",
+          "image": "/images/resize/600/80/isle-of-man/bollard.png",
+          "text": "These blue bollards can commonly be found in urban areas.",
+          "note": null
+        },
+        {
+          "id": "1-9",
+          "image": "/images/resize/600/80/isle-of-man/image.png",
+          "text": "Gorse plants (or Ulex), which can be recognized by their bright yellow flowers, are very common on the Isle of Man. NOTE: Gorse plants can also be found in other rugged areas of the UK and Ireland, such as the Scottish Highlands.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Step 2 - Regional clues",
+      "items": [
+        {
+          "id": "2-1",
+          "image": "/images/resize/600/80/isle-of-man/0.png",
+          "text": "Isle of Man is generally quite hilly, with a few exceptions.",
+          "note": null
+        },
+        {
+          "id": "2-2",
+          "image": "/images/resize/600/80/isle-of-man/1.png",
+          "text": "Northern Isle of Man is very flat in comparison to the rest of the island. Usually, there are mountains visible to the south.",
+          "note": null
+        },
+        {
+          "id": "2-3",
+          "image": "/images/resize/600/80/isle-of-man/2.png",
+          "text": "A ‘twig smudge’ can be seen on the left side of the camera lens in southern Isle of Man.",
+          "note": null
+        },
+        {
+          "id": "2-4",
+          "image": "/images/resize/600/80/isle-of-man/Douglas_Metropolitan_Area.png",
+          "text": "Douglas, the capital and largest town on the Isle of Man, can be recognized by the rows of terraced houses, with a higher population density.",
+          "note": null
+        },
+        {
+          "id": "2-5",
+          "image": "/images/resize/600/80/isle-of-man/3.png",
+          "text": "Laxey is a town located in a northwest-southeast valley.",
+          "note": null
+        },
+        {
+          "id": "2-6",
+          "image": "/images/resize/600/80/isle-of-man/4.png",
+          "text": "This generic lamp design with a blue base and a small blue sticker can be found on most of the island, except for around Douglas, and some parts northeast and south. In addition, the top 2 letters can be used to narrow your location down to 1 of the 21 parishes.",
+          "note": null
+        },
+        {
+          "id": "2-7",
+          "image": "/images/resize/600/80/isle-of-man/5.png",
+          "text": "All green lamps are commonly found in Ramsey and Castletown, as well as more rarely in the Malew, Santon, and Garff parishes.",
+          "note": null
+        },
+        {
+          "id": "2-8",
+          "image": "/images/resize/600/80/isle-of-man/6.png",
+          "text": "A small white sticker with 2 green numbers will be present on lamps in Douglas.",
+          "note": null
+        },
+        {
+          "id": "2-9",
+          "image": "/images/resize/600/80/isle-of-man/7.png",
+          "text": "A small yellow sticker is present on lamps in southern Onchan. The 2 letters are the initials of the road name. E.g. ‘SD’ for Sunningdale Drive.",
+          "note": null
+        },
+        {
+          "id": "2-10",
+          "image": "/images/resize/600/80/isle-of-man/8.png",
+          "text": "Many street signs in Ramsey feature the oval shaped coat of arms.",
+          "note": null
+        },
+        {
+          "id": "2-11",
+          "image": "/images/resize/600/80/isle-of-man/9.png",
+          "text": "The coat of arms is placed above the text on many signs in Port Erin.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Step 3 - Spotlight",
+      "items": [
+        {
+          "id": "3-1",
+          "image": "/images/resize/600/80/isle-of-man/Airport.png",
+          "text": "The Ronaldsway Airport can be recognized by the large, flat and open field with a boundary fence.",
+          "note": null
+        },
+        {
+          "id": "3-2",
+          "image": "/images/resize/600/80/isle-of-man/10.png",
+          "text": "The Peel castle, sitting atop an island, can unsurprisingly, be seen in Peel.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Step 4 - Maps and resources",
+      "items": []
+    }
+  ]
+}

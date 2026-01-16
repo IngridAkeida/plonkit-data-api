@@ -1,0 +1,116 @@
+{
+  "country": "Svalbard",
+  "url": "https://www.plonkit.net/svalbard",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:19:28.131956+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Identifying Svalbard",
+      "items": [
+        {
+          "id": "1-1",
+          "image": "/images/resize/900/80/svalbard/0_summary_svalbard.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": "/images/resize/600/80/svalbard/Svalbard_in_Europe__28-mini_map_-rivers_29.svg.png",
+          "text": "Svalbard is an archipelago in the Arctic Ocean, of which Norway has sovereignty over. As such, Svalbard is counted as Norway for country streaks purposes.",
+          "note": null
+        },
+        {
+          "id": "1-3",
+          "image": "/images/resize/600/80/svalbard/svalbard_licenceplate.png",
+          "text": "Licence plates in Svalbard are generally black with yellow text.",
+          "note": null
+        },
+        {
+          "id": "1-4",
+          "image": "/images/resize/600/80/svalbard/image.png",
+          "text": "The general landscape consists of barren, treeless mountains. Trees and greenery are a very rare sight, with the majority of vegetation consisting of moss and grasses. The sky is also often overcast, with a gloomy look to the coverage.",
+          "note": null
+        },
+        {
+          "id": "1-5",
+          "image": "/images/resize/600/80/svalbard/svalbard_russian.png",
+          "text": "Russian can sometimes be found on signs.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Step 2 - Town specific clues",
+      "items": [
+        {
+          "id": "2-1",
+          "image": "/images/resize/600/80/svalbard/Longyearbyen.png",
+          "text": "Longyearbyen is the largest settlement on Svalbard, with many boxy, minimalistic buildings around the town.",
+          "note": null
+        },
+        {
+          "id": "2-2",
+          "image": "/images/resize/600/80/svalbard/Pyramiden.png",
+          "text": "Pyramiden feels more abandoned compared to Longyearbyen. Multi-storey soviet-style apartment blocks can be seen, however, with a lack of human-activity. As the name suggests, many pyramidal mountains can be seen in the distance.",
+          "note": null
+        },
+        {
+          "id": "2-3",
+          "image": "/images/resize/600/80/svalbard/Barentsburg.png",
+          "text": "Of the three towns, Barentsburg feels the most desolate. Distinct, multi-coloured apartment blocks can be seen near the top of the hill. Coverage is also more overcast and gloomy than Longyearbyen or Pyramiden.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Step 3 - Spotlight",
+      "items": [
+        {
+          "id": "3-1",
+          "image": "/images/resize/600/80/svalbard/Longyearbyen_Road.png",
+          "text": "This road going south-east of Longyearbyen can be recognized by the barren, treeless mountains on both sides of the road, with lakes leading up to the mountains. A small black mirror can sometimes be seen on the left.",
+          "note": null
+        },
+        {
+          "id": "3-2",
+          "image": "/images/resize/600/80/svalbard/Airport_Road.png",
+          "text": "A trekker can be seen holding on to a red car heading up a winding road, south of the Svalbard Airport. If the car is not present, this distinct line of mountains to the northeast is a good indicator that you are there.",
+          "note": null
+        },
+        {
+          "id": "3-3",
+          "image": "/images/resize/600/80/svalbard/National_Park_Boat.png",
+          "text": "This large ship can be seen around the Northwest Spitsbergen National Park. The coverage gets increasingly late toward the east, where it eventually becomes dark.",
+          "note": null
+        },
+        {
+          "id": "3-4",
+          "image": "/images/resize/600/80/svalbard/Wooden_Boat.png",
+          "text": "This boat with a wooden deck can be seen in these places.",
+          "note": null
+        },
+        {
+          "id": "3-5",
+          "image": "/images/resize/600/80/svalbard/Small_Red_Boat.png",
+          "text": "This small red boat with men in red jackets on board can be seen in the northwest.",
+          "note": null
+        },
+        {
+          "id": "3-6",
+          "image": "/images/resize/600/80/svalbard/Isfjorden_Boat.png",
+          "text": "This boat with a black deck can be seen in Isfjorden, between Barentsburg and Grumant.",
+          "note": null
+        },
+        {
+          "id": "3-7",
+          "image": "/images/resize/600/80/svalbard/Pyramiden_Boat.png",
+          "text": "This boat can be seen east of Pyramiden, and can be identified by the slanted front of the wheelhouse.",
+          "note": null
+        }
+      ]
+    }
+  ]
+}

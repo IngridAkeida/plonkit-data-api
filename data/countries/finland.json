@@ -1,0 +1,361 @@
+{
+  "country": "Finland",
+  "url": "https://www.plonkit.net/finland",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:18:36.372387+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Identifying Finland",
+      "items": [
+        {
+          "id": "1-1",
+          "image": "/images/resize/900/80/finland/transparent-fi_summary_2026.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": "/images/resize/600/80/finland/Finland_License_Plate.png",
+          "text": "Finland has shorter than normal white plates with the standard European blue strip on the left. NOTE: Åland has small, fully white plates with blue lettering.",
+          "note": null
+        },
+        {
+          "id": "1-3",
+          "image": "/images/resize/600/80/finland/2022-12-21__2813_29.png",
+          "text": "Where present, outer road lines will always be solid white lines. NOTE: Unlike Sweden and Norway, Finland does not use dashed outside lines. The only exception to this are the Åland Islands in southwest Finland, which do use dashes.",
+          "note": null
+        },
+        {
+          "id": "1-4",
+          "image": "/images/resize/600/80/finland/Finland_road_lines_comp_2.png",
+          "text": "Finland has several different types of middle road lines, including: white dashes, with or without a solid white line next to it solid yellow with white dashes double yellow. Yellow lines are being phased out and are increasingly rare in newer coverage. NOTE: Sweden never has yellow middle lines. Norway has middle lines that have a distinct orange tint.",
+          "note": null
+        },
+        {
+          "id": "1-5",
+          "image": "/images/resize/600/80/finland/Untitled_design6.png",
+          "text": "Finland has long black-and-white bollards with a rectangular, white reflector on the front and two dots on the back. They can be either round or thin and curved. The black strip is typically diagonal. NOTE: They can look somewhat similar to bollards found in other Northern European countries. This infographic shows the differences.",
+          "note": null
+        },
+        {
+          "id": "1-6",
+          "image": "/images/resize/600/80/finland/Finland_snowpole.png",
+          "text": "In Finland, it is common to find orange snow poles with a thin white band near the top. NOTE: These are also found commonly in Norway and Sweden, but with a much wider white band, lower down on the pole. They can also have multiple white bands, while Finnish snow poles usually have just one band.",
+          "note": null
+        },
+        {
+          "id": "1-7",
+          "image": "/images/resize/600/80/finland/fi_language.png",
+          "text": "The Finnish language is not related to most other European languages, so it has a very unique look. It has a lot of long words and double vowels. The Finnish alphabet includes the letters ä and ö. NOTE: Estonian is closely related to Finnish, so it can look similar. Estonian uses the letters õ and ü, which are not used in Finnish.",
+          "note": null
+        },
+        {
+          "id": "1-8",
+          "image": "/images/resize/600/80/finland/Finland_street_sign.png",
+          "text": "Most Finnish street names end in “tie” or “katu.” These are the Finnish words for road and street. Street signs most commonly have a white background with black text. NOTE: You may find roads ending in “polku” and “kuja”.",
+          "note": null
+        },
+        {
+          "id": "1-9",
+          "image": "/images/resize/600/80/finland/Finland_yellow_sign_background.png",
+          "text": "Finnish road signs have a yellow background. NOTE: Signs in Sweden and Iceland also have yellow backgrounds. Norway, however, has signs with a white background.",
+          "note": null
+        },
+        {
+          "id": "1-10",
+          "image": "/images/resize/600/80/finland/Finland-yellow-stroke.png",
+          "text": "On traffic signs that have a red border, you will find a thin yellow stroke on the edge of the sign. NOTE: You will not see this in any other Nordic country.",
+          "note": null
+        },
+        {
+          "id": "1-11",
+          "image": "/images/resize/600/80/finland/FInland_Pedestrian_Signs.png",
+          "text": "Finnish pedestrian signs have 5 stripes. NOTE: Pedestrian signs in Sweden and Norway usually have 4 stripes. In rare cases, you can find 5 stripes in Norway.",
+          "note": null
+        },
+        {
+          "id": "1-12",
+          "image": "/images/resize/600/80/finland/Untitled_design4.png",
+          "text": "Finnish directional signs consist of a solid blue background, white text, and a white border with guiding arrows.",
+          "note": null
+        },
+        {
+          "id": "1-13",
+          "image": "/images/resize/600/80/finland/Untitled_design2.png",
+          "text": "Finnish chevrons are black with yellow arrows. NOTE: Norway and Iceland have similarly coloured chevrons. Sweden, on the other hand, has unique blue and yellow chevrons.",
+          "note": null
+        },
+        {
+          "id": "1-14",
+          "image": "/images/resize/600/80/finland/Finland_poles.png",
+          "text": "Finland primarily uses wooden utility poles. Most of them tend to have a simple design, but they can have a variety of poletops. Poles often have a street light attached to them. NOTE: In Northern Europe, wooden poles are also common in Sweden, Norway, and Estonia.",
+          "note": null
+        },
+        {
+          "id": "1-15",
+          "image": "/images/resize/600/80/finland/fi_lamp.png",
+          "text": "Lamps attached to wooden poles in Finland are normally mounted to the top of the pole with a double bolting. NOTE: Within Scandinavia, Sweden also uses double bolting. However, in Sweden the lamps are mounted further down and the lamp arms are usually not straight.",
+          "note": null
+        },
+        {
+          "id": "1-16",
+          "image": "/images/resize/600/80/finland/Blue_and_white_signposts.png",
+          "text": "Traffic signposts often have blue and white striped markings. NOTE: This pattern can also be found in Sweden. While the same colour scheme is also common in Estonia, the markings typically have a wider shape and attach to the signpost in a looser way.",
+          "note": null
+        },
+        {
+          "id": "1-17",
+          "image": "/images/resize/600/80/finland/2022-12-19_4.png",
+          "text": "Most of Finland is covered by dense boreal forests. Pine trees are common, as well as birches, which are easily recognizable by their white trunks.",
+          "note": null
+        },
+        {
+          "id": "1-18",
+          "image": "/images/resize/600/80/finland/Autumn_vibe.png",
+          "text": "A lot of Generation 3 coverage was taken in autumn, meaning that trees in this coverage often have distinct fall colours. NOTE: This is significantly less common in Generation 3 coverage in the other Nordics. This means that when you are faced with a tough decision between countries, a fall vibe can be a good clue for Finland. Take note that this season meta is not present in Generation 2 and Generation 4 coverage.",
+          "note": null
+        },
+        {
+          "id": "1-19",
+          "image": "/images/resize/600/80/finland/2022-12-19_18.png",
+          "text": "Lakes are so common in Finland, that the country is also sometimes known as the Land of a Thousand Lakes. Usually, you do not have to drive long to find a body of water.",
+          "note": null
+        },
+        {
+          "id": "1-20",
+          "image": "/images/resize/600/80/finland/Finland_architecture.png",
+          "text": "Finnish architecture is mostly modern and utilitarian. Downtown areas tend to be very modern, with lots of apartment buildings and use of concrete. Suburbs mostly consist of freestanding single family homes. Many houses have wooden cladding. Like Sweden and Norway, some wooden buildings, especially in the countryside, are painted in a distinctive dark red colour.",
+          "note": null
+        },
+        {
+          "id": "1-21",
+          "image": "/images/resize/600/80/finland/Finland_bus_stop_signs.png",
+          "text": "Finland has two styles of bus stop signs, a blue and white one, and a yellow and black one. NOTE: This can be used to tell Finland apart from Sweden, which has many different bus stop signs (example), most of which have the names of the stops on them.",
+          "note": null
+        },
+        {
+          "id": "1-22",
+          "image": "/images/resize/600/80/finland/Finnish_supermarkets.png",
+          "text": "K-Market and S-Market are two Finnish supermarket chains with recognizable logos. Both chains operate only in Finland. K-Market is sometimes known as K-Supermarket or K-Citymarket.",
+          "note": null
+        },
+        {
+          "id": "1-23",
+          "image": "/images/resize/600/80/finland/fi_shitcam.png",
+          "text": "Google used a weird, low-quality camera in Finland. This camera is known as the official Ari (or “Shitcam”). It has a wide circular car blur, and can be distinguished from Generation 2 by its lack of a sky halo and often somewhat brownish colours. A good map will not usually include this coverage, but it is good to be aware of its existence, in order to not be caught off-guard by it. NOTE: Within Europe, Finland and Spain are the countries that have the most coverage with this camera. This camera should not be confused with unofficial coverage, which is also common in Finland.",
+          "note": null
+        },
+        {
+          "id": "1-24",
+          "image": "/images/resize/600/80/finland/europe_smallcam.png",
+          "text": "Finland also has Generation 4 “smallcam” coverage, which is mounted lower than regular Generation 4 and has a relatively big circular blur with a small protrusion at the front. The blur can also be fully transparent, making it harder to spot. NOTE: All of Northern Europe also has smallcam.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Step 2 - Regional clues",
+      "items": [
+        {
+          "id": "2-1",
+          "image": "/images/resize/600/80/finland/Finland-road-numbering3.png",
+          "text": "Finnish regional roads have 3- or 4-digit road numbers. The first digit of those road numbers is region-specific. These regions are distributed in a rough south-to-north order, starting from 1 in the south to 9 in the north. These road numbers often appear on direction signs. Learning the regions can help with cutting down on scanning time for 5k’s, or give you a rough region to plonk in during quick no move games. NOTE: Major roads with 2-digit road numbers do not adhere to this geographic pattern.",
+          "note": null
+        },
+        {
+          "id": "2-2",
+          "image": "/images/resize/600/80/finland/Lapland_Snowpoles.png",
+          "text": "Snow poles which have 2 long reflectors can be found on bigger roads in Lapland. NOTE: They can only be found in coverage from 2023 onward.",
+          "note": null
+        },
+        {
+          "id": "2-3",
+          "image": "/images/resize/600/80/finland/Farmland_In_Finland.png",
+          "text": "Finland has a lot of farmlands, but the majority of them are concentrated near the west and south coast.",
+          "note": null
+        },
+        {
+          "id": "2-4",
+          "image": "/images/resize/600/80/finland/Windmills_map.png",
+          "text": "Wind turbines are most commonly found along the west coast of Finland, with some exceptions.",
+          "note": null
+        },
+        {
+          "id": "2-5",
+          "image": "/images/resize/600/80/finland/Finland-northern-trees2.png",
+          "text": "Small, stunted trees with spindly, thin trunks are common in northern Finland.",
+          "note": null
+        },
+        {
+          "id": "2-6",
+          "image": "/images/resize/600/80/finland/Finland-Lapland-snow2.png",
+          "text": "Generation 3 snow coverage is only found in far northwestern Lapland. NOTE: Be careful: this tip is specifically about regular Generation 3 coverage. Generation 2, 4, and trekker snow coverage can be found elsewhere.",
+          "note": null
+        },
+        {
+          "id": "2-7",
+          "image": "/images/resize/600/80/finland/Finland-Swedish-bilingualism2.png",
+          "text": "The Swedish language is common in some coastal areas in the south and the west. In these areas, bilingual Swedish or Finnish texts are common. If you see Swedish language in a Finnish setting, do not guess inland.",
+          "note": null
+        },
+        {
+          "id": "2-8",
+          "image": "/images/resize/600/80/finland/Finland-Sami-signs2.png",
+          "text": "The Sámi languages are spoken in the far north of Finland. In this region, you can sometimes find bilingual signs with place names in both Finnish and Sámi. Unlike Finnish, its alphabet uses the letter c.",
+          "note": null
+        },
+        {
+          "id": "2-9",
+          "image": "/images/resize/600/80/finland/LT_Hint.png",
+          "text": "This slightly tilted, long antenna can be found in southwestern Finland. NOTE: Do not mix it up with the straight long antenna.",
+          "note": null
+        },
+        {
+          "id": "2-10",
+          "image": "/images/resize/600/80/finland/No_Antenna_Hint.png",
+          "text": "Generation 3 coverage with no antenna at all can be found in south-central Finland.",
+          "note": null
+        },
+        {
+          "id": "2-11",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "2-12",
+          "image": "/images/resize/600/80/finland/Aland-islands-location.png",
+          "text": "Åland is a group of islands off the southwestern coast. It is an autonomous, mostly self-governing region of Finland with its own flag. Though it has a special status, for country streaks purposes it is still counted as part of Finland. NOTE: Åland has no Generation 4 coverage.",
+          "note": null
+        },
+        {
+          "id": "2-13",
+          "image": "/images/resize/600/80/finland/Aland_-_Swedish.png",
+          "text": "Åland is monolingually Swedish. If you see only Swedish, and no Finnish language, but you suspect that you are in Finland, consider the Åland Islands.",
+          "note": null
+        },
+        {
+          "id": "2-14",
+          "image": "/images/resize/600/80/finland/Aland_-_Roads.png",
+          "text": "Åland roads have two unique aspects that separate them from the rest of Finland: their pavement tends to have a red tint, and they have dashed outside road lines that resemble those found in Sweden.",
+          "note": null
+        },
+        {
+          "id": "2-15",
+          "image": "/images/resize/600/80/finland/ax_licenceplate.png",
+          "text": "Licence plates on Åland are white with blue text, making them appear almost completely white on Street View. They are noticeably quite short and lack the European blue strip on the left side.",
+          "note": null
+        },
+        {
+          "id": "2-16",
+          "image": "/images/resize/600/80/finland/ax_pedestriansign.png",
+          "text": "Some pedestrian signs on Åland have four stripes, with the exact same design found in Sweden. Beware that many pedestrian signs will still be the typical Finnish design.",
+          "note": null
+        },
+        {
+          "id": "2-17",
+          "image": "/images/resize/600/80/finland/Aland_Bus_Stop_hint.png",
+          "text": "Bus stops on Åland include a white plate with 4 numbers. Some also include this semicircle sign on top. NOTE: Some bus stops in Mariehamn do not follow this rule.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Step 3 - Spotlight",
+      "items": [
+        {
+          "id": "3-1",
+          "image": "/images/resize/600/80/finland/Finland_Map2.png",
+          "text": "Road 970 in the far north, on the border with Norway, is easily recognizable: it runs through a river valley with hills on both sides. The river is visible in many places, usually to the northwest. The birch trees around the road are small and stunted. NOTE: The Generation 3 coverage on this road was taken in the autumn, meaning that the vegetation looks dead and mostly devoid of leaves.",
+          "note": null
+        },
+        {
+          "id": "3-2",
+          "image": "/images/resize/600/80/finland/Kilpisjarvi_area.png",
+          "text": "Due to its proximity to the Scandinavian Mountains, the area near Kilpisjärvi features a unique hilly landscape, with low vegetation. NOTE: The Generation 2 coverage on this road was taken during Spring, so the vegetation looks dead.",
+          "note": null
+        },
+        {
+          "id": "3-3",
+          "image": "/images/resize/600/80/finland/Finland-Helsinki-trekker.png",
+          "text": "Downtown Helsinki has a lot of Generation 4 sidewalk trekker coverage. NOTE: This tip is specifically about Generation 4 trekker coverage. Generation 3 sidewalk trekkers can be found in many other Finnish cities.",
+          "note": null
+        },
+        {
+          "id": "3-4",
+          "image": "/images/resize/600/80/finland/Helsinki_Tram_hint.png",
+          "text": "Helsinki features these unique green-and-yellow trams. NOTE: Tampere is the only other Finnish city with trams, but they are red instead of green and yellow.",
+          "note": null
+        },
+        {
+          "id": "3-5",
+          "image": "/images/resize/600/80/finland/Helsinki_Bus_Hint.png",
+          "text": "The buses in and around Helsinki are typically blue-and-white, with a vertical split. Buses elsewhere can have the same colour scheme, so look for one of these logos on the bus.",
+          "note": null
+        },
+        {
+          "id": "3-6",
+          "image": "/images/resize/600/80/finland/Tampere_Bus_Hint.png",
+          "text": "The buses in and around Tampere are blue on the bottom and white on the top. The word ‘NYSSE’ is written on the sides of the buses.",
+          "note": null
+        },
+        {
+          "id": "3-7",
+          "image": "/images/resize/600/80/finland/Turku_buses_hint.png",
+          "text": "Buses in Turku are uniquely yellow, with a white rear.",
+          "note": null
+        },
+        {
+          "id": "3-8",
+          "image": "/images/resize/600/80/finland/fi_jyvaskylabus.png",
+          "text": "Buses in Jyväskylä are almost completely green.",
+          "note": null
+        },
+        {
+          "id": "3-9",
+          "image": "/images/resize/600/80/finland/fi_oulubus.png",
+          "text": "Buses in Oulu have a pink front.",
+          "note": null
+        },
+        {
+          "id": "3-10",
+          "image": "/images/resize/600/80/finland/Tampere_Plates_meta.png",
+          "text": "You can find these unique metallic plates on houses, lamp posts, and signposts in Tampere.",
+          "note": null
+        },
+        {
+          "id": "3-11",
+          "image": "/images/resize/600/80/finland/fi_seinajoki.png",
+          "text": "This style of blue street sign with white text is unique to the cities of Seinäjoki and Isokyrö southeast of Vaasa.",
+          "note": null
+        },
+        {
+          "id": "3-12",
+          "image": "/images/resize/600/80/finland/Lahti_Streetsign.png",
+          "text": "Lahti uses these street signs with a black border and all capital letters. NOTE: You can rarely find similar signs in other cities, but Lahti almost exclusively uses this design. Notably, Kuopio can use these signs, which use a thicker, more compact font.",
+          "note": null
+        },
+        {
+          "id": "3-13",
+          "image": "/images/resize/600/80/finland/Kerava_Signs_Hint.png",
+          "text": "The city of Kerava uses street signs with this blue-and-yellow coat of arms in the top-left corner.",
+          "note": null
+        },
+        {
+          "id": "3-14",
+          "image": "/images/resize/600/80/finland/Kerava_sign_hint.png",
+          "text": "The city of Järvenpää uses street signs with this blue-and-grey coat of arms in the top-left corner. The neighbourhood name is also written above the street name. NOTE: If you see a street sign with a coat of arms not mentioned in this guide, you should be near Kerava or Lahti.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Step 4 - Maps and resources",
+      "items": []
+    }
+  ]
+}

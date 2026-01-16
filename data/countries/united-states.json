@@ -1,0 +1,1099 @@
+{
+  "country": "United States of America",
+  "url": "https://www.plonkit.net/united-states",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:20:01.319074+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Identifying the United States",
+      "items": [
+        {
+          "id": "1-1",
+          "image": "/images/resize/900/80/united-states/0_us_summary_2025.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-3",
+          "image": "/images/resize/600/80/united-states/americanspelling.png",
+          "text": "The US uses American English spelling (e.g. center, color). In addition, the US primarily uses the imperial system for measurements. For example, speed and distance are measured in miles. You will also often see feet and inches on signs, indicating the height of bridges. NOTE: This is useful to distinguish between the English-speaking parts of Canada, where British English spelling and (usually) the metric system are used. For example, Canada measures speed in kilometres.",
+          "note": null
+        },
+        {
+          "id": "1-4",
+          "image": "/images/resize/600/80/united-states/cameragens_2025.png",
+          "text": "Generation 2 coverage is rare in the US. If you have a Generation 2 location in a North American setting, you are more likely to be in Canada. The exception to this is Alaska, and to a lesser extent Hawaii, which have a fair amount of Generation 2. You can also rarely see generation 2 in rural areas of the deep south. Generation 3 coverage is also significantly less common than in Canada.",
+          "note": null
+        },
+        {
+          "id": "1-5",
+          "image": "/images/resize/600/80/united-states/wordysigns.png",
+          "text": "Road signs in the US tend to use more words compared to their Canadian counterparts. A good example are railway crossing signs, which feature the literal words ‘railway crossing’ on them. In Canada, these signs are typically blank. This tendency is also noticeable on yellow diamond warning signs. In Canada, the words will usually be on a rectangular sign below the yellow diamond, which would have a diagram on it instead.",
+          "note": null
+        },
+        {
+          "id": "1-6",
+          "image": "/images/resize/600/80/united-states/speedsign.png",
+          "text": "The US uses the phrase ‘Speed Limit’ on their speed signs. The numbers on American speed signs are usually lower than that of Canada’s, since they use miles instead of kilometres. In addition, speed limits ending in 5 are more common in the US. NOTE: Canada uses the word ‘Maximum’ on their speed signs.",
+          "note": null
+        },
+        {
+          "id": "1-7",
+          "image": "/images/resize/600/80/united-states/nopassingzone.png",
+          "text": "Triangular yellow signs with the phrase ‘No Passing Zone’ are exclusive to the US.",
+          "note": null
+        },
+        {
+          "id": "1-8",
+          "image": "/images/resize/600/80/united-states/yield_sign.png",
+          "text": "American yield signs are shaped like an upside down triangle with a red border, with a white field with the word ‘YIELD’. NOTE: Canadian yield signs look similar, but lack the ‘YIELD’ text.",
+          "note": null
+        },
+        {
+          "id": "1-9",
+          "image": "/images/resize/600/80/united-states/one_way_road_signs_final.png",
+          "text": "American one-way signs are usually a horizontal black rectangle with a white arrow inside of it. These signs will also always have the words ‘ONE WAY’ printed on them. In cities, they are a white vertical rectangle with the words ‘ONE WAY’ on them and an arrow underneath. NOTE: Canadian one-way signs are of the same shape and colour, but might not have the words ‘ONE WAY’ on them.",
+          "note": null
+        },
+        {
+          "id": "1-10",
+          "image": "/images/resize/600/80/united-states/us_parking_singage.png",
+          "text": "Parking indicator signs in the US are typically white metal signs with red, green, or black text. They may include specific information about when you can park on said road, and arrows indicating where parking is (or is not) allowed. NOTE: Canadian parking signs use similar styles and colours, but typically are less ‘wordy,’ instead using more symbols when applicable.",
+          "note": null
+        },
+        {
+          "id": "1-11",
+          "image": "/images/resize/600/80/united-states/exit_signage.png",
+          "text": "Large highways in the US use large, rectangular, green metal signs with curved edges and white text to mark highway exits, distances to nearby towns, and the names of upcoming roads (mainly in cities). NOTE: Canadian highway signs have a similar appearance, but will typically have squared edges, instead of curved edges.",
+          "note": null
+        },
+        {
+          "id": "1-12",
+          "image": "/images/resize/600/80/united-states/services_signage.png",
+          "text": "Leading up to exits on large highways you commonly see large, blue rectangular signs with white text, highlighting services, such as food, lodging and petrol, that are available at the upcoming highway exit. NOTE: Canada uses similar signs on some of their highways.",
+          "note": null
+        },
+        {
+          "id": "1-13",
+          "image": "/images/resize/600/80/united-states/Junction_sign.png",
+          "text": "These rectangular junction signs with a single or double arrow are found in the US. NOTE: Canada uses diamond-shaped junction signs.",
+          "note": null
+        },
+        {
+          "id": "1-14",
+          "image": "/images/resize/600/80/united-states/fibre_line.png",
+          "text": "White and orange fibre optic cable markers are almost unique to the US. NOTE: On very rare occasions, they can be found in Canada.",
+          "note": null
+        },
+        {
+          "id": "1-15",
+          "image": "/images/resize/600/80/united-states/us_construction_barrel.png",
+          "text": "This is an example of the most common type of orange construction barrel in the United States. They are made out of orange plastic with horizontal white stripes and a black rubber base. They are usually used to block off lanes to traffic during times of road construction.",
+          "note": null
+        },
+        {
+          "id": "1-16",
+          "image": "/images/resize/600/80/united-states/road_lines.png",
+          "text": "The US uses yellow middle lines and white outer lines. Double middle lines are the most common. On divided roads, the outer line closest to the median will be yellow, and the other lines will usually be white. NOTE: Double middle lines are less common in Canada, but not rare – use this meta with caution. Furthermore, yellow road lines are very rare in Europe.",
+          "note": null
+        },
+        {
+          "id": "1-17",
+          "image": "/images/resize/600/80/united-states/rumble_strips.png",
+          "text": "Interstate highways, US highways, and some state roads have rumble strips in each edge of the road; which are small indentations in the pavement perpendicular to the road. These can be located on the outside edges of the road and in between lanes on multi-lane highways. NOTE: Rumble strips may appear in Canada, but are much more rare.",
+          "note": null
+        },
+        {
+          "id": "1-18",
+          "image": "/images/resize/600/80/united-states/mobile_home.png",
+          "text": "Small, rectangular manufactured homes, also known as mobile or ‘trailer’ homes, are popular in rural areas of the US. In general, mobile homes are more common in the Southeast but they can be seen anywhere in the country. NOTE: This style of home can sometimes be seen in Canada, but to a much lesser extent.",
+          "note": null
+        },
+        {
+          "id": "1-19",
+          "image": "/images/resize/600/80/united-states/baptist_church.png",
+          "text": "Baptist churches are very common in the United States. Similar to mobile homes, these are more common in the Southern Plains and Southeast United States, but can be found in all 50 states. NOTE: Baptist churches are rare in Canada.",
+          "note": null
+        },
+        {
+          "id": "1-20",
+          "image": "/images/resize/600/80/united-states/american_gas_station_only_chains.png",
+          "text": "Pictured here is a group of gas stations and convenience store chains that operate in the United States, but not in Canada. This is not a comprehensive list, but some of the most common American-only chains. Regional gas station chains are found near the end of the ‘Step 2’ section of this guide. You can click on the image to enlarge it.",
+          "note": null
+        },
+        {
+          "id": "1-21",
+          "image": "/images/resize/600/80/united-states/american_food_chains.png",
+          "text": "Pictured here is a group of restaurant chains that operate in the United States, but not in Canada (Chick Fil A is the only exception with a few locations in the Toronto area.) This is not a comprehensive list, but some of the most common American-only chains. Regional restaurant chains are found at the end of the ‘Step 2’ section of this guide. You can click on the image to enlarge it.",
+          "note": null
+        },
+        {
+          "id": "1-22",
+          "image": "/images/resize/600/80/united-states/gen3_blurs.png",
+          "text": "In addition to having less Generation 3 coverage than Canada, the side mirrors are also blurred out differently: While they generally appear as two peaks in Canadian Gen 3 coverage, you will mostly see a single peak in the US.",
+          "note": null
+        },
+        {
+          "id": "1-23",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-24",
+          "image": null,
+          "text": "The following information applies to both the US and Canada. These tips can be helpful for beginning players who struggle with distinguishing North America from Europe (and other places), especially in low-info rounds.",
+          "note": null
+        },
+        {
+          "id": "1-25",
+          "image": "/images/resize/600/80/united-states/na_stoplights.png",
+          "text": "In the US and Canada, especially at large intersections, long metal bars with stop lights attached to them hang over the street. These bars also commonly have street signs, highway signs, or other signs attached to them.",
+          "note": null
+        },
+        {
+          "id": "1-26",
+          "image": "/images/resize/600/80/united-states/us_signposts.png",
+          "text": "Thin metal sign posts are common. They will typically either have several small holes or have a U-profile.",
+          "note": null
+        },
+        {
+          "id": "1-27",
+          "image": "/images/resize/600/80/united-states/poles.png",
+          "text": "North America primarily uses wooden utility poles. Several European countries also primarily use wooden utility poles. However, a concrete pole in particular is mostly associated with Europe.",
+          "note": null
+        },
+        {
+          "id": "1-28",
+          "image": "/images/resize/600/80/united-states/na_insulator_final.png",
+          "text": "This style of insulator, that is raised slightly on top of the utility pole, can be a good clue for the US and Canada. It is not typically found in Europe. It is especially apparent on simple poles with a single insulator.",
+          "note": null
+        },
+        {
+          "id": "1-29",
+          "image": "/images/resize/600/80/united-states/us_mailbox.png",
+          "text": "This style of mailbox, resting on top of a post and with a small flag on the side, is mostly associated with North America.",
+          "note": null
+        },
+        {
+          "id": "1-30",
+          "image": "/images/resize/600/80/united-states/trucks.png",
+          "text": "North American semi-trucks have a longer nose, since the engine is in front of the driver’s cab. In contrast, European and Asian semi-trucks are cabovers, meaning the driver sits on top of the engine, giving the truck an L shape. NOTE: This is only useful to differentiate between North America and Europe, as these trucks are found throughout all of the Americas. Australian and New Zealand trucks are typically a mix of the two.",
+          "note": null
+        },
+        {
+          "id": "1-31",
+          "image": "/images/resize/600/80/united-states/water_tower_final.png",
+          "text": "Here are two common types of water towers seen in towns across the United States and Canada. They are typically very tall, and sometimes have the name of the town and state painted on them, so they can be useful for region guessing.",
+          "note": null
+        },
+        {
+          "id": "1-32",
+          "image": "/images/resize/600/80/united-states/us_vs_eu_antennas.png",
+          "text": "Generation 3 coverage in the US and Canada generally has no visible antenna. This can be helpful to distinguish it from Europe in low-info rounds. Some European Generation 3 coverage has no visible antenna, but most of it does. There is an important exception: in national parks in the US, you can find a Generation 3 car with a stubby antenna with diagonal coils around it. Still, this specific type of antenna is not found in Europe.",
+          "note": null
+        },
+        {
+          "id": "1-33",
+          "image": "/images/resize/600/80/united-states/Smallcam_NA_.png",
+          "text": "Both the US and Canada also have Generation 4 “smallcam” coverage, which is mounted lower than regular Generation 4 and has a relatively big circular blur with a small protrusion at the front. The blur can also be fully transparent, making it harder to spot. When the car isn’t blurred properly, you will usually see a mirror sticking out on the right side.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Step 2 - Regional and state-specific clues",
+      "items": [
+        {
+          "id": "2-1",
+          "image": "/images/resize/600/80/united-states/US_population_map.png",
+          "text": "Shown here is the population density of the United States. In General, areas east of the Missouri river are more densely populated than areas to the west. You can click on the image to enlarge it.",
+          "note": null
+        },
+        {
+          "id": "2-2",
+          "image": "/images/resize/600/80/united-states/us_licenceplates_2025.png",
+          "text": "The US, as well as most of the Americas, uses short licence plates, in contrast to longer European ones. Each US state has their own unique licence plate design. Some of these are recognizable through the blur, and are thus worth learning. Around half of the states also do not require front plates, which can also be useful in determining the state. You can click on the image to enlarge it. Here you can also find a map showing the locations of each plate.",
+          "note": null
+        },
+        {
+          "id": "2-3",
+          "image": "/images/resize/600/80/united-states/us_highway_map_final.png",
+          "text": "Interstate Highways are divided highways that often span large areas of the United States. Even-numbered Interstates run west to east, with the lowest numbers along the Gulf Coast and Mexico border. Odd-numbered highways run south to north, with the lowest numbers along the West Coast. US Highways are also typically long roads that are sometimes (but not always) divided. The numbering system is generally the inverse of Interstate Highways, with low odd-numbered highways located along the East Coast and low even-numbered highways located close to the Canadian border in the north of the country. NOTE: There are generally more exceptions to the US Highway numbering system than the Interstate Highway numbering system, in terms of placement. You can click on the image to enlarge it.",
+          "note": null
+        },
+        {
+          "id": "2-4",
+          "image": "/images/resize/600/80/united-states/US_area_codes_map.jfif",
+          "text": "US telephone numbers start with a three-digit area code. While these area codes are not clustered by initial digits, they are useful to learn. You can click on the image to enlarge it.",
+          "note": null
+        },
+        {
+          "id": "2-5",
+          "image": "/images/resize/600/80/united-states/us_stateflags.png",
+          "text": "Each of the 50 states has its own state flag. These appear frequently enough that they are worth learning. You can click on the image to enlarge it.",
+          "note": null
+        },
+        {
+          "id": "2-6",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "2-7",
+          "image": "/images/resize/600/80/united-states/US_topographic_map.png",
+          "text": "Shown here is a topographic map of the US. Most significant elevation is in the west: here you will find large mountain ranges, but also more flat, high plateaus. Some parts have lower elevation: good examples are the Central Valley and Imperial Valley in California. Elevation in the east is generally much lower. The most significant amount of elevation is found in the Appalachians, low mountain ranges running through the eastern and northeastern US. Good examples of hills in otherwise fairly flat regions are the Driftless Area in the Midwest, and The Ozarks in Missouri and Arkansas. You can click on the image to enlarge it.",
+          "note": null
+        },
+        {
+          "id": "2-8",
+          "image": "/images/resize/600/80/united-states/forest_coverage.jpg",
+          "text": "This is a forest density map of the contiguous United States. Eastern and Northern regions of the country typically have much denser tree cover than Western and Southwestern regions. You can click on the image to enlarge it.",
+          "note": null
+        },
+        {
+          "id": "2-9",
+          "image": "/images/resize/600/80/united-states/corn.png",
+          "text": "Corn fields can most commonly be found in these regions. For a detailed overview, see this map.",
+          "note": null
+        },
+        {
+          "id": "2-10",
+          "image": "/images/resize/600/80/united-states/soybean_fields_final.png",
+          "text": "Soybeans are short, dark green crops organised in long rows and are found in similar regions where corn is grown. They are most common in the Eastern Plains, Midwest, Lower Mississippi Valley, and areas of the Mid Atlantic.",
+          "note": null
+        },
+        {
+          "id": "2-11",
+          "image": "/images/resize/600/80/united-states/canola_oil.png",
+          "text": "Along the Canadian border in North Dakota, and rarely Montana, fields filled with short yellow canola flowers (Brassica napus) can commonly be seen from the road.",
+          "note": null
+        },
+        {
+          "id": "2-12",
+          "image": "/images/resize/600/80/united-states/updated_cotton_image.png",
+          "text": "Cotton is a crop that produces large fields of fluffy white flowers. It is most commonly produced in coastal Southeast States, the Lower Mississippi River Valley, Western Texas, and parts of California and Arizona. You can click here for a more detailed map. NOTE: When cotton is not fully grown (earlier in the year) cotton fields often look like this.",
+          "note": null
+        },
+        {
+          "id": "2-13",
+          "image": "/images/resize/600/80/united-states/rice_production_final.png",
+          "text": "Rice production only occurs in a few areas of the US, so it is very useful for region guessing. It is typically grown in large, flat fields that resemble low prairies. It is only grown in north-central California and the Lower Mississippi River Valley in Arkansas, Louisiana, Texas, and Mississippi. You can click here for a more detailed map. NOTE: When rice is not fully grown, rice fields often look similar to this.",
+          "note": null
+        },
+        {
+          "id": "2-14",
+          "image": "/images/resize/600/80/united-states/oil_derrick_final.png",
+          "text": "Oil pumpjacks are short, industrial-looking metal structures located at the surface of oil fields and are used to pump crude oil from the earth below. They are most common in western states, particularly in Texas, Eastern New Mexico, and North Dakota.",
+          "note": null
+        },
+        {
+          "id": "2-15",
+          "image": "/images/resize/600/80/united-states/great_plains_final.png",
+          "text": "The Great Plains are in the middle of the United States and stretch from the Canadian border in the North, to central Texas in the South. This area is primarily flat with few trees. Some areas feature agriculture fields, while others feature dry and barren grassy fields.",
+          "note": null
+        },
+        {
+          "id": "2-16",
+          "image": "/images/resize/600/80/united-states/prairie_potholes_final.png",
+          "text": "The area spanning from the Montana Border with Saskatchewan to the Western Great Lakes features many ‘prairie potholes.’ These are areas of low-lying wetlands that feature marshy grasses and small, shallow ponds.",
+          "note": null
+        },
+        {
+          "id": "2-17",
+          "image": "/images/resize/600/80/united-states/us_appalachian.png",
+          "text": "The Appalachian mountain range is a low mountain range that runs through the eastern states. The general landscape consists of low, forested mountains, with beech and oak trees being a common sight. NOTE: Houses in the south generally have less storeys. New England architecture, commonly consisting of wood panelling, high roofs and a porch, is also more common toward the north, especially in New England.",
+          "note": null
+        },
+        {
+          "id": "2-18",
+          "image": "/images/resize/600/80/united-states/Southern_Pines.png",
+          "text": "The loblolly pine (Pinus taeda), and longleaf pine (Pinus palustris), commonly referred to as southern pines in the community, are found throughout the southeastern US. They are a great way to recognize this region, as they are abundant, recognizable and mostly limited to this part of the country. They tend to be tall, with fluffy-looking clusters of pine needles.",
+          "note": null
+        },
+        {
+          "id": "2-19",
+          "image": "/images/resize/600/80/united-states/Red_soil2.png",
+          "text": "Many parts of the Deep South, stretching from Oklahoma to South Carolina, have reddish soil. The exact tint of the soil can range from yellow to deep red.",
+          "note": null
+        },
+        {
+          "id": "2-20",
+          "image": "/images/resize/600/80/united-states/us_southerngrass.png",
+          "text": "Grass that is used in lawns in the southern US (colloquially known as Bermuda and St. Augustine grasses) go dormant in the winter months. This causes the lawns to turn beige or light brown in winter; whereas grasses used in more northern areas of the US stay much greener in winter.",
+          "note": null
+        },
+        {
+          "id": "2-21",
+          "image": "/images/resize/600/80/united-states/lower_mississippi_river_valley_final.png",
+          "text": "The Lower Mississippi River Valley is a very flat and open landscape with red soil in areas of Tennessee, Arkansas, Mississippi, and Northeast Louisiana. Corn and other crops are common in this area.",
+          "note": null
+        },
+        {
+          "id": "2-22",
+          "image": "/images/resize/600/80/united-states/rocky_mtn_final.png",
+          "text": "The area stretching from the Canadian border to Northern New Mexico is home to the Rocky Mountains. These jagged, rocky formations often feature many pine trees and visible snow all-year round at the highest peaks. Some areas of the Rocky Mountain Range are noticeably dry, with few trees.",
+          "note": null
+        },
+        {
+          "id": "2-23",
+          "image": "/images/resize/600/80/united-states/greatbasin.png",
+          "text": "The Great Basin, centred around Nevada, can be recognized by the tall, sometimes snow-capped mountains in the background. There are dry, but grassy, and slightly shrubby plains leading up to the mountains. The tallest mountains are in Nevada, Utah and California. More gradual, rocky hills can be seen in Oregon, and greener mountains can be seen in Idaho and central Utah. Keep in mind that there are exceptions, so make sure to look out for other clues before guessing.",
+          "note": null
+        },
+        {
+          "id": "2-24",
+          "image": "/images/resize/600/80/united-states/Sagebrush_US.png",
+          "text": "Great Basin Sagebrush (Artemisia tridentata) is a short, shrubby blue-green bush that is common in the interior western United States.It is most common in arid areas.",
+          "note": null
+        },
+        {
+          "id": "2-25",
+          "image": "/images/resize/600/80/united-states/36saguaro_cactus__281_29.png",
+          "text": "Saguaro cacti are most commonly shaped like tall, straight tubes with several branches extending from the main tube. They are most commonly found in southern Arizona, on the Sonoran border.",
+          "note": null
+        },
+        {
+          "id": "2-26",
+          "image": "/images/resize/600/80/united-states/us_cascadia_pines.png",
+          "text": "Extremely tall conifer trees (Douglas firs) with a dark brown bark, and dark green leaves, can most commonly be seen in Cascadia. Notably, they can also be found in northern California, Idaho and as far east as Montana. Beware that they are also commonly found in British Columbia.",
+          "note": null
+        },
+        {
+          "id": "2-27",
+          "image": "/images/resize/600/80/united-states/Pacific_rainforests_final.png",
+          "text": "Temperate rainforests are found in coastal areas of Washington, Oregon, and Northern California. These rainforests feature many broadleaf trees, large conifers, and ferns. NOTE: These rainforests stretch north into coastal British Columbia and Southeast Alaska as well.",
+          "note": null
+        },
+        {
+          "id": "2-28",
+          "image": "/images/resize/600/80/united-states/southwest_rocks_final.png",
+          "text": "The Southwest, centred around the Four Corners region of Utah, Arizona, New Mexico, and Colorado, feature many mesas and tablelands. Often, these rock formations will be red in colour. Additionally, red soil is common in these areas.",
+          "note": null
+        },
+        {
+          "id": "2-29",
+          "image": "/images/resize/600/80/united-states/fan_palms_final.png",
+          "text": "Palm trees are common in coastal areas of the Southeastern states, as well as the Desert Southwest region. Shown here is the Mexican Fan Palm, which is most common in California and along the Gulf Coast, but other palm tree types have a similar range.",
+          "note": null
+        },
+        {
+          "id": "2-30",
+          "image": "/images/resize/600/80/united-states/texas_hill_country_final.png",
+          "text": "Just west of the metropolitan areas of Austin and San Antonio Texas lies a large area of dry, rocky hills featuring many yucca and prickly pear plants. Texas Live Oak trees are the predominant tree type in this area.",
+          "note": null
+        },
+        {
+          "id": "2-31",
+          "image": "/images/resize/600/80/united-states/rio_grande_valley_final.png",
+          "text": "The Rio Grande Valley in South Texas is extremely flat and features shrubby trees and agricultural fields. This area borders the Mexican state of Tamaulipas.",
+          "note": null
+        },
+        {
+          "id": "2-32",
+          "image": "/images/resize/600/80/united-states/spanishmoss.png",
+          "text": "Spanish moss, appearing as greyish white drapes, can sometimes be seen on trees in the deep south.",
+          "note": null
+        },
+        {
+          "id": "2-33",
+          "image": "/images/resize/600/80/united-states/washingtongoldenfields.png",
+          "text": "Agricultural golden fields can commonly be seen in eastern Washington. NOTE: Flat areas of northern and eastern Oregon can have a similar appearance.",
+          "note": null
+        },
+        {
+          "id": "2-34",
+          "image": "/images/resize/600/80/united-states/us_cali_vali.png",
+          "text": "Central Valley, California can be recognized by its Mediterranean climate. This is reflected in its agriculture, seen in the vineyards and olive trees that can commonly be found here. In addition, rolling hills can be seen toward the edges of the valley.",
+          "note": null
+        },
+        {
+          "id": "2-35",
+          "image": "/images/resize/600/80/united-states/Nebraska_Sandhills.png",
+          "text": "The Nebraska Sandhills are a recognizable region of rolling hills covered with prairie grass in the central-north part of the state.",
+          "note": null
+        },
+        {
+          "id": "2-36",
+          "image": "/images/resize/600/80/united-states/blue_mountains_final.png",
+          "text": "In the Appalachian area stretching from southern New York to southern Virginia, there are a lot of forest-covered rolling hills, with flat valleys dividing them. A majority of the ridges are oriented Southwest to Northeast.",
+          "note": null
+        },
+        {
+          "id": "2-37",
+          "image": "/images/resize/600/80/united-states/ouachita_mountains_final.png",
+          "text": "The Ouachita Mountains stretch from Eastern Oklahoma into West-Central Arkansas. Unlike the nearby Ozark Mountains, these mountains are typically more steep in nature and easier to see from a distance.",
+          "note": null
+        },
+        {
+          "id": "2-38",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "2-39",
+          "image": "/images/resize/600/80/united-states/2us_speed_limits_darkmode.png",
+          "text": "Maximum speed limits vary by state and territory. The maximum speed limits shown here will generally be seen on interstate highways. Some interstates and highways in their respective states or territories will have lower maximum speed limits than what is shown. You can click on the image to enlarge it. Here is a map of the maximum speed limits on US territories.",
+          "note": null
+        },
+        {
+          "id": "2-40",
+          "image": "/images/resize/600/80/united-states/1highway_shields.png",
+          "text": "Each state has their own highway shield. Some states have their own unique, recognizable highway shields that can be seen here.",
+          "note": null
+        },
+        {
+          "id": "2-41",
+          "image": "/images/resize/600/80/united-states/3adopt_a_highway_signs_final.png",
+          "text": "Most states have unique, distinct and learnable Adopt-a-Highway signs, which can be seen on the side of roads. A map of those can be seen here. Keep in mind, some states have slight variations in design. You can click on the image to enlarge it.",
+          "note": null
+        },
+        {
+          "id": "2-42",
+          "image": "/images/resize/600/80/united-states/6county_shields.png",
+          "text": "Blue and yellow shields are used for county roads, and can be seen in certain states in the US. Keep in mind, unique designs can be found in some counties in certain states. For more information, see here.",
+          "note": null
+        },
+        {
+          "id": "2-43",
+          "image": "/images/resize/600/80/united-states/highway2.png",
+          "text": "These rectangular raised pavement markers are found in the south and west of the US and also in Massachusetts.",
+          "note": null
+        },
+        {
+          "id": "2-44",
+          "image": "/images/resize/600/80/united-states/Hhighwaymarkers.png",
+          "text": "Snowplowable raised pavement markers can only be found on highways in the eastern states shown in the image. They are built into the road and somewhat resemble the letter H.",
+          "note": null
+        },
+        {
+          "id": "2-45",
+          "image": "/images/resize/600/80/united-states/us_kentuckyrumblestrip.png",
+          "text": "Some roads and highways in the state of Kentucky use uniquely-shaped rumble strips that are thin, relatively long recessed lines on the very outside edges of the road.",
+          "note": null
+        },
+        {
+          "id": "2-46",
+          "image": "/images/resize/600/80/united-states/4national_park_infrastructure.png",
+          "text": "Guardrails, signs, and signposts are commonly painted a medium brown colour in US National Parks, which are often located in the west. Guardrails that are painted brown can be made out of both wood and metal. Rock walls can also sometimes be seen in place of guardrails. Here you can find a map showing where all US National Parks are located. NOTE: There are occasional exceptions to this rule, so consider other clues before guessing in a National Park.",
+          "note": null
+        },
+        {
+          "id": "2-47",
+          "image": "/images/resize/600/80/united-states/5us_wisconsinmissourilettering.png",
+          "text": "Wisconsin and Missouri are the only two states that use a lettering system (A - ZZZ) for their county highways. Wisconsin signs typically have the word ‘county’ above the letter, while Missouri signs typically do not. The borders of the signs also vary slightly.",
+          "note": null
+        },
+        {
+          "id": "2-48",
+          "image": "/images/resize/600/80/united-states/8us_iowaconcreteroads.png",
+          "text": "Concrete paving on main highways is much more common in Iowa than in other states. NOTE: Concrete paving on residential streets is commonly seen throughout the Midwest states and parts of the East Coast.",
+          "note": null
+        },
+        {
+          "id": "2-49",
+          "image": "/images/resize/600/80/united-states/9wide_lines_updated.png",
+          "text": "Yellow lines with a noticeably larger gap in between them are most common in Texas, Arkansas, Louisiana, Mississippi, and Oregon. They can also be found to a lesser extent in Washington, Alabama, and Michigan. NOTE: Wide middle lines can also rarely appear in other states, so consider other clues before guessing.",
+          "note": null
+        },
+        {
+          "id": "2-50",
+          "image": "/images/resize/600/80/united-states/10thick_road_lines_final.png",
+          "text": "Some roads in West Virginia, Virginia, and Maryland use middle yellow lines that are thicker than traditional yellow road lines. NOTE: These are not present on all roads in these states, and can be found elsewhere, so use this tip in conjunction with other clues.",
+          "note": null
+        },
+        {
+          "id": "2-51",
+          "image": "/images/resize/600/80/united-states/11Oregon_speed_sign.png",
+          "text": "Speed signs in Oregon often simply have the word ‘Speed’ instead of the standard ‘Speed Limit’.",
+          "note": null
+        },
+        {
+          "id": "2-52",
+          "image": "/images/resize/600/80/united-states/12werwerwerwer.png",
+          "text": "A black stripe can sometimes be seen in between the two yellow, middle road lines in California.",
+          "note": null
+        },
+        {
+          "id": "2-53",
+          "image": "/images/resize/600/80/united-states/13cali_fstriped.png",
+          "text": "Utility poles in California usually have markings at the bottom of the pole that consist of 3 yellow stripes.",
+          "note": null
+        },
+        {
+          "id": "2-54",
+          "image": "/images/resize/600/80/united-states/14cali_euro_road_lines.png",
+          "text": "Some small roads in California lack a middle yellow line; instead only feature solid white lines on each side of the road. NOTE: This can rarely be seen in other states.",
+          "note": null
+        },
+        {
+          "id": "2-55",
+          "image": "/images/resize/600/80/united-states/15Nevada_bollard.png",
+          "text": "This bollard is found in Nevada. It consists of a reflector on a thin stick. The reflector is a vertical rectangle that consists of a white field surrounded by a black outline.",
+          "note": null
+        },
+        {
+          "id": "2-56",
+          "image": "/images/resize/600/80/united-states/us_sdmontanabollard.png",
+          "text": "The most common type of roadside bollard in South Dakota and Montana features a dark metal post with a white diamond on each side of the top. NOTE: These bollards can be found to a lesser extent in other western states.",
+          "note": null
+        },
+        {
+          "id": "2-57",
+          "image": "/images/resize/600/80/united-states/us_wyomingbollard.png",
+          "text": "Roadside bollards in Wyoming often feature a dark metal pole with a white circular reflector at the top. The top of the metal pole is sometimes painted white or grey, which is unique to Wyoming.",
+          "note": null
+        },
+        {
+          "id": "2-58",
+          "image": "/images/resize/600/80/united-states/washingtonbollard.png",
+          "text": "The state of Washington uses bollards that consist of a white or brown post with a white rectangle on the front of the bollard, and two smaller white or silver squares on the back of the bollard.",
+          "note": null
+        },
+        {
+          "id": "2-59",
+          "image": "/images/resize/600/80/united-states/16utah_streets_final.png",
+          "text": "Streets in Utah and Idaho, particularly in urban areas, are often named by using a combination of a number and cardinal direction (i.e. ‘600 South.’) NOTE: This style of street naming can be found rarely in other Western states.",
+          "note": null
+        },
+        {
+          "id": "2-60",
+          "image": "/images/resize/600/80/united-states/17Texas_roads.png",
+          "text": "Texan roads often have a grainy, ‘salt and pepper’-like road surface. NOTE: Similar pavement can sometimes be seen in adjacent states such as New Mexico, Oklahoma, and Colorado.",
+          "note": null
+        },
+        {
+          "id": "2-61",
+          "image": "/images/resize/600/80/united-states/27grainy_roads_final.png",
+          "text": "Some rural roads in the Upper Midwest use a similar road pavement to Texas. They will have a grainy, ‘salt and pepper’-like road surface, but will vary in colour. These roads are most common in the state of Illinois.",
+          "note": null
+        },
+        {
+          "id": "2-62",
+          "image": "/images/resize/600/80/united-states/18ketchup_and_mustard.png",
+          "text": "Yellow or red bands can commonly be seen around signposts in Texas. NOTE: Similar reflectors can sometimes be seen in other states, such as Hawaii.",
+          "note": null
+        },
+        {
+          "id": "2-63",
+          "image": "/images/resize/600/80/united-states/19Only_interesting_thing_in_Kansas.png",
+          "text": "These white reflectors on signposts are unique to Kansas. They are most commonly seen on ‘stop’ signs in rural areas.",
+          "note": null
+        },
+        {
+          "id": "2-64",
+          "image": "/images/resize/600/80/united-states/20mn_bridge_updated.png",
+          "text": "In Minnesota, these yellow signs with vertical, black triangles are placed before bridges at most major river crossings and at the beginnings and ends of guardrail sections on large highways.",
+          "note": null
+        },
+        {
+          "id": "2-65",
+          "image": "/images/resize/600/80/united-states/21Mn_zoomed_in_stop_sign_marker_final.png",
+          "text": "On most rural ‘stop’ signposts in Minnesota, a black-and-white marker is attached to the posts horizontally. The shape may vary slightly.",
+          "note": null
+        },
+        {
+          "id": "2-66",
+          "image": "/images/resize/600/80/united-states/22Wisconsin_ATV_route_sign.png",
+          "text": "These green ATV Route signs are unique to Wisconsin.",
+          "note": null
+        },
+        {
+          "id": "2-67",
+          "image": "/images/resize/600/80/united-states/23us_wisconsinmichiganpolesticker.png",
+          "text": "A rectangular white metal plate, with an orange rectangle and diamond, can be seen on most poles in Wisconsin and the Upper Peninsula of Michigan.",
+          "note": null
+        },
+        {
+          "id": "2-68",
+          "image": "/images/resize/600/80/united-states/Wisconsin_Bollard_Hint.png",
+          "text": "These simple white bollards with black reflectors are unique to Wisconsin.",
+          "note": null
+        },
+        {
+          "id": "2-69",
+          "image": "/images/resize/600/80/united-states/25us_wisconsinmichiganpeninsulasign.png",
+          "text": "A horizontal blue, red, or green sign can commonly be seen at the ends of driveways in Wisconsin and the Michigan peninsula. The house number is present, in addition to either the town name and or the road name (usually.) NOTE: Nearby states often use similar markers, but typically lack any town or street name information and only feature numbers.",
+          "note": null
+        },
+        {
+          "id": "2-70",
+          "image": "/images/resize/600/80/united-states/16double_trouble.png",
+          "text": "Signs attached to two signposts can be seen in Michigan. Not all signs are attached to two signposts. NOTE: Double signposts can also be seen in other states, but are not as common.",
+          "note": null
+        },
+        {
+          "id": "2-71",
+          "image": "/images/resize/600/80/united-states/26michigan_hanging_signs_final.png",
+          "text": "Many large intersections in Michigan have stop lights and signs that hang from wires that stretch across the middle of the intersection. These markers are commonly in yellow boxes. NOTE: These are not completely unique to Michigan, but are most commonly seen there.",
+          "note": null
+        },
+        {
+          "id": "2-72",
+          "image": "/images/resize/600/80/united-states/28eastern_midwest_property_markers.png",
+          "text": "Properties in rural and exurban Ohio, Lower Michigan, and Indiana commonly feature a vertically-oriented metal sign with white numbers, indicating the house number of the adjacent building. These signs are most commonly blue or green, and are commonly attached to mailboxes. NOTE: These may be rarely found in other states.",
+          "note": null
+        },
+        {
+          "id": "2-73",
+          "image": "/images/resize/600/80/united-states/29us_wv_fractional_roads.png",
+          "text": "West Virginia sometimes features street signs with a symbol that resembles a fraction inside a circle.",
+          "note": null
+        },
+        {
+          "id": "2-74",
+          "image": "/images/resize/600/80/united-states/30us_ncstreetsign.png",
+          "text": "North Carolina commonly uses a style of street signs showing street numbers and arrows in addition to the street name. NOTE: Other states occasionally feature street signs with similar designs, so use other clues before guessing.",
+          "note": null
+        },
+        {
+          "id": "2-75",
+          "image": "/images/resize/600/80/united-states/31us_okmarker.png",
+          "text": "In Oklahoma, you can often find a green rectangular sign with 3 rows of numbers attached to the back of stop signs at rural intersections.",
+          "note": null
+        },
+        {
+          "id": "2-76",
+          "image": "/images/resize/600/80/united-states/Pennsylvania_signs.png",
+          "text": "Rectangular white signs can sometimes be seen attached to signposts at intersections in Pennsylvania. On top, the number of the converging state route is written.",
+          "note": null
+        },
+        {
+          "id": "2-77",
+          "image": "/images/resize/600/80/united-states/32us_vi_white_signs.png",
+          "text": "Rectangular white signs can sometimes be seen at intersections in Virginia.",
+          "note": null
+        },
+        {
+          "id": "2-78",
+          "image": "/images/resize/600/80/united-states/33ejejej.png",
+          "text": "White signs attached to signposts can commonly be seen in North Carolina.",
+          "note": null
+        },
+        {
+          "id": "2-79",
+          "image": "/images/resize/600/80/united-states/34cheesy.png",
+          "text": "Black street signs with white text can commonly be found at intersections in South Carolina.",
+          "note": null
+        },
+        {
+          "id": "2-80",
+          "image": "/images/resize/600/80/united-states/35us_newyorkwisconsinguardrail.png",
+          "text": "Square guardrails are the most dominant (but not the only) type of guardrail in the states of New York and Wyoming. They have a long bar across the top, with several square legs supporting them. NOTE: These guardrails can be found, to a lesser extent, in some adjacent states.",
+          "note": null
+        },
+        {
+          "id": "2-81",
+          "image": "/images/resize/600/80/united-states/36us_nhsign.png",
+          "text": "In New Hampshire there will often be a white metal sign with the characters ‘E-2’ on it adjacent to the road, typically at either end of bridges.",
+          "note": null
+        },
+        {
+          "id": "2-82",
+          "image": "/images/resize/600/80/united-states/37vermont_stop_sign_final.png",
+          "text": "Vermont features small rectangular green signs on stop sign posts with three rows of horizontal numbers. The top row of numbers correlates to the highway or road number that the road with the stop sign intersects with. For example, this image is taken from Vermont State Road 116, looking towards the intersecting road. The State of New York uses similar style signs. However, these signs can be attached to different types of sign posts (town entry signs, highway signs, etc.)",
+          "note": null
+        },
+        {
+          "id": "2-83",
+          "image": "/images/resize/600/80/united-states/38ne_bridge_markers_final.png",
+          "text": "Maine, New Hampshire, and Massachusetts use small green and red rectangular signs to mark the ends of bridges and guardrails. NOTE: Not all bridges and guardrails in these states will have these markers.",
+          "note": null
+        },
+        {
+          "id": "2-84",
+          "image": "/images/resize/600/80/united-states/39rock_walls_final.png",
+          "text": "In rural areas of Connecticut, Rhode Island, Massachusetts, and New Hampshire, short rock walls are commonly visible adjacent to the road. NOTE: These rock walls can be found rarely in adjacent states.",
+          "note": null
+        },
+        {
+          "id": "2-85",
+          "image": "/images/resize/600/80/united-states/40us_appalachiafence_final.png",
+          "text": "Dark-coloured wooden fences with several horizontal wooden supports are common in farming areas of central and southern Appalachia, stretching from Pennsylvania to Georgia. NOTE: These types of fences can be found elsewhere to a lesser extent, so use other clues before guessing.",
+          "note": null
+        },
+        {
+          "id": "2-86",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "2-87",
+          "image": "/images/resize/600/80/united-states/41lowering_sea_levels.png",
+          "text": "Stilt houses can sometimes be seen on the coast. These are especially common toward the south, and on the Atlantic and Gulf coasts.",
+          "note": null
+        },
+        {
+          "id": "2-88",
+          "image": "/images/resize/600/80/united-states/42raised_houses_final.png",
+          "text": "Similar in style to aforementioned stilt houses, houses with much shorter stilts are common in the western and central Gulf Coast. These houses typically feature short stilts made of concrete or wood (1-3 feet off the ground) and are primarily found in areas near the coast and any adjacent rivers.",
+          "note": null
+        },
+        {
+          "id": "2-89",
+          "image": "/images/resize/600/80/united-states/us_texashouse.png",
+          "text": "Buildings with very large, sloped roofs are most common in the states of Oklahoma, Texas, and Louisiana. They can also be seen in neighbouring states to a lesser extent.",
+          "note": null
+        },
+        {
+          "id": "2-90",
+          "image": "/images/resize/600/80/united-states/43jonnys_second_house.png",
+          "text": "Houses in coastal New England often feature shingle walls, which are layered wood panels overlapping each other. A similar style of panelling can also be seen, however, having a wider range than the one shown above.",
+          "note": null
+        },
+        {
+          "id": "2-91",
+          "image": "/images/resize/600/80/united-states/three-decker.png",
+          "text": "Older three story wooden houses, also called ‘stacked triplexes,’ are very common in urban areas of the Northeast. They are most prevalent in New York, Connecticut, Rhode Island, and Massachusetts. NOTE: These types of houses are also somewhat common in cities in Atlantic Canada.",
+          "note": null
+        },
+        {
+          "id": "2-92",
+          "image": "/images/resize/600/80/united-states/44brownstone_final.png",
+          "text": "Brownstone buildings are typically row houses or government buildings made out of various types of brick and sandstone. They are most commonly found in dense urban areas of the Northeast US, as well as Chicago.",
+          "note": null
+        },
+        {
+          "id": "2-93",
+          "image": "/images/resize/600/80/united-states/45metal_roof1.png",
+          "text": "Buildings with red metal rooftops are most commonly found in the Mid-South and Southern Appalachia states of Virginia, West Virginia, Ohio, Kentucky, Tennessee, Arkansas, and North Carolina. NOTE: These types of rooftops can be found in other areas, so use other clues before guessing.",
+          "note": null
+        },
+        {
+          "id": "2-94",
+          "image": "/images/resize/600/80/united-states/46shotgun_house_maybe.png",
+          "text": "Very narrow, one-storey houses made out of wood are called ‘shotgun houses.’ They are most common in and around New Orleans (LA,) Houston (TX,) Louisville (KY,) and the state of Mississippi.",
+          "note": null
+        },
+        {
+          "id": "2-95",
+          "image": "/images/resize/600/80/united-states/47Pueblo_Style_home_hint.png",
+          "text": "Pueblo Revival style houses are commonly seen in New Mexico. They are typically constructed of adobe or brick and concrete. They have rounded edges and flat roofs, and are usually sand-brown in colour. NOTE: Pueblo style houses can also be seen in Arizona and Colorado to a lesser extent.",
+          "note": null
+        },
+        {
+          "id": "2-96",
+          "image": "/images/resize/600/80/united-states/spanish_revival_updated.png",
+          "text": "Spanish Colonial Revival Architecture can be categorised as buildings with lightly-coloured stucco walls and red clay-tile roofs. They can be found in the desert southwest states of California, Nevada, Arizona, and Texas. You can also find similar types of buildings in Florida and coastal Georgia.",
+          "note": null
+        },
+        {
+          "id": "2-97",
+          "image": "/images/resize/600/80/united-states/49rocky_mtn_buildings_final.png",
+          "text": "Houses and commercial buildings in the interior Western US are often made of lots of dark wooden boards and timbers. Buildings at high elevations also commonly have metal roofs, to avoid snow build-up.",
+          "note": null
+        },
+        {
+          "id": "2-98",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "2-99",
+          "image": "/images/resize/600/80/united-states/1shoprite_locs.png",
+          "text": "‘Shoprite’ is a regional supermarket chain that has locations in 6 states in the Northeast and Mid-Atlantic region of the US; Connecticut, New York, New Jersey, Pennsylvania, Delaware, and Maryland.",
+          "note": null
+        },
+        {
+          "id": "2-100",
+          "image": "/images/resize/600/80/united-states/2hy-vee_locs.png",
+          "text": "‘Hy-Vee’ is a supermarket that is common primarily in the Upper Midwest states of Iowa, Minnesota, Wisconsin, and Illinois.",
+          "note": null
+        },
+        {
+          "id": "2-101",
+          "image": "/images/resize/600/80/united-states/3piggly_wiggly.png",
+          "text": "The supermarket chain ‘Piggly Wiggly’ is found mostly in the Southeast, as well as the state of Wisconsin.",
+          "note": null
+        },
+        {
+          "id": "2-102",
+          "image": "/images/resize/600/80/united-states/4h-e-b_locs.png",
+          "text": "‘H-E-B’ is a supermarket that is only located in the state of Texas. Most H-E-B stores are in large cities.",
+          "note": null
+        },
+        {
+          "id": "2-103",
+          "image": "/images/resize/600/80/united-states/5Publix_locs.png",
+          "text": "‘Publix’ is a regional supermarket chain that has locations primarily in Florida and adjacent areas of the Deep South.",
+          "note": null
+        },
+        {
+          "id": "2-104",
+          "image": "/images/resize/600/80/united-states/6waffle_house_final.png",
+          "text": "The restaurant chain ‘Waffle House’ is a regional chain that is primarily found in the Southern and Southeast US. Some midwest and mid-atlantic states have some locations. Georgia, by far, is the state with the most Waffle House locations.",
+          "note": null
+        },
+        {
+          "id": "2-105",
+          "image": "/images/resize/600/80/united-states/7hardees_map_final.png",
+          "text": "‘Carl’s Jr.’ and ‘Hardee’s’ are fast food restaurants that are operated by the same company and have a similar logo and colour scheme. However, Carl’s Jr. locations are all located on the West Coast and Southwest US, while Hardee’s are found in the central and Eastern areas of the country. Two states, Wyoming and Oklahoma, have both kinds of restaurants present.",
+          "note": null
+        },
+        {
+          "id": "2-106",
+          "image": "/images/resize/600/80/united-states/8zaxbys_map_final.png",
+          "text": "‘Zaxby’s,’ a fast-food chicken chain, is another restaurant that is most common in the Southeast US. There are several pockets outside the Southeast that have locations, such as Utah and Montana. Like Waffle House, Georgia has the highest number of locations.",
+          "note": null
+        },
+        {
+          "id": "2-107",
+          "image": "/images/resize/600/80/united-states/9whataburger_locs.png",
+          "text": "‘Whataburger’ is a hamburger restaurant with locations across the South Central US. The State that is home to the most locations, by far, is Texas.",
+          "note": null
+        },
+        {
+          "id": "2-108",
+          "image": "/images/resize/600/80/united-states/11pizza_ranch.png",
+          "text": "‘Pizza Ranch’ is a restaurant chain that is found in the middle of the country. Iowa and Minnesota have the highest number of locations.",
+          "note": null
+        },
+        {
+          "id": "2-109",
+          "image": "/images/resize/600/80/united-states/11tim_hortons_us_locs.png",
+          "text": "‘Tim Hortons’ is known for being the most popular restaurant chain in Canada. However, there are also many locations in the United States. They are primarily located in states adjacent to the Canadian Provinces of Ontario and Quebec, with a few locations also in Texas and Georgia.",
+          "note": null
+        },
+        {
+          "id": "2-110",
+          "image": "/images/resize/600/80/united-states/12in_n_out_burger.png",
+          "text": "‘In-N-Out Burger’ is a regional fast food chain located primarily in the Southwest US. California has the most locations.",
+          "note": null
+        },
+        {
+          "id": "2-111",
+          "image": "/images/resize/600/80/united-states/13wawa_locs.png",
+          "text": "‘WaWa’ is a regional gas station and convenience store chain with locations in the Mid-Atlantic states and Florida. New Jersey and the Philadelphia, Pennsylvania area have the highest density of locations.",
+          "note": null
+        },
+        {
+          "id": "2-112",
+          "image": "/images/resize/600/80/united-states/14sheetz_locs.png",
+          "text": "Another regional gas station and convenience store chain in the Eastern US is called ‘Sheetz’. Most of their locations are in the Mid-Atlantic and Central Appalachian areas of the US. Pennsylvania has the highest number of locations.",
+          "note": null
+        },
+        {
+          "id": "2-113",
+          "image": "/images/resize/600/80/united-states/15kwik_trip_locs.png",
+          "text": "‘Kwik Trip’ is a chain of gas stations and convenience stores that are located in the Upper Midwest states of Wisconsin and Minnesota. In Iowa, these stores are called ‘Kwik Star’ and have similar branding. Some stores may also have the name ‘Stop-N-Go’.",
+          "note": null
+        },
+        {
+          "id": "2-114",
+          "image": "/images/resize/600/80/united-states/16caseys_locs.png",
+          "text": "‘Casey’s’ is a popular gas station and convenience store chain that is found in the Midwest, Plains, and parts of the Mid-South. Illinois, Iowa, and Missouri have the highest number of locations.",
+          "note": null
+        },
+        {
+          "id": "2-115",
+          "image": "/images/resize/600/80/united-states/17Kum_N_go_locs.png",
+          "text": "‘Kum & Go’ is a regional gas station chain based out of the state of Iowa. They also have pockets of locations in the Ozarks, Colorado, Wyoming, and North Dakota.",
+          "note": null
+        },
+        {
+          "id": "2-116",
+          "image": "/images/resize/600/80/united-states/18bucees_locs.png",
+          "text": "‘Buc-ee’s’ is a small chain of oversized gas stations located primarily in the state of Texas. These stores feature multiple rows of gas pumps, and a very large convenience store building. NOTE: Some other nearby states have Buc-ee’s locations, but they are quite rare outside of Texas.",
+          "note": null
+        },
+        {
+          "id": "2-117",
+          "image": null,
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "2-118",
+          "image": "/images/resize/600/80/united-states/19us_alaskalocator.png",
+          "text": "Alaska is the largest state and the north-, west-, and easternmost state in the US. A separate Plonk It guide to Alaska can be found here.",
+          "note": null
+        },
+        {
+          "id": "2-119",
+          "image": "/images/resize/600/80/united-states/20us_hawaiilocator.png",
+          "text": "Hawaii is the youngest state in the US and the only US state outside of North America. A separate Plonk It guide to Hawaii can be found here.",
+          "note": null
+        },
+        {
+          "id": "2-120",
+          "image": "/images/resize/600/80/united-states/21pr.png",
+          "text": "Puerto Rico is a Caribbean US territory with official Commonwealth status. A separate Plonk It guide to Puerto Rico can be found here.",
+          "note": null
+        },
+        {
+          "id": "2-121",
+          "image": "/images/resize/600/80/united-states/American_samoa.png",
+          "text": "American Samoa is a South Pacific island group and an unorganised US territory. A separate Plonk It guide to American Samoa can be found here.",
+          "note": null
+        },
+        {
+          "id": "2-122",
+          "image": "/images/resize/600/80/united-states/23Guam_in_Oceania__28-mini_map_-rivers_29.png",
+          "text": "Guam is an unincorporated territory of the US and the largest island in Micronesia. A separate Plonk It guide to Guam can be found here.",
+          "note": null
+        },
+        {
+          "id": "2-123",
+          "image": "/images/resize/600/80/united-states/24Northern_Mariana_Islands_in_Oceania__28-mini_map_-rivers_29.png",
+          "text": "Northern Mariana Islands is a Northwest Pacific island chain and a Commonwealth US territory. A separate Plonk It guide to Northern Mariana Islands can be found here.",
+          "note": null
+        },
+        {
+          "id": "2-124",
+          "image": "/images/resize/600/80/united-states/25-United_States_Virgin_Islands_in_United_States_28closer_zoom29_28US4829.png",
+          "text": "The United States Virgin Islands is a Caribbean US territory and the only area of the US that drives on the left side of the road. A separate Plonk It guide to the United States Virgin Islands can be found here.",
+          "note": null
+        },
+        {
+          "id": "2-125",
+          "image": "/images/resize/600/80/united-states/26Midway_Atoll_in_Oceania.png",
+          "text": "The US Minor Outlying Islands is a collective name for several small island US territories, with the Midway Atoll being the most relevant in Geoguessr. A separate Plonk It guide to the US Minor Outlying Islands can be found here.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Step 3 - Spotlight",
+      "items": [
+        {
+          "id": "3-1",
+          "image": "/images/resize/600/80/united-states/fordbronco.png",
+          "text": "As part of a promotional campaign, the TransAmerica Trail from Oregon to North Carolina was covered by a Ford Bronco. The car can recognised by its unblurred black roof and red hood, and is mostly found on unpaved rural roads. Looking backwards, you will see two other Ford SUVs escorting the camera car.",
+          "note": null
+        },
+        {
+          "id": "3-2",
+          "image": "/images/resize/600/80/united-states/35Interstate_19_KM_hint.png",
+          "text": "Interstate 19 in Arizona from Tucson to the Mexico border uses kilometres on the exit and distance signs. This is the only part of the country that uses kilometres instead of miles for highway signs. NOTE: Speed limit signs in this area still use MPH instead of KPH.",
+          "note": null
+        },
+        {
+          "id": "3-3",
+          "image": "/images/resize/600/80/united-states/44pitt_bridge_final.png",
+          "text": "Many bridges are used to connect the various neighbourhoods of Pittsburgh, Pennsylvania. These expansive, steel bridges are commonly painted bright yellow. Additionally, Pittsburgh is easy to identify because of it being flanked by 3 rivers and steep bluffs on all sides.",
+          "note": null
+        },
+        {
+          "id": "3-4",
+          "image": "/images/resize/600/80/united-states/38san_fran_final.png",
+          "text": "Row Houses and other buildings in San Francisco are often in the style of Victorian architecture, with many bay windows, turrets, and ornate exterior details. These homes are built close together and can be very colourful.",
+          "note": null
+        },
+        {
+          "id": "3-5",
+          "image": "/images/resize/600/80/united-states/us_neworleans.png",
+          "text": "Neighbourhoods all around the city of New Orleans feature many colourful, historic, shotgun-style houses. Buildings in central areas of New Orleans often feature colourful facades with second story wrap-around balconies.",
+          "note": null
+        },
+        {
+          "id": "3-6",
+          "image": "/images/resize/600/80/united-states/30miami_art_deco_final.png",
+          "text": "Historical areas of Miami and Miami beach are home to many historical, multi-story art deco buildings. These buildings are commonly painted in bright colours and are located near the coast.",
+          "note": null
+        },
+        {
+          "id": "3-7",
+          "image": "/images/resize/600/80/united-states/27wtf_nation_park.png",
+          "text": "The main island of Dry Tortugas National Park, west of Key West, can be identified by the hexagonal brick structure and the surrounding moat. The Loggerhead Lighthouse, situated on the Loggerhead Key, has a brown top-half and a white bottom. The path on which the trekker walks on is also made of bright concrete, and many palm trees can be seen around the lighthouse.",
+          "note": null
+        },
+        {
+          "id": "3-8",
+          "image": "/images/resize/600/80/united-states/28alaskan_locks.png",
+          "text": "The Florida Keys are an archipelago of tropical islands west of Miami. The highway connecting the islands can be recognized by green, tropical vegetation on the sides of the usually single lane road. The soil is also sandy white. Urban locations are also similar, but with many more planted palm trees and mowed grass being a common sight.",
+          "note": null
+        },
+        {
+          "id": "3-9",
+          "image": "/images/resize/600/80/united-states/29everglades_updated_final.png",
+          "text": "Deep South Florida, between the metropolitan areas of Ft. Myers and Miami, features dense, jungle-like forests that have few inhabitants. Roads through these areas are commonly very straight and long.",
+          "note": null
+        },
+        {
+          "id": "3-10",
+          "image": "/images/resize/600/80/united-states/us_floridahills.png",
+          "text": "The area between the cities of Orlando and Lakeland in Florida sometimes feature low, rolling hills. Lakes and agricultural fields are also common in this area. This is the only main hilly area in central or southern Florida.",
+          "note": null
+        },
+        {
+          "id": "3-11",
+          "image": "/images/resize/600/80/united-states/31wichita_mountains_final.png",
+          "text": "Southwestern Oklahoma features a small area of rocky, shrubby peaks. Some of the mountains are also covered in trees, and the rocks can have a pinkish red tint to them.",
+          "note": null
+        },
+        {
+          "id": "3-12",
+          "image": "/images/resize/600/80/united-states/32colorado_front_range_final.png",
+          "text": "Central Colorado is home to a large North-to-South oriented mountain ridge. This divides the Rocky Mountains to the west and the Great Plains to the east.These mountains are adjacent to the major metropolitan areas of Boulder, Denver, and Colorado Springs.",
+          "note": null
+        },
+        {
+          "id": "3-13",
+          "image": "/images/resize/600/80/united-states/33big_bend_final.png",
+          "text": "Big Bend National Park is located along the Mexico border in Southwest Texas. It can be identified by its dry, rocky peaks and shrubby foliage. This park is adjacent to the Chihauhan desert, so plants such as yucca and prickly pear cactus are common.",
+          "note": null
+        },
+        {
+          "id": "3-14",
+          "image": "/images/resize/600/80/united-states/34guadalupe_mountains_final.png",
+          "text": "Along the New Mexico and or Texas border there is a ridge of tall, dry peaks known as the Guadalupe Mountains. In adjacent areas of both states, smaller foothills of these mountains can be seen with relatively flat tops and shrubby foliage.",
+          "note": null
+        },
+        {
+          "id": "3-15",
+          "image": "/images/resize/600/80/united-states/37alivent_valley.png",
+          "text": "Death Valley National Park can be easily recognized by the dry, sandy, treeless mountains that can be seen from the roads that go through the park. In Generation 3 coverage, the sky can look particularly dusty. NOTE: Many smaller roads in Death Valley only have Generation 1 coverage.",
+          "note": null
+        },
+        {
+          "id": "3-16",
+          "image": "/images/resize/600/80/united-states/39gnp_final.png",
+          "text": "Along the Canadian border in Montana lies Glacier National Park. It is easily recognizable by its extremely tall and steep mountain peaks. Most coverage is also hazy and taken during summer. NOTE: Other National Parks within the Rocky Mountain range of the US can have a similar appearance, so consider other clues before guessing.",
+          "note": null
+        },
+        {
+          "id": "3-17",
+          "image": "/images/resize/600/80/united-states/41goodsea_continental_field.png",
+          "text": "Badlands National Park features these distinct, sand-brown, eroded rock formations. The formations may sometimes appear more rounded, and lighter in colour.",
+          "note": null
+        },
+        {
+          "id": "3-18",
+          "image": "/images/resize/600/80/united-states/40Theodore_Roosevelt_National_Park_final.png",
+          "text": "Theodore Roosevelt National Park features similar, sand-brown, eroded rock formations to Badlands National Park. The rock formations in this park tend to have more trees on them. Additionally, almost all coverage has fall colours visible. NOTE: Similar formations can be seen in far eastern Montana as well.",
+          "note": null
+        },
+        {
+          "id": "3-19",
+          "image": "/images/resize/600/80/united-states/42devils_tower_final.png",
+          "text": "In far Northeastern Wyoming lies Devil’s Tower, which is a very tall, standalone butte protruding from the surrounding land. This can sometimes be seen from many miles away because of the lack of nearby mountains.",
+          "note": null
+        },
+        {
+          "id": "3-20",
+          "image": "/images/resize/600/80/united-states/43black_hills_final.png",
+          "text": "The Black Hills, located in far Western South Dakota and far Eastern Wyoming, are a series of moderately tall mountains with large amounts of conifer trees and rocky outcroppings. The surrounding areas are typically much flatter with lesser tree cover. NOTE: This area has a similar appearance to many areas within the Rocky Mountains, which lie further to the West.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Step 4 - Maps and resources",
+      "items": []
+    }
+  ]
+}

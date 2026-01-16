@@ -1,0 +1,283 @@
+{
+  "country": "North Macedonia",
+  "url": "https://www.plonkit.net/north-macedonia",
+  "schema_version": "1.0",
+  "generated_at": "2026-01-16T16:19:04.511884+00:00",
+  "steps": [
+    {
+      "id": "1",
+      "title": "Step 1 - Identifying North Macedonia",
+      "items": [
+        {
+          "id": "1-1",
+          "image": "/images/resize/900/80/north-macedonia/0_NMK_summary_graphic.png",
+          "text": "",
+          "note": null
+        },
+        {
+          "id": "1-2",
+          "image": "/images/resize/600/80/north-macedonia/North_Macedonia_License_Plate.png",
+          "text": "North Macedonian licence plates are white and sometimes have the standard European blue strip on the left. They also have a noticeable red block near the left side of the licence plate. NOTE: Serbia will almost always have a blue strip on their licence plates.",
+          "note": null
+        },
+        {
+          "id": "1-3",
+          "image": "/images/resize/600/80/north-macedonia/Bollards.png",
+          "text": "North Macedonia uses two types of bollards. One is rounded and very thin, while the other one is wedge-shaped. They both are white and have red or white reflectors, typically on a black surface. NOTE: Croatia uses the same wedge-shaped bollard. Hungary has a similar wedge-shaped bollard but with more white space above the black rectangle.",
+          "note": null
+        },
+        {
+          "id": "1-4",
+          "image": "/images/resize/600/80/north-macedonia/Guardrail-FYROM.png",
+          "text": "North Macedonia uses A-Profile guardrails, like most of Europe. The guardrails have red reflectors. NOTE: Serbia uses B-Profile guardrails. For a good overview of European guardrails, see this infographic.",
+          "note": null
+        },
+        {
+          "id": "1-5",
+          "image": "/images/resize/600/80/north-macedonia/Direction-Signs-FYROM.png",
+          "text": "Direction signs in North Macedonia are typically yellow with biscriptal text: town names are written in both Latin and Cyrillic script. NOTE: Serbia, Slovenia, Croatia, and Montenegro have similar signs. Serbia is the only one that will have biscriptal text though.",
+          "note": null
+        },
+        {
+          "id": "1-6",
+          "image": "/images/resize/600/80/north-macedonia/mk_language.png",
+          "text": "Macedonian is a Slavic language which uses the Cyrillic script. Road signs have Latin on them too, although most other signs are fully in Cyrillic. The letters ‘Ѓ’ and ‘Ќ’ are unique to Macedonian. ‘Љ’, ‘Њ’, and ‘Џ’ are only in Serbian and Macedonian.",
+          "note": null
+        },
+        {
+          "id": "1-7",
+          "image": "/images/resize/600/80/north-macedonia/Antenna-FYROM.png",
+          "text": "All coverage in North Macedonia is Generation 3. There will never be an antenna on the Google car. Every other country in Europe will sometimes or always have an antenna in Generation 3 coverage. For clarity’s sake: this means that cars with no antenna can be found outside North Macedonia. NOTE: The only other country to have no antenna the majority of the time is Serbia, although there will be an antenna sometimes.",
+          "note": null
+        },
+        {
+          "id": "1-8",
+          "image": "/images/resize/600/80/north-macedonia/rural_coverage.png",
+          "text": "Rural coverage in North Macedonia will normally mostly be on highways. This is because of the limited coverage outside urban areas in the country.",
+          "note": null
+        },
+        {
+          "id": "1-9",
+          "image": "/images/resize/600/80/north-macedonia/General-Landscape-FYROM.png",
+          "text": "The general landscape of North Macedonia consists of relatively dry grasslands, and small hills and scattered trees.",
+          "note": null
+        },
+        {
+          "id": "1-10",
+          "image": "/images/resize/600/80/north-macedonia/Greek-Lamp-FYROM.png",
+          "text": "These ‘Greek Lamps’ on utility poles can be found in North Macedonia. They can also be found in various other countries, such as (unsurprisingly) Greece or Serbia.",
+          "note": null
+        },
+        {
+          "id": "1-11",
+          "image": "/images/resize/600/80/north-macedonia/Warning-Signs-FYROM.png",
+          "text": "North Macedonia normally uses yellow-filled in warning signs. Most of Europe uses white ones. NOTE: In southeastern Europe, Greece also commonly uses yellow-filled in signs. Slovenia sometimes has yellow-filled signs.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Step 2 - Regional/city-specific clues",
+      "items": [
+        {
+          "id": "2-1",
+          "image": "/images/resize/600/80/north-macedonia/mk_coverage.png",
+          "text": "Coverage is sparse, only including some highways and some cities in the country. The cities of Skopje, Bitola, Kumanovo, Prilep, Tetovo, Veles, Ohrid, and Strumica are the only ones with significant coverage inside the city. You can view the official coverage in more detail on this site.",
+          "note": null
+        },
+        {
+          "id": "2-2",
+          "image": "/images/resize/600/80/north-macedonia/Skopje-FYROM.png",
+          "text": "Skopje is the capital and by far the largest city. If you see any large apartments or buildings, you are almost guaranteed to be in Skopje.",
+          "note": null
+        },
+        {
+          "id": "2-3",
+          "image": "/images/resize/600/80/north-macedonia/Winter-Coverage-FYROM.png",
+          "text": "Winter to late fall coverage is found in the cities of Skopje, Tetovo, Prilep, Bitola, and Ohrid.",
+          "note": null
+        },
+        {
+          "id": "2-4",
+          "image": "/images/resize/600/80/north-macedonia/Green-Truck-FYROM.png",
+          "text": "A green truck is visible behind the Google Car for a portion of the E-65. The truck is visible from Kichevo to Arbinovo.",
+          "note": null
+        },
+        {
+          "id": "2-5",
+          "image": "/images/resize/600/80/north-macedonia/North-Veles-Road-FYROM.png",
+          "text": "For some of the E-75 north of Veles, there are triple yellow lines with a dashed centre line. In the northern part of the road, there is a yellow-truck following the Google car. The rest of the road is either under construction or newly paved. This road is very similar to the A3 east of Veles, although that one is much flatter and has an arid landscape surrounding it.",
+          "note": null
+        },
+        {
+          "id": "2-6",
+          "image": "/images/resize/600/80/north-macedonia/Veles-Road-FYROM.png",
+          "text": "A section of the A3 east of Veles also has triple yellow lines, which in Europe is extremely uncommon. The rest of the road has a very arid landscape and is noticeably under construction.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Step 3 - Smudges",
+      "items": [
+        {
+          "id": "3-1",
+          "image": "/images/resize/600/80/north-macedonia/Single-Smudge-FYROM.png",
+          "text": "You can sometimes see some smudges on the camera. If you see one black smudge on the camera, you will most likely be on the A3 between Bitola and Prilep, or the R1302 in the far east. Keep in mind smudges can be randomly seen throughout the country.",
+          "note": null
+        },
+        {
+          "id": "3-2",
+          "image": "/images/resize/600/80/north-macedonia/Three-Smudges-FYROM.png",
+          "text": "If you see three smudges, you will always be on the R1304. The only large city on this road is Kočani, although it has extremely limited coverage.",
+          "note": null
+        },
+        {
+          "id": "3-3",
+          "image": "/images/resize/600/80/north-macedonia/Brown-Smudge-FYROM.png",
+          "text": "If you see a brown smudge, you will be in the far southeast of the country.",
+          "note": null
+        },
+        {
+          "id": "3-4",
+          "image": "/images/resize/600/80/north-macedonia/R1205-Fly-FYROM.png",
+          "text": "A fly can be seen on the southern portion of the R1205. This is found nowhere else in the country.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Step 4 - Divided roads",
+      "items": [
+        {
+          "id": "4-1",
+          "image": "/images/resize/600/80/north-macedonia/NMK_divided_highways.png",
+          "text": "Some roads in North Macedonia are divided. The map shown here gives an overview of where you can find such roads. You can learn more about these roads below.",
+          "note": null
+        },
+        {
+          "id": "4-2",
+          "image": "/images/resize/600/80/north-macedonia/E-65-South-of-Tetevo-FYROM.png",
+          "text": "The E-65 just south of Tetovo has one concrete median separating each lane instead of a normal guardrail. This is the only highway in the country to have this.",
+          "note": null
+        },
+        {
+          "id": "4-3",
+          "image": "/images/resize/600/80/north-macedonia/E-65-Between-Skopje-and-Tetovo.png",
+          "text": "The E-65 between Tetovo and Skopje will sometimes have trees in between the guardrails. This is the only highway to have them, besides a small part of the E-75/A1 road south of Veles (see the next tip).",
+          "note": null
+        },
+        {
+          "id": "4-4",
+          "image": "/images/resize/600/80/north-macedonia/A1-Trees-FYROM.png",
+          "text": "A small part of the E75 and the A1 also have planted trees in the median. As mentioned, trees can also be seen on E-65 between Tetovo and Skopje. To distinguish between these roads, the E-65 is much more mountainous than the A1.",
+          "note": null
+        },
+        {
+          "id": "4-5",
+          "image": "/images/resize/600/80/north-macedonia/E-75-Between-Skopje-and-Kumanovo.png",
+          "text": "For a section of the E-75 between Skopje and Kumanovo, there is a large sloped hill in between the lanes.",
+          "note": null
+        },
+        {
+          "id": "4-6",
+          "image": "/images/resize/600/80/north-macedonia/E-75-Next-to-Greece.png",
+          "text": "Most of the E-75 next to the Greek Border has only one guardrail separating each lane. Some parts have a guardrail on one side and concrete median on the other. These are both only found on this highway.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Step 5 - City-specific obituaries",
+      "items": [
+        {
+          "id": "5-1",
+          "image": "/images/resize/600/80/north-macedonia/City-Stickers-FYROM.png",
+          "text": "Each city has its own city-specific posters with public obituaries. They are commonly found on utility poles. You can click on the image to enlarge it.",
+          "note": null
+        },
+        {
+          "id": "5-2",
+          "image": "/images/resize/600/80/north-macedonia/Kumanovo-Stickers-FYROM.png",
+          "text": "Obituaries in Kumanovo are the most distinct. They are the only obituaries to have a thick light blue border.",
+          "note": null
+        },
+        {
+          "id": "5-3",
+          "image": "/images/resize/600/80/north-macedonia/Bitola-Stickers-FYROM.png",
+          "text": "Obituaries in Bitola are horizontal and can be either light or dark blue. The cross is in-between the border, leaving a gap in the rectangle.",
+          "note": null
+        },
+        {
+          "id": "5-4",
+          "image": "/images/resize/600/80/north-macedonia/Ohrid-Stickers-FYROM_fix.png",
+          "text": "Obituaries in Ohrid are horizontal and either red or blue. The cross is underneath the border, which is unique to Ohrid when the obituary is red.",
+          "note": null
+        },
+        {
+          "id": "5-5",
+          "image": "/images/resize/600/80/north-macedonia/Strumica-Stickers-FYROM.png",
+          "text": "Obituaries in Strumica are vertical and blue. They are the only obituaries to have an intricate pattern in the corner of the poster.",
+          "note": null
+        },
+        {
+          "id": "5-6",
+          "image": "/images/resize/600/80/north-macedonia/Veles-Stickers-FYROM.png",
+          "text": "Obituaries in Veles are vertical and blue. Veles has the largest variety of obituaries, but will never have the pattern in the corner like the ones seen in Strumica. They are also the only city that will have the cross above the border when blue.",
+          "note": null
+        },
+        {
+          "id": "5-7",
+          "image": "/images/resize/600/80/north-macedonia/Prilep-Stickers-FYROM.png",
+          "text": "Obituaries in Prilep are vertical and black. The border does not go completely around the poster, which makes it easy to distinguish.",
+          "note": null
+        },
+        {
+          "id": "5-8",
+          "image": "/images/resize/600/80/north-macedonia/Tetovo-Stickers-FYROM.png",
+          "text": "Obituaries in Tetovo are vertical and black. There are 2 main types found in the city, one with the cross above the border and one with a thick cross in-between the border.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Step 6 - Spotlight",
+      "items": [
+        {
+          "id": "6-1",
+          "image": "/images/resize/600/80/north-macedonia/Strumica-Kerbs-FYROM.png",
+          "text": "If you see black and yellow striped kerbs, you are most likely to be in Strumica. They are rarely found in Skopje and if you see them around roundabouts, you will most likely be in Tetovo.",
+          "note": null
+        },
+        {
+          "id": "6-2",
+          "image": "/images/resize/600/80/north-macedonia/Ohrid-Lake-FYROM.png",
+          "text": "Ohrid is the only large city located next to a lake.",
+          "note": null
+        },
+        {
+          "id": "6-3",
+          "image": "/images/resize/600/80/north-macedonia/Prilep-Lamps-FYROM.png",
+          "text": "These long rectangular lamps are only found in the city of Prilep.",
+          "note": null
+        },
+        {
+          "id": "6-4",
+          "image": "/images/resize/600/80/north-macedonia/Prilep-Hills-FYROM.png",
+          "text": "These two extremely rocky hills are visible in some parts of the city of Prilep.",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Other resources",
+      "items": []
+    }
+  ]
+}
