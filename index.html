@@ -18,34 +18,25 @@
   <h1>Plonkit Data API</h1>
 
   <div class="section">
-    <p>Este projeto fornece JSONs gerados automaticamente do site <a rel="noopener noreferrer" href="https://www.plonkit.net" target="_blank">Plonkit</a>. Cada país tem seu próprio JSON, e há um arquivo principal com todos os países.</p>
+    <p>This website provides JSONs generated automatically from the <a rel="noopener noreferrer" href="https://www.plonkit.net" target="_blank">Plonkit</a> website. Each country has its own JSON, and there is a main file with all countries.</p>
   </div>
 
   <div class="section">
-    <h2>Arquivos disponíveis:</h2>
+    <h2>Available Files:</h2>
     <ul>
-      <li><a href="data/all_countries.json" target="_blank"><code>all_countries.json</code></a> — Lista completa de países</li>
-      <li><a href="data/countries/botswana.json" target="_blank"><code>countries/botswana.json</code></a> — JSON individual por país</li>
-      <li>Outros países seguem o mesmo padrão em <code>data/countries/</code></li>
+      <li><a href="data/all_countries.json" target="_blank"><code>all_countries.json</code></a> — Complete list of countries</li>
+      <li><a href="data/countries/botswana.json" target="_blank"><code>countries/botswana.json</code></a> — Individual JSON per country</li>
+      <li>Other countries follow the same pattern in <code>data/countries/</code></li>
     </ul>
   </div>
 
   <div class="section">
-    <h2>Como usar no React Native:</h2>
-    <pre><code>
-const response = await fetch("https://ingridakeida.github.io/plonkit-data-api/data/all_countries.json");
-const data = await response.json();
-console.log(data.countries);
-    </code></pre>
-  </div>
-
-  <div class="section">
-    <h2>Atualização dos dados</h2>
-    <p>Os arquivos são atualizados sempre que o crawler Python roda e gera novos JSONs.</p>
+    <h2>Data Updates</h2>
+    <p>The files are updated whenever the Python crawler runs and generates new JSONs.</p>
   </div>
 
   <footer>
-    <p>Plonkit Data API — feito por Ingrid Akeida</p>
+    <p>Plonkit Data API — made by <a href="https://github.com/ingridakeida">Ingrid Akeida</a></p>
   </footer>
 </body>
 </html>
